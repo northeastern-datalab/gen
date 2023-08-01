@@ -1,0 +1,7 @@
+Name  | Type  | Medical | Qualifications | Treatment | Method | Cost 
+Dog    | X-ray | Pain   | Cert.   | Surgery   | Manual   | $100
+Cat    | Exam  | Fever  | PhD.    | Medication | Electronic | $50
+Cat    | Scan  | Infection | Masters  | Therapy   | Robotic | $120
+Dog    | X-ray | Wounds | B.Sc.     | Exercise   | Semi-automated |$125
+Dog    | Exam  | Cancer | Diploma   | Vaccination | Automated | $25
+Cat    | Scan  | Toothache | B.A.     | In-home  | Cosmetic | $70

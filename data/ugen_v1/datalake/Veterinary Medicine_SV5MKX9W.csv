@@ -1,0 +1,10 @@
+Name | Clinic | Type | Date | Time | Test | Exam | X-Ray | Cost 
+Dog   | A      | X-ray | 1/3  | 9am  | Blood | Physical | Chest  | $100 
+Cat   | B      | Exam  | 1/4  | 10am | Urinalysis | Heart  | Skull  | $50
+Cat   | C      | Scan  | 1/5  | 11am | Allergy    | Liver  | Abdomen | $120 
+Dog   | A      | Scan  | 6/9  | 3pm  | Vision     | Skin   | Feet   | $125
+Dog   | C      | X-ray | 2/10 | 4pm  | Stool      | Joints | Spine  | $25
+Cat   | B      | Exam  | 3/11 | 5pm  | Hearing    | Kidney | Neck   | $70
+Bird  | B      | Exam  | 4/11 | 6pm  | Behavior   | Brain  | Chest  | $175
+Rabbit| C      | Scan  | 5/12 | 7pm  | Diet       | Teeth  | Abdomen| $95
+Horse | A      | X-ray | 6/13 | 8pm  | Reproduction| Bone | Spine  | $50

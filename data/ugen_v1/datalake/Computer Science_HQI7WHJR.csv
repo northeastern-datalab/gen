@@ -1,0 +1,8 @@
+Language | Paradigm | IDE | Debugger | Interpreter | Library | Runtiime | Compiler | Optimization | Automation
+Python | Object-Oriented | Eclipse | GDB | PyPy | SciPy | JavaServer Pages | GCC | Brute-force | Puppet
+Java | Structured | IntelliJ | Visual Studio | CPython | NumPy | Ruby | Clang | Greedy | Docker
+C | Functional | XCode | WinDbg | IronPython | Pandas | JavaScript | LLVM | Hill Climbing | Ansible
+C++ | Procedural | Atom | DDD | Jython | OpenCV | Elixir | MSVC | Simulated Annealing | Vagrant
+C# | Event Driven | Sublime | KDBG | Brython | TensorFlow | Unity | Intel | K-Means | Chef
+Go | Logic | Vim | OllyDbg | PypyJS | Scikit-Learn | Django | Oracle | Genetic | Jenkins
+Swift | Imperative | Visual Studio Code | ZDBG | IronRuby | matplotlib | Spring | PathScale | Tabu Search | Saltstack

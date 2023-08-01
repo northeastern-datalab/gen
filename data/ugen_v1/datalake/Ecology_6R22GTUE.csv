@@ -1,0 +1,14 @@
+Biome | Environment | Latitude | Longitude | Average Rainfall | Potential Evapotranspiration | Average Temperature | Permeability | Soil pH 
+---- | ----------- | -------- | --------- | ---------------- | -------------------------- | ------------------ | ----------- | ------- 
+Tundra | Arctic | 71° N | 0° | 10 cm | 8 cm | -20°C | Low | 4.2 
+Taiga | Temperate | 65° N | 0° | 50 cm | 40 cm | -5°C | High | 5.3 
+Rainforest | Tropical | 30° N| 0° | 200 cm | 180 cm | 25°C | Low | 4.7 
+Desert | Hot | 30° N | 0° | 10 cm | 50 cm | 30°C | Low | 7.2 
+Grassland | Temperate | 40° N | 0° | 20 cm | 25 cm | 0°C | Medium | 6.5 
+Temperate Forest | Temperate | 40° N | 0° | 70 cm | 70 cm | 13°C | High | 4.0 
+Marsh | Temperate | 40° N | 0° | 100 cm | 120 cm | 10°C | Low | 5.4 
+Iceberg | Polar | 60° S | 0° | 0 cm | 0 cm | 0°C | Low | 5.5 
+Prairie | Temperate | 40° N | 0° | 25 cm | 45 cm | 8°C | High | 7.6 
+Savanna | Tropical | 15° N | 0° | 65 cm | 80 cm | 20°C | Medium | 6.0 
+Coastal | Marine | 0° | 0° | 20 cm | 25 cm | 25°C | Low | 8.0 
+Mid-ocean | Marine | 0° | 0° | 0 cm | 0 cm | 0°C | Low | 8.3

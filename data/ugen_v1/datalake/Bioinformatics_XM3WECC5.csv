@@ -1,0 +1,4 @@
+Database Name|Feature Type|Source|Data Standard|Algorithm|Input Data|Output Analysis |Analysis Method 
+KEGG|Gene|GenBank|FASTA|BLAST|Sequence|Functional annotation | Manual curation 
+UniProt|Protein|UniProt|FASTA|BLASTP|Sequence|Pathway prediction |Automated parsing 
+PRIDE|Metabolomics|PRIDE|mzML|XPearson Correlation|Spectrographs|Identification of Markers |Statistics

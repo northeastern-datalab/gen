@@ -1,0 +1,6 @@
+Name  | Species | Age | Condition | Treatment | Vaccines | Medications | Diet | Weight | Overall
+Dog   | Canine | 8     | Healthy   | Grooming  | Rabies   | Tablets    | Kibble | 30 lbs  | Good
+Cat   | Feline | 6     | Arthritis | Massage   | Leukemia | Injections | Wet   | 10 lbs  | Average
+Bird  | Albatross| 5   | Infection | Antibiotics| None     | Creams     | Fruit | 2 lbs   | Poor
+Rabbit| Leporidae | 4   | Diarrhea  | Fluid Iv  | None     | Drops      | Hay   | 5 lbs   | Worse
+Horse | Equine | 7     | Healthy   | Exercise  | DHPP    | Supplements| Grains |120 lbs  | Excellent

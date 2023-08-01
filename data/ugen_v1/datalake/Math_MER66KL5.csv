@@ -1,0 +1,11 @@
+Domain | Range | Mean | Median |
+Rectangle | -∞ to +∞ | n/a | n/a |
+Triangle | 0 to +∞ | √(ab) | √((a+b)/2) |
+Parabola | -∞ to +∞ | n/a | y-value of vertex |
+Circle | 0 to +∞ |	(a+b)/2 | n/a |
+Ellipse | -∞ to +∞ | (a+b)/2 | y-value of foci |
+Hyperbola | -∞ to +∞ | n/a | y-value of foci |
+Interval | -∞ to +∞ | (max + min)/2 | n/a |
+Set | -∞ to +∞ | mean of elements | median of elements |
+Polygon | -∞ to +∞ | n/a | n/a |
+Absolute Value | 0 to +∞ | n/a | 0 |

@@ -1,0 +1,8 @@
+Drug | Condition | Price | Generic | Brand | Exp Date | Certificate | Availability | 
+Morphine | Pain Relief | $56 | N/A | Prostride | 2/14/2021 | Yes | In Stock |
+Victoria | Anxiety | $62 | Victasan | Victamil | 3/15/2022 | Yes | On Order |
+Ibuprofen | Headache | $83 | Ibuxy | Ibudril | 4/10/2023 | Yes | Out of Stock |
+Zolpidem | Insomnia | $43 | Dadram | Zolpiwin | 5/17/2024 | No | In Transit |
+Acetaminophen | Fever | $90 | Acetango | Duponair | 6/23/2025 | No | On Hold |
+Valerian | Stress Reduction | $58 | Valerxam | Valerlix | 7/7/2026 | Yes | Available |
+Promethazine | Allergy Symptom | $42 | Promixam | Promiloo | 8/17/2027 | No | Preorder |

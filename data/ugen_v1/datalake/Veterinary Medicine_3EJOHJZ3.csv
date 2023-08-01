@@ -1,0 +1,16 @@
+Name  | Test | Priority | Anesthesia | Room | Treatment  | Technology | Medication | Duration | Prognosis | Diagnosis | Referral | Report 
+Dog   | Blood | High    | Local     | 6     | Surgery    | Digital    | Antibiotic | 3 Months | Good      | Flu       | Vet A    | Records 
+Cat   | Urine | Medium  | IV        | 4     | Vaccine    | Ultrasound | Painkiller | 6 Months | Fair      | Respiratory| Vet B    | Results 
+Cat   | X-ray | Low     | Inhalation | 3     | Check-up   | MRI        | Sedative   | 9 Months | Poor      | Diarrhea  | Vet C    | Update 
+Dog   | Blood | High    | Local     | 2     | Therapy    | Digital    | Antibiotic | 10 Months | Excellent | Skin      | Vet D    | Imaging 
+Cat   | Urine | Medium  | IV        | 8     | Nutrition  | Ultrasound | Painkiller | 12 Months | Moderate  | Cancer    | Vet E    | Summary 
+Bird  | X-ray | Low     | Inhalation | 9     | Surgery    | Digital    | Antibiotic | 5 Months | Good      | Heart     | Vet F    | Analysis
+Rabbit| Blood | High    | Local     | 4     | Check-up   | Ultrasound | Painkiller | 8 Months | Fair      | Broken    | Vet G    | Record 
+Horse | Urine | Medium  | IV        | 7     | Vaccine    | MRI        | Sedative   | 4 Months | Poor      | Arthritis | Vet H    | Summary 
+Dog   | Blood | High    | Local     | 6     | Surgery    | Digital    | Antibiotic | 3 Months | Good      | Flu       | Vet I    | Update 
+Cat   | Urine | Medium  | IV        | 5     | Therapy    | Ultrasound | Painkiller | 7 Months | Fair      | Respiratory| Vet J    | Report 
+Cat   | X-ray | Low     | Inhalation | 8     | Vaccine    | MRI        | Sedative   | 10 Months | Moderate  | Cancer    | Vet K    | Imaging 
+Dog   | Blood | High    | Local     | 3     | Nutrition  | Digital    | Antibiotic | 12 Months | Excellent | Skin      | Vet L    | Summary 
+Bird  | Urine | Medium  | IV        | 9     | Check-up   | Ultrasound | Painkiller | 5 Months | Poor      | Broken    | Vet M    | Analysis
+Rabbit| X-ray | Low     | Inhalation | 4     | Surgery    | Digital    | Antibiotic | 8 Months | Good      | Heart     | Vet N    | Record 
+Horse | Blood | High    | Local     | 7     | Vaccine    | MRI        | Sedative   | 4 Months | Fair      | Arthritis | Vet O    | Summary

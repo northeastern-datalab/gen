@@ -1,0 +1,13 @@
+F-Stop | Depth of Field | Color Mode | File Type | Zoom | Status Image | Image Size | Cropping | Metering | Light | Landscape | Macro | HDR
+f/2.6 | Shallow | RGB | Vector | 8x | Uncompressed | 8192x6144 | No | Spot | Low | Yes | Yes | No
+f/3.4 | Deep | CMYK | Raster | 4x | Compressed | 5120x3840 | Yes | Average | High | No | No | Yes
+f/4.2 | Limited | Grayscale | Vector | 20x | Uncompressed | 4096x3072 | No | Partial | Mid | Yes | Yes | No
+f/3.1 | Infinite | RGB | Raster | 5x | Compressed | 7680x4320 | Yes | Center Weighted | Low | No | No | No
+f/2.8 | Deep | CMYK | Vector | 10x | Uncompressed | 5120x2880 | No | Evaluative | High | Yes | Yes | Yes
+f/4.5 | Shallow | Grayscale | Raster | 7x | Compressed | 4608x2592 | Yes | Spot | Mid | No | No | No
+f/3.2 | Limited | RGB | Vector | 6x | Uncompressed | 3456x2304 | No | Evaluative | Low | Yes | No | No
+f/4.0 | Infinite | CMYK | Raster | 15x | Compressed | 3072x1728 | Yes | Center Weighted | High | No | No | Yes
+f/2.9 | Deep | Grayscale | Vector | 8x | Uncompressed | 2048x1536 | No | Partial | Mid | Yes | Yes | No
+f/3.8 | Shallow | RGB | Raster | 20x | Compressed | 2560x1440 | Yes | Spot | Low | No | No | No
+f/4.3 | Limited | CMYK | Vector | 10x | Uncompressed | 1920x1080 | No | Evaluative | High | Yes | No | Yes
+f/2.7 | Infinite | Grayscale | Raster | 10x | Compressed | 1152x864 | Yes | Center Weighted | Mid | No | No | No

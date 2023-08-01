@@ -1,0 +1,6 @@
+Temperature | Pressure   | Density   | Magnetism   | Core        | Heat Flow  | Gravity     | Viscosity      |
+Thermal Gradient  | Hydrostats  | Anelastic  | Ferromagnetic| Primary     | Turbulence | Inversion    | Kinematic      |
+Gravitational     | Lithostats  | Seismicity | Magnetar     | Secondary   | Stratified | Observables  | Shear Modulus  |
+Adiabatic         | Geostats    | Propagation| Magnetofluid | Reflection  | Flow       | Correlation  | Dynamic        |
+Bulk              | Isostasy    | Reflection | Hysteresis   | Refraction  | Complex    | Monitoring   | Viscous        |
+Absolute          | Isostatic   | Attenuation| Superconduct | Scattering  | Pressure   | Polarization | Angular Moment |

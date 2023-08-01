@@ -1,0 +1,7 @@
+Name  | Clinic | Type  | Date  | Time | Experience | Equipment | Specialty | Cost
+Cat   | B      | Neuter| 2/14 | 9am  | 1 Year   | Digital   | Veterinarian | $20 
+Bird  | A      | Vaccine | 3/15 | 10am | 7 Years  | Ultrasound| Optometrist | $95
+Dog   | C      | Microchip| 4/16 | 11am | 4 Years  | MRI      | Surgeon  | $180
+Bird  | A      | Neuter | 5/17 | 12pm | 9 Years  | Digital   | Oncologist | $85
+Cat   | C      | Vaccine | 6/18 | 1pm  | 2 Years  | Ultrasound| Veterinarian | $50
+Horse | B      | Microchip | 7/19 | 2pm  | 10 Years | MRI      | Dentist  | $200

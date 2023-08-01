@@ -1,0 +1,4 @@
+Enzyme|Reaction|Regulation|Cofactor|Substrates|Organism|Sequence|Kinetics|Environment|Reaction Order 
+Protein Kinase|Phosphorylation |Feedback|ATP|Sites|Homo sapiens|AGTCGTACT| substrate-velocity|Inorganic|1st
+Glycosyltransferase |Glycoside Formation|Competition|GDP-Fucose|Sugars|Homo sapiens|GGTTATGAA|Product-inhibition|Organic |2nd 
+Kinase |Phosphorylation |Allosteric |ATP |Threonine|Homo sapiens|CTGGTCACA|Product-velocity|Inorganic|1st

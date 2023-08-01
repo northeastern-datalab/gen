@@ -1,0 +1,7 @@
+Word | Description | Type | Subtype | Chromosome | Variant | Transcript | Allele | Origin | Deletion | Duplication | Sequence | Regulator | Mutation | Regulation
+Gene | Segments of DNA | Structure | None | Autosome | Homologous | Long and Short Non-Coding | Wildtype | Eg Polymorphism | Frame Shift | Insertion | Alignment | Transcription | Silent, Missense | Protein-DNA Interactions
+RNA | Single-stranded Nucleic Acid | Protein Synthesis | mRNA | N/A | Haploid | Ribosomal | Allelic | Non-Coding | Nonsense | Homozygous | Genomic | Splicing | Missense | Transcriptional Regulation
+Mutation | Change in DNA Sequence | Evolution | Point | N/A | Diploid | Messenger | Null | Environmental | Deletion | Inversion | Mutational | Translocational | Nucleotide | Natural Selection
+Epigenetics | Process of Gene Expression | Cell Cycle | Gene Expression | N/A | N/A | Transfer | Phenotypic | Parental | Insertional | Vertebrate | Structural | Recombination | Frameshift | DNA Methylation
+Allele | Variant of a Gene | Heredity | Dominant | Single | Autosomal | Micro RNA | Neutral | Chromosomal Mutation | Chromosomal | Amplification | Evolutionary | Promoter | Point | Alteration of Genomic Sequence
+Chromosome | Assembly of Nucleic Acid | DNA Replication | Chromatin | DNA Sequences | Translocation | Small Nuclear | Synonymous | Nuclear Envelope | Inversion | Transposition | Phylogenetic | Enhancer | Insertional | Chemical Structure

@@ -1,0 +1,10 @@
+Name  | Clinic | Type | Date | Time | Weight | Temperament | Symptoms | Prognosis | Medication | Vaccination | Allergy 
+Dog   | A      | X-ray | 1/3  | 9am  | 5 lbs    | Playful   | Coughing  | Poor      | Antibiotics| Rabies      | None 
+Cat   | B      | Exam  | 1/4  | 10am | 10 lbs   | Aggressive | Diarrhea  | Good      | Painkillers| FVRCP      | Milk 
+Cat   | C      | Scan  | 1/5  | 11am | 15 lbs   | Shy        | Vomiting  | Good      | Anti-Fungal| FIP        | Egg
+Dog   | A      | X-ray | 6/9  | 3pm  | 20 lbs   | Calm       | Shaking   | Moderate  | NSAID      | Lymes      | Peanut
+Dog   | C      | Exam  | 2/10 | 4pm  | 25 lbs   | Fearful    | Sneezing  | Fair      | Antihistamine | Bordetella | Fish
+Cat   | B      | Scan  | 3/11 | 5pm  | 30 lbs   | Anxious    | Lethargy  | Poor      | Steroids    | Canine DHPPL | Soy 
+Bird  | B      | X-ray | 4/11 | 6pm  | 35 lbs   | Affectionate | Wheezing | Fair      | Vaporizors  | Avian Influenza | Gluten
+Rabbit| C      | Exam  | 5/12 | 7pm  | 40 lbs   | Energetic   | Swelling  | Good      | Diuretics   | RVHD1      | Wheat
+Horse | A      | Scan  | 6/13 | 8pm  | 45 lbs   | Gentle     | Groaning   | Poor      | Antiviral   | Tetanus    | Corn

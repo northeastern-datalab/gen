@@ -1,0 +1,6 @@
+OS Version | Firewall | System Security | Threat Intelligence | System Updates| Monitoring | Access Controls | Disaster Recovery| Patch Management| Malware Protection | System Hardening | Security Posture
+OS X 10.14 | Stateful Packet Filtering | Two-Factor Authentication | Open Source Intelligence | Patch Tuesday | Intrusion Detection | RBAC | Server Backup | WSUS | Antivirus | Encryption | Risk Assessment
+Windows 10 | Circuit-Level Gateway | Network Segmentation | Dark Web Monitoring | Automatic Updates | Log Management | Firewalls | Hot Site | Windows Server Update Services | Spam Protection | Access Control | Vulnerability Scanning
+Ubuntu 18.04 | Dynamic Packet Filtering | Identity and Access Management | Phishing Simulations | Software Rollouts | Event Correlation | Least Privilege | Cold Site | Configuration Management | Sandboxing | Whitelisting | Penetration Testing
+CentOS 7 | Application Firewall | Encryption and Data Loss | Messaging Scans | Planned Deployments | System Hardening | Network Access Controls | Backup Storage | Manual Deployment | Firewall | Auditing | Incident Response
+MacOS Sierra | Network Address Translation | Data Loss Prevention | Web Content Scans | Monthly Patches | Security Assessments | Multi-Factor Authentication | Disaster Recovery Testing | Inventory Management | Spyware Protection | Data Masking | Security Protocols

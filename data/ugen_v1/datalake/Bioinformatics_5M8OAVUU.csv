@@ -1,0 +1,4 @@
+Sequence|Gene|Function| Cytogenetic Location|Organism |mRNA Expression|miRNA Regulation |SNP Variations|Structural Motif |Subcellular Localization |Protein Homotetramerization |Domain|Essential Protein Residue |Pathway  
+AAGGGATT|HBA1|Hemoglobin subunit alpha|16p13.3|Homo sapiens|Moderate|High|rs734242|Alpha-helix| Cytoplasm |Yes|Heme Binding|Thr145| Oxidative Stress
+AAGCTTTGG|HBA2|Hemoglobin subunit beta|11p15.4|Homo sapiens|High|Low|rs764562|Beta-sheet| Cytoplasm |No|Heme Binding|Lys12| Hemopoiesis
+CCTAAAATT|APP|Amyloid precursor protein|21q21.3|Homo sapiens|Moderate|Low|rs3311254|Alpha-helix| Neuritic Plaques |No|Copper-binding|Gly581| Alzheimer's Disease

@@ -1,0 +1,10 @@
+Name  | Clinic | Type | Date | Time | Technician | Education | Specialty | Cost 
+Dog   | A      | X-ray | 4/24 | 9am  | John       | MD        | Surgeon  | $100 
+Cat   | B      | Exam  | 5/25 | 10am | David      | DVM       | Dentist  | $50
+Cat   | C      | Scan  | 6/26 | 11am | Mary       | RN        | Optometrist | $120
+Dog   | A      | X-ray | 7/27 | 3pm  | Joe        | MBA       | Surgeon  | $125
+Dog   | C      | Exam  | 8/28 | 4pm  | Chris      | MSc       | Veterinarian | $25
+Cat   | B      | Scan  | 9/29 | 5pm  | Julie      | PhD       | Dentist  | $70
+Bird  | B      | X-ray | 10/30 | 6pm  | Stephanie  | BSc       | Oncologist | $175
+Rabbit| C      | Exam  | 11/31 | 7pm  | Nicole     | DDS       | Surgeon  | $95
+Turtle| A      | Scan  | 12/32 | 8pm  | Steven     | MS        | Veterinarian | $50

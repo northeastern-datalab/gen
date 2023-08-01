@@ -1,0 +1,6 @@
+Product | Supplier | Cost | Price | Quantity | Logistics | Shipping | Supply Chain | Inventory | Delivery | Staffing | Consulting | Network | Outsourcing | Compliance
+Software | AcmeCorp | 500 | 500 | 20 | 2-Day | FedEx | Point-to-Point | 50 | 3-Day | 50 | Project Man. | 56K | No | GDPR 
+Hardware | ABCCorp | 1000 | 1500 | 1 | Overnight | DHL | Hub-and-Spoke | 250 | 5-Day | 55 | System Int. | T3 | Yes | HIPAA
+Services | DEFInc | 200 | 300 | 30 | Same-Day | UPS | Direct Delivery | 5 | 4-Day | 150 | Training | OCT1 | No | SOX
+Cloud | XYZCo | 400 | 500 | 5 | 3-Day | USPS | Last Mile | 15 | 2-Day | 75 | Integration | GPON | Yes | NIST
+Data | GHICorp | 800 | 1000 | 10 | 5-Day | USPS | Last Mile | 25 | 10-Day | 25 | Maintenance | Fibre | No | PCI-DSS

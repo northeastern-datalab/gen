@@ -1,0 +1,10 @@
+Name  | Size  | Breed | Date    |Time   | Experience | Treatment| Specialty | Cost 
+Dog   | Small  | Bull  | 1/3    | 9am    | 5 Years   | IV       | Surgeon  | $150
+Cat   | Medium | Bengal| 1/4    | 10am   | 2 Years   | Bandage  | Dentist  | $70
+Cat   | Large  | Maine | 1/5    | 11am   | 10 Years  | Surgery  | Optometrist | $210
+Dog   | Small  | Bull  | 6/9    | 3pm    | 7 Years   | IV       | Surgeon  | $200
+Dog   | Medium | Retriever | 2/10  | 4pm    | 1 Year    | Bandage  | Veterinarian | $40
+Cat   | Large  | Maine | 3/11   | 5pm    | 3 Years   | Surgery  | Dentist  | $100
+Bird  | Small  | Parrot | 4/11   | 6pm    | 4 Years   | IV       | Oncologist | $250
+Rabbit| Medium | Lop    | 5/12   | 7pm    | 6 Years   | Bandage  | Surgeon  | $90
+Horse | Large  | Arabian | 6/13   | 8pm    | 8 Years   | Surgery  | Veterinarian | $60

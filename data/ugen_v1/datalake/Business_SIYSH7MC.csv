@@ -1,0 +1,6 @@
+Product | Supplier | Cost | Price | Quantity | Profit | Market Size | Customers | Revenue | Growth | Adoption | Satisfaction | Usage | Lead Time | Capacity 
+Software | AcmeCorp | 500 | 500 | 20 | 0 | 100M | 10000 | 5M | 10% | High | High | Infrequent | 5 Days | 200 TB
+Hardware | ABCCorp | 1000 | 1500 | 1 | 500 | 10B | 50000 | 500M | 20% | Moderate | Medium | Regular | 10 Days | 100 TB
+Services | DEFInc | 200 | 300 | 30 | 100 | 1B | 1000 | 100K | 40% | Low | Low | Constant | 1 Day | 1 TB
+Cloud | XYZCo | 400 | 500 | 5 | 100 | 500M | 50000 | 25M | 50% | High | Medium | Intermittent | 4 Days | 500 TB
+Data | GHICorp | 800 | 1000 | 10 | 200 | 1T | 20000 | 500K | 70% | Moderate | High | Occasional | 2 Days | 200 TB

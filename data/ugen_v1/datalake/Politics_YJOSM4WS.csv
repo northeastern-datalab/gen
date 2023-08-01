@@ -1,0 +1,9 @@
+State | District | Voter | Supporting | Campaigns | Election | Polling | Outcome 
+CA | NY-12 | Liberal | Democrat | Yes | 2018 | High | Loss 
+CA | NY-14 | Moderate | Republican | No | 2018 | Low | Win
+NY | NJ-5 | Conservative | Republican | Yes | 2020 | High | Win
+NY | NY-16 | Liberal | Democrat | No | 2020 | Moderate | Win
+FL | OR-9 | Moderate | Independent | Yes | 2018 | Low | Loss
+FL | OR-6 | Conservative | Independent | No | 2018 | High | Loss
+NJ | NY-2 | Liberal | Democrat | No | 2020 | Low | Loss
+GA | NJ-5 | Moderate | Republican | Yes | 2018 | High | Win

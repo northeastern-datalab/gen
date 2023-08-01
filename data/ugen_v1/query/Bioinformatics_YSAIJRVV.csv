@@ -1,0 +1,4 @@
+Sequence|Gene|Function|Cytogenetic Location|Organism |Nucleotide Accession|Protein Accession |Enzyme Classification |Pathway Class |Tissue/Cell Type |Metabolic Pathway |Subcellular Localization |Reaction Type |Reaction Substrate |Reaction Products 
+AAGGGATT|HBA1|Hemoglobin subunit alpha|16p13.3|Homo sapiens|NC_000016.10|NP_000518.2|Oxidoreductases |Metabolism |Red Blood Cells|Amino acid metabolism |Cytoplasm |Transfer |Alanine|Glutamate
+AAGCTTTGG|HBA2|Hemoglobin subunit beta|11p15.4|Homo sapiens|NC_000011.10|NP_000519.1|Oxidoreductases |Metabolism |Red Blood Cells|Amino acid metabolism |Cytoplasm |Transfer |Glycine|Serine
+CCTAAAATT|APP|Amyloid precursor protein|21q21.3|Homo sapiens|NC_000021.9|NP_000050.3|Transferases |Signaling &amp; Regulation |Neurons|Amino acid metabolism |Neuritic plaques |Isomerization |Valine|Isoleucine

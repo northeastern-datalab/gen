@@ -1,0 +1,10 @@
+Drug | Condition | Usual Time of Response | Adjustment | Resistance | Maximum Daily Dosage | Doctor | Pharmacist | 
+Metronidazole | Bacterial Infection | 2 Hours | Tolerance | Bacterial Strains | 500mg | Doctor E | Pharmacist 8 |
+Digoxin | Heart Disease | 4 Hours | Effectiveness | Resistance | 0.50mg | Doctor F | Pharmacist 9 |
+Levothyroxine | Hypothyroidism | 8 Hours | Slow Response | Adaptation | 2mg | Doctor G | Pharmacist 10 |
+Ampicillin | Respiratory Infection | 30 Minutes | Allergic Reaction | Resistant Strains | 250mg | Doctor H | Pharmacist 11 |
+prednisone | Inflammation | 10 Minutes | Dose Changes | Impairment | 60mg | Doctor I | Pharmacist 12 |
+ Penicillin | Bacterial Infection | 1 Hour | Side Effects | Inhibitor | 3g | Doctor J | Pharmacist 13 |
+Mupirocin | Skin Infection | 6 hours | Intolerance | Mutations | 500mg | Doctor K | Pharmacist 14 |
+Azithromycin | Bacterial Infection | 24 Hours | Therapeutic | Resistance | 2g | Doctor L | Pharmacist 15 |
+Cephalexin | Bacterial Infection | 2 Hours | Interactions | Drug Resistance | 4.5g | Doctor M | Pharmacist 16 |

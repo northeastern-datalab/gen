@@ -1,0 +1,8 @@
+Name  | Symptoms | Species | Appointment | Vet  | History  | Medication | Injury | Vaccines   
+Dog   | Coughing | Canine  | Onsite     | John | Diagnosis | Amoxycillin | Sprain | Rabies 
+Cat   | Itchy    | Feline  | Remote     | Lisa | Past Visits| Benadryl    | Laceration | FVRCP
+Cat   | Fever    | Feline  | Urgent     | Dan  | Chart      | Aspirin     | Broken Leg | Flu 
+Dog   | Barking  | Canine  | Standard   | Eric | Referrals  | Ibuprofen   | Bite      | Lyme
+Bird  | Pecking  | Avian   | Onsite     | Mary | Bloodwork  | Clavamox    | Fracture  | Polyoma
+Rabbit| Scratching | Lagomorph | Remote     | Dave | Ultasound  | Unasyn     | Burns    | Parvo 
+Horse | Swelling | Equine  | Urgent     | Jake | Tests      | Meloxicam   | Bruising  | EEE

@@ -1,0 +1,9 @@
+Name | Clinic | Type | Date | Time | Skill Level | Availability | Specialty | Cost 
+Dog   | A      | X-ray | 1/3  | 9am  | Expert      | Limited     | Surgeon  | $100 
+Cat   | B      | Exam  | 1/4  | 10am | Intermediate| Moderate   | Dentist  | $50
+Cat   | C      | Scan  | 1/5  | 11am | Beginner    | High       | Optometrist | $120
+Dog   | A      | X-ray | 6/9  | 3pm  | Veteran     | Limited     | Surgeon  | $125
+Dog   | C      | Exam  | 2/10 | 4pm  | Novice      | Limited     | Veterinarian | $25
+Cat   | B      | Scan  | 3/11 | 5pm  | Expert      | Moderate    | Dentist  | $70
+Bird  | B      | X-ray | 4/11 | 6pm  | Beginner    | High        | Oncologist | $175
+Rabbit| C      | Exam  | 5/12 | 7pm  | Liberal     | High        | Surgeon  | $95

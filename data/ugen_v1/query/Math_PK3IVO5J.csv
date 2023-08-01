@@ -1,0 +1,13 @@
+Expression | Term | Variable | Constant |
+sinx | Sine | x | n/a | 
+cosx | Cosine | x | n/a |
+tanx | Tangent | x | n/a |
+cotx | Cotangent | x | n/a |
+cscx | Cosecant | x | n/a |
+secx | Secant | x | n/a |
+sin2x | Sine | 2x | n/a |
+cos2x | Cosine | 2x | n/a |
+tan2x | Tangent | 2x | n/a |
+cot2x | Cotangent | 2x | n/a |
+csc2x | Cosecant | 2x | n/a |
+sec2x | Secant | 2x | n/a |

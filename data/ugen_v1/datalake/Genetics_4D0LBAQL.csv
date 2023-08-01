@@ -1,0 +1,6 @@
+Name | Accession | Type | Genes | Variable | Length | Variants | Repeat | Signature | Metabolism | Regulation | Cytoplasm | Environment
+GCRD | None |Collection  | 10K |Single   | 50bp  | Single | Low | Low | Medium | High | Medium | Low
+NIEHS | NIEHS | Environmental | 1K  | Multiple | 500bp | Multiple | High | Medium | Low | High | High | High
+GeneSeq | IAN | Independent | 100K | Single | 1000bp | Single | Low | High | High | Low | Low | Low
+WHOLE | WHOLE | Genome | 100M | Multiple | 10Kb | Cluster | High | High | Low | Medium | Medium | Medium
+SNPGen | SNG | SNP | 50M | Multiple | 10bp | Single | Low | Medium | Medium | Low | Low | Low

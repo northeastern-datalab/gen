@@ -1,0 +1,13 @@
+Octave|Tone|Harmony|Genre|Instrument|Pitch|Frequency|Overtones|Timbre
+High|F sharp|Major|Classical|Viola|High|440 Hz|Yes|Rich
+Low|C sharp|Minor|Rock|Piano|Low|220 Hz|No|Bright
+Medium|G|Major|Jazz|Saxophone|High|880 Hz|No|Bright
+High|G|Major|Opera|French Horn|Low|110 Hz|Yes|Deep
+Low|F|Minor|Blues|Violin|Medium|440 Hz|No|Harsh
+Medium|D|Major|Folk|Organ|High|880 Hz|Yes|Rich
+High|E|Major|Classical|Clarinet|Low|220 Hz|No|Mellow
+Low|B flat|Minor|Jazz|Accordion|Medium|440 Hz|Yes|Mellow
+Medium|A flat|Major|Big Band|Oboe|High|880 Hz|No|Deep
+High|F sharp|Minor|Country|Mandolin|Low|220 Hz|Yes|Bright
+Low|A|Major|Rock|Harpsichord|Medium|440 Hz|No|Mellow
+Medium|C|Minor|Classical|Conga|High|880 Hz|Yes|Harsh

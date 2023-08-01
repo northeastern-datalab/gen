@@ -1,0 +1,4 @@
+Geomancy|Parens|6 Parents|Contextual|Consultation|Place|Outcome|Timeframe|
+Figure Single|F|M|C|D|null|null|null|
+Combination|F,M,C,D|F,M,C,null|F,M,C,D|F,null,C,D|M,null,C,D|F,M,null,null|F,M,C,D|null,null,null,D|
+Transformation|F,M,D,C|M,F,C,null|M,F,D,null|M,F,null,D|F,C,D,null|M,C,D,null|F,C,D,null|null,null,C,D|

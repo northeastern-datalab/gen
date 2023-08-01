@@ -1,0 +1,10 @@
+Name  | Clinic | Type | Date | Time | Purpose | Lab | Specialty | Cost 
+Cat   | A      | X-ray | 1/3  | 9am  | Checkup | Blood | Surgeon  | $100 
+Dog   | B      | Exam  | 1/4  | 10am | Diagnose| Fecal| Dentist  | $50
+Dog   | C      | Scan  | 1/5  | 11am | Treatment| Skin | Optometrist | $120
+Cat   | A      | X-ray | 6/9  | 3pm  | Imaging  | Urine| Surgeon  | $125
+Bird  | B      | Exam  | 2/10 | 4pm  | Testing  | Hair | Veterinarian | $25
+Cat   | C      | Scan  | 3/11 | 5pm  | Vaccine  | Genetic| Dentist  | $70
+Goat  | B      | X-ray | 4/11 | 6pm  | Disease  | Saliva| Oncologist | $175
+Lizard| C      | Exam  | 5/12 | 7pm  | Treatment| Heart | Surgeon  | $95
+Horse | A      | Scan  | 6/13 | 8pm  | Vaccine  | Blood | Veterinarian | $50

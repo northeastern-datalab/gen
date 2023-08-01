@@ -1,0 +1,10 @@
+Expression | Term | Variable | Constant |
+ax2 | Quadratic | x2 | a |
+axb | Linear | x | b |
+ax3+bx2+cx+d | Cubic | x3 | a, b, c ,d |
+logx | Logarithm | x | n/a |
+lnx | Natural Log | x | n/a |
+4x2-8x+2 | Quadratic | x2 | 4, -8, 2 |
+1/x | Reciprocal | x | n/a |
+(x+1)/(x-2) | Fraction | x | 1, -2 | 
+(2x+1)/(x2-7x+6) | Fraction | x2 | 2, 1, -7, 6 |

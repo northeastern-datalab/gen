@@ -1,0 +1,10 @@
+Name    | Clinic | Day | Symptom | Medication | Purpose  | Temperature | Color  | Duration | Quantity 
+Cat     | A      | Mon  | Coughing | Antibiotic | Treating  | 105.4°F    | Orange | 5 Days   | 3 tablets 
+Dog     | B      | Tue  | Vomiting | Painkiller | Relieving | 102.2°F    | White  | 1 Week   | 5 capsules
+Bird    | C      | Wed  | Limping  | Sedative   | Relaxing  | 101.8°F    | Yellow | 2 Weeks  | 6 tablets 
+Rabbit  | A      | Thu  | Wheezing | Anti-histamine | Mitigating | 103.4°F    | Red    | 3 Days   | 4 capsules
+Horse   | B      | Fri  | Hiccups  | Steroid    | Reducing   | 106.2°F    | Blue   | 4 Weeks  | 2 capsules
+Finch   | C      | Sat  | Sneezing | Antacid    | Controlling | 104.6°F    | Green  | 6 Days   | 8 tablets 
+Goat    | A      | Sun  | Itching  | Cortico-steroid | Controlling | 103.0°F    | Purple | 2 Weeks  | 1 capsule
+Mouse   | B      | Mon  | Swelling | Antibiotic | Treating    | 106.6°F    | Pink   | 10 Days  | 5 tablets 
+Fish    | C      | Tue  | Diarrhea | Painkiller | Relieving   | 102.0°F    | Grey   | 7 Weeks  | 7 capsules

@@ -1,0 +1,9 @@
+Symbol | Definition | Type | Example | Examples |
++ | Addition | Binary Operator | 2+3 | 4+5, 0+7 |
+- | Subtraction | Binary Operator | 6-2 | 9-3, 5-1 |
+* | Multiplication | Binary Operator | 4*6 | 2*9, 7*5 |
+/ | Division | Binary Operator | 8/2 | 6/3, 9/4 |
+abs | Absolute Value | Unary Function | abs(-7) | abs(4), abs(-5) |
+sqrt | Square Root | Unary Function | sqrt(16) | sqrt(9), sqrt(25) |
+exp | Exponential Function | Binary Function | exp(2,3) | exp(4,2), exp(6,3) |
+log | Logarithmic Function | Binary Function | log(8,2) | log(27,3), log(64,4) |

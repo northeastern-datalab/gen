@@ -1,0 +1,12 @@
+Hardware | ISA | Compiler | Microarchitecture | Bus| High-Level Language | Processors | Data Encryption | Operating System | Network | Artificial Intelligence | Encoding | Algorithm
+CPU | x86 | GCC | Skylake | HyperTransport | C++ | Pentium | SHA256 | Windows | 802.11ac | Deep Learning | UTF-8 | Sorting 
+RAM | PowerPC | LLVM | Kaby Lake | SCSI | Java | Core i7 | AES-256 | macOS | Ethernet | Robotics | Base64 | Compression
+Motherboard | ARM | Clang | Broadwell | PCI | Python | Ryzen | RC4 | Linux | IPv4 | Machine Learning | HTML | Hashing
+Graphics Card | RISC-V | JIT | Broadcom | SATA | Ruby | Ryzen 5 | RSA | Android | Bluetooth | Natural Language Processing | JSON | Vectorization
+Sound Card | MIPS | Compiler Pass | Coffee Lake | ThunderBolt | Swift | Core i5 | HMAC | iOS | DSL | Genetic Algorithms | XML | Big-O
+Drive | Power ISA | Parsing | Haswell | VMEbus | Go | Athlon | Twofish | ChromeOS | 5G | Computer Vision | URL | Greedy Algorithms
+Power Supply | SPARC | Type Inference | Ice Lake | Fibre Channel | Rust | Athlon XP | Blowfish | Ubuntu | WiMax | Neural Networks | ASCII | Divide and Conquer
+Printer | HyperSPARC | Machine Code Generation | Skylake-X | Firewire | C# | Atom | SHA-1 | Fedora | Modem | Autonomous Vehicles | CSS | Backtracking
+Keyboard | UltraSPARC | Symbol Table | Cannon Lake | USB | PHP | Xeon | 3DES | Raspbian | DSL | Reinforcement Learning | SGML | Algorithmic Complexity
+Mouse | CISC | Lexical Analysis | Nehalem | IDE | JavaScript | Xeon Phi | MARS | ARCOS | LTE | Image Processing | Locale | Topological Sort
+USB | EDVAC | Intermediate Code Generation | Sandy Bridge | ISA | TypeScript | Opteron | IDEA | SUSE | FTTx | Decision Trees | OAuth | Graph Theory

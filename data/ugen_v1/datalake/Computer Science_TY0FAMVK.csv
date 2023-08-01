@@ -1,0 +1,9 @@
+Hardware | Processor | System-on-Chip | Bus | Operating System | Network | Storage | Audio | Graphics | Encoding | Power | Algorithm
+Laptop | Atom | Kaby Lake-G | Fibre Channel | Windows | ADSL | RAID | AC97 | Radeon | H.265 | Battery | Bubble Sort 
+Server | Core i7 | BCM2837 | VMEbus | Linux | 5G | Flash | Realtek | Quadro | VP9 | UPS | Quick Sort 
+Phone | Ryzen | Broadwell-E | SATA | Android | Modem | HDD | Intel HD | AMD | AVC | Generator | Merge Sort 
+Printer | Core i5 | Skylake-X | USB | iOS | WiMax | SSD | Creative | NVidia | HEVC | Solar Panel | Insertion Sort 
+TV | Ryzen 5 | Kaby Lake-H | PCI | ChromeOS | Ethernet | NVMe | Yamaha | HD 4000 | MPEG-4 | Hydrogen Fuel Cell | Selection Sort 
+Tablet | Core m3 | Broadcom SoC | HyperTransport | Ubuntu | Bluetooth | CD-ROM | Intel Audio | HD 530 | VP6 | Wind Turbine | Heap Sort 
+Watch | Pentium | Haswell-EX | IDE | Fedora | 4G | Magnetic | Realtek Audio | HD 4000 | MP3 | Nuclear Energy | Radix Sort 
+Game Console | Core i9 | Coffee Lake | Firewire | Raspbian | LTE | Optical | Creative Audio | Radeon HD | SBC | Generator | Knuth-Morris-Pratt

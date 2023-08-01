@@ -1,0 +1,15 @@
+Plant | Fruit | Edible | Location | Temperature | Tropism | Soil Acidity | Fertilizer | Watering | Pruning | Pest
+Banana | Yes | Flesh | Tropical | Warm | Phototropism | Neutral | Urea | Heavy | Rarely | Aphids
+Kiwi | Yes | Flesh | Temperate | Mild | Gravitropism | Acidic | Poultry Manure | Moderate | Moderately| Weevils
+Durian | Yes | Flesh | Tropical | Very Hot | Thigmotropism | Alkaline | Nitrogen | Little | Evenly| Caterpillars
+Pineapple | Yes | Flesh | Subtropical | Warm-Hot| Hylotropism | Neutral | Ammonium Nitrate | Heavy| Lighty| Mites
+Mango | Yes | Flesh | Tropical | Hot | Hydrotropism | Acidic | Fish Meal | Light | Regularly | Slugs
+Cactus | No | Pulp | Desert | Very Hot | Photoperiodism | Alkaline | Calcium Nitrate | Little | Sparingly| Leafhopper
+Tomato | Yes | Flesh | Mediterranean | Hot | Geotropism | Neutral | Seaweed Meal | Moderate | Moderate | Thrips
+Potato | Yes | Tubers | Temperate | Cool | Apical Dominance | Acidic | Phosphate | Average | Heavily | Worms
+Garlic | Yes | Bulb | Temperate | Cool-Mild | Gravitropism | Neutral | Potassium Chloride | Light | Tenderly | Grasshopper
+Onion | Yes | Bulb | Temperate | Cool-Mild | Gravitropism | Neutral | Rock Phosphates | Heavy | Minimally | Sawfly
+Ginger | Yes | Rhizome | Tropical | Warm | Apical Dominance | Alkaline | Nitrate of Potash | Slight | Prudently | Leafminer
+Radicchio | Yes | Leaves | Mediterranean | Cool | Geotropism | Acidic | Seaweed Extract | Average | Gently | Cutworms
+Basil | Yes | Leaves | Mediterranean | Mild | Gravitropism | Neutral | Fish Emulsion | Slight | Judiciously | Scale
+Aloe | No | Gel | Tropical | Warm | Phototropism | Alkaline | Humic Acids | Average | Sparingly | Aphids

@@ -1,0 +1,3 @@
+Matching Algorithm | Species | Data Type | Alignment Software | Software Type | Programmer | Module | Framework | Theme | Cloud Platform | Model | Target | Related databases | Research Objective
+BLAST  | Homo sapiens | DNA Sequences | ClustalW  | Linux | Bioinformatician | ELM | NCBI | Tissue Specific Analysis | AWS | Bayesian | Pathogen | Pub Med | Genome Mapping 
+MUMmer | Mus musculus | Protein Sequences | DIAMOND  | 64-bit | Data Scientist | IPR | UniProt | Protein-Vector Analysis | Azure | Monte Carlo | Detergent | Ensembl | Pathogen Tracking

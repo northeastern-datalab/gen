@@ -1,0 +1,11 @@
+Key|Time|Meter|Tempo|Note|Pitch|Mode|Duration|Chord|Rest|Interval
+C|3/4|54|Whole|D|Concord|Characteristic|Short|Major|None|Second
+G|2/4|90|Half|A|Triad|Fugue|Medium|Minor|Quarter|Fourth
+D|6/8|76|Eighth|E|Tonic|March|Long|Dominant|Eighth|Sixth
+F|4/4|66|Sixteenth|C|Dissonant|Nocturne|Long|Major|Eighth|Octave
+C#|3/2|92|Sixteenth|E#|Concordant|Rondo|Short|Minor|Quarter|Tenth
+A|4/4|80|Whole|G|Triad|Sonata|Medium|Dominant|None|Twelfth
+G#|2/4|60|Half|B|Dissonant|Etude|Long|Major|Quarter|Sixteenth
+D#|3/8|103|Eighth|F#|Tonic|Minuet|Long|Minor|Eighth|Seventeenth
+Bb|4/4|77|Sixteenth|Ab|Concordant|Symphony|Short|Dominant|Eighth|Octave
+F#|2/2|120|Half|G#|Triad|Concerto|Medium|Major|None|Twelfth

@@ -1,0 +1,14 @@
+Note|Musician|Tempo|Key|Chord|Part|Rhythm|Interval|BPM|Score|Duration|Direction|Meter
+Piano|Mozart|Andante|A minor|Triad|Left Hand|Quarter|Second|73|No|3 mins|Descending|Quadruple
+Guitar|Hendrix|Allegro|F minor|Seventh|Strumming|Eighth|Sixth|144|Yes|1 min|Ascending|Duple
+Trumpet|Bach|Largo|G major|Sixth|Mutes|Half|Forth|60|No|20 secs|Descending|Quadruple
+Vocal|Pavarotti|Adagio|Bb major|Seventh|Pitch|Quarter|Fourth|32|Yes|2 mins|Ascending|Triple
+Saxophone|Coltrane|Vivace|D minor|Chord|Tonguing|Whole|Seventh|120|No|1min|Descending|Duple
+Violin|Nardini|Moderato|Eb minor|Triad|Bow|Sixteenth|Third|68|Yes|45 secs|Ascending|Triple
+Drums|James|Presto|B major|Sixth|Hi-hat|Dotted Half|Fifth|168|No|30 secs|Descending|Quadruple
+Cello|Casals|Larghetto|E major|Seventh|Pizzicato|Half|Unison|53|Yes|4 mins|Ascending|Duple
+Clarinet|Borel|Allegretto|Ab minor|Chord|Glissando|Eighth|Second|87|No|1 min|Descending|Triple
+Keyboard|North|Grave|A minor|Triad|Arpeggio|Quarter|Sixth|53|Yes|1 min|Ascending|Quadruple
+Organ|Schorn|Poco Allegretto|C major|Sixth|Pedal|Half|Third|90|No|2 mins|Descending|Duple
+Trombone|Orefice|Allegro Marciale|F minor|Seventh|Sforzando|Sixteenth|Fourth|125|Yes|45 secs|Ascending|Triple
+Xylophone|Hammond|Allegro Moderato|D minor|Chord|Gong|Whole|Fifth|76|No|30 secs|Descending|Quadruple

@@ -1,0 +1,7 @@
+Stratigraphic | Precession    | Reduction    | Reflection   | Synthetics    | Data         | Velocity     | Correlation  |
+Cross-section | Anomalies    | Migration    | Acquisition  | Seismogram    | Synthetics    | Attenuation  | Reduction    |
+Reflection    | Polarization | Geophysics    | Synthetics   | Synthetics    | Correlation   | Velocity     | Migration    |
+Integration   | Dynamics     | Bias          | Precession   | Reflection    | Velocity      | Correlation  | Attenuation  |
+Resampling    | Magnetites   | Obliteration  | Acquisition  | Acquisition   | Attenuation   | Migration    | Velocity     |
+Demagnetizing | Intensity    | Repetition    | Boost        | Migration     | Correlation   | Geophysics   | Reflection   |
+Seismic       | Magnetism    | Amplification | Inversion    | Seismic       | Anomalies     | Attenuation  | Precession   |

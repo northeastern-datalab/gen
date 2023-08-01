@@ -1,0 +1,7 @@
+Program | Command | Parameter | Option | Variable | Comment | Keyboard Shortcut | Script | Exception | Source File | Argument | Directory | Output | Text Editor
+Python | pip | pwd | install | PATH | # | Ctrl + P | bash | Error | .py | --version | Desktop | stdout | Atom
+C++ | gcc | cd  | uninstall | char | // | Ctrl + O | awk | Assertion | .cpp | --help | Documents | stderr | Sublime
+Java | java | mkdir | upgrade | int | /* | Ctrl + A | perl | ClassNotFound | .java | --show | Downloads | printf | Notepad++
+R | Rscript | rm | list | string | /** | Alt + Enter | tcl | TypeError | .r | --print | Pictures | function | Visual Studio
+Matlab | matlab | cp | search | vector | % | Ctrl + S | ruby | TryCatch | .m | --run | Music  | vectorization | Vim
+PHP | php | mv | info | index | @ | Ctrl + C | sql | OutOfMemory | .php | --execute | Videos | for-loop | Emacs

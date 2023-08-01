@@ -1,0 +1,11 @@
+Chronostratigraphic | Lithologic | Online  | Geomagnetic  | Production  | Reflection | Electrical  | Stratigraphic | Structural |
+Cambrian-Ordovician | Sandstone  | Basin    | Anomalies    | Depth        | Signature  | Logging     | Class        | Faults     |
+Cretaceous         | Shale      | Platform | Magnetization| Well         | Synthetics | Imaging     | Group        | Formations |
+Permian            | Conglomerate| Libration| Gradient     | Oil & Gas    | Data       | Resistivity  | Formation    | Structures |
+Mesoproterozoic    | Igneous    | Rim      | Polarization | Geothermal  | Velocity   | Log          | Sequences    | Sandstones |
+Ordovician         | Metamorphic| Cover    | Intensity    | Water        | Correlation| Induction    | Supergroup   | Dikes      |
+Lower Jurassic     | Limestone  | Edge     | Dynamics      | Surface      | Migration  | Modeling     | Subgroup     | Unconformity|
+Upper Jurassic     | Shale      | Normal   | Inversion     | Geopressure  | Acquisition| Magnetometer | Parasequence | Plugs      |
+Triassic           | Sandstone  | Default  | Refraction    | Subsidence   | Reduction  | Electromagnet| Formation    | Diapir     |
+Cretaceous         | Conglomerate| Overload | Pattern       | Wind         | Amplitude  | Surveying    | Subformation | Overthrusts|
+Holocene           | Claystone  | Component| Magnetites    | Neutron      | Seismogram  | Magnetotelluric | Biozone     | Anticlines |

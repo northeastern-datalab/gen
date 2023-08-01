@@ -1,0 +1,9 @@
+Product | Supplier | Cost | Price | Quantity | Category | Location | Revenue | Growth
+Software | AcmeCorp | 500 | 500 | 20 | SaaS | USA | 5M | 10%
+Hardware | ABCCorp | 1000 | 1500 | 1 | Server | CAN | 500M | 20%
+Services | DEFInc | 200 | 300 | 30 | Consulting | AUS | 100K | 40%
+Cloud | XYZCo | 400 | 500 | 5 | Hosting | JPN | 25M | 50%
+Data | GHICorp | 800 | 1000 | 10 | Analytics | UK | 500K | 70%
+Analytics | LMNPty | 900 | 1100 | 5 | Software | CAN | 10M | 80%
+Mobility | PQRSLtd | 700 | 800 | 15 | Mobile | USA | 1M | 30%
+E-Commerce | OPQRInc | 600 | 700 | 20 | Web Services | AUS | 5K | 60%

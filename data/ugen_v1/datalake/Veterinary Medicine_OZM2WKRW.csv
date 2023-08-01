@@ -1,0 +1,9 @@
+Name  | Clinic | Type | Reason | Medication | Dosage | Frequency | Cost 
+Dog   | A      | Vaccine | Distemper  | Neopar     | 1     | Daily     | $25
+Cat   | B      | Vaccine | Parvo      | Fervac-DHP | 1     | Monthly   | $35
+Cat   | C      | Vaccine | Rabies     | Maxcillin  | 2     | Weekly    | $45
+Dog   | A      | Test    | Heartworm  | Canex      | 2     | Twice     | $40
+Cat   | B      | Test    | Lyme      | Rimadyl    | 1     | Daily     | $28
+Bird  | C      | Test    | Avian Flu  | Doxycycline| 0.5   | Occasionally | $09
+Rabbit| B      | Vaccine | Myxomatosis| Frontline  | 0.5   | Yearly    | $50
+Horse | A      | Test    | Strangles  | Penicillin | 3     | Monthly   | $65

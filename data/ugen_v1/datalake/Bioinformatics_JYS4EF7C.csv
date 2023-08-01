@@ -1,0 +1,7 @@
+Gene|Function|Structure|Affinity|Transcription Factor|Pathway  
+HBA1|Hemoglobin subunit alpha|alpha helix|Low|CREB|Adipogenesis
+HBA2|Hemoglobin subunit beta|Beta strand|High|E2F1|Hematopoiesis
+APP|Amyloid precursor protein |Alpha sheet|Medium|EBP-1 |Apoptosis
+ERBB1|Epidermal growth factor receptor|Alpha helix|Low|E2F1|Glycolysis
+SOX9| sex determining region Y-box 9|Beta strand|High|CREB|Lipogenesis
+TP53|Tumor protein p53|Alpha sheet|Medium|EBP-1|Signaling Pathway

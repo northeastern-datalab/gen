@@ -1,0 +1,6 @@
+Network|Gateway|OSI Model|TCP/IP|LAN|WAN|VPN
+Router|192.168.1.1|Physical Layer|IPv4|wired|cellular|encrypted connection
+Firewall|192.168.1.1|Data Link Layer|IPv6|wireless|satellite|security protocols
+Switch|192.168.1.1|Network Layer|UDP|Bluetooth|Fiber Optic|tunneling
+Hub|192.168.1.1|Transport Layer||Wi-Fi||encapsulation
+Bridge|192.168.1.1|Session Layer||Infrared||NAT

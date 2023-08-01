@@ -1,0 +1,6 @@
+Expression | Term | Variable | Coefficient | Constant |
+ax+b | Linear | x | a | b |
+ax^2+bx+c | Quadratic | x | a | b | c |
+ax^3+bx^2+cx+d | Cubic | x | a | b | c | d |
+ax^4+bx^3+cx^2+dx+e | Quartic | x | a | b | c | d | e |
+ax^5+bx^4+cx^3+dx^2+ex+f | Quintic | x | a | b | c | d | e | f |

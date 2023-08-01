@@ -1,0 +1,6 @@
+Name  | Breed | Age | Gender | Color | Weight | Height | Vaccines  | Meds  | Neutered | Tests | X-Ray | Ultrasound | Cost
+Cat   | Siamese |  3   | Female | Gray  |  10lbs |  2'    | Rabies   | Clavamox | Yes     | CBC    | Yes   | Yes      | $50 
+Dog   | Lab     |  5   | Male   | Black |  50lbs |  2.5'  | Parvo    | Rimadyl |  No     | UA     |  No   | No       | $100
+Bird  | Parakeet|  2   | Female | Green |  1lbs  |  0.5'  | ADT      | Amoxicly | Yes     | Bile    |  No   | Yes      | $80
+Rabbit| Lop     |  6   | Male   | White |  8lbs  |  1.5'  | Myxo     | Cerenia  | Yes     | Lactic  |  No   | No       | $25
+Horse | Thoroughbred | 10 | Male | Brown | 1200lbs | 6'   | Tetanus  | Phenylbutazone | Yes | CBC    | Yes   | No       | $175

@@ -1,0 +1,6 @@
+Name | Breed | Maintenance | Temperature | Feeding | Grooming | Exercise | Environment | Weight | Life Expectancy
+Dog   | Pitbull | Daily   | Warm    | Dry     | Regular  | Daily  | Outdoors  | 30 lbs  | 12-15 Years 
+Cat   | Persian | Weekly  | Room Temp| Wet     | Occasional| Daily  | Indoors   | 12 lbs  | 14-20 Years
+Bird  | Parakeet| Monthly | Room Temp| Pellets | Occasional| Weekly | Cage      | 0.1 lbs  | 4-10 Years
+Rabbit|Lop Ear  | Daily   | Warm    | Pellets | Regular  | Twice Day| Cage      | 3 lbs   | 8-10 Years
+Horse |Arabian  | Twice Day| Cool    | Hay     | Regular  | Twice Day| Outdoors  | 900 lbs  | 30-40 Years

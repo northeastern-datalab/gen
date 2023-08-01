@@ -1,0 +1,16 @@
+Name  | Groomer | Breed | Age | Weight | Temperament | Fur  | Color | Medical 
+Dog     | Y       | Poodle | 5   | 12 lbs | Friendly    | Long  | Gray  | Rabies 
+Cat     | N       | Siamese| 7   | 15 lbs | Cautious    | Short | White | Immunizations 
+Cat     | Y       | Ragdoll| 8   | 10 lbs | Playful     | Long  | Brown | Neutering 
+Dog     | N       | German| 3   | 80 lbs | Aggressive  | Short | Black | Parasite 
+Rabbit  | N       | Rex   | 4   | 4 lbs  | Skittish    | Short | White | Surgery 
+Bird    | Y       | Parrot| 1   | 2 lbs  | Social      | Long  | Green | Vaccines 
+Horse   | N       | Arabian | 6  | 500 lbs | Calm        | Long  | Chest | Hoof Trim 
+Pig     | Y       | Potbelly| 3  | 50 lbs  | Curious     | Short | Pink  | Worming 
+Fox     | N       | Red    | 5   | 15 lbs | Intelligent | Long  | Red   | Check-up 
+Rat     | Y       | Fancy  | 3   | 0.25lbs| Bold        | Short | Gray  | Dental 
+Ferret  | N       | Standard | 4  | 2 lbs  | Mischievous | Long  | White | Nursing 
+Goat    | Y       | Angora | 8   | 120 lbs| Obedient    | Medium| Brown | X-rays 
+Sheep   | N       | Merino | 7   | 30 lbs | Timid       | Long  | White | Anesthesia  
+Llama   | Y       | Ccara | 9    | undefined | Docile     | Short | Brown | Coggins 
+Alpaca  | N       | Rexo | 10   | undefined | Affectionate| Long  | Black | Deworming

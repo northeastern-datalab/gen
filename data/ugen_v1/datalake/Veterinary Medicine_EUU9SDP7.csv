@@ -1,0 +1,11 @@
+Name  | Clinic | Type | Date | Time | Problem  | Medication | Result | Cost
+Dog   | A      | X-ray | 1/3  | 9am  | Injury    | Amoxicillin | Clear  | $100
+Cat   | B      | Exam  | 1/4  |10am  | Pain      | Ibuprofen  | Fluid   | $50
+Cat   | C      | Scan  | 1/5  | 11am | Appetite  | Pepto-Bismol | Normal | $120
+Dog   | A      | X-ray | 6/9  | 3pm  | Laceration | Doxycycline | Resolved | $125
+Dog   | C      | Exam  | 2/10 | 4pm  | Fever     | Tylenol     | Reduced  | $25
+Cat   | B      | Scan  | 3/11 | 5pm  | Limping   | Advil      | Improved | $70
+Bird  | B      | X-ray | 4/11 | 6pm  | Coughing  | Robitussin | Increased | $175
+Rabbit| C      | Exam  | 5/12 | 7pm  | Weakness  | Benadryl   | N/A      | $95
+Fox   | A      | Scan  | 6/13 | 8pm  | Itching   | Cortisone  | N/A      | $50
+Otter | B      | X-ray | 7/14 | 9pm  | Diarrhea  | Flagyl     | Resolved  | $200

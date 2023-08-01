@@ -1,0 +1,4 @@
+Network|Modification |Ontology |Ontology Class |Directedness |Deregulation |Disease 
+Protein-Protein|Phosphorylation |Gene Ontology |GO:1904616 |Directed |Increased |Cardiovascular
+Protein-Gene|RNA-editing |Gene Ontology |GO:0046872 |Directed |Decreased |Parkinson's
+Metabolism-Signalling|Methylation |Gene Ontology |GO:0097684 |Directed |Increased |Cancer

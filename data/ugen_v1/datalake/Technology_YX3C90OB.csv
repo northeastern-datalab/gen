@@ -1,0 +1,6 @@
+Tech|OS|Data Format|User Support|Component|Logic|Data Center|Encryption|Security|Protocol|Cloud Access|AI|Networking|Programming
+Desktop|Windows|XML|Technical Support|RAM|FALSE|Single Server|AES|Firewall|HTTP|SaaS|ELIZA|Cellular|Loop
+Tablet|Android|JSON|Help Desk|Processor|TRUE|Multiple Servers|SHA|Antivirus|FTP|PaaS|Google Assistant|Wi-Fi|Conditional
+Laptop|Mac OS X|YAML|Forum|Graphics Card|NOT|Cluster|RSA|Port Scanner|HTTPS|IaaS|Siri|Ad-Hoc|Variable
+Smartphone|iOS|TXT|FAQs|USB Ports|AND|Data Warehouse|DES|Malware|DNS|Serverless|Alexa|Mesh|Subroutines
+Server|Linux|CSV|Chatbot|Network Card|OR|Data Lake|3DES|Intrusion Detection|TCP/IP|CodeDeploy|Cortana|LAN|Data Structures

@@ -1,0 +1,9 @@
+Chronostratigraphic | Lithologic     | Reflection  | Electrical   | Structural  | Chemical    | Biostratigraphic | Seismic   | Porosity      | Permeability | Geophysical   |
+Silurian            | Breccia        | Migration   | Logging     | Formations  | Clastics    | Zones          | Exploration| Formation    | Discontinuity| Tomography    |
+Upper Jurassic      | Conglomerate   | Acquisition | Modeling    | Folds       | Carbonates  | Member          | Images    | Rock         | Pores        | Surveys       |
+Permian             | Dolomite       | Reduction   | Magnetometer| Overthrusts | Lithologies | Biostratigraphy| Log       | Lithologic   | Traps        | Seismographs  |
+Devonian            | Clastic rocks  | Imaging     | Radiometry  | Diapir      | Isotopes    | Interval       | Data      | Identification| Resistivity  | Profile       |
+Triassic            | Limestones     | Seismogram  | Constant    | Anticline   | Biosignature| Horizons        | Trapping  | Alteration    | Structure     | Seismic       |
+Lower Jurassic      | Sandstone      | Velocity    | Electromagnet| Dikes       | Lithology   | Subzone         | Reflection | Properties    | Fluid         | Acquisition   |
+Cretaceous          | Igneous        | Correlation | Induction   | Plugs       | Subsurface  | Facies          | Refraction | Matrix        | Capillary     | Induction     |
+Cambrian-Ordovician | Metamorphic    | Synthetics  | Log         | Unconformity | Geochemistry| Series          | Velocity  | Identification| Migration     | Validation    |

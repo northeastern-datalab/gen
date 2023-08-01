@@ -1,0 +1,3 @@
+Semantics| Syntax | Variables | Logic | Language | Assembly | Constants | Pointers | Memory Address | Arrays | Register | Expressions | Tokens
+Parser | Grammar | Variable Declaration | Boolean | C | opCode | Immutable | Direct | Hexadecimal | Collections | AX | Operators | Lexemes
+Lexer | Syntax Tree | Initialization | Propositions | C++ | Instruction Set | Literal | Indirect | Decimal | Matrices | BH | Statements |

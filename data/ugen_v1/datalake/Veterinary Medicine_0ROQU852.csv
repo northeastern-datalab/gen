@@ -1,0 +1,10 @@
+Name  | Diagnosis | Treatment | Vaccine | Surgery | Tests | Medication | Nutrition | Lab 
+Dog   | Infected | Antibiotics | Rabies   | Spay    | CBC     | Omega-3    | Balance   | CBC
+Cat   | Arthritis | Steroids    | Feline   | Neuter   | Blood Work | Ibuprofen  | Vitamins | Urine
+Cat   | Allergy   | Allergy Med | FVRCCP  | Declaw  | X-Ray     | Xanax      | Wet Food | Fecal
+Dog   | Broken Bone | Splint     | DHPP    | Amputate | MRI       | Tramadol   | Dry Food | Cultures
+Dog   | Trauma    | Pain Med    | Lyme    | Tumor    | Ultrasound | Gabapentin | Supplements | Blood
+Cat   | Tumor     | Chemo      | FeLV    | Skin Graft | EKG      | Cephalexin | Digestive  | Enzyme
+Bird  | Parasites | Dewormer   | NPIP    | Beak Trim | EEG      | Prednisone | Carbs      | Fungal
+Rabbit| Laceration | Bandage    | RVHD-2  | Nail Trim | Angiogram | Somac     | Minerals   | Serology 
+Horse | Seizures  | Phenobarb  | WNV     | Strangles | Biopsy    | Metacam    | Obesity     | PCR

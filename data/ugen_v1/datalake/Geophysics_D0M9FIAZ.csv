@@ -1,0 +1,6 @@
+Well    | Lithologic    | Reflection  | Electrical    | Seismic     |
+Log A        | Mudstone      | Modeling    | Electrical Log | Seis Survey |
+Log B        | Conglomerate  | Migration   | Induction Log  | Seis Pattern |
+Log C        | Volcanic      | Acquisition | Resistivity    | Seis Data    |
+Log D        | Shale         | Synthetics  | Data           | Seis Record  |
+Log E        | Sandstone     | Correlation | Measurement    | Seis Stack   |

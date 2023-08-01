@@ -1,0 +1,15 @@
+Name | Region | Sea Level Pressure | Air Pressure | Wind Speed | Cloud Cover | Precipitation | Visibility | Average Temperature | Warmest On Record
+New York | Northeast U.S. | 1012 hPa | 1050 hPa | 5 m/s | 50-60% | 45 mm | 25 km | 13.3°C | 37.2°C
+California | West Coast of U.S. | 1013 hPa | 1040 hPa | 3 m/s | 85-95%  | 29 mm | 35 km | 22.2°C | 40.0°C
+Washington, DC | Mid-Atlantic U.S. | 1011 hPa | 1059 hPa | 6 m/s | 60-70% | 54 mm| 24 km | 18.9°C | 39.5°C
+Oregon | West Coast of U.S. | 1008 hPa | 1032 hPa | 4 m/s | 95-100% | 81 mm | 29 km | 16.5°C | 40.6°C
+Hawaii | Central Pacific | 1012 hPa | 1033 hPa | 3 m/s | 85-95% | 34 mm | 22 km | 23.9°C | 33.3°C
+Maine | Northeast U.S. | 1012 hPa | 1047 hPa | 5 m/s | 40-50% | 62 mm | 28 km | 11.0°C | 38.9°C
+Colorado | Rocky Mountain U.S. | 1007 hPa | 1022 hPa | 4 m/s | 80-90% | 34 mm | 35 km | 21.2°C | 44.4°C
+Florida | Southeast U.S. | 1010 hPa | 1030 hPa | 4 m/s | 55-65% | 88 mm | 32 km | 22.4°C | 41.2°C
+Wisconsin | Midwest U.S. | 1011 hPa | 1045 hPa | 6 m/s | 50-60% | 41 mm | 23 km | 13.5°C | 38.3°C
+Michigan | Midwest U.S. | 1012 hPa | 1049 hPa | 5 m/s | 55-65% | 47 mm | 27 km | 14.2°C | 39.4°C
+New Jersey | Northeast U.S. | 1009 hPa | 1051 hPa | 6 m/s | 55-65% | 51 mm | 22 km | 15.7°C | 38.3°C
+Louisiana | Southeastern U.S. | 1013 hPa | 1033 hPa | 5 m/s | 75-85% | 125 mm | 28 km | 22.2°C | 41.8°C
+Arizona | Southwest U.S. | 1007 hPa | 1020 hPa | 5 m/s | 75-85% | 21 mm | 35 km | 20.8°C | 46.8°C
+Alaska | Northwest U.S. | 1010 hPa | 1025 hPa | 4 m/s | 65-75% | 49 mm | 33 km | 9.2°C | 32.2°C

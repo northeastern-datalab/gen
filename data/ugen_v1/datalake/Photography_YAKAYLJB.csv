@@ -1,0 +1,11 @@
+Camera | Lens| Focal Length | Aperture | Shutter Speed | Flash | Resolution | Image Format | Focus | Light Metering | White Balance
+Canon | 50mm | 250mm | f/2.8 | 1/1000 sec | Off | 2000x3000 | JPEG | Auto | Spot | Auto
+Nikon | 75mm | 500mm | f/3.2 | 1/500 sec | On | 4000x6000 | RAW | Fixed | Center-Weighted | Cloudy
+Sony | 15mm | 125mm | f/1.4 | 1/250 sec | Off | 4100x6100 | RAW | Single | Evaluative | Tungsten
+Pentax | 18-135mm | 55mm | f/3.5 | 1/2000 sec | On | 5000x7000 | JPEG | Continuous | Multi-Segment | Daylight
+Fuji | 50-200mm | 300mm | f/4.5 | 1/1000 sec | Off | 6000x8000 | PNG | Manual | Partial | Fluorescent
+Canon | 70-200mm | 200mm | f/2.8 | 1/1500 sec | On | 5100x7100 | TIFF | Single | Spot | Auto
+Nikon | 35mm | 150mm | f/1.4 | 1/300 sec | Off | 4200x6200 | JPEG | Continuous | Evaluative | Cloudy
+Sony | 28-75mm | 80mm | f/3.5 | 1/500 sec | On | 5000x7000 | PNG | Manual | Center-Weighted | Tungsten
+Pentax | 28-105mm | 120mm | f/3.0 | 1/1000 sec | Off | 5200x7200 | TIFF | Auto | Multi-Segment | Daylight
+Fuji | 10-20mm | 80mm | f/4.0 | 1/1000 sec | On | 5900x7900 | JPEG | Single | Partial | Fluorescent

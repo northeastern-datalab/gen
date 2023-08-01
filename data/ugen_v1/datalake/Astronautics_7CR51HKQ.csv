@@ -1,0 +1,4 @@
+Propellant | Thrust | Isp | RCS | Reaction Wheel | Control Module | Sensors | Guidance | Thermal Protection | 
+N2O4 | 11,000 N | 311.3 | Monopropellant | Yes | Computer | Cameras | Autopilot | Insulation |
+UH25 | 7,000 N | 315.7 | Bi-propellant | Yes | Computer | LIDAR | Autopilot | Ablative |
+RP-1 | 490,568 N | 309.5 | Bi-propellant | No | Moog Vecectronic | Laser Altimeter | GPS | Insulated Ceramics |

@@ -1,0 +1,19 @@
+Drug | Drug Type | Route of Administration | Drug Interactions | Fluid Retention | Liverdamage | Cost | Availability | Generic |
+Azithromycin | Antibiotics | Oral | Clarithromycin | Low | None | $ 10 | High | Yes | 
+Cefuroxime | Antibiotics | Intravenous | Anhydrase Inhibitors | Moderate | None | $ 20 | Medium | No |
+Ketamine | Anesthesia | Intramuscular | Cns Stimulants | High | Rare | $ 30 | Low | No |
+Metronidazole | Anti-Diarrheal | Oral | Lithium | Low | Minor | $ 5 | High | Yes |
+Ciprofloxacin | Antibiotics | Intravenous | Omeprazole | Low | None | $ 40 |Low | Yes |
+Diclofenac | Anti-Inflammatory | Oral | Aspirin | Low | None | $ 25 | High | Yes |
+Enoxaparin | Anti-coagulant | Subcutaneous | Heparin | Low | None | $ 18 | Medium | No |
+Ibuprofen | Painkiller | Oral | Phenytoin | Low | None | $ 20 | High | Yes |
+Loperamide | Anti-diarrheal | Oral | Metoclopramide | Low | None | $ 15 | High | Yes |
+Diazepam | Anti-Anxiety | Oral | Zolpidem | Low | None | $ 10 | High | Yes |
+Levothyroxine | Hormone Replacement | Oral | Liothyronine | Low | None | $ 12 | High | Yes |
+Amoxicillin | Antibiotics | Oral | Clavulanic Acid | Low | Minor | $ 30 | High | Yes |
+Phenytoin | Antiepileptic | Oral | Carbamazepine | Low | Yes | $ 35 | Medium |No|
+Klonopin | Antiepileptic | Oral | Ativan | Low | None | $ 40 | Low| No |
+Cefoxitin | Antibiotics | Intravenous | Cephalosporins | Low | None | $ 28 | Medium | No |
+Fentanyl | Analgesic | Transdermal | Morphine | Low | None | $ 52 | Low | No |
+Atenolol | Anti-hypertensive | Oral | Beta-Blockers | Low | Moderate | $ 25 | High | Yes |
+Cimetidine | Antacid and Antiulcer | Oral | H2-Receptor Antagonist | Low | Minor | $ 18 | High | Yes |

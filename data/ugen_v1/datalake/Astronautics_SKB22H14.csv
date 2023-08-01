@@ -1,0 +1,5 @@
+Launch Vehicle | Thruster | Launch Pad | Launch Site | Thermal Protection | Launch Vehicle Design | Mission Type | Main Engine | Control System | Guidance System |
+Falcon-9 | Merlin | SLC-40 | Cape Canaveral | Heat Shield | Re-usable | Orbital Insertion | Merlin Vacuum | GPS | Autopilot |
+Atlas-V | RD-180 | SLC-41 | Vandenberg | RCC | Non-re-usable | Deep Space | RD-180 | Radio/Radar | Inertial |
+Proton-M | NK-33 | LC-200 | Baikonur | Radiator Panels | Non-re-usable | Earth Observation | NK-33 | Autopilot | Star Tracker |
+SpaceShipTwo | Reaction Control | Spaceport America | New Mexico | Radiator Panels | Re-usable | Suborbital | Hybrid Rocket | Gyro Stabilization | Autopilot |

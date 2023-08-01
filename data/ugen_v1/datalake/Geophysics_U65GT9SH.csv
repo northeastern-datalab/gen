@@ -1,0 +1,8 @@
+San Andreas  | San Juan        | Anatolian  | Nubian   | Cascadia      | Apennine  | Aegean     | Kalahari    | Wind River  | Kuril-Kamchatka | Kermadec    | Cocos       | Mariana    | West Caroline  | Denali
+Strike Slip    | Strike Slip     | Strike Slip| Normal   | Subduction    | Thrust    | Rotation   | Extension   | Normal      | Transform      | Subduction  | Strike Slip | Subduction | Transform     | Strike Slip | 
+Continental-oceanic | Continental-oceanic | Continental | Continental| Continental  | Continental| Continental| Continental | Continental | Oceanic-oceanic  | Oceanic     | Oceanic    | Oceanic    | Oceanic-oceanic | Continental | 
+Transform     | Right Lateral    | Left Lateral | Left Lateral | Megathrust    | Backthrust | Normal     | Normal      | Right Lateral | Strike slip     | Transform  | Right Lateral| Left Lateral| Strike Slip    | Left Lateral | 
+Granitic      | Intraplate      | Plate        | Plate       | Subduction    | Thrust     | Thrust     | Extension   | Intraplate    | Strike Slip     | Subduction | Strike Slip| Left Lateral| Strike Slip    | Right Lateral | 
+Lithospheric  | Lithospheric    | Intraplate   | Intraplate  |               |            |           | Intraplate  |               | Transform      |           | Intraplate | Right Lateral| Transform     | Intraplate   | 
+Rifting       | Extension       | Rifting      | Extension   |               | Extension  | Normal    | Rifting     |               | Subduction    | Rifting   | Extension  | Extension  | Subduction    | Rifting      | 
+Crustal      | Crustal         | Crustal      | Crustal     |               | Crustal    | Crustal   | Crustal     |               |                | Crustal   | Crustal   | Crustal   | Strike Slip    | Crustal      |

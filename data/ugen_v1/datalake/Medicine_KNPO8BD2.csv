@@ -1,0 +1,8 @@
+Drug | Duration | Price | Over The Counter | Delivery | Cost | Physician |
+Morphine | 24 hrs | 200 USD | No | Prescription| High | Doctor X |
+Victoria | 72 hrs | 65 USD | No | Mail-Order | Low | Doctor Y |
+Ibuprofen | 8 hrs | 10 USD | Yes | In Person | Moderate | Doctor Z |
+Zolpidem | 4 hrs| 120 USD | No | EMail | Low | Doctor A |
+Acetaminophen | 12 hrs| 25 USD | Yes | Online | Moderate | Doctor B |
+Valerian | 48 hrs | 55 USD | No | Express | High | Doctor C |
+Promethazine | 36 hrs | 75 USD | Yes | Delivery | High | Doctor D |

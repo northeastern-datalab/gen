@@ -1,0 +1,13 @@
+Biome | EcoRegion | Flora | Fauna | Abiotic | Population | Land Use | Species Loss | Threats 
+---- | --------- | ----- | ----- | -------- | ---------- | -------- | ------------ | ------- 
+Tundra | Boreal | Mosses | Musk ox | Rock | Low | None | Low | Industrial 
+Taiga | Boreal | Conifers | Grizzly bear | Air | Low | Hunting | Low | Logging 
+Rainforest | Tropical | Broadleaf trees | Gorilla | Water | High | Deforestation | High | Deforestation 
+Desert | Semi-arid | Succulents | Kangaroo rat | Sand | Low | Grazing | Low | Mining 
+Grassland | Prairie | Grasses | Bison | Minerals | Low | Agriculture | High | Pollution 
+Temperate Forest | Temperate | Trees and shrubs | Fox | Sunlight | Medium | Logging | Medium | Fire 
+Marsh | Wetland | Bulrushes | Muskrat | Silt | Low | Draining | High | Oil Spill 
+Iceberg | Antarctic | None | Penguin | Ice | Low | None | Low | Melting 
+Prairie | Grassland | Wildflowers | Elk | Heat | Low | Human Activity | High | Farming 
+Savannah | Tropical | Grass | Giraffe | Carbon dioxide | Low | Grazing | Medium | Climate Change 
+Tropical Forest | Tropical | Palms | Monkeys | Oxygen | High | Logging | High | Industrialization

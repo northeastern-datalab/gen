@@ -1,0 +1,6 @@
+Product | Supplier | Cost | Price | Quantity | Warranty | Expiration | Delivery | Satisfaction | Taxes | Discounts | Bonus
+Software | AcmeCorp | 500 | 500 | 20 | 1 yr | 2019-05-15 | fast | high | 0 | 5% | 1 free
+Hardware | ABCCorp | 1000 | 1500 | 1 | 2 yr | 2019-11-30 | slow | low | 15 | 10% | 2 free
+Services | DEFInc | 200 | 300 | 30 | 0 yr | 2019-06-20 | medium | medium | 0 | 20% | 3 free
+Cloud | XYZCo | 400 | 500 | 5 | 0.5 yr | 2019-07-10 | fast | high | 25 | 15% | 4 free
+Data | GHICorp | 800 | 1000 | 10 | 1 yr | 2019-09-01 | slow | low | 10 | 30% | 5 free

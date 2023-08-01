@@ -1,0 +1,6 @@
+Product | Supplier | Cost | Price | Quantity | Profit | Market Share | Customers | Revenue | Sales | Growth | Cash Flow |  Assets | Liabilities 
+Software | AcmeCorp | 500 | 500 | 20 | 0 | 10% | 10000 | 5M | 1000 | 10% | 20K | 400M | 200M
+Hardware | ABCCorp | 1000 | 1500 | 1 | 500 | 20% | 50000 | 500M | 10000 | 20% | 10M | 700M | 300M
+Services | DEFInc | 200 | 300 | 30 | 100 | 30% | 1000 | 100K | 500 | 40% | 2M | 200M | 100M
+Cloud | XYZCo | 400 | 500 | 5 | 100 | 40% | 50000 | 25M | 2000 | 50% | 5K | 500M | 250M
+Data | GHICorp | 800 | 1000 | 10 | 200 | 50% | 20000 | 500K | 1000 | 70% | 25K | 800M | 400M

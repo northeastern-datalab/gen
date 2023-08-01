@@ -1,0 +1,4 @@
+Sequence |Location |Protein Expression |Translocation |Interaction Partners |RNA Binding |pI |3D Domain
+CGGATTT|Intron|High|None |AP-2γ|Yes|9.86 |Coiled-coil
+CGGGATT|Exon|Moderate|Retrotransposition |MECP2 |No |5.97 |Sandwich 
+CTGGATT|Intron|Low|Alternative transcripts |NF-κB |Yes |7.56 |Beta-sheets

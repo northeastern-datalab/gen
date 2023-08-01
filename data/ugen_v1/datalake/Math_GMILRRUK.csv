@@ -1,0 +1,15 @@
+Expression | Term | Variable | Constant | Series |
+arctanx | Arc tangent | x | n/a | n/a |
+arcsinx | Arc sine | x | n/a | n/a |
+arccosx | Arc cosine | x | n/a | n/a |
+arccscx | Arc cosecant | x | n/a | n/a |
+arcsecx | Arc secant | x | n/a | n/a |
+arccotx | Arc cotangent | x | n/a | n/a |
+power(x,y) | x raised to y | x,y | n/a | n/a |
+logx | Logarithm | x | n/a | n/a |
+lnx | Natural logarithm | x | n/a | n/a |
+sinhx | Hyperbolic sine | x | n/a | n/a |
+coshx | Hyperbolic cosine |x | n/a | n/a |
+tanhx | Hyperbolic tangent | x | n/a | n/a |
+cothx | Hyperbolic cotangent | x | n/a | n/a |
+cotHx | Hyperbolic cosecant | x | n/a | n/a |

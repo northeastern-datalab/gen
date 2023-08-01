@@ -1,0 +1,7 @@
+Word|Definition|Engineering Process|Laboratory|Prototype|Simulation|Manufacturing|Integration|Component|Inspection 
+FEA|Finite element analysis|Stress and strain|Physical and electrical|Model and prototype|CFD|Casting|Planned system|PCB|ION 
+BOM|Bill of materials|Project planning|Chemical and biological|3D printing|FEM|Die casting|Architecture|IC|VMI 
+PCA|Process capability analysis|Design process|Geometric and material|Reverse engineering|FEA|Injection molding|Design patterns|Microchip|FOD
+PDM|Product data management|Logistic process|Mechanical assembling|Rapid prototyping|Modal analysis|Forging|Development life cycle|Transistor|FCA
+EQA|Equipment acceptance|Process control|Industrial production|Visualization|Structural analysis|Extrusion|Methodology|Diode|CMM
+MES|Manufacturing execution system|Risk analysis|Management system|Computer aided design|Impact analysis|Stamping|Software engineering|Capacitor|VRI

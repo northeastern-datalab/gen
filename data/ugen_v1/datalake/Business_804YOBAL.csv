@@ -1,0 +1,6 @@
+Product | Supplier | Cost | Price | Quantity | Delivery | Logistics | Return | Warranty | Maintenance | Tax | Discount | Customer Service | Promotion | Profit
+Software | AcmeCorp | 500 | 500 | 20 | Online | Yes | 14d | Yes | Yes | 10% | 10% | 24/7 | Yes | 0
+Hardware | ABCCorp | 1000 | 1500 | 1 | Store | No | No | No | No | 20% | 5% | 12/5 | No | 500
+Services | DEFInc | 200 | 300 | 30 | Online | Yes | 30d | No | No | 15% | 20% | 8/7 | No | 100
+Cloud | XYZCo | 400 | 500 | 5 | Remote | No | 1y | Yes | Yes | 25% | 10% | 24/7 | Yes | 100
+Data | GHICorp | 800 | 1000 | 10 | Store | No | No | Yes | No | 20% | 0% | 12/7 | No | 200

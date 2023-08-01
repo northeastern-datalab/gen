@@ -1,0 +1,9 @@
+Drug | Condition | Price | Quantity | Discount | Revenue | Manufacturer | Pharmacist | 
+Diphenhydramine | Insomnia | $3.75 | 10 | 0% | $37.50 | Company X | Pharmacist 4 | 
+Azelastine | Allergic Rhinitis | $6.00 | 12 | 10% | $56.40 | Company Y | Pharmacist 5 |
+Hydrocodone | Pain Relief | $7.25 | 6 | 20% | $29.40 | Company Z | Pharmacist 6 | 
+Albuterol | Asthma | $2.50 | 15 | 30% | $31.25 | Company A | Pharmacist 7 | 
+Metronidazole | Bacterial Infection | $4.95 | 13 | 40% | $41.90 | Company B | Pharmacist 8 | 
+Ondansetron | Nausea | $5.20 | 8 | 50% | $25.60 | Company C | Pharmacist 1 |
+Levothyroxine | Hypothyroidism | $4.10 | 9 | 60% | $20.70 | Company D | Pharmacist 2 | 
+Advair | Asthma | $6.75 | 4 | 70% | $16.20 | Company E | Pharmacist 3 |

@@ -1,0 +1,16 @@
+Drug | Route | Prescription | Manufacturer | Generic Name | Indication | Price | Disease | Dose | Level 
+Diazepam | Oral | Yes | Amneal Pharmaceuticals | Diazepam | Anxiety | $14-23 | Anxiety | 2.5mg | Severe 
+Famotidine | Oral | Yes | Teva Pharmaceuticals | Famotidine | Heartburn | $11-20 | Reflux | 20mg | Mild 
+Methylprednisolone | Oral | Yes | Watson Laboratories | Methylprednisone | Inflammation | $42-69 | Ulcerative Colitis | 8mg | Severe 
+Gabapentin | Oral | No | Mylan Pharmaceuticals | Gabapentin | Seizures | $10-25 | Epilepsy | 300mg | Mild 
+Metformin | Oral | Yes | Mylan Pharmaceuticals | Metformin ER | Diabetes | $9-25 | Diabetes | 850mg | Severe 
+Atorvastatin | Oral | Yes | Mylan Pharmaceuticals | Atorvastatin | Cholesterol | $9-17 | High Cholesterol | 10mg | Mild 
+Clindamycin | IV | Yes | Watson Laboratories | Clindamycin | Bacterial Infections | $62-149 | Bacterial Infections | 150mg | Severe 
+Ciprofloxacin | Oral | Yes | Apotex Corporation | Ciprofloxacin | Urinary Tract Infections | $9-21 | Urinary Tract Infections | 500mg | Mild 
+Lisinopril | Oral | Yes | Lannett Company | Lisinopril | High Blood Pressure | $11-20 | Hypertension | 10mg | Mild 
+Omeprazole | Oral | Yes | Par Pharmaceuticals | Omeprazole | Heartburn | $22-38 | Reflux | 20mg | Severe 
+Doxycycline | Oral | Yes | Mylan Pharmaceuticals | Doxycycline | Acne | $37-58 | Acne | 100mg | Severe 
+Pravastatin | Oral | Yes | Par Pharmaceuticals | Pravastatin | Cholesterol | $10-27 | High Cholesterol | 40mg | Mild 
+Guaifenesin | Oral | No | Perrigo Company | Guaifenesin | Congestion | $5-17 | Multiple Congestions | 400mg | Severe 
+Cetirizine | Oral | No | Mylan Pharmaceuticals | Cetirizine | Allergies | $13-25 | Allergies | 10mg | Mild 
+Dextromethorphan | Oral | No | Amneal Pharmaceuticals | Dextromethorphan | Cough | $6-18 | Coughs | 15mg | Severe

@@ -1,0 +1,8 @@
+Memory | Clock | Motherboard | Cache | Hard Disk | Bus Speed | Operating System | Graphical User Interface | Monitor | Keyboard | Mouse
+SRAM | MHz | MicroATX | MMX | HDD | GB/s | DOS | MFC | LCD | Multimedia | Ergonomic
+DRAM | GHz | ATX | SSE | SSD | TB/s | XP | X11 | CRT | Mechanical | Wi-Fi
+Flash | Hz | Mini-ATX | SSE2 | RAID | PB/s | 7 | DOSBox | OLED | Wireless | Optical
+Cache | KHz | Mini-ITX | SSE4 | CD-ROM | MB/s | 8 | GTK | HD | Gaming | Bluetooth
+ROM | MHz | Micro-ITX | AVX | DVD | GB/s | 10 | Vulkan | 4K | Programmable | Trackball
+RAM | GHz | AT | AVX2 | Blu-ray | TB/s | iOS | DirectX | 16:9 | Illuminated | Gaming 
+VRAM | KHz | FlexATX | FMA3 | Tape | PB/s | macOS | Xlib | 21:9 | Ergonomic | USB
