@@ -1,0 +1,101 @@
+query_table,data_lake_table,manual_unionable,remarks,final_score
+t_1934eacab8c57857____c10_0____0.csv,t_356fc1eaad97f93b____c5_0____1.csv,2,location and code,1
+t_1934eacab8c57857____c10_0____4.csv,t_67c3f7ce5eab8804____c5_0____3.csv,0,,0
+t_1934eacab8c57857____c11_0____2.csv,t_c701386b7c10b107____c15_0____1.csv,0,,0
+t_1934eacab8c57857____c11_0____4.csv,t_013a2f8c584d44d7____c8_1____4.csv,0,,0
+t_1934eacab8c57857____c12_1____0.csv,t_67c3f7ce5eab8804____c15_0____3.csv,0,,0
+t_1934eacab8c57857____c12_1____2.csv,t_013a2f8c584d44d7____c9_0____3.csv,0,,0
+t_1934eacab8c57857____c12_1____2.csv,t_356fc1eaad97f93b____c7_1____2.csv,2,,1
+t_1934eacab8c57857____c12_1____3.csv,t_ca85e8f9eef5b9d5____c15_0____0.csv,0,,0
+t_1934eacab8c57857____c12_1____3.csv,t_ca85e8f9eef5b9d5____c18_1____2.csv,0,,0
+t_1934eacab8c57857____c12_1____4.csv,t_c701386b7c10b107____c18_0____3.csv,1,country,1
+t_1934eacab8c57857____c14_1____0.csv,t_ece0594e0480a1ed____c6_1____3.csv,0,,0
+t_1934eacab8c57857____c14_1____2.csv,t_013a2f8c584d44d7____c9_0____1.csv,0,,0
+t_1934eacab8c57857____c14_1____2.csv,t_356fc1eaad97f93b____c6_1____3.csv,0,,0
+t_1934eacab8c57857____c14_1____2.csv,t_ca85e8f9eef5b9d5____c6_1____0.csv,0,,0
+t_1934eacab8c57857____c4_1____0.csv,t_ece0594e0480a1ed____c5_1____0.csv,0,,0
+t_1934eacab8c57857____c4_1____1.csv,t_28dc8f7610402ea7____c5_1____2.csv,2,govt organization name and type,1
+t_1934eacab8c57857____c4_1____1.csv,t_67c3f7ce5eab8804____c6_1____4.csv,0,,0
+t_1934eacab8c57857____c4_1____1.csv,t_c701386b7c10b107____c18_0____2.csv,1,country,1
+t_1934eacab8c57857____c4_1____3.csv,t_ca85e8f9eef5b9d5____c17_1____4.csv,0,,0
+t_1934eacab8c57857____c4_1____3.csv,t_ca85e8f9eef5b9d5____c15_0____3.csv,0,,0
+t_356fc1eaad97f93b____c12_1____0.csv,t_1934eacab8c57857____c15_1____0.csv,2,location and code,1
+t_356fc1eaad97f93b____c12_1____0.csv,t_013a2f8c584d44d7____c9_1____0.csv,0,,0
+t_356fc1eaad97f93b____c12_1____2.csv,t_93f3d6f7fc6aa6ff____c19_0____2.csv,1,subdivision,1
+t_356fc1eaad97f93b____c12_1____4.csv,t_93f3d6f7fc6aa6ff____c16_0____2.csv,1,subdivision,1
+t_356fc1eaad97f93b____c14_1____1.csv,t_1934eacab8c57857____c9_1____1.csv,2,region id and region name,1
+t_356fc1eaad97f93b____c14_1____1.csv,t_93f3d6f7fc6aa6ff____c17_0____3.csv,1,subdivision,1
+t_356fc1eaad97f93b____c14_1____3.csv,t_1934eacab8c57857____c7_1____1.csv,1,division,1
+t_356fc1eaad97f93b____c14_1____3.csv,t_28dc8f7610402ea7____c6_0____3.csv,2,province and subdivision,1
+t_356fc1eaad97f93b____c14_1____4.csv,t_93f3d6f7fc6aa6ff____c19_0____0.csv,1,subdivision,1
+t_356fc1eaad97f93b____c15_0____0.csv,t_93f3d6f7fc6aa6ff____c6_0____0.csv,1,road names,1
+t_356fc1eaad97f93b____c15_0____0.csv,t_67c3f7ce5eab8804____c9_1____1.csv,2,road names,1
+t_356fc1eaad97f93b____c15_0____0.csv,t_67c3f7ce5eab8804____c15_0____3.csv,2,road names,1
+t_356fc1eaad97f93b____c15_0____1.csv,t_28dc8f7610402ea7____c6_1____4.csv,1,subdivision,1
+t_356fc1eaad97f93b____c16_1____1.csv,t_67c3f7ce5eab8804____c15_0____1.csv,2,road names,1
+t_356fc1eaad97f93b____c16_1____4.csv,t_93f3d6f7fc6aa6ff____c6_0____4.csv,2,road names,1
+t_356fc1eaad97f93b____c16_1____4.csv,t_93f3d6f7fc6aa6ff____c17_1____2.csv,1,address,1
+t_356fc1eaad97f93b____c18_0____1.csv,t_ca85e8f9eef5b9d5____c15_0____3.csv,0,,0
+t_356fc1eaad97f93b____c18_0____1.csv,t_93f3d6f7fc6aa6ff____c7_1____3.csv,1,locations,1
+t_356fc1eaad97f93b____c18_0____1.csv,t_013a2f8c584d44d7____c5_1____2.csv,0,,0
+t_356fc1eaad97f93b____c18_0____4.csv,t_c701386b7c10b107____c15_0____2.csv,1,provinces,1
+t_67c3f7ce5eab8804____c10_0____0.csv,t_ca85e8f9eef5b9d5____c18_1____0.csv,0,,0
+t_67c3f7ce5eab8804____c10_0____1.csv,t_ca85e8f9eef5b9d5____c15_0____0.csv,0,,0
+t_67c3f7ce5eab8804____c10_0____1.csv,t_93f3d6f7fc6aa6ff____c5_0____1.csv,2,location and date,1
+t_67c3f7ce5eab8804____c10_0____3.csv,t_013a2f8c584d44d7____c8_0____1.csv,0,,0
+t_67c3f7ce5eab8804____c12_0____0.csv,t_93f3d6f7fc6aa6ff____c18_0____2.csv,2,location and date,1
+t_67c3f7ce5eab8804____c12_0____0.csv,t_93f3d6f7fc6aa6ff____c19_0____1.csv,2,location and date,1
+t_67c3f7ce5eab8804____c12_0____0.csv,t_93f3d6f7fc6aa6ff____c19_1____3.csv,2,locations,1
+t_67c3f7ce5eab8804____c12_0____1.csv,t_1934eacab8c57857____c18_0____3.csv,0,,0
+t_67c3f7ce5eab8804____c12_0____4.csv,t_ca85e8f9eef5b9d5____c8_1____2.csv,0,,0
+t_67c3f7ce5eab8804____c5_0____0.csv,t_356fc1eaad97f93b____c15_0____2.csv,1,location,1
+t_67c3f7ce5eab8804____c5_0____2.csv,t_356fc1eaad97f93b____c9_1____1.csv,1,location,1
+t_67c3f7ce5eab8804____c5_0____3.csv,t_93f3d6f7fc6aa6ff____c19_0____2.csv,2,addresses,1
+t_67c3f7ce5eab8804____c6_0____2.csv,t_1934eacab8c57857____c9_1____4.csv,0,,0
+t_67c3f7ce5eab8804____c6_0____2.csv,t_93f3d6f7fc6aa6ff____c19_1____3.csv,2,location and landmark,1
+t_67c3f7ce5eab8804____c6_0____3.csv,t_c701386b7c10b107____c18_0____4.csv,0,,0
+t_67c3f7ce5eab8804____c6_0____3.csv,t_93f3d6f7fc6aa6ff____c17_0____4.csv,2,addresses,1
+t_67c3f7ce5eab8804____c6_0____4.csv,t_356fc1eaad97f93b____c7_0____4.csv,0,,0
+t_67c3f7ce5eab8804____c9_0____0.csv,t_1934eacab8c57857____c7_1____2.csv,0,,0
+t_67c3f7ce5eab8804____c9_0____2.csv,t_28dc8f7610402ea7____c8_0____1.csv,2,province localities,1
+t_67c3f7ce5eab8804____c9_0____4.csv,t_356fc1eaad97f93b____c15_1____4.csv,2,codes and locations,1
+t_93f3d6f7fc6aa6ff____c13_1____0.csv,t_ca85e8f9eef5b9d5____c18_0____1.csv,0,,0
+t_93f3d6f7fc6aa6ff____c13_1____0.csv,t_1934eacab8c57857____c8_1____3.csv,0,,0
+t_93f3d6f7fc6aa6ff____c13_1____2.csv,t_356fc1eaad97f93b____c17_0____3.csv,1,location,1
+t_93f3d6f7fc6aa6ff____c13_1____3.csv,t_ca85e8f9eef5b9d5____c6_0____3.csv,0,,0
+t_93f3d6f7fc6aa6ff____c13_1____3.csv,t_1934eacab8c57857____c5_1____4.csv,0,,0
+t_93f3d6f7fc6aa6ff____c13_1____4.csv,t_28dc8f7610402ea7____c8_0____1.csv,2,org name and location,1
+t_93f3d6f7fc6aa6ff____c13_1____4.csv,t_356fc1eaad97f93b____c6_1____1.csv,0,,0
+t_93f3d6f7fc6aa6ff____c15_0____0.csv,t_28dc8f7610402ea7____c8_0____4.csv,2,transport org and location,1
+t_93f3d6f7fc6aa6ff____c15_0____1.csv,t_356fc1eaad97f93b____c6_0____2.csv,0,,0
+t_93f3d6f7fc6aa6ff____c15_0____4.csv,t_c701386b7c10b107____c5_0____4.csv,0,,0
+t_93f3d6f7fc6aa6ff____c16_0____0.csv,t_c701386b7c10b107____c7_0____4.csv,0,,0
+t_93f3d6f7fc6aa6ff____c16_0____4.csv,t_ca85e8f9eef5b9d5____c7_0____2.csv,0,,0
+t_93f3d6f7fc6aa6ff____c17_0____0.csv,t_356fc1eaad97f93b____c6_0____3.csv,0,,0
+t_93f3d6f7fc6aa6ff____c17_0____1.csv,t_67c3f7ce5eab8804____c15_0____4.csv,1,road,1
+t_93f3d6f7fc6aa6ff____c17_0____1.csv,t_1934eacab8c57857____c9_1____0.csv,0,,0
+t_93f3d6f7fc6aa6ff____c17_0____4.csv,t_c701386b7c10b107____c8_1____4.csv,0,,0
+t_93f3d6f7fc6aa6ff____c18_1____0.csv,t_1934eacab8c57857____c6_1____4.csv,0,,0
+t_93f3d6f7fc6aa6ff____c18_1____1.csv,t_ece0594e0480a1ed____c7_0____3.csv,0,,0
+t_93f3d6f7fc6aa6ff____c18_1____3.csv,t_ca85e8f9eef5b9d5____c6_0____4.csv,0,,0
+t_93f3d6f7fc6aa6ff____c18_1____4.csv,t_c701386b7c10b107____c17_1____4.csv,0,,0
+t_c701386b7c10b107____c11_0____0.csv,t_013a2f8c584d44d7____c8_0____0.csv,0,,0
+t_c701386b7c10b107____c11_0____0.csv,t_93f3d6f7fc6aa6ff____c7_0____2.csv,0,,0
+t_c701386b7c10b107____c11_0____4.csv,t_ca85e8f9eef5b9d5____c9_1____0.csv,0,,0
+t_c701386b7c10b107____c12_1____0.csv,t_ca85e8f9eef5b9d5____c9_0____1.csv,0,,0
+t_c701386b7c10b107____c12_1____1.csv,t_28dc8f7610402ea7____c5_1____3.csv,0,,0
+t_c701386b7c10b107____c12_1____2.csv,t_356fc1eaad97f93b____c19_1____2.csv,0,,0
+t_c701386b7c10b107____c12_1____3.csv,t_013a2f8c584d44d7____c6_1____4.csv,0,,0
+t_c701386b7c10b107____c12_1____4.csv,t_67c3f7ce5eab8804____c7_1____3.csv,0,,0
+t_c701386b7c10b107____c12_1____4.csv,t_356fc1eaad97f93b____c8_0____3.csv,0,,0
+t_c701386b7c10b107____c14_0____2.csv,t_013a2f8c584d44d7____c7_0____4.csv,0,,0
+t_c701386b7c10b107____c14_0____2.csv,t_ca85e8f9eef5b9d5____c8_0____4.csv,0,,0
+t_c701386b7c10b107____c18_1____0.csv,t_ece0594e0480a1ed____c6_0____1.csv,0,,0
+t_c701386b7c10b107____c18_1____1.csv,t_93f3d6f7fc6aa6ff____c15_0____4.csv,0,,0
+t_c701386b7c10b107____c18_1____1.csv,t_ca85e8f9eef5b9d5____c16_1____3.csv,0,,0
+t_c701386b7c10b107____c18_1____1.csv,t_ca85e8f9eef5b9d5____c6_0____4.csv,0,,0
+t_c701386b7c10b107____c18_1____1.csv,t_356fc1eaad97f93b____c15_1____2.csv,0,,0
+t_c701386b7c10b107____c18_1____4.csv,t_1934eacab8c57857____c9_1____3.csv,1,country,1
+t_c701386b7c10b107____c20_1____0.csv,t_013a2f8c584d44d7____c6_1____1.csv,0,,0
+t_c701386b7c10b107____c20_1____3.csv,t_356fc1eaad97f93b____c17_1____4.csv,0,,0
+t_c701386b7c10b107____c20_1____4.csv,t_93f3d6f7fc6aa6ff____c6_0____2.csv,0,,0

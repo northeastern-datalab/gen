@@ -12,3 +12,4 @@ To run the Starmie-LLM method, you can run the script ```llm_prompting.py``` fou
 
 ## result files
 The ```evaluation``` folder contains code we used to evaluate our results from both existing and new table union search methods. The ```new_stats``` folder within this folder contains our result pickle files from our experiments.
+The ```manual_benchmark_validation_results``` folder contains our manually validated results for UGEN_V1 and 100 sampled non-unionable pairs from TUS-Small.
