@@ -1,0 +1,11 @@
+;CensusID;BotanicalName;ScientificClassification;NativeOrIntroduced;OptimalSunlight;pHarDiNeSS;LeAFArRANGEmeNT;SoilTyPe;WateRIngNeEd;SuGaRSPrUNInGGTeChniQUE;PRoPErCoUlsCOde;Cultivar;AdditionalNotes
+0; 1;Malus domestica;Rosaceae;Introduced;Partial Shade;pH 6-6.5;Alternate;Loamy;Medium;Prune in late winter or early spring;Zone 3-8;Golden Delicious;Disease resistant cultivar.
+1;2;Citrus sinensis;Rutaceae;Introduced;Full Sun;pH 6-7.5;Alternate;Sandy Loam;High;Prune in late winter or early spring;Zone 9-11;Valencia;Heat tolerant cultivar.
+2;3;Rosa hybrida;Rosaceae;Native;Full Sun;pH 6-7;Climbing;Loamy;Medium;Prune in late winter or early spring;Zone 4-9;Peace;Fragrant, disease resistant.
+3;4;Quercus robur;Fagaceae;Native;Partial Shade;pH 5.5-8.5;Alternate;Loamy;Medium;Prune in late winter or early spring;Zone 3-9;Oak;Requires acidic to neutral soil.
+4;5;Lilium hybrid;Liliaceae;Introduced;Partial Shade;pH 6-8;Alternate;Well-drained;Medium;Prune in late summer after foliage has died back;Zone 3-9;Star Gazer;Requires support for taller varieties.
+5;6;Prunus avium;Rosaceae;Native;Full Sun;pH 6-6.5;Alternate;Loamy;Medium;Prune in late winter or early spring;Zone 4-8;Sweet Cherry;Bird resistant cultivar.
+6;7;Camellia japonica;Theaceae;Introduced;Partial Shade;pH 5.5-6.5;Alternate;Acidic;Medium;Prune in early spring;Zone 7-9;Japonica;Can be used as an evergreen hedge.
+7;8;Cornus florida;Cornaceae;Native;Partial Shade;pH 6-6.5;Opposite;Loamy;Medium;Prune in late winter or early spring;Zone 5-8;Flowering Dogwood;Attracts butterflies and birds.
+8;9;Cercis canadensis;Fabaceae;Native;Partial Shade;pH 6-7;Alternate;Loamy;Medium;Prune in late winter or early spring;Zone 4-8;Eastern Redbud;Flowers early spring before leaves appear.
+9;10;Aesculus hippocastanum;Hippocastanaceae;Introduced;Partial Shade;pH 6-7;Opposite;Loamy;Medium;Prune in late winter or early spring;Zone 4-7;Buckeye;Can be toxic to livestock if ingested.</s>

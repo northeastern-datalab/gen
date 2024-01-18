@@ -1,0 +1,11 @@
+;Quantitative Financial Analysis; CompanyName; CensusClassCode (e.g., NAICS Code); AnnualIncome; YearlyCosts?; PresentAssetsValue; PresentLiabilitiesValue; BalanceSheetTotal; NetIncomePercentage; GrossMargin%; OperatingMargin%; PretaxMargin%; AftertaxMargin%; ROAPercentage; CapitalExpenditureRatio
+0;" ""ABC Enterprises"; 541511; Information Technology Services; $5,000,000; Yes; $8,000,000; $3,000,000; $11,000,000; 45%; 65%; 50%; 40%; 30%; 20%;" 10%"""
+1;"""XYZ Consulting"; 541512; Computer Systems Design Services; $8,000,000; Yes; $12,000,000; $4,000,000; $16,000,000; 50%; 70%; 60%; 50%; 40%; 30%;" 15%"""
+2;"""DEF Industries"; 334111; Electronic Circuit Manufacturing; $12,000,000; Yes; $16,000,000; $6,000,000; $20,000,000; 60%; 75%; 65%; 55%; 45%; 35%;" 18%"""
+3;"""GHI Corporation"; 334310; Navigational Instruments Manufacturing; $10,000,000; Yes; $14,000,000; $5,000,000; $17,000,000; 55%; 65%; 55%; 45%; 35%; 25%;" 12%"""
+4;"""JKL Manufacturing"; 336411; Computer Storage Device Manufacturing; $15,000,000; Yes; $20,000,000; $7,000,000; $25,000,000; 60%; 70%; 60%; 50%; 40%; 30%;" 15%"""
+5;"""MNO Inc."; 541519; Other Computer Related Services; $7,000,000; Yes; $10,000,000; $3,000,000; $13,000,000; 55%; 65%; 55%; 45%; 35%; 25%;" 12%"""
+6;"""PQR Systems"; 541511; Information Technology Services; $6,000,000; Yes; $9,000,000; $4,000,000; $11,000,000; 50%; 70%; 60%; 50%; 40%; 30%;" 15%"""
+7;"""STU Services"; 541512; Computer Systems Design Services; $9,000,000; Yes; $13,000,000; $5,000,000; $16,000,000; 55%; 70%; 60%; 50%; 40%; 30%;" 15%"""
+8;"""VWX Tech"; 334112; Electromedical and Electrotherapeutic Apparatus Manufacturing; $11,000,000; Yes; $15,000,000; $6,000,000; $19,000,000; 55%; 75%; 65%; 55%; 45%; 35%;" 18%"""
+9;"""YZA Holdings"; 551114; Corporate Headquarters, Managers and Management of Companies; $14,000,000; Yes; $20,000,000; $8,000,000; $24,000,000; 60%; 70%; 60%; 50%; 40%; 30%;" 15%""</s>"

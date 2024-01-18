@@ -1,0 +1,11 @@
+;AdoptionRecordNumber; AdoptiveGivenName; AdoptiveMiddleName; AdoptiveSurname; AdoptionDate; PlaceOfAdoption; BiologicalMotherFirstName; BiologicalMotherMaidenName; BiologicalFatherFirstName; BiologicalFatherLastName; RelinquishmentDate; ReasonForAdoption; AdoptiveParentsFirstNames; AdoptiveParentsLastName
+0; 1126; Jane; Elizabeth; Smith; 1965-03-18; New York City, New York; Susan; Johnson; Michael; Smith; 1964-12-22; Unable to care for child; James; Diana  Smith
+1;2789; Michael; Andrew; Gonzales; 1971-06-25; Los Angeles, California; Linda; Hernandez; Carlos; Garcia; 1970-09-15; Financial difficulties; David; Susan  Gonzales
+2;3501; Emily; Catherine; Johnson; 1980-11-04; Chicago, Illinois; Patricia; Miller; William; Johnson; 1980-02-14; Unplanned pregnancy; Thomas; Rebecca  Johnson
+3;4932; Robert; James; Brown; 1968-08-02; Dallas, Texas; Barbara; Wilson; Richard; Taylor; 1968-01-10; Parents' death; Laura; Michael  Brown
+4;5115; Mary; Anne; Davis; 1976-02-27; Washington D.C.; Rachel; Thompson; Daniel; Davis; 1975-06-09; Young mother's decision; Sarah; James  Davis
+5;6258; Daniel; Nicholas; Miller; 1982-07-19; San Francisco, California; Karen; Johnson; Benjamin; Harris; 1982-03-18; Unable to support child; Elizabeth; Richard  Miller
+6;7356; Laura; Rebecca; Thompson; 1978-12-12; Boston, Massachusetts; Lisa; Adams; James; Thompson; 1978-09-08; Personal reasons; Michael; Susan  Thompson
+7;8423; James; Michael; Davis; 1969-04-01; Philadelphia, Pennsylvania; Donna; White; Robert; Davis; 1968-12-12; Divorce and financial issues; Rachel; Thomas  Davis
+8;9651; Rebecca; Michelle; Miller; 1979-09-15; Seattle, Washington; Sarah; Lewis; Kenneth; Miller; 1979-07-12; Career focus; Daniel; Emily  Miller
+9;10715; Charles; William; Johnson; 1985-03-16; Detroit, Michigan; Elizabeth; Clark; Scott; Johnson; 1985-01-22; Parental rights terminated; Laura; Michael  Johnson</s>

@@ -1,0 +1,11 @@
+;NumberofDirectLinage; AncestorsCountAft3Generations; PaternalFamilyTreeSize; \
+0; 1; 32; 128;
+1;5; 125; 512;
+2;7; 64; 256;
+3;10; 81; 1024;
+4;12; 98; 384;
+5;15; 256; 1331;
+6;18; 341; 1728;
+7;21; 1250; 4096;
+8;25; 533; 6561;
+9;30; 897; 10000;</s>

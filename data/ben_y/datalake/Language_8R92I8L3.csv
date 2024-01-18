@@ -1,0 +1,11 @@
+;Language Name; Language Family; Origin; Script; Speaker Count; Native Speaker Count; Official Status (Y/N); Writing System Type; Morphological Typology; Phonetic Inventory; Syntax Complexity Level; Semantic Density %; Pragmatic Rules and Constraints
+0; English; Germanic; England; Latin script; 1500000000; 360000000; Y; Alphabetic; Isolating; 24 consonants, 14-16 vowels; Low; 80%; Highly constrained 
+1;Spanish; Romance; Spain; Latin script; 460000000; 414000000; Y; Alphabetic; Fusional; 25 consonants, 5 vowels; Medium; 85%; Moderately constrained 
+2;Mandarin; Sino-Tibetan; China; Chinese characters; 1117000000; 898000000; Y; Logographic; Tonally- morphological; 22 consonants, 24 syllables; High; 75%; Highly constrained 
+3;Arabic; Afro-Asiatic; Saudi Arabia; Arabic script; 315000000; 292000000; Y; Abjad; Morphological; 28 consonants, 3 short vowels; High; 70%; Moderately constrained 
+4;Russian; Slavic; Russia; Cyrillic script; 154000000; 118000000; Y; Alphabet; Fusional; 33 consonants, 6 vowels; Medium; 82%; Heavily constrained 
+5;Hindi; Indo-European; India; Devanagari script; 615000000; 341000000; Y; Abugida; Morphological; 44 consonants, 11 vowels; Medium; 78%; Highly constrained 
+6;French; Romance; France; Latin script; 80000000; 67000000; Y; Alphabetic; Fusional; 16 consonants, 13 vowels; Medium; 88%; Highly constrained 
+7;German; Germanic; Germany; Latin script; 100000000; 75000000; Y; Alphabetic; Fusional; 22 consonants, 5 vowels; Medium; 83%; Moderately constrained 
+8;Tamil; Dravidian; India; Tamil script; 74000000; 69000000; Y; Syllabic; Morphological; 18 consonants, 5 vowels; High; 75%; Heavily constrained 
+9;Japanese; Japanese; Japan; Hiragana, Katakana, Chinese characters; 128000000; 125000000; Y; Morphosyllabic; Agglutinative; 15 consonants, 5 vowels; High; 65%; Moderately constrained </s>

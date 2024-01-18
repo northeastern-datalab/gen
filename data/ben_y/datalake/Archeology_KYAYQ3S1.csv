@@ -1,0 +1,115 @@
+;"\
+ExcavationSiteName";"\
+ExcavationSiteType";"\
+Era";"\
+Latitude";"\
+Longitude";"\
+LeadArchaeologist";"\
+SecondaryArchaeologist";"\
+NoOfArtifactsFound";"\
+ArtifactType";"\
+ArtifactDescription";"\
+PreservationStatus";"\
+FieldWorkFundingSource"
+0;"""Pompeii";;;;;;;;;;;
+1;Roman City;;;;;;;;;;;
+2;1st Century CE;;;;;;;;;;;
+3;7489° N;;;;;;;;;;;
+4;9892° E;;;;;;;;;;;
+5;Professor Giuseppe Fiorelli;;;;;;;;;;;
+6;Dr. Maria Giulia Pastore;;;;;;;;;;;
+7;20000;;;;;;;;;;;
+8;Pottery, Frescoes, Jewelry;;;;;;;;;;;
+9;Intact pottery shards, Intricate frescoes depicting daily life, Delicately crafted gold and gemstone jewelry;;;;;;;;;;;
+10;Stable;;;;;;;;;;;
+11;"Italian Ministry of Culture""";;;;;;;;;;;
+12;"""Tutankhamun's Tomb";;;;;;;;;;;
+13;Ancient Egyptian Tomb;;;;;;;;;;;
+14;14th Century BCE;;;;;;;;;;;
+15;4474° N;;;;;;;;;;;
+16;3662° E;;;;;;;;;;;
+17;Howard Carter;;;;;;;;;;;
+18;Lord Carnarvon;;;;;;;;;;;
+19;5398;;;;;;;;;;;
+20;Sarcophagus, Death Mask, Canopic Jars;;;;;;;;;;;
+21;Ornate gilded sarcophagus, Intricately designed gold death mask, Preserved canopic jars containing internal organs;;;;;;;;;;;
+23;"Egyptian Antiquities Service""";;;;;;;;;;;
+24;"""Machu Picchu";;;;;;;;;;;
+25;Inca City;;;;;;;;;;;
+26;15th Century CE;;;;;;;;;;;
+27;1634° S;;;;;;;;;;;
+28;5459° W;;;;;;;;;;;
+29;Hiram Bingham;;;;;;;;;;;
+30;Oronzio Bernardini;;;;;;;;;;;
+31;40000;;;;;;;;;;;
+32;Temples, Residences, Terraces;;;;;;;;;;;
+33; finely constructed stone temples, well-preserved residential buildings, Extensive agricultural terraces;;;;;;;;;;;
+35;"National Geographic Society""";;;;;;;;;;;
+36;"""Troy";;;;;;;;;;;
+37;Ancient City;;;;;;;;;;;
+38;3rd-2nd Millennium BCE;;;;;;;;;;;
+39;6885° N;;;;;;;;;;;
+40;7055° E;;;;;;;;;;;
+41;Heinrich Schliemann;;;;;;;;;;;
+42;Frank Calvert;;;;;;;;;;;
+43;8000;;;;;;;;;;;
+44;Pottery, Weapons, Jewelry;;;;;;;;;;;
+45;Fragments of pottery and metal vessels, Remnants of bronze weaponry, Pieces of intricate gold jewelry;;;;;;;;;;;
+47;"German Archaeological Institute""";;;;;;;;;;;
+49;Roman Villa;;;;;;;;;;;
+51;7488° N;;;;;;;;;;;
+52;9891° E;;;;;;;;;;;
+53;Vittorio Spinazzola;;;;;;;;;;;
+54;Amedeo Maiuri;;;;;;;;;;;
+55;1200;;;;;;;;;;;
+56;Frescoes, Mosaics, Statues;;;;;;;;;;;
+57; finely preserved frescoes depicting mythological scenes, Intricate mosaics on floors and walls, Delicate marble statues;;;;;;;;;;;
+60;"""Herculaneum";;;;;;;;;;;
+61;Roman Town;;;;;;;;;;;
+63;8077° N;;;;;;;;;;;
+64;3954° E;;;;;;;;;;;
+65;Rocque Joaquin de Alcubierre;;;;;;;;;;;
+66;Karl Jakob Weber;;;;;;;;;;;
+67;3000;;;;;;;;;;;
+68;Statues, Frescoes, Inscriptions;;;;;;;;;;;
+69; finely crafted marble statues, Fragments of colored frescoes, Inscriptions on walls and mosaics;;;;;;;;;;;
+72;"""Stonehenge";;;;;;;;;;;
+73;Neolithic Monument;;;;;;;;;;;
+74;3000-2000 BCE;;;;;;;;;;;
+75;1789° N;;;;;;;;;;;
+76;8262° W;;;;;;;;;;;
+77;William Hawley;;;;;;;;;;;
+78;Richard Atkinson;;;;;;;;;;;
+79;650;;;;;;;;;;;
+80;Bluestones, Sarsens, Postholes;;;;;;;;;;;
+81; finely worked bluestones from Wales, Large sarsen stones from local quarries, Postholes from wooden structures;;;;;;;;;;;
+83;"English Heritage""";;;;;;;;;;;
+84;"""Angkor Wat";;;;;;;;;;;
+86;12th Century CE;;;;;;;;;;;
+87;4125° N;;;;;;;;;;;
+88;8668° E;;;;;;;;;;;
+89;George Groslier;;;;;;;;;;;
+90;Jean Commaille;;;;;;;;;;;
+92;Temples, Bass-Reliefs, Statues;;;;;;;;;;;
+93; finely carved sandstone temples, Intricate bas-reliefs depicting religious scenes, Elegantly crafted stone statues;;;;;;;;;;;
+95;"Cambodian Department of Fine Arts""";;;;;;;;;;;
+96;"""Palmyra";;;;;;;;;;;
+97;Ancient Caravan City;;;;;;;;;;;
+98;2nd-3rd Century CE;;;;;;;;;;;
+99;5558° N;;;;;;;;;;;
+100;2620° E;;;;;;;;;;;
+101;Maurice Dunand;;;;;;;;;;;
+102;Daniel Krencker;;;;;;;;;;;
+103;1500;;;;;;;;;;;
+104;Temples, Colonnades, Tombs;;;;;;;;;;;
+105; finely constructed stone temples, Majestic colonnaded streets, Ornate tombs with intricate carvings;;;;;;;;;;;
+107;"Syrian Antiquities Authority""";;;;;;;;;;;
+108;"""Tell al-Ubaid";;;;;;;;;;;
+109;Sumerian City;;;;;;;;;;;
+110;5th-4th Millennium BCE;;;;;;;;;;;
+111;0781° N;;;;;;;;;;;
+112;7668° E;;;;;;;;;;;
+113;Sir Leonard Woolley;;;;;;;;;;;
+114;Max Mallowan;;;;;;;;;;;
+116;Temples, Pottery, Seals;;;;;;;;;;;
+117; finely constructed mud-brick temples, Intact pottery and vessels, Detailed cylinder seals and impressions;;;;;;;;;;;

@@ -1,0 +1,11 @@
+;Shear (S)Waves;P-Wave Velocities;Reflection Coefficients;Density;Seismic Attenuation;Microearthquake Locations;Focal Mechanisms*;Subsurface Imaging Techniques*;Geologic Hazard Assessment*;Free Surface Effect*;Topographic Corrections*;Sea Level Changes*;Volcanic Emissions Monitoring;Gravity Anomalies;Magnetic Anomalies
+0; 5 km/s; 5.8 km/s; 0.25; 2.2 g/cm^3; 0.005 s^-1; (38.2, -121.1, 5 km); Strike-slip; Refraction seismology; Landslide susceptibility; Yes; Yes; No; No; -20 mGal; 50 nT.
+1; 8 km/s; 4.7 km/s; 0.1; 2.5 g/cm^3; 0.01 s^-1; (41.3, -87.6, 3 km); Normal; Reverse-time migration; Volcanic eruption likelihood; No; Yes; Yes; Yes; 10 mGal; -100 nT.
+2; 2 km/s; 6.2 km/s; 0.4; 2.8 g/cm^3; 0.002 s^-1; (12.9, 144.7, 8 km); Thrust; Full-waveform inversion; Earthquake potential; Yes; No; No; No; -15 mGal; 80 nT.
+3; 8 km/s; 3.1 km/s; 0.05; 1.9 g/cm^3; 0.02 s^-1; (-71.1, -36.5, 1 km); Strike-slip; Tomography; Soil liquefaction risk; Yes; Yes; No; No; -30 mGal; -50 nT.
+4; 1 km/s; 7.9 km/s; 0.65; 3.1 g/cm^3; 0.001 s^-1; (-122.4, 37.8, 12 km); Reverse; Seismic interferometry; Ground deformation mapping; Yes; No; No; No; 5 mGal; 120 nT.
+5; 2 km/s; 5.4 km/s; 0.35; 2.3 g/cm^3; 0.008 s^-1; (24.9, -104.8, 4 km); Normal; Waveform modeling; Slope stability analysis; Yes; Yes; No; No; -10 mGal; -20 nT.
+6; 7 km/s; 7.4 km/s; 0.75; 3.4 g/cm^3; 0.0005 s^-1; (36.1, -115.2, 9 km); Strike-slip; Beamforming; Tsunami hazard assessment; Yes; No; No; No; 8 mGal; 30 nT.
+7; 1 km/s; 3.5 km/s; 0.15; 2.0 g/cm^3; 0.03 s^-1; (-66.8, -4.2, 2 km); Reverse; Traveltime inversion; Rockfall susceptibility; Yes; Yes; No; No; -5 mGal; -30 nT.
+8; 0 km/s; 9.2 km/s; 0.85; 4.0 g/cm^3; 0.0002 s^-1; (17.3, 78.8, 15 km); Thrust; Seismic reflection; Aseismic creep monitoring; Yes; No; No; No; 3 mGal; 50 nT.
+9; 7 km/s; 6.1 km/s; 0.5; 2.6 g/cm^3; 0.004 s^-1; (110.2, 60.0, 7 km); Normal; Seismic array processing; Landslide detection; Yes; Yes; No; No; 15 mGal; -10 nT.

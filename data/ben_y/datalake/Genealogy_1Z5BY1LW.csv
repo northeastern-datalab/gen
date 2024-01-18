@@ -1,0 +1,11 @@
+;ChildGivenName; ChildMotherMaidenName; ChildFatherFirstName; ChildFatherLastName; SpouseAliasNames; MarriageLocation; DivorceDate; NumberOfChildren; AncestryOrigins; FamilyWealth
+0; John; Smith; James; Johnson; none; New York, USA; 1940-05-12; 3; English, Irish; High
+1;Emily; Johnson; William; Smith; none; Chicago, USA; 1962-11-15; 2; Scottish, Welsh; Medium
+2;Robert; Davis; Robert; Thompson; RJ, Bobby; Los Angeles, USA; 1985-08-20; 1; German, Italian; Low
+3;James; Wilson; Thomas; White; none; Sydney, Australia; 1955-02-10; 4; French, English; High
+4;Elizabeth; Miller; Paul; Green; Liz, Beth; Toronto, Canada; 1977-09-08; 5; Swedish, Norwegian; Medium
+5;Michael; Taylor; David; Black; Mike; London, England; 1960-06-12; 6; Spanish, Portuguese; Low
+6;Daniel; Anderson; Joseph; Brown; none; Tokyo, Japan; 1975-11-25; 2; Russian, Polish; High
+7;Jessica; Thompson; Michael; Harris; Jess; Moscow, Russia; 1987-03-17; 3; Dutch, Belgian; Medium
+8;Matthew; Walker; Charles; Davis; Matt; Paris, France; 1990-07-09; 1; Danish, Finnish; Low
+9;Sarah; Harris; Richard; Miller; Sara; Berlin, Germany; 1978-12-31; 4; Austrian, Swiss; High</s>

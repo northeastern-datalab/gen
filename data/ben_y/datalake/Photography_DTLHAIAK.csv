@@ -1,0 +1,12 @@
+;PhotographerName;PhotoTitle;\*ImageSize(pixels)x(* ) Image Size (bytes);LocationStamp;GPSCoordinates();TimeOfDay;ClarityScore;ContrastRatio%;HasPeopleInFrame;GenreTags(&tag1,&tag2...)
+0; PhotographerName;PhotoTitle;ImageSize(pixels)xImage Size (bytes);LocationStamp;GPSCoordinates();TimeOfDay;ClarityScore;ContrastRatio%;HasPeopleInFrame;GenreTags(&tag1,&tag2...)
+1;John Wick;Skyline Symphony;2560x1440x3000000;New York, USA;40.7128,-74.0060;Dusk;85;4.5;No;Cityscape(&night,&urban)
+2;Maria Lopez;Misty Morning;3840x2160x4500000;Vancouver, Canada;49.2827,-123.1207;Dawn;90;2.8;Yes;Landscape(&nature,&sunrise)
+3;Chen Wei;Rush Hour Rumble;1920x1080x2000000;Beijing, China;39.9042,116.4074;Afternoon;70;6.5;Yes;StreetPhotography(&people,&culture)
+4;Alicia Lee;Desert Solitude;5184x3456x5000000;Dubai, UAE;25.2048,55.2708;Midday;80;7.0;No;Landscape(&desert,&minimalism)
+5;Lukas Novak;Berlin Wall Beauty;4000x2667x3500000;Berlin, Germany;52.5200,13.4050;GoldenHour;95;3.2;No;Urban(&architecture,&history)
+6;Nina Singh;PortraitOfGrace;3648x2736x4000000;Mumbai, India;19.0760,72.8777;Evening;88;5.0;Yes;Portrait(&studio,&black&white)
+7;Oliver Thompson;AutumnHarvest;4608x3072x4800000;Toronto, Canada;43.6532,-79.3832;Afternoon;65;9.0;Yes;Seasonal(&fall,&people)
+8;Svetlana Kuznetsova;MoscowAfterDark;2560x1920x3200000;Moscow, Russia;55.7558,37.6176;Night;75;6.0;No;Cityscape(&night,&lighttrails)
+9;Pedro Alvarez;CostaDelSol;2048x1536x2800000;Malaga, Spain;36.7167,-4.4000;Afternoon;90;2.5;Yes;Beach(&ocean,&sun)
+10;Laura Johnson;CloudsOverCanyon;5760x3840x6000000;GrandCanyon, USA;36.1069,-112.1129;Morning;60;8.0;No;Landscape(&nature,&clouds)</s>

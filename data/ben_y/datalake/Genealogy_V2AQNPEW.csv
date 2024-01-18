@@ -1,0 +1,11 @@
+;ChildGivenName; ChildMiddleName; ChildSurname; SpouseName; MarriageDate; DeathDate; BiologicalMotherPersonID; BiologicalMotherBirthDate; BiologicalFatherPersonID; BiologicalFatherBirthDate; ChildSSN; ChildAdoptionDetails
+0; Johnathan Jacob Smith; Michael Charles; Smith; Emily Johnson; 2000-06-17; ; A567; 1977-09-23; B890; 1975-12-11; 123-45-6789;
+1;Jessica Ann Thompson; Elizabeth Anne; Thompson; Michael James Brown; 2002-11-05; ; C987; 1981-05-15; D369; 1979-08-07; 345-67-8901;
+2;William Henry Johnson; Samuel Joseph; Johnson; Sarah Nicole Williams; 1999-07-22; ; E321; 1976-02-18; F564; 1978-11-11; 567-89-0123;
+3;Lauren Ashley Miller; Rebecca Marie; Miller; Daniel Andrew Jackson; 2001-04-14; ; G789; 1983-06-09; H234; 1980-05-26; 789-01-2345;
+4;James Alexander Davis; David Benjamin; Davis; Alyssa Nicole Moore; 2005-08-20; ; J992; 1985-12-28; K555; 1982-07-14; 987-65-4321;
+5;Daniel Thomas Wilson; Benjamin Carl; Wilson; Samantha Grace Adams; 2003-12-30; ; L663; 1987-01-17; M881; 1988-09-25; 012-34-5678;
+6;Matthew Richard Anderson; Matthew William; Anderson; Olivia Grace Thompson; 2004-06-06; ; N445; 1990-03-21; P776; 1991-11-09; 234-56-7890;
+7;Amy Rebecca Moore; Joseph Edward; Moore; Brian Andrew Johnson; 2007-02-12; ; Q111; 1993-08-04; R990; 1992-10-12; 567-89-0123;
+8;Samuel David Taylor; Carter James; Taylor; Christine Elizabeth Miller; 2006-10-15; ; S222; 1994-01-27; T777; 1995-06-08; 789-01-2345;
+9;Olivia Nicole Harris; Alexander John; Harris; Kenneth Michael Wilson; 2008-07-28; ; U333; 1996-04-23; V888; 1997-12-11; 012-34-5678;</s>

@@ -1,0 +1,11 @@
+;Stratum Name; Elevation (mslas); Glacier Cover (%); Permafrost Depth (м); Storm Frequency; Hurricane Activity Index$; Tornado Occurrence Frequency%; Lightning Density (# lightning strikes/(km².\min)); Volcanic Eruptions (last X years); Aerosol Optical Depth (500nm) (*); Black Carbon Concentration (ng/cm³) (*); Ozone Hole Area ($ km^{​}².yr^{-¹}$)^£*; UV Index $^\land $; Astronomical Twilight (hour$*$days)
+0;  Stratum One; 1000mslas; 0%; 50м; 10storms/year; $500million; 1.5%; 100#/(km².\min); 5 eruptions / 10 years; 0.1 (*); 50 ng/cm³ (*); 3$km^{​}².yr^{-¹}$*$; 7^\land $; 40 hour*days
+1; Stratum Two; 2000mslas; 10%; 80м; 8storms/year; $300million; 2.1%; 80#/(km².\min); 3 eruptions / 10 years; 0.05 (*); 40 ng/cm³ (*); 2$km^{​}².yr^{-¹}$*$; 6^\land $; 30 hour*days
+2; Stratum Three; 3000mslas; 20%; 100м; 6storms/year; $200million; 2.8%; 60#/(km².\min); 2 eruptions / 10 years; 0.02 (*); 30 ng/cm³ (*); 1$km^{​}².yr^{-¹}$*$; 5^\land $; 20 hour*days
+3; Stratum Four; 4000mslas; 30%; 120м; 4storms/year; $150million; 3.2%; 40#/(km².\min); 1 eruption / 10 years; 0.01 (*); 20 ng/cm³ (*); 0.5$km^{​}².yr^{-¹}$*$; 4^\land $; 15 hour*days
+4; Stratum Five; 5000mslas; 40%; 150м; 3storms/year; $100million; 3.6%; 20#/(km².\min); No eruptions / 10 years; 0 (*); 10 ng/cm³ (*); 0.2$km^{​}².yr^{-¹}$*$; 3^\land $; 10 hour*days
+5; Stratum Six; 6000mslas; 50%; 200м; 2storms/year; $50million;" 4%"""; 10#/(km².\min); No eruptions / 10 years; 0 (*); 5 ng/cm³ (*); 0.1$km^{​}².yr^{-¹}$*$; 2^\land $; 5 hour*days
+6; Stratum Seven; 7000mslas; 60%; 250м; 1storm/year; $30million;" 4.5%"""; 5#/(km².\min); No eruptions / 10 years; 0 (*); 2 ng/cm³ (*); 0.05$km^{​}².yr^{-¹}$*$; 1^\land $; 2 hour*days
+7; Stratum Eight; 8000mslas; 70%; 350м; 0.5storms/year; $10million;" 5%"""; No lightning; No eruptions / 10 years; 0 (*); 1 ng/cm³ (*); 0.01$km^{​}².yr^{-¹}$*$; 0^\land $; 1 hour*days
+8; Stratum Nine; 9000mslas; 80%; 450м; 0.2storms/year; $5million;" 5.5%"""; No lightning; No eruptions / 10 years; 0 (*); 0.5 ng/cm³ (*); 0.005$km^{​}².yr^{-¹}$*$; 0^\land $; 0.5 hour*days
+9; Stratum Ten; 10000mslas; 90%; 550м; 0.1storms/year; $1million;" 6%"""; No lightning; No eruptions / 10 years; 0 (*); 0.2 ng/cm³ (*); 0.002$km^{​}².yr^{-¹}$*$; 0^\land $; 0.1 hour*days

@@ -1,0 +1,21 @@
+;"\
+Veterinarian Name";"\
+Specialization";"\
+Consultation Fee";"\
+Medications Prescribed";"\
+Treatment Equipment Used";"\
+Follow-up Appointment Date";"\
+Referral to Specialist";"\
+Diagnostic Test Results";"\
+Vaccination History";"\
+Dietary Recommendations"
+0;  John Williams; Small Animal Surgeon; $200; Metacam, Tramadol; Surgical Kit, Laser Therapy Machine; 2023-03-15; No Referral; Negative for Lyme Disease; Up-to-date; Prescription Diet for Weight Management.
+1; Emily Davis; Equine Veterinarian; $300; Phenylbutazone, Banamine; Endoscope, Ultrasound Machine; 2023-04-03; No Referral; Clear X-Rays, Normal Ultrasound; Annual Vaccinations; High-Fiber Diet.
+2; Michael Brown; Avian and Exotics Specialist; $250; Meloxicam, Gabapentin; Blood Draw Kit, Microscope; 2023-02-25; No Referral; Negative Blood Work; Biannual Vaccinations; Pelleted Diet.
+3; Sarah Johnson; Canine Cardiologist; $350; Furosemide, Enalapril; Echocardiogram Machine, Stethoscope; 2023-03-01; Referral to Specialist; Normal Heart Function; Annual Vaccinations; Prescription Diet for Heart Health.
+4; Robert Miller; Feline Internal Medicine; $275; Buprenorphine, Metronidazole; Ultrasound Machine, Blood Pressure Monitor; 2023-04-10; No Referral; Normal Blood Work; Annual Vaccinations; Canned Food Diet.
+5; Karen Taylor; Large Animal Veterinarian; $325; Flunixin Meglumine, Penicillin; Cattle Squeeze Chute, X-Ray Machine; 2023-02-10; Referral to Specialist; Fracture of Hind Leg; Biannual Vaccinations; Balanced Diet of Hay and Grain.
+6; Daniel White; Wildlife Rehabilitator; $200; Dexamethasone, Meloxicam; Examination Table, Otoscope; 2023-03-20; No Referral; Negative for Rabies; Species-Specific Diet.;
+7; Laura Green; Animal Behaviorist; $250; No Medications; Clicker, Leash; 2023-04-12; Referral to Specialist; No Diagnostic Tests; Regular Exercise and Positive Reinforcement; High-Quality Dog Food.
+8; James Black; Aquatic Animal Veterinarian; $300; Metronidazole, Kanamycin; Water Testing Kit, Ultrasound Machine; 2023-02-15; No Referral; Clear X-Rays, Normal Ultrasound; Annual Vaccinations; Balanced Diet of Fish Pellets.
+9; Susan Wilson; Holistic Veterinarian; $225; Chinese Herbs, Western Herbs; Acupuncture Needles, Essential Oils; 2023-03-08; No Referral; Holistic Exam; Custom Herbal Formula; Whole Food Diet.</s>

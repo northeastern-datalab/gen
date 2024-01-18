@@ -1,0 +1,11 @@
+;Theater Type; Capacity ; Construction Year; Architecture Style; Stage Size; Seating Arrangement; Acoustic Quality; Lighting System; HVAC system; Performance Types allowed; Accessibility; Parking Spaces; Concessions; Ticket Office
+0;" ""Proscenium Theater"; 800; 1928; Neo-Classical; 40ft x 30ft; Sloped Floor; Excellent; LED; Centralized; Plays, Musicals, Opera; Wheelchair Accessible; 150; Full Snack Bar;" Box Office"""
+1;" ""Thrust Theater"; 600; 2005; Modern; 50ft x 40ft; Three-Quarter Round; Good; Laser; Distributed; Drama, Dance, Concerts; Elevator Access; 200; Limited Snacks;" Will Call"""
+2;" ""Black Box Theater"; 250; 2010; Industrial; 30ft x 30ft; Flat Floor; Fair; Compact Fluorescent; Decentralized; Experimental, Immersive; Wheelchair Accessible; 50; No Concessions;" Online Sales"""
+3;" ""Arena Theater"; 2000; 1962; Brutalist; 100ft x 80ft; Full Circle; Excellent; LED; Centralized; Opera, Ballet, Concerts; Elevator Access; 1000; Full Snack Bar;" Box Office"""
+4;" ""Outdoor Theater"; 1200; 1950; Open-Air; 150ft x 100ft; Sloped Lawn; Good; LED; Decentralized; Plays, Musicals, Concerts; Wheelchair Accessible; 500; Limited Snacks;" Will Call"""
+5;" ""Studio Theater"; 100; 2015; Contemporary; 20ft x 20ft; Flat Floor; Fair; Compact Fluorescent; Decentralized; Workshops, Rehearsals, Readings; Elevator Access; 20; No Concessions;" Online Sales"""
+6;" ""Experimental Theater"; 150; 1980; Postmodern; 40ft x 30ft; Three-Quarter Round; Excellent; LED; Distributed; Immersive, Experimental; Wheelchair Accessible; 50; Full Snack Bar;" Box Office"""
+7;" ""IMAX Theater"; 600; 2000; Futuristic; 80ft x 60ft; Tiered Seating; Good; Laser; Centralized; Films, Documentaries; Elevator Access; 300; Full Snack Bar;" Will Call"""
+8;" ""Dinner Theater"; 300; 1990; Neo-Gothic; 50ft x 40ft; Table Seating; Fair; Incandescent; Decentralized; Musicals, Plays; Wheelchair Accessible; 150; Full Meals;" Box Office"""
+9;" ""Concert Hall"; 3500; 1912; Baroque; 120ft x 80ft; Terraced Seating; Excellent; LED; Centralized; Orchestra, Choir, Opera; Elevator Access; 1000; Full Snack Bar;" Box Office""</s>"

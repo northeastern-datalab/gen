@@ -1,0 +1,11 @@
+;AncesterCountryOrigin; AncestralProfession ; NumberofChildren; SpousesDeceasedStatus ; NumberoftimesMarried; Secondspousename; Morgender; Child1GivenName; Child1BirthDate; Child1PlaceOfBirth
+0; England; Farmer; 6; True; 2; Margaret; Female; John; 15-Mar-1850; New York
+1;Ireland; Writer; 3; False; 1; -; Male; Emily; 20-Jul-1862; Dublin
+2;Scotland; Weaver; 7; True; 3; Sarah; Female; William; 05-Nov-1885; Edinburgh
+3;Italy; Fisherman; 4; False; 1; -; Male; Anna; 08-May-1876; Venice
+4;Germany; Brewer; 5; True; 2; Marie; Female; Heinrich; 12-Dec-1883; Berlin
+5;Norway; Blacksmith; 8; False; 1; -; Male; Jens; 17-Jan-1879; Oslo
+6;France; Tailor; 3; True; 2; Claudette; Female; Pierre; 25-Jun-1880; Paris
+7;Poland; Miner; 6; False; 1; -; Male; Sofia; 10-Oct-1868; Krakow
+8;Russia; Doctor; 4; True; 2; Natalia; Female; Aleksander; 19-Feb-1875; St. Petersburg
+9;Sweden; Carpenter; 5; False; 1; -; Male; Ingrid; 04-Aug-1873; Stockholm</s>

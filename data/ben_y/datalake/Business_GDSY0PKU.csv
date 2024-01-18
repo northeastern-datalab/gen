@@ -1,0 +1,11 @@
+;Number of Employees;Location;Industry;Year Founded;Top Executives;Ownership Structure;Market Competitors;Legal Status;Last Funding Type;Last Funding Amount;Valuation;Alexa Rank
+0; 500;New York, NY;Technology;2010;John Smith, Jane Doe;Private, Venture Capital;Google, Apple, Microsoft;Corporation;Series D;50 Million;1 Billion;10000
+1; 50;Los Angeles, CA;Entertainment;2005;Mike Johnson, Sarah Lee;Private, Angel Investment;Netflix, Disney, Warner;LLC;Seed;1 Million;10 Million;50000
+2; 1000;San Francisco, CA;Finance;2000;David Kim, Emily Wong;Public, IPO;Visa, Mastercard, PayPal;Corp;IPO;100 Million;50 Billion;2000
+3; 25;London, UK;Retail;2015;James Brown, Sophia Green;Private, Angel Investment;Amazon, Walmart, Target;Ltd;Series A;5 Million;50 Million;100000
+4; 200;Chicago, IL;Healthcare;2007;Karen Adams, Robert Davis;Private, Venture Capital;Johnson & Johnson, Pfizer, UnitedHealth;Inc;Series B;20 Million;100 Million;25000
+5; 5000;Paris, France;Manufacturing;1990;Pierre Henri, Helene Leclerc;Private, Family Owned;Boeing, Airbus, Lockheed Martin;SA;None;N/A;N/A;N/A
+6; 50;Berlin, Germany;Education;2018;Max Müller, Julia Schneider;Private, Seed Funding;Coursera, Udemy, edX;GmbH;Seed;1 Million;10 Million;50000
+7; 100;Tokyo, Japan;Real Estate;2012;Hiroshi Tanaka, Akane Yamada;Private, Venture Capital;WeWork, CBRE, JLL;K.K.;Series C;30 Million;300 Million;15000
+8; 20;Sydney, Australia;Marketing;2016;Sarah Thompson, David Anderson;Private, Angel Investment;WPP, Omnicom, Publicis;Pty Ltd; angel;500k;5 Million;10000
+9; 150;Toronto, Canada;Hospitality;2008;Daniel Chen, Lisa Lee;Private, Series A Funding;Marriott, Hilton, Hyatt;Inc;Series A;10 Million;100 Million;20000</s>

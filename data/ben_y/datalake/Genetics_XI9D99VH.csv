@@ -1,0 +1,11 @@
+;Genes Affecting Disease; Additional Physical Characteristics; Amino Acid Changes; Effect on Protein Function; Drug Interactions; Age at Onset; Locus Heterogeneity; Penetrances; Epigenomic Modifications; Environmental Triggers
+0;  CFTR; Lung disease, Difficulty breathing; F508del; Impaired chloride channel function; Ivacaftor; Infancy; Low; High; DNA methylation; Respiratory infections
+1; BRCA1; Breast/Ovarian cancer; 185delAG; Loss of protein function; Poly (ADP-ribose) polymerase inhibitors; Early onset; High; Variable; Histone modification; N/A
+2; HBB; Beta-thalassemia; E6V; Alpha-globin binding affected; No specific drugs; Early childhood; High; High; CpG island methylation; N/A
+3; TP53; Li-Fraumeni syndrome; R248Q; Loss of tumor suppressor function; No specific drugs; Childhood; High; Variable; Histone modification; Radiation exposure
+4; RET; Multiple Endocrine Neoplasia; C634W; Constitutive activation; Vandetanib; Varies based on MEN subtype; High; Variable; MicroRNA regulation; N/A
+5; APOE; Alzheimer's disease; E3/E4; Increased beta-amyloid accumulation; No specific drugs; Middle to late age; Low; Variable; DNA methylation; N/A
+6; MLH1; Lynch syndrome; P266R; Microsatellite instability; Asparaginase; Early to middle age; High; Variable; Histone modification; N/A
+7; NF1; Neurofibromatosis; R1276Q; Loss of neurofibromin function; No specific drugs; Childhood to adulthood; High; Variable; CpG island methylation; N/A
+8; SMC1A; Cornelia de Lange syndrome; K703N; Abnormal chromatin remodeling; No specific drugs; Infancy to early childhood; High; Variable; Histone modification; N/A
+9; VWF; von Willebrand disease; P810T; Abnormal platelet function; Desmopressin; Infancy to adulthood; Low; High; DNA methylation; N/A</s>

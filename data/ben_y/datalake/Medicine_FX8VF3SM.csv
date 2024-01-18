@@ -1,0 +1,11 @@
+;Prescribed Medication;Medication Dosage;Start Date;End Date;Refill Frequency;Refills Remaining;Quantity Prescription;Fill Date;Pharmacy ID;Therapy Type;Patient ID;Patient Age
+0; Hydrochlorothiazide 25mg;1 tablet by mouth daily;2022-01-01;2022-12-31;once per month;11;90;2022-01-05;1001;Hypertension;12345;67
+1;Metformin 500mg;1 tablet by mouth twice daily;2022-02-15;2022-12-31;once per month;12;120;2022-02-18;1002;Diabetes;23456;54
+2;Atorvastatin 40mg;1 tablet by mouth daily;2022-03-20;2023-03-19;once every three months;3;90;2022-03-22;1003;High Cholesterol;34567;78
+3;Losartan 50mg;1 tablet by mouth daily;2022-04-01;2022-12-31;once per month;10;120;2022-04-04;1004;Hypertension;45678;45
+4;Simvastatin 20mg;1 tablet by mouth daily;2022-05-15;2023-05-14;once every three months;4;90;2022-05-17;1005;High Cholesterol;56789;87
+5;Trazodone 100mg;1 tablet by mouth at bedtime;2022-06-01;2022-12-31;once per month;10;120;2022-06-03;1006;Insomnia;67890;34
+6;Albuterol Inhaler 90mcg;2 puffs every 4-6 hours as needed;2022-07-01;2022-12-31;four times per year;16;4;2022-07-04;1007;Asthma;78901;23
+7;Lisinopril 10mg;1 tablet by mouth daily;2022-08-01;2022-12-31;once per month;11;90;2022-08-03;1008;Hypertension;89012;76
+8;Warfarin 5mg;1 tablet by mouth daily;2022-09-01;2023-08-31;once per month;12;365;2022-09-06;1009;Blood Clots;90123;46
+9;Fluticasone Propionate 110mcg/Salmeterol 21mcg;1 inhalation twice daily;2022-10-01;2023-10-01;once per month;12;60;2022-10-04;1010;COPD;01234;44</s>

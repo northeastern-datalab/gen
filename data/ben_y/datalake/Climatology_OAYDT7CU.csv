@@ -1,0 +1,12 @@
+;Additional Data; Study Area ID; Date & Time Stamp; Weather Condition*; Temperature (°C)**; Relative Humidity (%)***; Atmospheric Pressure (hPa)***; Wind Speed (m/s)***; Precipitation (mm)***; Solar Radiation (W/m²)***; Soil Moisture (%)***
+0; Additional Data; Study Area ID; Date & Time Stamp; Weather Condition; Temperature (°C); Relative Humidity (%); Atmospheric Pressure (hPa); Wind Speed (m/s); Precipitation (mm); Solar Radiation (W/m²); Soil Moisture (%)
+1;"""Air Quality Index, 58"; SA123; 2022-03-01 06:30:00; Clear Skies; 12.3; 68; 1019.5; 2.1; 0; 220;" 25"""
+2;"""Wind Direction, NNE"; SA123; 2022-03-01 07:30:00; Overcast; 10.1; 74; 1018.2; 4.6; 0; 180;" 28"""
+3;"""Gusts, 8 m/s"; SA123; 2022-03-01 08:30:00; Light Rain; 9.6; 83; 1018.2; 6.2; 1.2; 120;" 30"""
+4;"""Cloud Coverage, 75%"; SA123; 2022-03-01 09:30:00; Heavy Rain; 8.9; 91; 1017.1; 7.8; 7.5; 80;" 32"""
+5;"""Dew Point, 2°C"; SA123; 2022-03-01 10:30:00; Storm; 7.6; 95; 1016.5; 9.9; 12.1; 50;" 34"""
+6;"""Feels Like, 2°C"; SA123; 2022-03-01 11:30:00; Sleet; 6.8; 97; 1017.1; 8.3; 8.5; 200;" 36"""
+7;"""Heat Index, 6°C"; SA123; 2022-03-01 12:30:00; Partly Cloudy; 15.5; 55; 1019.2; 3.4; 0; 350;" 38"""
+8;"""UV Index, 4"; SA123; 2022-03-01 13:30:00; Sunny; 18.2; 32; 1019.8; 1.9; 0; 550;" 40"""
+9;"""Visibility, 16 km"; SA123; 2022-03-01 14:30:00; Fog; 12.1; 93; 1018.9; 2.7; 0; 150;" 42"""
+10;"""Air Pressure Trend, Steady"; SA123; 2022-03-01 15:30:00; Hail; 10.8; 96; 1019.0; 4.2; 0; 100;" 44"""

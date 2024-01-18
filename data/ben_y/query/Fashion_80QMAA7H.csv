@@ -1,0 +1,111 @@
+;Clothing Item; Size; Color; Material; Brand; Price; Season; Occasion; Style; Availability; Store; Purchase Date; Return Policy
+0;  Little Black Dress; S; Black; Silk; Chanel; $3000; Fall; Cocktail Party; Classic; In Stock; Saks Fifth Avenue; 10/10/2021; 14 Days
+1; Denim Jacket; M; Blue; Cotton; Levi's; $120; Spring; Casual; Vintage; In Store; Urban Outfitters; 04/15/2021; 30 Days
+2; White Blouse; XS; White; Linen; Zara; $60; Summer; Business; Minimalist; Online; Zara; 07/22/2021; 60 Days
+3; Leather Pants; L; Brown; Leather; Gucci; $2500; Winter; Night Out; Luxury; In Store; Gucci; 12/01/2021; 14 Days
+4; Wool Coat; L; Camel; Wool; Max Mara; $1200; Winter; Formal; Tailored; Online; Max Mara; 11/15/2021; 30 Days
+5; Silk Scarf; S; Red; Silk; Hermes; $400; Fall; Casual; Luxury; In Store; Hermes; 09/05/2021; 14 Days
+6; Tweed Skirt; M; Pink; Tweed; Chanel; $1500; Fall; Business; Classic; Online; Chanel; 10/05/2021; 14 Days
+7; Bomber Jacket; L; Green; Nylon; Supreme; $350; Spring; Casual; Streetwear; In Store; Supreme; 04/25/2021; 30 Days
+8; Cashmere Sweater; XL; Grey; Cashmere; Loro Piana; $1500; Winter; Casual; Luxury; Online; Loro Piana; 12/10/2021; 60 Days
+9; Floral Dress; S; Multi-color; Silk; Oscar de la Renta; $2500; Spring; Wedding; Romantic; In Store; Oscar de la Renta; 05/01/2021; 14 Days</s>
+10;  Leather Pants; M; Black; Leather; Gucci; $2000; Fall; Casual; Luxury; Online; Gucci; 10/15/2021; 30 Days 
+11; Denim Jacket; S; Blue; Denim; Levi's; $100; Spring; Casual; Classic; In Store; Levi's; 04/10/2021; 60 Days 
+12; Silk Blouse; L; White; Silk; Ralph Lauren; $500; Spring; Business; Classic; Online; Ralph Lauren; 04/20/2021; 14 Days 
+13; Wool Coat; XL; Camel; Wool; Celine; $3000; Winter; Business; Classic; In Store; Celine; 11/01/2021; 60 Days 
+14; Turtleneck Sweater; M; Red; Wool; Prada; $800; Winter; Casual; Luxury; Online; Prada; 12/20/2021; 30 Days 
+15; Biker Jacket; L; Black; Leather; Balmain; $2500; Fall; Casual; Streetwear; In Store; Balmain; 10/05/2021; 14 Days 
+16; Linen Shirt; S; Blue; Linen; Zegna; $400; Summer; Casual; Classic; Online; Zegna; 06/15/2021; 60 Days 
+17; Trousers; XL; Grey; Wool; Brunello Cucinelli; $1200; Winter; Business; Classic; In Store; Brunello Cucinelli; 12/28/2021; 30 Days 
+18; Silk Scarf; One-size; Multi-color; Silk; Hermes; $600; Fall; Accessory; Luxury; Online; Hermes; 10/30/2021; 14 Days 
+19; Silk Tie; One-size; Blue; Silk; Ermenegildo Zegna; $300; Spring; Accessory; Classic; In Store; Ermenegildo Zegna; 04/18/2021; 60 Days.</s>
+20;  Leather Jacket; L; Black; Leather; Gucci; $3500; Winter; Outerwear; Biker; In Store; Gucci; 01/05/2022; 14 Days 
+21; Wool Coat; XL; Camel; Wool; Max Mara; $2000; Winter; Outerwear; Classic; Online; Max Mara; 12/15/2021; 30 Days 
+22; Cashmere Sweater; M; Red; Cashmere; Prada; $1500; Fall; Casual; Luxury; In Store; Prada; 10/01/2021; 14 Days 
+23; Denim Jeans; 32; Blue; Denim; Dolce & Gabbana; $600; Spring; Casual; Distressed; Online; Dolce & Gabbana; 03/25/2021; 60 Days 
+24; Linen Shirt; L; White; Linen; Ralph Lauren; $350; Summer; Casual; Classic; In Store; Ralph Lauren; 07/04/2021; 30 Days 
+25; Silk Dress; S; Pink; Silk; Valentino; $2500; Spring; Formal; Luxury; Online; Valentino; 05/09/2021; 14 Days 
+26; Wool Suit; 40R; Navy; Wool; Canali; $2800; Winter; Business; Classic; In Store; Canali; 01/12/2022; 30 Days 
+27; Leather Skirt; 34; Brown; Leather; Bottega Veneta; $1800; Fall; Business; Classic; Online; Bottega Veneta; 11/15/2021; 60 Days 
+28; Silk Blouse; M; Floral; Silk; Oscar de la Renta; $1200; Summer; Accessory; Luxury; In Store; Oscar de la Renta; 08/10/2021; 14 Days 
+29; Wool Hat; One-size; Grey; Wool; Loro Piana; $400; Winter; Accessory; Classic; In Store; Loro Piana; 01/20/2022; 30 Days.</s>
+30;  Cotton Dress; S; Red; Cotton; Zara; $80; Spring; Casual; Trendy; Online; Zara; 04/12/2021; 14 Days 
+31; Denim Jacket; M; Blue; Denim; Levi's; $150; Fall; Casual; Classic; In Store; Levi's; 10/02/2021; 30 Days 
+32; Linen Shirt; L; White; Linen; Tommy Hilfiger; $200; Summer; Casual; Classic; Online; Tommy Hilfiger; 06/25/2021; 60 Days 
+33; Silk Scarf; One-size; Multi-colored; Silk; Hermes; $600; Spring; Accessory; Luxury; In Store; Hermes; 03/10/2022; 14 Days 
+34; Wool Coat; L; Black; Wool; Prada; $2500; Winter; Formal; Luxury; In Store; Prada; 12/15/2021; 30 Days 
+35; Polyester Blazer; XL; Navy; Polyester; H&M; $60; Fall; Business; Trendy; Online; H&M; 10/17/2021; 14 Days 
+36; Nylon Jacket; M; Green; Nylon; The North Face; $180; Spring; Outdoor; Sporty; Online; The North Face; 05/03/2021; 60 Days 
+37; Leather Pants; 30; Black; Leather; Gucci; $1200; Winter; Formal; Luxury; In Store; Gucci; 01/01/2022; 30 Days 
+38; Silk Pajamas; S; Blue; Silk; Ralph Lauren; $500; Summer; Sleepwear; Luxury; Online; Ralph Lauren; 07/15/2021; 14 Days 
+39; Viscose Blouse; M; Yellow; Viscose; Mango; $40; Spring; Casual; Trendy; In Store; Mango; 03/25/2021; 30 Days.</s>
+40;  Cotton Sweatshirt; L; Red; Cotton; Adidas; $80; Fall; Casual; Sporty; Online; Adidas; 10/10/2021; 60 Days 
+41; Wool Coat; XS; Gray; Wool; Burberry; $1800; Winter; Formal; Classic; In Store; Burberry; 12/15/2021; 30 Days 
+42; Denim Jacket; M; Blue; Denim; Levi's; $100; Spring; Casual; Vintage; In Store; Levi's; 04/20/2021; 45 Days 
+43; Polyester Dress; S; Green; Polyester; Zara; $60; Summer; Casual; Trendy; Online; Zara; 06/25/2021; 30 Days 
+44; Silk Skirt; L; Pink; Silk; Oscar de la Renta; $900; Spring; Formal; Luxury; In Store; Oscar de la Renta; 03/05/2022; 14 Days 
+45; Linen Shirt; XL; White; Linen; H&M; $30; Summer; Casual; Basic; In Store; H&M; 07/01/2021; 30 Days 
+46; Velvet Blazer; M; Black; Velvet; Saint Laurent; $1500; Winter; Formal; Luxury; In Store; Saint Laarent; 01/20/2022; 14 Days 
+47; Polyester Trousers; 32; Beige; Polyester; Calvin Klein; $100; Fall; Casual; Classic; Online; Calvin Klein; 10/15/2021; 60 Days 
+48; Wool Socks; One Size; Multicolor; Wool; Falke; $30; Winter; Casual; Basic; In Store; Falke; 12/23/2021; 30 Days 
+49; Leather Bag; One Size; Brown; Leather; Coach; $350; Fall; Casual; Classic; In Store; Coach; 11/15/2021; 30 Days.</s>
+50;  Silk Scarf; One Size; Red; Silk; Hermes; $200; Winter; Dressy; Fashionable; Online; Hermes; 01/05/2022; 14 Days 
+51; Cotton Shirt; Medium; White; Cotton; Brooks Brothers; $90; Spring; Casual; Classic; In Store; Brooks Brothers; 02/25/2022; 60 Days 
+52; Denim Jacket; Small; Indigo; Denim; Levi's; $120; Spring; Casual; Vintage; Online; Levi's; 03/10/2022; 30 Days 
+53; Wool Coat; Large; Black; Wool; Burberry; $800; Winter; Dressy; Classic; In Store; Burberry; 12/01/2021; 60 Days 
+54; Linen Dress; X-Small; Green; Linen; Zara; $70; Summer; Casual; Basic; In Store; Zara; 06/15/2022; 30 Days 
+55; Nylon Jacket; Medium; Navy; Nylon; The North Face; $150; Fall; Casual; Sporty; Online; The North Face; 10/20/2021; 60 Days 
+56; Cashmere Sweater; X-Large; Gray; Cashmere; L.L. Bean; $250; Winter; Casual; Classic; In Store; L.L. Bean; 01/18/2022; 90 Days 
+57; Polyester Blend Skirt; One Size; Blue; Polyester Blend; Uniqlo; $40; Spring; Casual; Basic; Online; Uniqlo; 03/30/2022; 30 Days 
+58; Leather Belt; 36; Brown; Leather; Gucci; $280; Fall; Casual; Classic; In Store; Gucci; 11/05/2021; 60 Days 
+59; Silk Blouse; Small; Pink; Silk; Oscar de la Renta; $550; Spring; Dressy; Fashionable; Online; Oscar de la Renta; 04/12/2022; 30 Days.</s>
+60;  Wool Coat; Medium; Camel; Wool; Max Mara; $850; Winter; Dressy; Classic; In Store; Max Mara; 12/15/2021; 60 Days 
+61; Cotton T-Shirt; Large; White; Cotton; Hanes; $10; Summer; Casual; Basic; Online; Target; 06/01/2022; 30 Days 
+62; Denim Jeans; 32x34; Blue; Denim; Levi's; $60; Spring; Casual; Classic; In Store; Levi's; 04/20/2022; 30 Days 
+63; Velvet Dress; X-Small; Black; Velvet; Alice + Olivia; $350; Winter; Dressy; Fashionable; Online; Alice + Olivia; 11/27/2021; 30 Days 
+64; Linen Pants; 36; Beige; Linen; J.Crew; $120; Summer; Casual; Basic; In Store; J.Crew; 07/05/2022; 30 Days 
+65; Silk Scarf; One Size; Red; Silk; Hermes; $450; Fall; Accessorize; Fashionable; In Store; Hermes; 10/10/2021; 60 Days 
+66; Polyester Blend Suit; 40 Regular; Gray; Polyester Blend; Brooks Brothers; $700; Winter; Dressy; Classic; In Store; Brooks Brothers; 01/05/2022; 60 Days 
+67; Leather Jacket; Small; Black; Leather; Saint Laurent; $2500; Fall; Casual; Fashionable; Online; Saint Laurent; 09/20/2021; 60 Days 
+68; Cashmere Sweater; Large; Navy; Cashmere; Loro Piana; $1500; Winter; Dressy; Classic; In Store; Loro Piana; 12/20/2021; 60 Days 
+69; Cotton Shirt; 15.5x33; Light Blue; Cotton; Thomas Pink; $200; Spring; Casual; Basic; Online; Thomas Pink; 05/01/2022; 30 Days.</s>
+70;  Denim Jeans; 30x32; Medium Wash; Denim; Re/Done; $300; Spring; Casual; Vintage; In Store; Re/Done; 04/15/2022; 30 Days 
+71; Silk Dress; Small; Red; Silk; Oscar de la Renta; $3500; Summer; Dressy; Elegant; Online; Oscar de la Renta; 06/25/2022; 60 Days 
+72; Wool Blazer; Medium; Charcoal; Wool; Brunello Cucinelli; $2800; Fall; Business; Tailored; In Store; Brunello Cucinelli; 10/01/2021; 60 Days 
+73; Linen Pants; 32x34; Stone; Linen; Incotex; $500; Summer; Casual; Relaxed; Online; Incotex; 07/10/2022; 30 Days 
+74; Leather Skirt; X-Small; Brown; Leather; The Row; $1800; Fall; Casual; Chic; In Store; The Row; 11/15/2021; 60 Days 
+75; Silk Blouse; One Size; White; Silk; Equipment; $550; Spring; Business; Minimalist; Online; Equipment; 03/30/2022; 30 Days 
+76; Wool Coat; Large; Camel; Wool; Celine; $4500; Winter; Casual; Modern; In Store; Celine; 12/18/2021; 60 Days 
+77; Cotton T-Shirt; Men's L; Black; Cotton; James Perse; $150; Spring; Casual; Basic; Online; James Perse; 04/28/2022; 30 Days 
+78; Leather Pants; 28; Black; Leather; Isabel Marant; $1200; Winter; Casual; Rock; In Store; Isabel Marant; 01/05/2022; 60 Days 
+79; Wool Sweater; Small; Grey; Wool; Prada; $1250; Fall; Casual; Luxe; Online; Prada; 09/12/2021; 30 Days.</s>
+80;  Silk Blouse; Women's M; White; Silk; Oscar de la Renta; $800; Spring; Formal; Elegant; In Store; Oscar de la Renta; 04/10/2022; 14 Days 
+81; Denim Jacket; Men's XL; Blue; Denim; Levi's; $100; Fall; Casual; Classic; Online; Levi's; 09/22/2021; 30 Days 
+82; Wool Skirt; Women's 8; Red; Wool; Max Mara; $600; Winter; Formal; Professional; In Store; Max Mara; 01/18/2022; 60 Days 
+83; Linen Shirt; Men's L; Beige; Linen; Zegna; $400; Summer; Casual; Resort; Online; Zegna; 06/06/2022; 30 Days 
+84; Cashmere Scarf; One Size; Blue; Cashmere; Brunello Cucinelli; $350; Winter; Casual; Luxe; In Store; Brunello Cucinelli; 01/02/2022; 14 Days 
+85; Tweed Blazer; Women's 10; Brown; Tweed; Chanel; $3000; Fall; Formal; Classic; In Store; Chanel; 10/15/2021; 30 Days 
+86; Polyester Dress; Women's 12; Green; Polyester; H&M; $50; Summer; Casual; Boho; Online; H&M; 06/22/2022; 14 Days 
+87; Leather Belt; Men's 36; Black; Leather; Gucci; $350; Spring; Casual; Luxe; In Store; Gucci; 04/22/2022; 14 Days 
+88; Silk Tie; Men's 160cm; Red; Silk; Hermes; $200; Winter; Formal; Classic; In Store; Hermes; 01/12/2022; No Returns 
+89; Cotton Socks; One Size; Grey; Cotton; Falke; $30; Fall; Casual; Basic; Online; Falke; 09/28/2021; 30 Days.</s>
+90;  Wool Sweater; Men's XL; Navy; Wool; Brooks Brothers; $250; Winter; Formal; Classic; In Store; Brooks Brothers; 12/10/2021; 14 Days 
+91; Denim Jeans; Women's 32; Blue; Denim; Levi's; $80; Spring; Casual; Classic; Online; Levi's; 04/15/2022; 30 Days 
+92; Linen Shirt; Men's L; White; Linen; Ted Baker; $150; Summer; Casual; Smart Casual; In Store; Ted Baker; 08/05/2022; 14 Days 
+93; Polyester Suit; Men's 40R; Black; Polyester; Zara; $200; Winter; Formal; Modern; In Store; Zara; 11/20/2021; 14 Days 
+94; Silk Scarf; Women's One Size; Red; Silk; Hermes; $300; Fall; Formal; Classic; In Store; Hermes; 09/20/2021; No Returns 
+95; Cotton Dress; Women's M; Pink; Cotton; Massimo Dutti; $100; Spring; Casual; Feminine; Online; Massimo Dutti; 03/25/2022; 30 Days 
+96; Leather Jacket; Men's L; Brown; Leather; Schott; $500; Fall; Casual; Classic; In Store; Schott; 10/20/2021; 14 Days 
+97; Silk Blouse; Women's S; White; Silk; Theory; $200; Spring; Formal; Classic; In Store; Theory; 04/01/2022; 14 Days 
+98; Wool Trousers; Men's 32W; Grey; Wool; Canali; $350; Winter; Formal; Classic; In Store; Canali; 12/20/2021; 14 Days 
+99; Cashmere Sweater; Women's XS; Beige; Cashmere; Brunello Cucinelli; $700; Fall; Formal; Luxe; In Store; Brunello Cucinelli; 10/15/2021; 14 Days.</s>
+100;  Linen Shirt; Men's M; Blue; Linen; J.Crew; $120; Summer; Casual; Classic; In Store; J.Crew; 06/05/2022; 14 Days 
+101; Polyester Skirt; Women's L; Red; Polyester; Zara; $60; Spring; Casual; Modern; In Store; Zara; 04/15/2022; 14 Days 
+102; Cotton Dress; Women's S; Black; Cotton; COS; $150; Spring; Formal; Minimalist; In Store; COS; 04/20/2022; 14 Days 
+103; Denim Jeans; Men's 30W; Indigo; Denim; Levi's; $90; Spring; Casual; Classic; In Store; Levi's; 04/25/2022; 14 Days 
+104; Viscose Blend Top; Women's XS; Green; Viscose Blend; & Other Stories; $70; Fall; Casual; Bohemian; In Store; & Other Stories; 10/01/2021; 14 Days 
+105; Wool Coat; Men's 40R; Brown; Wool; Brooks Brothers; $650; Winter; Formal; Classics; In Store; Brooks Brothers; 11/20/2021; 14 Days 
+106; Silk Scarf; Women's One Size; Multi-color; Silk; Hermes; $450; Fall; Accessory; Luxe; In Store; Hermes; 10/10/2021; 14 Days 
+107; Leather Jacket; Men's 42R; Black; Leather; Schott NYC; $800; Fall; Casual; Classic; In Store; Schott NYC; 11/05/2021; 14 Days 
+108; Cotton Trousers; Men's 30W; Khaki; Cotton; J.Crew; $100; Spring; Casual; Classic; In Store; J.Crew; 05/01/2022; 14 Days 
+109; Silk Blend Top; Women's M; Yellow; Silk Blend; Equipment; $250; Spring; Casual; Feminine; In Store; Equipment; 05/15/2022; 14 Days.</s>

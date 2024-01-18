@@ -1,0 +1,11 @@
+;Researchers;Publication Year;Study Location;Experimental Group;Control Group;Sample Size;Data Collection Method 1;Data Collection Method 2;Statistical Analysis Tool;Findings & Implications
+0;  John Doe;2020;New York, USA;Vaccine Group;Placebo Group;1000;Blood Sample;Survey;t-test;Significantly reduced symptoms in the vaccine group
+1; Jane Smith;2019;London, UK;Organic Diet Group;Standard Diet Group;500;Urine Sample;Questionnaire;ANOVA;Lower toxin levels in organic diet group
+2; Richard Roe;2018;Paris, France;Sleep Group;No Sleep Group;300;Brain Activity;Sleep Diary;Regression Analysis;Improved cognitive function in sleep group
+3; Mary Major;2017;Berlin, Germany;Exercise Group;No Exercise Group;400;Heart Rate;Fitness Test;Chi-Square Test;Increased cardiovascular health in exercise group
+4; Alex Builder;2016;Sydney, Australia;Meditative Practice Group;No Practice Group;200;Brain Waves;Self-reported Stress Levels;Mann-Whitney U Test;Reduced stress in meditative practice group
+5; Tom Green;2015;Tokyo, Japan;Low-carb Diet Group;High-carb Diet Group;600;Blood Glucose;Food Diary;Kruskal-Wallis Test;Improved blood sugar control in low-carb group
+6; Ava White;2014;Toronto, Canada;Recycling Group;No Recycling Group;700;Waste Disposal;Survey;Wilcoxon Signed-Rank Test;Increased environmental awareness in recycling group
+7; Mark Black;2013;Moscow, Russia;Yoga Group;No Yoga Group;350;Flexibility;Strength Test;Analysis of Variance;Improved flexibility and strength in yoga group
+8; Kim Brown;2012;Rome, Italy;Vegetarian Diet Group;Non-vegetarian Diet Group;800;Nutrient Intake;Food Frequency Questionnaire;Multivariate Analysis;Higher intake of certain nutrients in vegetarian group
+9; Pat Red;2011;Oslo, Norway;Mindfulness Group;No Mindfulness Group;450;Stress Levels;Mindfulness Questionnaire;Correlation Analysis;Reduced stress in mindfulness group</s>

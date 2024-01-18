@@ -1,0 +1,11 @@
+;time\_period; variable\_type; GDP\_2; $ billion\_2; industry\_code\_2; country\_name\_2; state\_abbreviation\_2; population\_size\_2; data\_source\_2; sample\_description\_2; inflation\_rate; unemployment\_rate; interest\_rate
+0;" ""time\_period"; variable\_type; GDP\_2; $ billion\_2; industry\_code\_2; country\_name\_2; state\_abbreviation\_2; population\_size\_2; data\_source\_2; sample\_description\_2; inflation\_rate; unemployment\_rate; interest\_rate
+1;2022 Q1; actuals; 24.5; 24500; 1011; United States; NY; 20000000; World Bank; Representative sample of businesses; 2.5%; 4.5%; 2.0%
+2;2022 Q1; actuals; 6.8; 680; 2011; China; Beijing; 15000000; World Bank; Representative sample of businesses; 3.2%; 5.2%; 3.5%
+3;2022 Q1; actuals; 4.9; 490; 3011; Germany; Berlin; 3500000; World Bank; Representative sample of businesses; 1.8%; 3.5%; 1.0%
+4;2022 Q1; actuals; 4.2; 420; 4011; Japan; Tokyo; 8000000; World Bank; Representative sample of businesses; 0.5%; 2.5%; 0.5%
+5;2022 Q1; actuals; 7.2; 720; 5011; France; Paris; 2500000; World Bank; Representative sample of businesses; 1.2%; 3.0%; 1.2%
+6;2022 Q1; actuals; 3.2; 320; 6011; United Kingdom; London; 9000000; World Bank; Representative sample of businesses; 1.5%; 4.0%; 1.5%
+7;2022 Q1; actuals; 2.8; 280; 7011; Italy; Rome; 4000000; World Bank; Representative sample of businesses; 2.0%; 4.5%; 2.5%
+8;2022 Q1; actuals; 2.1; 210; 8011; Canada; Ottawa; 1200000; World Bank; Representative sample of businesses; 2.2%; 3.8%; 2.0%
+9;2022 Q1; actuals; 1.9; 190; 9011; Australia; Canberra; 500000; World Bank; Representative sample of businesses; 1.7%; 3.2%;" 2.5%""</s>"

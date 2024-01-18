@@ -1,0 +1,11 @@
+;Gravity Anomalies;Magnetic Susceptibility;Microearthquake Depths;Volcanic Tremor Frequency;Volcanic SO2 Flux;Radon Emissions;Tectonic Stress Field Estimates;Crustal Deformation Ratio;Hydrological Cycle Indices;Earthquake Risk Zones
+0; -8; High; 5km; 12Hz; 1200t/d; Elevated; Increasing; 0.0006; High; Moderate
+1;3; Low; 8km; 7Hz; 800t/d; Normal; Steady; 0.0003; Low; Low
+2;-2; High; 3km; 18Hz; 1800t/d; Elevated; Decreasing; 0.0009; High; High
+3;6; Medium; 6km; 9Hz; 1000t/d; Normal; Slightly Increasing; 0.0004; Medium; Moderate
+4;-5; High; 4km; 15Hz; 1500t/d; Elevated; Increasing; 0.0007; High; High
+5;1; Low; 10km; 6Hz; 600t/d; Normal; Steady; 0.0002; Low; Low
+6;-7; High; 2km; 20Hz; 2000t/d; Elevated; Decreasing; 0.001; High; Very High
+7;4; Medium; 7km; 8Hz; 900t/d; Normal; Slightly Decreasing; 0.0005; Medium; Moderate
+8;-1; High; 3km; 17Hz; 1700t/d; Elevated; Increasing; 0.0008; High; High
+9;2; Low; 9km; 5Hz; 500t/d; Normal; Steady; 0.0001; Low; Low</s>

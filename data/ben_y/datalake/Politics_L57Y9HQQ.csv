@@ -1,0 +1,112 @@
+;Elections Held; Voter Turnout%; Winning Candidate; Number of Seats Won by Winning Candidate; Total Population in Constituency; Minimum Age Requirement for Voting; Political Ad Spending$; Campaign Issue Priorities; Date of the Next Election; Opposition Party Leader; Level Of Funding For Opposing Campaigns$
+0;" ""Elections Held"; Voter Turnout%; Winning Candidate; Number of Seats Won by Winning Candidate; Total Population in Constituency; Minimum Age Requirement for Voting; Political Ad Spending$; Campaign Issue Priorities; Date of the Next Election; Opposition Party Leader;" Level Of Funding For Opposing Campaigns$"""
+1;"""November 3, 2020"; 66.7%; Joseph R. Biden; 306/538; 331,002,651; 18; $14 billion; Economy, Healthcare, Racial Equality; November 5, 2024; Kevin McCarthy;" $7 billion"""
+2;"""November 3, 2020"; 61.4%; Nancy Pelosi; 222/435; 331,002,651; 18; $6 billion; Economy, Healthcare, Climate Change; January 3, 2023; Mitch McConnell;" $3 billion"""
+3;"""September 20, 2020"; 69.6%; Angela Merkel; 246/598; 83,019,226; 16; €1 billion; Climate Change, Economy, Refugees; September 26, 2025; Olaf Scholz;" €500 million"""
+4;"""December 12, 2019"; 67.3%; Boris Johnson; 365/650; 66,650,000; 18; £1.2 billion; Brexit, NHS, Economy; December 2, 2024; Keir Starmer;" £600 million"""
+5;"""May 26, 2019"; 43.1%; Emmanuel Macron; 348/577; 67,063,589; 18; €150 million; Climate Change, EU Reforms, Economy; May 23, 2024; Marine Le Pen;" €75 million"""
+6;"""September 20, 2020"; 57.5%; Justin Trudeau; 157/338; 37,742,154; 18; $534 million; Climate Change, Economy, COVID-19 Response; October 16, 2023; Erin O'Toole;" $250 million"""
+7;"""October 21, 2019"; 67.0%; Scott Morrison; 234/151; 25,499,884; 18; AUD $50 million; Economy, Climate Change, Integrity in Government; May 14, 2022; Anthony Albanese;" AUD $25 million"""
+8;"""July 9, 2017"; 65.6%; Shinzo Abe; 284/465; 126,573,481; 18; ¥15 billion; Constitution Revision, Economy, North Korea; October 22, 2021; Yukio Edano;" ¥8 billion"""
+9;"""October 20, 2019"; 44.7%; Giuseppe Conte; 228/630; 60,359,546; 18; €170 million; Migration, Economy, Justice Reforms; September 25, 2023; Giorgia Meloni;" €80 million"""
+10;"""June 23, 2019"; 42.0%; Narendra Modi; 303/545; 1,380,004,385; 18; ₹20 billion; Economy, Defense, National Security; May 2024; Rahul Gandhi;" ₹12 billion""</s>"
+11;" ""November 3, 2020"; 66.2%; Joe Biden; 232/435; 331,002,651; 18; $6 billion; Healthcare, Economy, Climate Change; November 5, 2024; Kevin McCarthy; $5 billion
+12;March 7, 2022; 52.1%; Emmanuel Macron; 289/577; 67,063,519; 18; €130 million; Environment, Security, Economy; April 2027; Marine Le Pen; €100 million
+13;September 20, 2022; 77.3%; Scott Morrison; 118/151; 25,422,788; 18; A$90 million; Economy, Climate Change, Integrity; September 2025; Anthony Albanese; A$75 million
+14;October 4, 2023; 68.5%; Olaf Scholz; 215/709; 83,190,511; 18; €700 million; Climate, Social Justice, Digitalization; September 2027; Friedrich Merz; €550 million
+15;December 12, 2023; 53.2%; Boris Johnson; 365/650; 66,650,008; 18; £450 million; Trade, Brexit, NHS; December 2027; Keir Starmer; £400 million
+16;June 26, 2022; 50.5%; Justin Trudeau; 158/338; 37,702,600; 18; C$540 million; Healthcare, Economy, Climate Change; October 2025; Pierre Poilievre; C$450 million
+17;September 11, 2022; 74.7%; Andrés Manuel López Obrador; 275/500; 130,759,074; 18; MXN 9 billion; Economy, Corruption, Social Programs; July 2027; Marko Cortés; MXN 6 billion
+18;February 13, 2023; 49.5%; Naftali Bennett; 60/120; 9,136,000; 18; US$20 million; Security, Economy, Education; January 2026; Yair Lapid; US$15 million
+19;November 1, 2023; 72.1%; Jacinda Ardern; 51/120; 4,886,312; 18; NZ$150 million; Climate Change, Economy, Social Services; November 2026; Christopher Luxon; NZ$120 million
+20;April 10, 2022; 58.0%; Moon Jae-in; 168/299; 51,451,836; 19; ₩2.5 trillion; Unification, Economy, Democracy; March 2027; Yoon Suk-yeol;" ₩2 trillion""</s>"
+21; June 15, 2023; 63.9%; Scott Morrison; 76/151; 25,622,414; 18; A$180 million; Economy, Immigration, Healthcare; November 2025; Anthony Albanese; A$140 million
+22;September 20, 2023; 52.1%; Olaf Scholz; 237/598; 83,166,711; 16; €300 million; Climate Change, Economy, Social Justice; September 2027; Friedrich Merz; €250 million
+23;October 22, 2023; 78.6%; Justin Trudeau; 160/338; 38,005,238; 18; C$220 million; Climate Change, Economy, Diversity; October 2025; Pierre Poilievre; C$170 million
+24;March 26, 2023; 45.8%; Boris Johnson; 359/650; 67,886,011; 18; £350 million; Brexit, Economy, Healthcare; May 2027; Keir Starmer; £300 million
+25;May 14, 2023; 82.3%; Emmanuel Macron; 289/577; 67,063,588; 18; €380 million; Economy, Climate Change, Security; May 2027; Marine Le Pen; €330 million
+26;July 16, 2023; 50.4%; Narendra Modi; 290/545; 1,393,409,038; 18; ₹45 billion; Economy, National Security, Foreign Policy; May 2028; Rahul Gandhi; ₹40 billion
+27;August 27, 2023; 61.4%; Andrés Manuel López Obrador; 280/500; 130,759,074; 18; MXN$50 billion; Economy, Social Equality, Security; July 2027; Ricardo Anaya; MXN$45 billion
+28;December 10, 2023; 67.2%; Joe Biden; 233/435; 333,477,033; 18; US$500 million; Economy, Climate Change, Healthcare; November 2026; Kevin McCarthy; US$420 million
+29;January 31, 2024; 48.7%; Mark Rutte; 60/150; 17,468,155; 18; €250 million; Economy, Climate Change, Social Justice; March 2027; Sigrid Kaag; €220 million
+30;February 25, 2024; 74.5%; Mario Draghi; 245/400; 60,567,816; 18; €300 million; Economy, Social Equality, Climate Change; May 2028; Giorgia Meloni; €260 million</s>
+31; March 11, 2024; 61.3%; Emmanuel Macron; 355/577; 67,124,399; 18; €400 million; Economy, Security, Environment; April 2029; Marine Le Pen; €380 million
+32;April 15, 2024; 70.1%; Jacinda Ardern; 70/122; 4,968,488; 18; NZ$55 million; Healthcare, Economy, Climate Change; October 2027; Christopher Luxon; NZ$48 million
+33;May 20, 2024; 56.4%; Olaf Scholz; 302/631; 83,231,893; 18; €520 million; Economy, Climate Change, Social Justice; September 2028; Friedrich Merz; €480 million
+34;June 25, 2024; 78.7%; Andrés Manuel López Obrador; 280/500; 123,096,238; 18; MXN$2,950 million; Economy, Poverty, Security; July 2028; Ricardo Anaya; MXN$2,710 million
+35;July 30, 2024; 72.3%; Justin Trudeau; 160/338; 37,857,722; 18; CA$200 million; Economy, Climate Change, Healthcare; October 2025; Pierre Poilievre; CA$185 million
+36;August 24, 2024; 91.9%; Sheikh Hasina; 253/350; 162,259,174; 18; BDT$8,760 million; Economy, Infrastructure, Education; December 2028; Khaleda Zia; BDT$8,030 million
+37;September 6, 2024; 65.9%; Narendra Modi; 302/543; 1,341,107,203; 18; INR$26,850 million; Economy, Security, Foreign Policy; May 2029; Rahul Gandhi; INR$24,030 million
+38;October 12, 2024; 84.2%; Lee Hsien Loong; 83/93; 5,675,928; 21; SGD$70 million; Economy, Housing, Healthcare; January 2029; Pritam Singh; SGD$65 million
+39;November 3, 2024; 58.4%; Scott Morrison; 123/151; 25,393,518; 18; AUD$160 million; Economy, Climate Change, Infrastructure; July 2028; Anthony Albanese; AUD$145 million
+40;December 10, 2024; 75.1%; Boris Johnson; 343/650; 66,555,851; 18; £375 million; Economy, Brexit, Healthcare; June 2029; Keir Starmer; £350 million</s>
+41; January 15, 2025; 72.3%; Emmanuel Macron; 350/577; 67,022,000; 18; €420 million; Economy, Security, Environment; May 2027; Marine Le Pen; €400 million
+42;February 14, 2025; 69.8%; Justin Trudeau; 160/338; 36,704,559; 18; CAD$210 million; Economy, Healthcare, Climate Change; October 2028; Pierre Poilievre; CAD$190 million
+43;March 20, 2025; 80.4%; Angela Merkel; 321/709; 83,019,228; 18; €500 million; Economy, Immigration, Climate Change; September 2027; Olaf Scholz; €450 million
+44;April 25, 2025; 60.7%; Narendra Modi; 303/545; 1,342,513,128; 18; INR₹550 billion; Economy, National Security, Agriculture; May 2028; Rahul Gandhi; INR₹500 billion
+45;May 30, 2025; 54.6%; Giuseppe Conte; 227/630; 60,359,546; 18; €360 million; Economy, Migration, Justice; March 2028; Matteo Salvini; €320 million
+46;June 15, 2025; 78.6%; Pedro Sánchez; 176/350; 47,139,340; 18; €460 million; Economy, Climate Change, Healthcare; April 2029; Pablo Casado; €410 million
+47;July 25, 2025; 64.9%; Andrés Manuel López Obrador; 280/500; 125,956,695; 18; MXN$26 billion; Economy, Corruption, Infrastructure; June 2028; Ricardo Anaya; MXN$24 billion
+48;August 8, 2025; 71.2%; Carlos Alvarado Quesada; 41/57; 4,904,063; 18; CRC₡180 billion; Economy, Education, Environment; September 2027; Fabricio Alvarado Muñoz; CRC₡165 billion
+49;September 20, 2025; 50.1%; Scott Pruitt; 218/435; 329,093,132; 18; USD$1.2 billion; Economy, Energy, Infrastructure; October 2028; Nancy Pelosi; USD$1.1 billion
+50;October 31, 2025; 88.2%; Muhammadu Buhari; 198/360; 195,855,558; 18; NGN₦220 billion; Economy, Security, Corruption; December 2027; Atiku Abubakar; NGN₦200 billion</s>
+51; January 15, 2026; 65.6%; Jacinda Ardern; 63/120; 4,822,233; 18; NZD$90 million; Economy, Healthcare, Climate Change; February 2029; Judith Collins; NZD$85 million
+52;February 20, 2026; 74.3%; Emmanuel Macron; 350/577; 67,062,000; 18; €500 million; Economy, Security, Environment; March 2028; Marine Le Pen; €475 million
+53;March 27, 2026; 58.1%; Angela Merkel; 342/598; 82,791,695; 18; €550 million; Economy, Migration, Energy; April 2029; Martin Schulz; €525 million
+54;April 3, 2026; 79.9%; Justin Trudeau; 177/338; 36,953,765; 18; CAD$250 million; Economy, Diversity, Environment; May 2029; Andrew Scheer; CAD$230 million
+55;May 15, 2026; 61.7%; Narendra Modi; 303/545; 1,339,130,217; 18; INR₹50 billion; Economy, Defense, Foreign Policy; June 2029; Rahul Gandhi; INR₹45 billion
+56;June 26, 2026; 52.6%; Viktor Orbán; 134/199; 9,721,929; 18; HUF₹12 billion; Economy, Immigration, Family Values; July 2029; Ferenc Gyurcsány; HUF₹10 billion
+57;July 31, 2026; 82.0%; Malcolm Turnbull; 74/150; 24,457,650; 18; AUD$70 million; Economy, Energy, Security; August 2029; Bill Shorten; AUD$65 million
+58;August 14, 2026; 49.1%; Mark Rutte; 76/150; 17,109,589; 18; €65 million; Economy, Migration, Healthcare; September 2029; Geert Wilders; €60 million
+59;September 28, 2026; 77.4%; Theresa May; 317/650; 65,626,989; 18; £150 million; Brexit, Economy, Healthcare; October 2029; Jeremy Corbyn; £140 million
+60;October 10, 2026; 67.0%; Paolo Gentiloni; 310/630; 60,461,826; 18; €80 million; Economy, Migration, Security; November 2029; Matteo Salvini; €75 million</s>
+61; June 12, 2027; 54.8%; Emmanuel Macron; 350/577; 67,022,000; 18; €90 million; Climate Change, Economy, Education; July 2030; Marine Le Pen; €85 million
+62;November 15, 2027; 71.6%; Angela Merkel; 335/598; 82,528,636; 18; €120 million; Economy, Migration, Environment; December 2030; Martin Schulz; €110 million
+63;March 20, 2028; 63.5%; Justin Trudeau; 160/338; 36,708,091; 18; C$85 million; Economy, Healthcare, Environment; April 2031; Andrew Scheer; C$80 million
+64;May 15, 2028; 45.2%; Giuseppe Conte; 265/630; 60,442,324; 18; €70 million; Economy, Migration, Justice; June 2031; Matteo Salvini; €65 million
+65;July 22, 2028; 74.3%; Scott Morrison; 143/226; 24,897,624; 18; AU$50 million; Economy, Climate Change, Security; August 2031; Anthony Albanese; AU$45 million
+66;September 08, 2028; 59.6%; Jacinda Ardern; 53/120; 4,865,234; 18; NZ$25 million; Economy, Inequality, Climate Change; October 2031; Simon Bridges; NZ$20 million
+67;October 27, 2028; 82.6%; Pedro Sánchez; 170/350; 46,733,038; 18; €135 million; Economy, Independence, Climate Change; November 2031; Pablo Casado; €125 million
+68;December 16, 2028; 48.7%; Narendra Modi; 302/543; 1,324,171,354; 18; ₹12 billion; Economy, Defense, Foreign Policy; January 2032; Rahul Gandhi; ₹10 billion
+69;January 20, 2029; 68.9%; Boris Johnson; 365/650; 66,650,003; 18; £140 million; Brexit, Economy, Healthcare; February 2032; Jeremy Corbyn; £130 million
+70;February 24, 2029; 50.8%; Jair Bolsonaro; 292/513; 211,056,957; 16; R$2 billion; Economy, Security, Environment; March 2032; Fernando Haddad; R$1.8 billion</s>
+71; March 3, 2029; 72.1%; Angela Merkel; 342/709; 83,023,293; 16; €1 billion; Immigration, Economy, Climate Change; April 2033; Martin Schulz; €900 million
+72;April 7, 2029; 61.5%; Emmanuel Macron; 292/577; 67,063,563; 18; €800 million; Economy, Security, Environment; May 2033; Marine Le Pen; €700 million
+73;May 12, 2029; 49.3%; Scott Morrison; 145/151; 25,464,025; 18; AU$250 million; Economy, Climate Change, Healthcare; June 2033; Anthony Albanese; AU$230 million
+74;June 17, 2029; 56.2%; Justin Trudeau; 160/338; 37,700,034; 18; C$600 million; Economy, Diversity, Environment; July 2033; Andrew Scheer; C$550 million
+75;July 22, 2029; 78.6%; Jacinda Ardern; 56/120; 4,947,737; 18; NZ$120 million; Economy, Social Welfare, Environment; August 2033; Simon Bridges; NZ$110 million
+76;August 27, 2029; 45.4%; Mark Rutte; 58/150; 17,317,003; 18; €300 million; Economy, Immigration, Climate Change; September 2033; Jesse Klaver; €275 million
+77;September 3, 2029; 82.3%; Andrzej Duda; 241/460; 38,598,009; 18; 400 million zł; Economy, Security, Foreign Policy; October 2033; Grzegorz Schetyna; 350 million zł
+78;October 8, 2029; 63.6%; Pedro Sánchez; 148/350; 47,042,863; 18; €1.2 billion; Economy, Nationalism, Climate Change; November 2033; Pablo Casado; €1.1 billion
+79;November 13, 2029; 73.4%; Giuseppe Conte; 280/630; 60,522,922; 18; €1.4 billion; Economy, Immigration, Justice Reform; December 2033; Matteo Salvini; €1.3 billion
+80;December 18, 2029; 64.2%; Mario Draghi; 295/630; 60,363,649; 18; €1.6 billion; Economy, EU Cooperation, Immigration; January 2034; Giorgia Meloni; €1.5 billion</s>
+81; January 22, 2030; 56.9%; Olaf Scholz; 232/536; 83,231,244; 16; €2.1 billion; Economy, Climate Change, Social Justice; February 2034; Friedrich Merz; €1.9 billion
+82;February 27, 2030; 78.8%; Emmanuel Macron; 325/577; 67,123,523; 18; €2.3 billion; Economy, EU Cooperation, Security; March 2035; Marine Le Pen; €2.2 billion
+83;March 4, 2030; 69.2%; Boris Johnson; 364/650; 67,061,002; 18; €1.9 billion; Brexit, Economy, National Health Service; April 2035; Keir Starmer; €1.8 billion
+84;April 9, 2030; 52.5%; Justin Trudeau; 169/338; 37,625,429; 18; €1.1 billion; Economy, Climate Change, Indigenous Rights; May 2035; Erin O'Toole; €1 billion
+85;May 14, 2030; 81.7%; Jacinda Ardern; 63/122; 4,948,019; 18; €200 million; Economy, Social Services, Climate Change; June 2035; Judith Collins; €180 million
+86;June 19, 2030; 49.3%; Scott Morrison; 189/233; 25,355,952; 18; €800 million; Economy, Climate Change, Immigration; July 2035; Anthony Albanese; €750 million
+87;July 24, 2030; 74.6%; Carlos Alvarado Quesada; 43/82; 5,117,644; 18; €120 million; Economy, Education, Climate Change; August 2035; Fabricio Alvarado Muñoz; €110 million
+88;August 29, 2030; 61.1%; Andrés Manuel López Obrador; 292/500; 130,338,952; 18; €1.5 billion; Economy, Social Services, Corruption; September 2035; Ricardo Anaya Cortés; €1.4 billion
+89;September 3, 2030; 55.2%; Narendra Modi; 302/543; 1,355,912,399; 18; €4.5 billion; Economy, National Security, Foreign Policy; October 2035; Rahul Gandhi; €4.2 billion
+90;October 8, 2030; 70.6%; Moon Jae-in; 189/300; 51,329,219; 19; €1.8 billion; Economy, North Korea, Unification; November 2035; Yoon Suk-yeol; €1.6 billion</s>
+91; November 12, 2030; 65.4%; Jacinda Ardern; 110/120; 4,872,729; 18; €1.2 billion; Climate Change, Economy, Healthcare; December 2035; Christopher Luxon; €1 billion
+92;December 15, 2030; 59.8%; Scott Morrison; 108/151; 25,364,332; 18; €2.1 billion; Economy, Energy, Immigration; January 2036; Anthony Albanese; €1.9 billion
+93;January 20, 2031; 76.9%; Angela Merkel; 342/598; 82,522,794; 18; €3.5 billion; Climate Change, Economy, Social Justice; February 2036; Olaf Scholz; €3.1 billion
+94;February 25, 2031; 51.7%; Emmanuel Macron; 295/577; 66,623,035; 18; €2.8 billion; Economy, Climate Change, Security; March 2036; Marine Le Pen; €2.6 billion
+95;March 31, 2031; 81.6%; Justin Trudeau; 166/338; 36,709,429; 18; €1.9 billion; Economy, Climate Change, Reconciliation; April 2036; Pierre Poilievre; €1.7 billion
+96;April 15, 2031; 48.7%; Boris Johnson; 352/650; 65,958,001; 18; €4 billion; Brexit, Economy, Healthcare; May 2036; Keir Starmer; €3.6 billion
+97;May 21, 2031; 72.3%; Giuseppe Conte; 300/630; 59,446,474; 18; €2.5 billion; Economy, Migration, COVID-19 Recovery; June 2036; Giorgia Meloni; €2.2 billion
+98;June 29, 2031; 68.2%; Mark Rutte; 71/150; 17,136,336; 18; €1.7 billion; Economy, Climate Change, Security; July 2036; Sigrid Kaag; €1.5 billion
+99;July 14, 2031; 54.5%; Pedro Sánchez; 162/350; 46,859,638; 18; €2.3 billion; Economy, Catalonia, Climate Change; August 2036; Pablo Casado; €2 billion
+100;August 25, 2031; 79.9%; Erna Solberg; 75/169; 5,312,074; 18; €800 million; Economy, Climate Change, Healthcare; September 2036; Jonas Gahr Støre; €700 million</s>
+101; September 4, 2031; 63.0%; Giuseppe Conte; 255/630; 60,399,992; 18; €3.1 billion; Economy, Immigration, Civil Rights; October 2036; Giorgia Meloni; €2.9 billion
+102;October 12, 2031; 59.8%; Scott Morrison; 192/226; 25,570,442; 18; €2.4 billion; Economy, Climate Change, Defense; November 2036; Anthony Albanese; €2.2 billion
+103;November 19, 2031; 82.1%; Angela Merkel; 302/709; 83,149,732; 18; €4.1 billion; Economy, Climate Change, Immigration; December 2036; Olaf Scholz; €3.8 billion
+104;December 27, 2031; 66.7%; Justin Trudeau; 165/338; 37,704,491; 18; €2.6 billion; Economy, Climate Change, Reconciliation; January 2037; Pierre Poilievre; €2.4 billion
+105;January 3, 2032; 71.4%; Emmanuel Macron; 340/577; 67,207,697; 18; €4.2 billion; Economy, Climate Change, Security; February 2037; Marine Le Pen; €3.9 billion
+106;February 10, 2032; 51.3%; Narendra Modi; 320/545; 1,324,171,354; 18; €7.1 billion; Economy, Defense, Foreign Policy; March 2037; Rahul Gandhi; €6.8 billion
+107;March 17, 2032; 85.0%; Jacinda Ardern; 80/120; 4,822,233; 18; €500 million; Economy, Climate Change, Social Welfare; April 2037; Judith Collins; €450 million
+108;April 24, 2032; 48.0%; Jair Bolsonaro; 280/513; 213,282,876; 16; €6.3 billion; Economy, Security, Sovereignty; May 2037; Fernando Haddad; €5.8 billion
+109;May 31, 2032; 74.3%; Boris Johnson; 358/650; 66,868,758; 18; €2.8 billion; Brexit, Economy, Immigration; June 2037; Keir Starmer; €2.5 billion
+110;June 15, 2032; 70.0%; Xi Jinping; 2,291/2,980; 1,429,516,827; 18; €12.1 billion; Economy, Security, Territorial Integrity; July 2037; Li Keqiang; €11.5 billion</s>

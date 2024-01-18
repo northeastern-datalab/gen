@@ -1,0 +1,83 @@
+;Island Nation; Island Area (sq km); Coastline Length (kms)*; Number Of Islands**; Capital City Pop$; Currency Type(^)**; Time Zone |||~~; Dialling Code ####***; Independence Day / Observance ^^^^\_\_*******; Submarine Cables $$\$\$****
+0; Iceland; 103,000; 4,970; 1; 336,270; ISK^; GMT; 354####; June 17, 1944; Submarine cables: DANICE, FARICE, Greenland Connect
+1;Cyprus; 9,250; 648; 3; 386,097; EUR^; EET; 357####; October 1, 1960; Submarine cables: MedNautilus, SeaMeWe-3, Ugarit
+2;Ireland; 84,421; 3,171; 1; 4,937,786; EUR^; IST; 353####; April 18, 1949; Submarine cables: GTT Atlantic, Celtic-Norse, Havfrue, AC-1, AEC-1
+3;Jamaica; 10,991; 1,022; 1; 2,957,163; JMD^; EST; 1876####; August 6, 1962; Submarine cables: ECFS, Fibralink, GT-Monet, CJCL, Eastern Caribbean Fiber System
+4;Bahamas; 13,880; 3,542; 700; 393,245; BSD^; EST; 1876####; July 10, 1973; Submarine cables: Bahamas Domestic Submarine Cable System, Antillas 1, Americas II, Americas-II, Caribbean-Bermuda UGW
+5;Maldives; 300; 644; 1,192; 515,696; MVR^; MHT; 960####; July 26, 1965; Submarine cables: South East Asia-Middle East-Western Europe 4, Dhiraagu-Wiellmo-Link
+6;Malta; 316; 196; 4; 445,426; EUR^; CET; 356####; September 21, 1964; Submarine cables: Malta-Italy Interconnector, Melita-1, SeaMeWe-3
+7;Seychelles; 459; 491; 115; 98,223; SCR^; SCT; 248####; June 29, 1976; Submarine cables: SEAS, SEA-ME-WE 5
+8;Trinidad and Tobago; 5,130; 362; 23; 1,362,453; TTD^; EST; 1876####; August 31, 1962; Submarine cables: ECFS, Eastern Caribbean Fiber System, Americas II
+9;Barbados; 431; 97; 1; 287,025; BSD^; AST; 1876####; November 30, 1966; Submarine cables: East-West, Eastern Caribbean Fiber System, Deep Blue Cable, Antillas 1, GTT Atlantic</s>
+10; Mauritius; 2,040; 177; 1; 1,372,343; MUR^; MUT; 230####; March 12, 1968; Submarine cables: LION, MAYA-1, Lower Indian Ocean Network 2, SAFE, Eastern Africa Submarine System Cable
+11;Fiji; 18,274; 11,292; 332; 905,941; FJD^; FJT; 679####; October 10, 1970; Submarine cables: TGA-HANN, TIIS, Southern Cross Cable, Hawaiki Cable, Natitua Cable
+12;Bahamas; 13,880; 3,542; 700; 393,236; BSD^; EST; 1806####; July 10, 1973; Submarine cables: Bahamas Domestic Submarine Network, Antillas 1, BDSN, CBUS, Eastern Caribbean Fiber System, Americas II
+13;Iceland; 103,000; 4,970; 1; 358,700; ISK^; WET, Iceland Standard Time; Iceland was never colonized and has always been independent;;
+14;Maldives; 300; 644; 1,196; 540,542; MVR^; MVT; 960####; July 26, 1965; Submarine cables: Dhiraagu-Western Route, Dhiraagu-Eastern Route, South East Asia - Middle East - Western Europe 5, Bay of Bengal Gateway, Southeast Asia Japan Cable System, Europe India Gateway
+15;Cyprus; 9,251; 648; 1; 1,201,504; EUR^; EET; 1960####; October 1, 1960; Submarine cables: MedNautilus, SEA-ME-WE 3, SEA-ME-WE 4, UGARIT, Cyprus-Greece-Israel, Aphrodite 1
+16;New Zealand; 268,800; 15,134; 1; 4,885,139; NZD^; NZT; 64####; January 26, 1947; Submarine cables: Southern Cross Cable, Tasman Global Access, Hawaiki Cable, TGA-HANN, SCCN, AAG, ASC, H2 Cable, SJC
+17;Sri Lanka; 65,610; 1,340; 1; 21,863,322; LKR^; IST, SLST; February 4, 1948; Submarine cables: Bay of Bengal Gateway, South East Asia - Middle East - Western Europe 4, South East Asia - Middle East - Western Europe 5, SEA-ME-WE 5;
+18;Jamaica; 10,991; 1,022; 1; 2,890,628; JMD^; EST; August 6, 1962; Submarine cables: ECFS, Eastern Caribbean Fiber System, Americas II, Caribbean fiber optic network, CBUS;
+19;Singapore; 704; 193; 1; 5,698,600; SGD^; SGT; August 9, 1965; Submarine cables: SEA-ME-WE 3, SEA-ME-WE 4, SEA-ME-WE 5, APG, AAG, SJC, TGA-HANN, BALOK, DFN, PC-1, SEA-US, MCT, FASTER, TGN-EA, ASE, IGG, BBG, APCN 2, EIG, SJC2, TIC, SJC, JUPITER, INDIGO-West, INDIGO-Central, INDIGO-East</s>;
+20; Iceland; 103,000; 4,970; 1; 334,200; ISK^; GMT; June 17, 1944; Submarine cables: FARICE-1, DANICE, Greenland Connect, Scotland-Norway-1, COBRAcable, Havfrue, CeltixConnect-2, North Sea Link, NorNed, NAWA, HVDC Cable, Helix-Atlantic-1, SURF-1, Circe North, Viking Link, SAEx1, SAEx2, SAEx3;
+21;Cuba; 110,860; 3,735; 1; 11,341,117; CUP^; EST; May 20, 1902; Submarine cables: ALBA-1, ARCOS-1, DLPT, AMX-1, MAYA-1, Fibra Optica Antillas, East-West Submarine Cable, AC-1, ANTILLAS-1, CFX-1, CA Nautilus, Curie, ARCOS-3, AMX-2, MAYA-2, AMX-3, GlobeNet, Deep Blue Cable;
+22;Papua New Guinea; 462,840; 5,152; 6; 8,084,229; PGK^; PGT, AMST; September 16, 1975; Submarine cables: PNG-LNG (Japan), PPC-1 (Australia), APNG-2 (Australia), Southern Cross Cable, JGA-S (Japan), Hawaiki Submarine Cable, INDIGO-Central, INDIGO-West;
+23;Ireland; 84,421; 3,171; 1; 4,857,776; EUR$; IST, GMT; April 18, 1949; Submarine cables: GTT Atlantic, CeltixConnect-1, Hibernia Atlantic, Yellow, Pan European Crossing, Solas, Hibernia Express, Tata Global Network-Europe, Europe-India Gateway, AEC-1, AEC-2, SEA-ME-WE 4, SEA-ME-WE 3, UK-Netherlands 14, UK-Netherlands 16, Cinia North Sea Cable, Concerto, South Atlantic Express, GAIA-X, Dunant, Grace Hopper, Havfrue, IMEWE, Ireland-France, JGA-S, GTT Express, TGN-Atlantic, Tata TGN-Intra Asia Cable System, WACS, SAEx1, SAEx2, SAEx3;
+24;Philippines; 300,000; 36,289; 7,107; 105,779,332; PHP^; PHT; July 4, 1946; Submarine cables: APCN 2, ASE, C2C, EAC-C2C, JUS, RNAL, RNIS, ASEAN WaVE, SeaMeWe-3, SeaMeWe-5, SJC, Southern Cross Cable, TGN-EAGLE;
+25;North Korea; 120,540; 2,495; 1; 25,289,000; KPW^; PYT; September 9, 1948; Submarine cables: DPRK-RUS, THAICOM-3, TPE, China-DPRK-Japan, Transit-Europe-Asia, TTCL-1;
+26;South Korea; 99,720; 2,413; 1; 51,462,024; KRW^; KST; August 15, 1948; Submarine cables: TPE, APCN 2, ASE, TGN-EAGLE, UNITY, FASTER, KJCN, TGN- Pacific, EAC-C2C, ASEAN WaVE, SeaMeWe-3, SeaMeWe-5, SJC, JUS, RNAL, RNIS;
+27;Madagascar; 587,041; 4,828; 5; 26,939,016; MGA^; EAT; June 26, 1960; Submarine cables: LION, SAFE, EASSy, SEACOM, Djibouti Africa Link, AAE-1, LION2, PEACE Cable, SEA-ME-WE 5, 2Africa, IoA-O, Orient Express;
+28;Taiwan; 35,980; 1,566; 1; 23,599,940; TWD^; CST; October 25, 1945; Submarine cables: APCN 2, ASE, C2C, EAC-C2C, JUS, RNAL, RNIS, ASEAN WaVE, SeaMeWe-3, SeaMeWe-5, SJC, Southern Cross Cable, TGN-EAGLE;
+29;Haiti; 27,750; 2,736; 1; 11,123,270; HTG^; EST; January 1, 1804; Submarine cables: ARCOS-1, Americas II, Eastern Caribbean Fiber System, Curie, ANTILLAS-1, CFX-1, CA Nautilus, Apollo, EllaLink.</s>;
+30; Philippines; 300,000; 36,289; 7,641; 113,172,982; PHP^; PHT; June 12, 1962; Submarine cables: AAG, ASE, BSCS, C2C, EAC-C2C, JUS, RNAL, RNIS, SJC, SEA-ME-WE 3, 5, APG, ADC, CSCS, FEA, TGN-EA, 2Africa;
+31;Sri Lanka; 65,610; 1,585; 1; 22,123,433; LKR^; IST; February 4, 1948; Submarine cables: SEA-ME-WE 3, 4, 5, IMEWE, Bharat Lanka, SMW4, Dhiraagu-SLT, AAE-1, 2Africa;
+32;Ireland; 84,421; 3,171; 1; 5,021,232; EUR; IST; April 18, 1949; Submarine cables: GTT, Apollo North, CeltixConnect-1, 2, Havfrue, Midgard, GAIA, HUGO, Express, AC-1, Yellow, Eig, Solas, GLO-1, Circe North;
+33;Papua New Guinea; 462,840; 5,152; 6; 8,896,345; PGK; +675; September 16, 1975; Submarine cables: APNG-2, JGA, PPC-1, AJC, SxS JGA, INDIGO-West, 2Africa, ICN1, KJCN;
+34;New Zealand; 268,838; 15,134; 1; 4,885,236; NZD; NZST; February 6, 1907; Submarine cables: Southern Cross Cable, Tasman Global Access, Hawaiki Cable, ASH, H2 Cable, 2Africa;
+35;Cuba; 110,860; 3,735; 1; 11,268,929; CUP; EDT; May 20, 1902; Submarine cables: ARCOS-1, Havfrue, Midgard, Dunant, Grace Hopper, Malbec, AMX-1, 2, Maya-1, CFX-1, ANTILLAS-1;
+36;Iceland; 103,000; 4,970; 1; 364,134; ISK; GMT; June 17, 1944; Submarine cables: DANICE, CANTAT-3, FARICE, FEA, Greenland Connect, Circe North, 2Africa;
+37;Bahamas; 13,880; 3,542; 1; 397,355; BSD; EDT; July 10, 1973; Submarine cables: ARCOS-1, AMX-1, 2, Curie, Cayman-Jamaica, CFX-1, Apollo, ANTILLAS-1;
+38;Cyprus; 9,251; 6,480; 1; 1,257,671; EUR; EET; October 1, 1960; Submarine cables: UGW, MedNautilus, SEA-ME-WE 3, 4, 5, OIC-1, AAE-1, 2Africa, SAex;
+39;North Korea; 123,130; 2,495; 1; 25,893,473; KPW; PYT; September 9, 1948; Submarine cables: TPE, KJCN, Dhiraagu-SLT, SJC, TGN-EAC, CJCL, AAG, SeaMeWe-3;
+40; Iceland; 103,000; 4,970; 1; 373,655; ISK; GMT; June 17, 1944; Submarine cables: Farice-1, DANICE, FARSUN, Greenland Connect, CANTAT-3, TAT-14, HR-LAN;
+41;Cuba; 110,860; 5,746; 1; 11,341,157; CUP; CDT; May 20, 1902; Submarine cables: ALBA-1, ARCOS-1, GLFHC-1, GNC-1, MAUI, Maya-1, AMX-1, 2;
+42;Sri Lanka; 65,610; 1,340; 1; 22,178,664; LKR; IST; February 4, 1948; Submarine cables: SEA-ME-WE 3, 4, 5, IMEWE, Bharat Lanka, SMW4, Bay of Bengal Gateway;
+43;Ireland; 70,273; 5,428; 1; 5,026,734; EUR; GMT; December 6, 1922; Submarine cables: GTT Atlantic, Apollo, Emerald, CelticNordic, Havfrue, Hibernia Express;
+44;Hawaii; 28,311; 1,210; 1; 1,415,420; USD; HST; August 21, 1959; Submarine cables: Hawaiki, PC-1, TPC-5, TPC-6, Southern Cross, Japan-US, FASTER;
+45;Jamaica; 10,991; 2,032; 1; 2,978,502; JMD; EST; August 6, 1962; Submarine cables: EC-FS, ARCOS-1, Southern Caribbean Fiber, Maya-1, AMX-1, 2;
+46;Madagascar; 587,041; 4,828; 1; 29,132,741; MGA; EAT; June 26, 1960; Submarine cables: LION, EASSy, EIG, SEACOM, SAex, AAE-1, WACS;
+47;Bali; 5,561; 2,097; 1; 4,515,514; IDR; WIT; August 17, 1950; Submarine cables: INDIGO-West, INDIGO-Central, JASURAUS, SeaMeWe-3, PIPE-West1;
+48;Mindanao; 97,530; 2,255; 1; 26,313,300; PHP; PHT; July 4, 1946; Submarine cables: ASE, JASURAUS, PFE, SEA-US, AAG, SeaMeWe-3;
+49;Japan; 377,930; 29,751; 6,852; 126,525,399; JPY; JST; April 28, 1952; Submarine cables: PC-1, TPC-3, TPC-4, TPC-5, TPC-6, APCN-2, TGN-Pacific;
+50; Iceland; 103,000; 4,970; 1; 364,410; ISK; WET; June 17, 1944; Submarine cables: FARICE-1, DANICE, Greenland Connect, CANTAT-3;
+51;Cyprus; 9,251; 648; 1; 1,266,897; EUR; EET; October 1, 1960; Submarine cables: MedNautilus, UGARIT, Minerva, SEA-ME-WE-3, SEA-ME-WE-4;
+52;Cuba; 110,860; 3,735; 1; 11,326,616; CUP; EST; May 20, 1902; Submarine cables: ALBA-1, ARCOS-1, EULALIA, GLF, MAYA-1, I-ME-WE;
+53;Hawaii; 28,311; 1,228; 1; 1,455,271; USD; HST; August 21, 1959; Submarine cables: Hawaiki, PC-1, TPC-3, TPC-5, TPC-6, AAG, TGN-Pacific;
+54;Sri Lanka; 65,610; 1,340; 8; 21,790,600; LKR; IST; February 4, 1948; Submarine cables: SEA-ME-WE-3, SEA-ME-WE-4, SEA-ME-WE-5, Bharat Lanka, Dhiraagu-APG, Dhiraagu-SMW5;
+55;Puerto Rico; 9,104; 501; 1; 3,195,153; USD; AST; July 25, 1898; Submarine cables: BRUSA, PAN-AM, S Am-1, Americas-II, GlobeNet, Maya-1, Monet, CEALink, PCCS, Deep Blue Cable;
+56;Ireland; 84,421; 1448; 1; 4,937,786; EUR; IST; April 18, 1949; Submarine cables: GTT Atlantic, CeltixConnect-1, CeltixConnect-2, TAT-14, Yellow, Apollo North, Solas, Hibernia Express, GAZ-PROM, Havfrue-NorSeaCom;
+57;Madagascar; 587,041; 4,828; 5; 29,136,200; MGA; EAT; June 26, 1960; Submarine cables: EASSy, LION, SAFE, METISS;
+58;Jamaica; 10,990; 1,022; 1; 2,858,396; JMD; EST; August 6, 1962; Submarine cables: ANTI-1, ARCOS-1, CARCIP, COLUMBUS-II, Global Crossing, Maya-1, Southern Caribbean Fiber;
+59;Bahamas; 13,880; 3,542; 700; 393,244; BSD; EST; July 10, 1973; Submarine cables: Bat Bahamas, Bahamas Domestic, Bahamas-Havana, EC-FS, Fibralink, Gemini Bermuda, GlobeNet, Southern Caribbean Fiber.</s>;
+60; Iceland; 103,000; 4,970; 1; 364,134; ISK; GMT; June 17, 1944; Submarine cables: CANTAT-3, DANICE, FARICE, Greenland Connect, Tangerine;
+61;Cyprus; 9,251; 648; 3; 1,207,579; EUR; EET; October 1, 1960;</s>;
+62; Maldives; 300; 644; 1,192; 555,025; MVR; +09:00; July 26, 1965; Submarine cables: Dhiraagu-South East Asia-US (SEA-US), Dhiraagu-Maya-1, Dhiraagu-Atlantic Crossing-1, Dhiraagu-Atlantic Crossing-2, Dhiraagu-Bay of Bengal Gateway (BBG), Dhiraagu-South Asia Cross-Link (SAC) Fiber;
+63;Bermuda; 53; 103; 181; 71,176; BMD; AST; June 3, 1973; Submarine cables: GlobeNet, Gemini Bermuda, Bermuda-Caribbean-US (BCU), challenger, southeast North America optical research testbed (SONT), Southeast US and Americas Pacific Submarine Cable Systems (APSCN);
+64;Jamaica; 10,991; 2,031; 4,484; 2,995,000; JMD; EST; August 6, 1962; Submarine cables: EC-FS, Southern Caribbean Fiber, Deep Blue Cable, Gemini Bermuda, GlobeNet;
+65;Grenada; 344; 121; 6; 113,628; XCD; EST; February 7, 1974; Submarine cables: Eastern Caribbean Fiber System (ECFS), Deep Blue Cable;
+66;Fiji; 18,274; 1,129; 332; 913,034; FJD; +12; October 10, 1970; Submarine cables: Southern Cross Cable, Hawaiki Cable, Tasman Global Access (TGA), Natitua Cable System, Hawaiki Nui Cable;
+67;Malta; 316; 196; 1; 523,450; EUR; CET; September 21, 1964; Submarine cables: Malta-Gozo-Malta (MGM), SeaMeWe-3, SeaMeWe-4, SEA-ME-WE-5, AAE-1, Europe India Gateway (EIG);
+68;Barbados; 431; 161; 2; 293,106; BBD; AST; November 30, 1966; Submarine cables: GlobeNet, Americas II, East-West Submarine Cable System, Eastern Caribbean Fiber System (ECFS), Deep Blue Cable;
+69;Bahrein; 760; 161; 33; 1,702,034; BHD; +03:00; December 16, 1971; Submarine cables: SEA-ME-WE-4, SEA-ME-WE-5, Tata Global Network-Somolia (TGN-Somyia), Flag Telecom-Global Network (FLAG);
+70;Saint Lucia; 620; 158; 7; 186,668; XCD; EST; February 22, 1979; Submarine cables: Eastern Caribbean Fiber System (ECFS), Deep Blue Cable;
+71;Cayman Islands; 264; 151; 3; 68,610; KYD; EST; July 8, 1959; Submarine cables: Cayman-Jamaica Fiber System (CJFS), Cayman-Florida West Coast Cable, ARCOS-1, Southeast North America optical research testbed (SONT), East-West Submarine Cable System, Atlantic Crossing-2.</s>;
+72; Iceland; 103,000; 4,970; 1; 371,257; ISK; GMT; June 17, 1944; Submarine cables: CANTAT-3, DANICE, Tampnet, Farice-1;
+73;Maldives; 300; 644; 1,192; 540,541; MVR; +05:00; July 26, 1965; Submarine cables: Dhiraagu-Maldives Connect Cable, South East Asia-Middle East-Western Europe 3 (SEA-ME-WE 3), South East Asia-Middle East-Western Europe 5 (SEA-ME-WE 5), Bay of Bengal Gateway (BBG), South East Asia-Middle East-Western Europe 4 (SEA-ME-WE 4), Europe India Gateway (EIG);
+74;Bahamas; 13,880; 2,250; 700; 397,344; BSD; EST; July 10, 1973; Submarine cables: Bahamas Domestic Submarine System, Bahamas Domestic Submarine System 2, Bahamas Domestic Submarine System 3, Mariesamen Cable System, Bahamas-Florida Cable System, Antillas 1;
+75;Cyprus; 9,251; 648; 3; 1,258,972; EUR; EET; October 1, 1960; Submarine cables: MedNautilus, SEA-ME-WE-3, SEA-ME-WE-4, UGARIT, Europe-India Gateway (EIG);
+76;Seychelles; 459; 496; 115; 97,580; SCR; SCT; June 29, 1976; Submarine cables: SEAS-WEC, SEA-ME-WE-4, SEA-ME-WE-5, SEA-ME-WE-3, SEA-ME-WE-4, SEA-ME-WE-5, SEAS-WEC;
+77;Barbados; 430; 340; 2; 287,025; BSD; AST; November 30, 1966; Submarine cables: Eastern Caribbean Fiber System (ECFS), East Caribbean Optical Ring (ECOR), Global Caribbean Network, Americas II, Americas-II, Americas-II;
+78;Malta; 316; 252; 3; 497,754; EUR; CET; September 21, 1964; Submarine cables: Malta-Gozo-Malta (MGM), SEA-ME-WE-3, SEA-ME-WE-4, UGARIT;
+79;Jamaica; 10,991; 1,022; 2; 2,998,037; JMD; EST; August 6, 1962; Submarine cables: Cayman-Jamaica Fiber System (CJFS), East-West Submarine Cable System, MAYA-1, ARCOS-1, FAUCET, PAN-AM, Jamaica-Cuba-1;
+80;Grenada; 344; 121; 6; 112,523; XCD; AST; February 7, 1974; Submarine cables: Eastern Caribbean Fiber System (ECFS), Deep Blue Cable, Global Caribbean Network;
+81;Aruba; 179; 82; 1; 112,476; AWG; AST; March 18, 1986; Submarine cables: Americas II, Americas-II, South Caribbean Fiber (SCF), Caribbean-Bermuda U.S. (CBU), East-West Submarine Cable System, PAN-AM, EC-Link, East-West Submarine Cable System, MAYA-1, Americas-II.</s>;

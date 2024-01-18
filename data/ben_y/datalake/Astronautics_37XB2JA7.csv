@@ -1,0 +1,11 @@
+;AstrONAUT ID; Gender; Country Origin; Education Background*; First Flight Year**; Total Flights ; Mission Specialty; Spacewalk Experience(hours)****; Type Of Spacesuit Worn++; Weightless Training Method***; Suborbital Flight Experience^; Total Hours of Weightlessness^; Microgravity Exposure Tolerance#; Celestial Body Visited%
+0; 1001; Male; USA; PhD in Astrophysics; 1994; 7; Hubble Space Telescope Servicing; 33.4; EMU; Neutral Buoyancy Lab; Yes; 1356; High; Moon
+1;1002; Female; Canada; Master's in Electrical Engineering; 2001; 4; Satellite Repair and Launch; 24.6; CSA S okay; Water Immersion Facility; No; 0; Moderate; International Space Station
+2;1003; Male; Russia; PhD in Mechanical Engineering; 1987; 8; Space Station Construction; 48.7; Orlan; Parabolic Flight; Yes; 945; Very High; Mir
+3;1004; Female; Japan; Bachelor's in Biology; 2012; 3; Life Science Research; 21.9; FSGS; Free Fall; Yes; 535; High; International Space Station
+4;1005; Male; Germany; Master's in Aerospace Engineering; 1998; 6; Spacelab Mission Specialist; 37.8; EMU; Neutral Buoyancy Lab; Yes; 1112; High; International Space Station
+5;1006; Female; India; PhD in Physics; 2009; 2; Microgravity Experiments; 18.2; CSA S okay; Water Immersion Facility; No; 0; Moderate; International Space Station
+6;1007; Male; USA; Bachelor's in Computer Science; 2004; 5; Satellite Operation and Monitoring; 27.5; EMU; Neutral Buoyancy Lab; Yes; 786; High; International Space Station
+7;1008; Female; China; PhD in Materials Science; 2016; 1; Space Station Materials Processing; 12.6; Feitian; Underwater Training; Yes; 240; Moderate; Tiangong
+8;1009; Male; France; Master's in Astrophysics; 1993; 4; Solar Energy Research; 26.8; EMU; Neutral Buoyancy Lab; Yes; 624; High; International Space Station
+9;1010; Female; UK; Bachelor's in Chemistry; 2006; 3; Zero-G Experiments; 23.5; FSGS; Free Fall; No; 0; Moderate; International Space Station</s>

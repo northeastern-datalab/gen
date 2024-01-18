@@ -1,0 +1,11 @@
+;Arresting Officer ID; Arresting Officer Badge Number; Arresting Officer Years of Service; Incident Arrest Type; Suspect Arrest Type; Booking Number; Charges; Bail Amount; Court Date; Judge Assigned
+0; 101; 2956-B; 8; Drug Possession; Felony Drug Possession; BN-2468; Possession of Illegal Substances; $5000; 2022-09-15; Judge Thompson
+1;215; 8753-C; 5; Assault; Domestic Violence; BN-3059; Battery and Disorderly Conduct; $3000; 2022-08-20; Judge Lewis
+2;302; 5892-A; 12; Theft; Grand Larceny; BN-1976; Property Theft over $5000; $10000; 2022-10-04; Judge Green
+3;406; 9630-D; 3; Robbery; Armed Robbery; BN-4502; Armed Robbery; $20000; 2022-11-01; Judge Anderson
+4;513; 2365-E; 7; Fraud; Identity Theft; BN-6194; Forgery and Identity Theft; $8000; 2023-01-10; Judge Nelson
+5;619; 7850-F; 9; Burglary; Breaking and Entering; BN-5013; Burglary; $12000; 2022-12-12; Judge Hall
+6;727; 3461-G; 6; Murder; First Degree Murder; BN-7520; Murder and Weapon Charges; $50000; 2023-02-14; Judge Turner
+7;831; 9052-H; 10; Kidnapping; Child Abduction; BN-8463; Kidnapping and Criminal Restraint; $30000; 2023-03-16; Judge Phillips
+8;935; 6573-I; 4; DUI; Driving Under Influence; BN-9085; DUI and Reckless Endangerment; $4000; 2022-07-22; Judge Mason
+9;040; 1390-J; 15; Hit and Run; Vehicular Manslaughter; BN-0156; Hit and Run, Vehicular Manslaughter; $80000; 2023-04-18; Judge Mitchell</s>

@@ -1,0 +1,11 @@
+;Gravity Anomalies;Magnetic Susceptibility;Electrical Resistivity;Density Logging;Poroelastic Properties;Rock Stress Measurements;Seismic Refraction;Thermal Properties;Strain Analysis;Magnetic Field Intensity
+0;25; 0.005; 1000 ohm-m; 2.2 g/cc; Incompressible; 35 MPa; 1.8 km/s; 2.5 W/(m*K); 0.001/Pa; 45,000 nT
+1;-18; 0.03; 2500 ohm-m; 2.5 g/cc; Moderately compressible; 20 MPa; 2.2 km/s; 2.0 W/(m*K); 0.002/Pa; 48,000 nT
+2;-02; 0.002; 500 ohm-m; 1.8 g/cc; Highly compressible; 10 MPa; 1.7 km/s; 3.0 W/(m*K); 0.005/Pa; 42,000 nT
+3;11; 0.01; 8000 ohm-m; 3.0 g/cc; Incompressible; 40 MPa; 2.5 km/s; 1.5 W/(m*K); 0.0005/Pa; 50,000 nT
+4;-09; 0.008; 1500 ohm-m; 2.0 g/cc; Moderately compressible; 25 MPa; 2.0 km/s; 2.2 W/(m*K); 0.0015/Pa; 46,000 nT
+5;15; 0.007; 3000 ohm-m; 2.8 g/cc; Highly compressible; 15 MPa; 1.9 km/s; 1.8 W/(m*K); 0.003/Pa; 43,000 nT
+6;-03; 0.02; 600 ohm-m; 1.9 g/cc; Incompressible; 30 MPa; 1.8 km/s; 2.7 W/(m*K); 0.0008/Pa; 52,000 nT
+7;07; 0.012; 10000 ohm-m; 3.2 g/cc; Moderately compressible; 18 MPa; 2.4 km/s; 1.7 W/(m*K); 0.0025/Pa; 47,000 nT
+8;-12; 0.003; 2000 ohm-m; 2.3 g/cc; Highly compressible; 5 MPa; 1.6 km/s; 3.2 W/(m*K); 0.006/Pa; 41,000 nT
+9;05; 0.01; 700 ohm-m; 2.1 g/cc; Incompressible; 35 MPa; 2.1 km/s; 2.4 W/(m*K); 0.0005/Pa; 49,000 nT</s>

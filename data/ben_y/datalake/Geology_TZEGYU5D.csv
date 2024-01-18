@@ -1,0 +1,11 @@
+;Igneous Category; Metamorphism Level; Secondary Deposites; Soil- aroundstone Interactions; Groundwater Influence; Poroelastic Behavior; Seismic Wave Transmission; Heat Conductivity; Chemistry Diversity; Crystal Lattice Integrity; Tectonic Setting; Sample ID
+0; ; Low; Sedimentary layers; Weathering and erosion; High influence; Anisotropic; Dispersion; High; Moderate; Partially intact; Oceanic crust; IG-001
+1;;; Limestone caves; Solution and recrystallization; Soil development; Low influence; Compressibility; Conversion; Medium; Diverse; Crystalline; Distorted  Convergent boundary  IG-002
+2;; Medium; Hydrothermal veins; Pressure solution; Moderate influence; Dilatancy; Reflection and refraction; Low; Restricted; Perfect; Intraplate; IG-003
+3;;; Volcanic glass; Contact metamorphism; Mineral replacement; Soil formation; High influence; Isotropic; Absorption; High; Wide; Disrupted  Rift setting  IG-004
+4;; High; Granitic rocks; Regional metamorphism; Minimal influence; Anisotropic; Refraction; Low; Limited; Ordered; Continental collision; IG-005
+5;;; Marble; Foliated metamorphic rocks; Hornfels; Soil formation; Moderate influence; Dilatancy; Transmission; Medium; Diverse; Crystalline  Passive margin  IG-006
+6;; Low; Alluvial fans; Sediment deposition; High influence; Compressibility; Scattering; High; Moderate; Partially intact; Oceanic crust; IG-007
+7;; Medium; Skarn deposits; Metasomatism; Soil development; Low influence; Absorption; Medium; Restricted; Distorted; Intraplate; IG-008
+8;; High; Gneiss; High-grade metamorphic rocks; Minimal influence; Isotropic; Absorption; Low; Limited; Ordered; Continental collision; IG-009
+9;;; Schist; Medium-grade metamorphic rocks; Phyllite; Soil formation; Moderate influence; Dilatancy; Transmission; Medium; Diverse; Crystalline  Convergent boundary  IG-010</s>

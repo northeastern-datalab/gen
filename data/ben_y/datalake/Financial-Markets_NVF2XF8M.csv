@@ -1,0 +1,11 @@
+;Commodity Prices;Central Bank Interest Rates;Consumer Price Index;Producer Price Index;Housing Market Index;Retail Sales;Industrial Production;Balance of Trade;Budget Balance;Gross National Product;Labor Productivity.
+0;" ""Corn: $50/bushel"; 2.5%; 3.1%; 4.2%; 78; $500 million; 2.5%; -$30 billion; -$50 billion; $2.3 trillion;" 2%"""
+1;"""Wheat: $00/bushel"; 3.0%; 3.3%; 4.5%; 75; $600 million; 3.0%; -$25 billion; -$45 billion; $2.5 trillion;" 2.5%"""
+2;"""Oil: $60/barrel"; 1.5%; 2.9%; 3.9%; 70; $700 million; 1.5%; $50 billion; $20 billion; $3 trillion;" 1.5%"""
+3;"""Gold: $1500/ounce"; 0.5%; 1.7%; 2.8%; 72; $800 million; 0.5%; $100 billion; $75 billion; $3.5 trillion;" 1.8%"""
+4;"""Copper: $00/pound"; 2.0%; 3.7%; 5.2%; 76; $900 million; 2.0%; $200 billion; $150 billion; $4 trillion;" 2.2%"""
+5;"""Natural Gas: $00/mcf"; 1.0%; 3.4%; 4.3%; 74; $1 billion; 1.0%; $300 billion; $250 billion; $4.5 trillion;" 2.5%"""
+6;"""Lumber: $350/1000 board feet"; 0.5%; 2.6%; 3.6%; 78; $1.2 billion; 0.5%; $400 billion; $350 billion; $5 trillion;" 3.0%"""
+7;"""Soybeans: $00/bushel"; 2.5%; 3.0%; 4.0%; 73; $1.5 billion; 2.5%; -$10 billion; -$20 billion; $2.8 trillion;" 2.8%"""
+8;"""Cattle: $50/pound"; 3.5%; 2.2%; 3.3%; 77; $2 billion; 3.5%; $50 billion; $30 billion; $3.2 trillion;" 3.2%"""
+9;"""Cotton: $70/pound"; 4.0%; 1.9%; 2.8%; 79; $2.5 billion; 4.0%; $70 billion; $55 billion; $3.7 trillion;" 4.0%"""

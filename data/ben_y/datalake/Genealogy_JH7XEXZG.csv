@@ -1,0 +1,11 @@
+;ChildGivenName;ChildMiddleName;ChildSSN;SpouseGivenName;SpouseSSN;RelationToProband;AdoptionStatus;\
+0; John;David;123-45-6789;Amy;987-65-4321;Daughter;Not Adopted;
+1;Jane;Ella;456-78-9012;Ben;321-09-8765;Son;Not Adopted;
+2;Michael;Jack;678-90-1234;Jessica;234-56-7890;Grandson;Not Adopted;
+3;Emily;Rose;135-79-2468;Daniel;876-14-3526;Granddaughter;Not Adopted;
+4;James;Alex;246-81-3690;Olivia;567-23-4561;Great Grandson;Not Adopted;
+5;Ella;Kate;369-01-2874;William;789-12-3456;Great Granddaughter;Adopted;
+6;Luke;Sam;450-23-6891;Mary;345-78-9123;Nephew;Not Adopted;
+7;Olivia;Joan;564-87-1923;Michael;291-45-6870;Niece;Not Adopted;
+8;Aiden;Thomas;781-34-5021;Elizabeth;456-12-3123;Grandnephew;Adopted;
+9;Sophia;Isabella;902-56-7213;Alexander;564-89-1112;Great Great Granddaughter;Not Adopted;</s>

@@ -1,0 +1,11 @@
+;Theater Type;Capacity;Construction Year;Number Of Shows Per Year;Main Genre;Director Name;Stage Manager Name;Lighting Designer Name;Sound Designer Name;Seats Sold Last Year;Total Revenue Last Year
+0;  Playhouse;300;1995;250;Drama;John Smith;Jane Doe;Sam Johnson;Mike Brown;220000;2640000
+1; Opera House;1200;1876;100;Opera;Alexander Williams;Sarah Connor;Liam Davis;Clara Green;450000;6600000
+2; Music Theater;500;2001;200;Musicals;Olivia Taylor;Michael Thompson;Harper Adams;Daniel White;550000;7700000
+3; Black Box Theater;100;2010;150;Experimental;Benjamin Carter;Avery Davis;Evelyn Miller;Grayson Jackson;110000;1430000
+4; Dance Studio;200;1988;120;Dance;Sophia King;Jordan Thompson;Lila Allen;Mason Garcia;200000;2600000
+5; Comedy Club;150;2015;300;Comedy;Danielle Rogers;Ethan Walker;Peter Clark;Olivia Evans;230000;3450000
+6; Experimental Theater;75;2020;250;Experimental;Mason Mitchell;Madison Hall;Logan Johnson;Avery Davis;85000;1275000
+7; Children's Theater;250;1998;350;Children's;Avery Thompson;Mason Miller;Evelyn Grey;Daniel Hall;330000;4620000
+8; Classic Theater;600;1965;75;Classic;Charles Walker;Isabella Davis;Jacob Green;Sophia Allen;180000;2340000
+9; Open-Air Theater;800;2018;100;Musicals;Lillian Carter;Benjamin Johnson;Madison Davis;Logan White;950000;10400000</s>

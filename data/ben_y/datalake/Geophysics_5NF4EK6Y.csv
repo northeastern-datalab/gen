@@ -1,0 +1,11 @@
+;Gravity Anomalies;Magnetic Susceptibility;Electrical Resistivity;Radon Emission;Heat Flow Density;GPS Displacements;Volcanological Eruptions Prediction;Tectonic Plate Movements;Strain Rate;Soil Moisture
+0;234;0.000543;100000 Ωm;15 Bq/m³;70 mW/m²;25 mm;Likely volcanic eruption in Yellowstone in 100 years;North American and Pacific plates moving apart;1 x 10^-8 s^-1;Moisture content is high near river banks.
+1;-112;0.000711;500 Ωm;10 Bq/m³;40 mW/m²;5 mm;Minor seismic activity in the Philippines;African and Eurasian plates moving together;5 x 10^-9 s^-1;Soil is dry due to drought in Sahara.
+2;156;0.000327;200 Ωm;25 Bq/m³;60 mW/m²;12 mm;Potential eruption at Mount St. Helens;Nazca plate sliding under the South American plate;3 x 10^-8 s^-1;Soil remains saturated after floods in the Amazon.
+3;-068;0.000986;800 Ωm;8 Bq/m³;30 mW/m²;0 mm;Volcanic activity stable in Hawaii;Arabian plate moving towards the Eurasian plate;2 x 10^-9 s^-1;Soil moisture is low in the Middle Eastern deserts.
+4;072;0.000218;700 Ωm;12 Bq/m³;55 mW/m²;18 mm;Possible eruption in Katla, Iceland;Eurasian and North American plates moving apart;4 x 10^-9 s^-1;Soil remains frozen in Arctic regions.
+5;-091;0.001126;300 Ωm;20 Bq/m³;45 mW/m²;7 mm;Eruption prediction for Mount Fuji;Pacific plate subducting below the Philippine Sea plate;1 x 10^-8 s^-1;Soil moisture decreasing due to seasonal changes.
+6;085;0.000452;600 Ωm;30 Bq/m³;75 mW/m²;10 mm;Minor activity in Mount Etna;African plate moving away from the Eurasian plate;6 x 10^-9 s^-1;Soil is saturated in Mediterranean forests.
+7;-025;0.000699;900 Ωm;5 Bq/m³;25 mW/m²;3 mm;Volcanic activity stable in Arenal, Costa Rica;Caribbean plate moving eastward;1 x 10^-9 s^-1;Soil remains dry during the dry season in the region.
+8;126;0.000291;400 Ωm;22 Bq/m³;50 mW/m²;15 mm;Potential eruption in Mount Ruapehu, New Zealand;Pacific plate subducting below the Indo-Australian plate;7 x 10^-9 s^-1;Soil moisture remains high around the North and South Islands.
+9;-055;0.001056;1200 Ωm;18 Bq/m³;30 mW/m²;6 mm;Volcanic activity stable in Santorini;African plate moving towards the Aegean Sea plate;3 x 10^-9 s^-1;Soil moisture is low in the Greek islands.</s>

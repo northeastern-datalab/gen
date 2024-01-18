@@ -1,0 +1,34 @@
+;"\
+FlowerColor";"\
+BloomingPeriod";"\
+Family";"\
+NativeTo";"\
+TypeOfPlant";"\	// this column is semantically similar to Table 1's column of the same name
+ScientificName";"\	// this column is semantically similar to Table 1's column of the same name
+PlantedOn";"\	// this column is semantically similar to Table 1's column of the same name
+SoilPh";"\	// this column is semantically similar to Table 1's column of the same name
+WateringFrequency";"\	// this column is semantically similar to Table 1's column of the same name
+LightRequirement";"\	// this column is semantically similar to Table 1's column of the same name
+PruningInstructions";"\	// this column is semantically similar to Table 1's column of the same name
+GrowthHabit";"\	// this column is semantically similar to Table 1's column of the same name
+PestsAndDiseases";"\	// this column is semantically similar to Table 1's column of the same name
+YieldPerPlant";"\	// this column is semantically similar to Table 1's column of the same name
+SunExposure";"\	// this column is semantically similar to Table 1's column of the same name
+HardinessZone";"\	// this column is semantically similar to Table 1's column of the same name
+CommonName";"\	// this column is semantically similar to Table 1's column of the same name
+AvgPlantHeight";"\
+AvgPlantSpread";"\
+IdealSoilType";"\
+RecommendedUse";"\
+PropagationMethods";"\
+AdditionalNotes"
+0; Rose, Red; June-August; Rosaceae; Europe, Middle East; Perennial; Rosa rugosa; October; 6.1-6.5; once a week; full sun; light pruning after flowering; upright shrub; aphids, black spot; 0.2-1 kg; sunny, well-drained; garden border, cut flowers; cuttings, layering, grafting; tolerates salt, good for coastal gardens.;;;;;
+1;Sunflower, Yellow; July-September; Asteraceae; North America; Annual; Helianthus annuus; May; 6.0-7.5; when topsoil is dry; full sun; deadhead to promote more blooms; tall and leafy; powdery mildew, downy mildew; 0.5-2 kg; sunny, moist; backyard planting, bird food; direct sowing; attracts bees and birds.;;;;;
+2;Tulip, Varied; March-May; Liliaceae; Central Asia; Perennial; Tulipa; September; 6.0-7.0; every 1-2 weeks; full sun; remove spent flowers; bulbous; aphids, slugs; 0.05-0.2 kg; well-drained; cut flowers, garden borders; bulbs, division; deer-resistant.;;;;;
+3;Lavender, Purple; June-August; Lamiaceae; Mediterranean; Shrub; Lavandula angustifolia; October; 7.0-8.5; once a week; full sun; light pruning after flowering; mounded; spider mites, thrips; 0.2-0.4 kg; well-drained; herb garden, dried flowers; cuttings, layering; drought-tolerant.;;;;;
+4;Daffodil, Yellow; March-April; Amaryllidaceae; Europe, North Africa; Perennial; Narcissus; September; 6.0-7.0; once a week; full sun; remove spent flowers; bulbous; slugs, snails; 0.02-0.05 kg; well-drained; cut flowers, garden borders; bulbs, division; all parts toxic if ingested.;;;;;
+5;Marigold, Orange; June-September; Asteraceae; Central America, Mexico; Annual; Tagetes; May; 6.0-7.5; when topsoil is dry; full sun; deadhead for continuous blooming; bushy; spider mites, whiteflies; 0.1-0.4 kg; sunny, moist; vegetable garden, cut flowers; direct sowing, seedlings; used as a natural pesticide.;;;;;
+6;Peony, Pink; April-June; Paeoniaceae; Asia, Europe; Perennial; Paeonia lactiflora; September; 6.0-7.0; once a week; full sun; remove dead foliage in fall; herbaceous or woody; powdery mildew, botrytis; 0.5-2 kg; well-drained; cut flowers, garden borders; divisions, seeds; deer-resistant.;;;;;
+7;Hydrangea, Blue; June-September; Hydrangeaceae; East Asia, Americas; Shrub; Hydrangea macrophylla; October; 5.5-6.5; twice a week; partial shade; prune in late winter; mounded or upright; aphids, scale; 0.3-2 kg; well-drained; cut flowers, hedges; cuttings, layering; affects soil pH, changing flower color.;;;;;
+8;Hollyhock, Red; June-August; Malvaceae; China, Middle East; Biennial; Alcea rosea; April; 6.0-8.0; when topsoil is dry; full sun; deadhead to promote more blooms; tall and upright; rust, powdery mildew; 0.2-0.5 kg; well-drained; cut flowers, cottage gardens; seeds, root cuttings; attracts hummingbirds.;;;;;
+9;Pansy, Multicolored; February-November; Brassicaceae; Europe, Western Asia; Annual; Viola tricolor; September; 5.5-6.5; keep soil moist; partial shade; deadhead for continuous blooming; low-growing and mounded; aphids, leaf miners; 0.02-0.1 kg; well-drained; fall planting, spring planting; seeds, seedlings; frost-tolerant.</s>;;;;;

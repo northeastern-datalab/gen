@@ -1,0 +1,11 @@
+;Photographer Name;Photo ID;Location;Weather Conditions;Type of Lens;Latitude;Longitude;Best Time to Visit;Aesthetic Appeal Rating/5;Number of Times Featured in Magazines;Publications Logos;Legal Status or Copyright Information;Additional Comments from Judges;Total Points Earned for This Picture
+0;  John Doe;P001;New York, USA;Sunny;Wide-angle;40.7128;-74.0060;Anytime;4.5;5;National Geographic, Times Magazine;© John Doe;Elegant composition, vibrant colors;47
+1; Jane Smith;P002;Paris, France;Partly Cloudy;Telephoto;48.8566;2.3522;Spring;4.2;3;Vogue, Elle;Public Domain;Interesting use of leading lines;42
+2; Alan Turing;P003;London, UK;Snowing;Standard;51.5074;-0.1278;Winter;4.7;6;BBC, The Guardian;© Alan Turing;Great balance and contrast;51
+3; Ada Lovelace;P004;Rome, Italy;Clear Skies;Prime;41.8902;12.4922;All year;4.6;4;Forbes, Wired;© Ada Lovelace;Attention to detail, excellent framing;44
+4; Grace Hopper;P005;Sydney, Australia;Rainy;Super-wide;-33.8679;151.2073;Summer;4.3;2;Australian Geographic, Travel+Leisure;© Grace Hopper;Sharp and vivid, good storytelling;37
+5; Charles Babbage;P006;Tokyo, Japan;Overcast;Macro;35.6895;139.6917;Cherry Blossom season;4.9;7;National Geographic Traveler, Smithsonian;© Charles Babbage;Impressive depth of field;52
+6; Alan Kay;P007;Cape Town, SA;Windy;Standard Zoom;-33.9249;18.4241;Wildlife viewing;4.1;1;African Geographic;© Alan Kay;Nicely timed moment;33
+7; Tim Berners-Lee;P008;Moscow, Russia;Cloudy;Fish-eye;55.7558;37.6176;Historical sites;4.8;8;Wired, The New Yorker;© Tim Berners-Lee;Clever use of perspective;50
+8; Richard Stallman;P009;Rio de Janeiro, Brazil;Foggy;Telephoto Zoom;-22.9068;-43.1729;Carnival;4.4;3;Conde Nast Traveler, Vanity Fair;© Richard Stallman;Atmospheric and moody;40
+9; Linus Torvalds;P010;San Francisco, USA;Sunset;Ultra-wide;37.7749;-122.4194;Golden Gate Bridge;4.9;9;Rolling Stone, Scientific American;© Linus Torvalds;Dramatic lighting, dynamic composition;54</s>

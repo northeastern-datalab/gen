@@ -1,0 +1,11 @@
+;Athlete Nickname; Atheltic Association Number (AAN); Tournament Identifier (TID); Type of Sport; Points Earned; Offensive Rebounds; Defended Steals; Block Attempts; Personal Fouls; Team Name; Height; Weight; Position
+0;" ""Iceman"" "; 12345 ; TID001 ; Ice Hockey ; 25 ; 0 ; 5 ; 3 ; 2 ; Team Blue ; 76 ; 210 ; Left Wing
+1;"""Air Jordan"" "; 54321 ; TID002 ; Basketball ; 35 ; 3 ; 6 ; 1 ; 4 ; Team Red ; 72 ; 195 ; Point Guard
+2;"""Fresh Prince"" "; 67890 ; TID003 ; Tennis ; 20 ; 0 ; 0 ; 0 ; 0 ; Team Green ; 70 ; 175 ; Serve and Volley
+3;"""The Flash"" "; 01234 ; TID004 ; Soccer ; 15 ; 0 ; 2 ; 0 ; 1 ; Team Yellow ; 74 ; 160 ; Forward
+4;"""The Rocket"" "; 56789 ; TID005 ; Baseball ; 10 ; 0 ; 0 ; 0 ; 0 ; Team Black ; 72 ; 200 ; Pitcher
+5;"""Spiderman"" "; 90123 ; TID006 ; Volleyball ; 22 ; 4 ; 3 ; 0 ; 1 ; Team White ; 76 ; 185 ; Middle Blocker
+6;"""Bullet"" "; 45678 ; TID007 ; Rugby ; 18 ; 0 ; 4 ; 1 ; 3 ; Team Orange ; 78 ; 220 ; Flanker
+7;"""The Freak"" "; 89012 ; TID008 ; American Football ; 8 ; 0 ; 1 ; 2 ; 1 ; Team Purple ; 77 ; 240 ; Wide Receiver
+8;"""Cheeta"" "; 34567 ; TID009 ; Swimming ; 50 ; 0 ; 0 ; 0 ; 0 ; Team Brown ; 74 ; 165 ; Freestyle
+9;"""Lightning Bolt"" "; 23456 ; TID0010 ; Athletics ; 70 ; 0 ; 0 ; 0 ; 0 ; Team Grey ; 72 ; 180 ; Sprinter</s>

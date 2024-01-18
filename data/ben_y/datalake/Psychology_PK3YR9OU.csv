@@ -1,0 +1,11 @@
+;BrainStructureSize; BrAINVolume; CerebralCortexThickness; WhiteMatterIntegrity; HippocampusShape; AmygdalaActivity; AnxietyLevelsUnderStress; DepressionScoresAfterTrauma; EmpathyIndexesWithPeers; SocialInteractionSkillsAssessmentScore; IQTestResultsSummaryStatistics; ExecutiveFunctioningAbilitiesMeasures; CopingStrategiesUsedFrequently; SenseOfHumorPerceptionRating
+0;" ""Left Nucleus Accumbens"; 1450mm³; 2.8mm; High; Irregular; Increased; Moderate; Severe; Average; Low; Above Average; High; Denial;" Mildly Cynical"""
+1;"""Right Amygdala"; 1300mm³; 2.3mm; Average; Normal; Normal; Increased; Moderate; High; Average; Average; Average; Distraction;" Average Humor Perception"""
+2;"""Left Anterior Cingulate Cortex"; 11000mm³; 3.2mm; High; Enlarged; Increased; Decreased; Mild; High; High; High; High; Reappraisal;" Satirical Humor"""
+3;"""Prefrontal Cortex"; 56000mm³; 4.3mm; Average; Normal; Average; Average; Moderate; Average; Average; Above Average; Average; Reframing;" Dark Humor"""
+4;"""Hippocampus"; 3500mm³; 2.2mm; Thin; Shrunken; Decreased; Increased; Severe; Low; Average; Below Average; Low; Suppression;" Sarcasm"""
+5;"""Parietal Lobe"; 17000mm³; 2.7mm; High; Irregular; Average; Moderate; Mild; Average; High; Above Average; Average; Distraction;" Witty Humor"""
+6;"""Temporal Lobe"; 25000mm³; 3.1mm; Average; Normal; Normal; Moderate; Moderate; High; Average; Average; Average; Reappraisal;" Clever Humor"""
+7;"""Occipital Lobe"; 14000mm³; 2.4mm; Low; Smooth; Normal; Mild; Mild; Low; Average; Average; Average; Denial;" Simple Humor"""
+8;"""Corpus Callosum"; 100000mm³; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A;" N/A"""
+9;"""Cerebellum"; 120000mm³; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A;" N/A""</s>"

@@ -1,0 +1,11 @@
+;Commodity Prices;Central Bank Interest Rates;Consumer Spending;Housing Market Index;Retail Sales;Business Confidence;Industrial Production;Export Import Rates;Treasury Yield Curve;Investment Grade Bond Spreads;Derivatives Market;Central Bank Policy
+0;" ""Corn: $50/bushel"; 2.5%; $1,200/month; 75; $500 million; 60; 3.2%; 1.15; 0.75%; 1.25%; $20 billion;" Easing"""
+1;"""Gold: $1,600/ounce"; 1.0%; $2,500/month; 65; $600 million; 55; 2.8%; 1.18; 0.60%; 1.10%; $30 billion;" Tightening"""
+2;"""Oil: $60/barrel"; 1.75%; $3,000/month; 70; $800 million; 65; 3.5%; 1.10; 0.55%; 0.95%; $40 billion;" Neutral"""
+3;"""Wheat: $00/bushel"; 2.25%; $1,500/month; 78; $700 million; 58; 3.0%; 1.12; 0.70%; 1.30%; $25 billion;" Easing"""
+4;"""Cotton: $75/pound"; 1.5%; $1,800/month; 72; $650 million; 62; 2.9%; 1.13; 0.80%; 1.35%; $35 billion;" Tightening"""
+5;"""Soybeans: $00/bushel"; 2.0%; $2,000/month; 76; $750 million; 59; 3.1%; 1.17; 0.65%; 1.20%; $45 billion;" Neutral"""
+6;"""Copper: $00/pound"; 1.25%; $2,200/month; 73; $680 million; 63; 3.3%; 1.14; 0.78%; 1.28%; $28 billion;" Easing"""
+7;"""Aluminum: $85/pound"; 1.75%; $2,000/month; 74; $720 million; 64; 3.4%; 1.16; 0.82%; 1.32%; $32 billion;" Tightening"""
+8;"""Natural Gas: $50/MMBtu"; 1.85%; $2,800/month; 77; $850 million; 61; 3.6%; 1.11; 0.58%; 1.00%; $42 billion;" Neutral"""
+9;"""Steel: $70/pound"; 1.35%; $2,400/month; 71; $700 million; 63; 2.8%; 1.19; 0.72%; 1.22%; $38 billion;" Easing""</s>"

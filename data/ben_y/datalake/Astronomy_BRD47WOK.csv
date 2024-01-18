@@ -1,0 +1,11 @@
+;`Nebula Name; Nebula Category; Constellations Located In; Size (light years); Star Formation Rate; Gas Composition (%); Temperature (K); Radiation Level; Dust Distribution; Magnetic Field Strength; Rotational Period`
+0; Orion Nebula; Reflection/Emission Nebula; Orion; 24; High; 90% Hydrogen, 10% Helium; 10,000; High; Uneven; 100 microgauss; Not Applicable
+1;Tarantula Nebula; Emission Nebula; Dorado; 600; Extremely High; 70% Hydrogen, 28% Helium, 2% Other; 40,000; Extremely High; Unclear; 300 microgauss; 5.5 million years
+2;Pelican Nebula; Emission/Reflection Nebula; Cygnus; 25; Moderate; 75% Hydrogen, 24% Helium, 1% Other; 9,000; High; Even; 20 microgauss; Not Applicable
+3;Crab Nebula; Supernova Remnant; Taurus; 11; N/A; 65% Hydrogen, 33% Helium, 2% Other; 15,000; Very High; Uniform; 250 microgauss; 830 years
+4;Cat's Eye Nebula; Planetary Nebula; Draco; 0.8; N/A; 76% Hydrogen, 23% Helium, 1% Other; 12,000; High; Bipolar; 10 microgauss; Not Applicable
+5;Eagle Nebula; Emission Nebula; Serpens; 70; High; 80% Hydrogen, 19% Helium, 1% Other; 10,000; Very High; Irregular; 200 microgauss; Not Applicable
+6;Horsehead Nebula; Dark Nebula; Orion; 5; N/A; 99% Hydrogen, 1% Helium; 20; Low; Dense; 50 microgauss; Not Applicable
+7;Trifid Nebula; Emission/Reflection/Dark Nebula; Sagittarius; 28; Moderate; 75% Hydrogen, 23% Helium, 2% Other; 10,000; High; Lane-like; 150 microgauss; Not Applicable
+8;Carina Nebula; Emission Nebula; Carina; 300; Extremely High; 70% Hydrogen, 28% Helium, 2% Other; 20,000; Very High; Clumpy; 500 microgauss; 5 million years
+9;Butterfly Nebula; Planetary Nebula; Scorpius; 2; N/A; 78% Hydrogen, 21% Helium, 1% Other; 15,000; Moderate; Bipolar; 100 microgauss; Not Applicable</s>

@@ -1,0 +1,111 @@
+;Medical Condition;Diagnosis Date;Diagnosing Physician;Prescribed Medication;Medication Dosage;Start Date;End Date;Refill Frequency;Refills Remaining;Patient ID;Patient Age
+0;" ""Asthma";2022-03-15;Dr. Smith;Albuterol;2 puffs q4h prn;2022-03-15;2022-03-31;No restrictions;5 refills remaining;12345;"45""  "
+1;"""Diabetes Mellitus Type 2";2021-12-01;Dr. Johnson;Metformin;500mg twice daily;2021-12-01;Ongoing;As needed;3 refills remaining;67890;"78""  "
+2;"""Hypertension";2022-02-10;Dr. Patel;Lisinopril;20mg daily;2022-02-10;Ongoing;Once a month;4 refills remaining;23456;"56""  "
+3;"""Gastroesophageal Reflux Disease";2022-01-05;Dr. Garcia;Omeprazole;20mg daily;2022-01-05;2022-01-25;Once a month;3 refills remaining;90123;"34""  "
+4;"""Depression";2021-11-15;Dr. Kim;Sertraline;50mg daily;2021-11-15;2022-02-15;Once a month;5 refills remaining;45678;"29""  "
+5;"""Anxiety Disorder";2022-03-01;Dr. Brown;Buspirone;10mg three times daily;2022-03-01;2022-03-31;Once a week;4 refills remaining;54321;"35""  "
+6;"""Chronic Obstructive Pulmonary Disease";2022-02-18;Dr. Williams;Tiotropium Bromide;18mcg inhaled once daily;2022-02-18;Ongoing;Once a month;5 refills remaining;87654;"70""  "
+7;"""Hypothyroidism";2021-10-01;Dr. Jones;Levothyroxine;50mcg daily;2021-10-01;Ongoing;Once a month;4 refills remaining;34567;"42""  "
+8;"""Migraine";2022-01-20;Dr. Davis;Sumatriptan;50mg as needed;2022-01-20;2022-02-10;No restrictions;5 refills remaining;98765;"31""  "
+9;"""Rheumatoid Arthritis";2021-09-01;Dr. Miller;Methotrexate;10mg once weekly;2021-09-01;Ongoing;Once a month;4 refills remaining;65432;"53""</s>"
+10;" ""Asthma";2022-02-15;Dr. Green;Fluticasone-Salmeterol;2 puffs daily;2022-02-15;Ongoing;Once a month;3 refills remaining;12345;10 
+11;Diabetes Type 2;2021-11-05;Dr. Anderson;Metformin;1000mg twice daily;2021-11-05;Ongoing;Once a month;4 refills remaining;78910;65 
+12;Epilepsy;2022-03-01;Dr. Thompson;Lamotrigine;100mg twice daily;2022-03-01;2022-04-15;No restrictions;5 refills remaining;45623;28 
+13;Gastroesophageal Reflux Disease;2021-12-10;Dr. Patel;Pantoprazole;40mg daily;2021-12-10;2022-01-20;Once a month;4 refills remaining;90123;50 
+14;Hypertension;2022-01-12;Dr. Kim;Lisinopril;20mg daily;2022-01-12;Ongoing;Once a month;4 refills remaining;87634;40 
+15;Chronic Obstructive Pulmonary Disease;2021-10-15;Dr. Harris;Tiotropium;18mcg daily;2021-10-15;Ongoing;Once a month;3 refills remaining;54321;70 
+16;Depression;2022-02-22;Dr. Foster;Sertraline;50mg daily;2022-02-22;2022-03-20;No restrictions;5 refills remaining;23456;25 
+17;Anxiety Disorder;2021-11-30;Dr. Cooper;Escitalopram;10mg daily;2021-11-30;Ongoing;Once a month;4 refills remaining;76543;35 
+18;Bipolar Disorder;2022-03-05;Dr. Young;Lithium;600mg twice daily;2022-03-05;2022-04-10;No restrictions;5 refills remaining;34562;45 
+19;Chronic Pain Syndrome;2021-12-20;Dr. White;Gabapentin;300mg three times daily;2021-12-20;Ongoing;Once a month;4 refills remaining;98764;"56""</s>"
+20; Depression;2022-02-14;Dr. Brown;Fluoxetine;20mg daily;2022-02-14;Ongoing;Once a month;5 refills remaining;12345;63 
+21;High Blood Pressure;2022-01-12;Dr. Johnson;Lisinopril;10mg daily;2022-01-12;Ongoing;No restrictions;3 refills remaining;67890;52 
+22;Diabetes Type 2;2021-10-01;Dr. Taylor;Metformin;500mg twice daily;2021-10-01;Ongoing;Once a month;4 refills remaining;45678;39 
+23;Asthma;2022-04-18;Dr. Davis;Fluticasone Propionate;2 puffs daily;2022-04-18;Ongoing;No restrictions;6 refills remaining;23456;47 
+24;Migraine;2022-03-22;Dr. Miller;Rizatriptan;10mg as needed;2022-03-22;Ongoing;No restrictions;5 refills remaining;78910;29 
+25;Chronic Obstructive Pulmonary Disease;2021-11-25;Dr. Smith;Tiotropium;1 inhalation daily;2021-11-25;Ongoing;Once a month;6 refills remaining;34567;72 
+26;Osteoarthritis;2022-02-03;Dr. Wilson;Celecoxib;100mg daily;2022-02-03;Ongoing;Once a month;5 refills remaining;89123;64 
+27;Gastroesophageal Reflux Disease;2021-12-08;Dr. Thomas;Omeprazole;20mg daily;2021-12-08;Ongoing;No restrictions;4 refills remaining;56789;51 
+28;Hypothyroidism;2022-01-19;Dr. Garcia;Levothyroxine;100mcg daily;2022-01-19;Ongoing;Once a month;4 refills remaining;91234;48 
+29;Insomnia;2022-02-24;Dr. Martinez;Zolpidem;10mg daily;2022-02-24;Ongoing;Once a month;5 refills remaining;23456;35 </s>
+30; Chronic Fatigue Syndrome;2022-03-10;Dr. Anderson;Modafinil;200mg daily;2022-03-10;Ongoing;Three times a year;3 refills remaining;78901;45 
+31;Major Depressive Disorder;2022-03-15;Dr. Bell;Escitalopram;10mg daily;2022-03-15;Ongoing;Once a month;6 refills remaining;34567;32 
+32;Fibromyalgia;2022-03-20;Dr. Collins;Duloxetine;60mg daily;2022-03-20;Ongoing;Twice a year;5 refills remaining;67890;50 
+33;Obstructive Sleep Apnea;2022-03-23;Dr. Davis;Continuous Positive Airway Pressure Therapy;As needed;2022-03-23;Ongoing;None;Not applicable;12345;61 
+34;Rheumatoid Arthritis;2022-03-27;Dr. Evans;Methotrexate;15mg weekly;2022-03-27;Ongoing;Once a month;4 refills remaining;89012;42 
+35;Bipolar Disorder;2022-03-30;Dr. Fisher;Lithium Carbonate;300mg twice daily;2022-03-30;Ongoing;Once a month;5 refills remaining;567890;38 
+36;Asthma;2022-04-03;Dr. Garcia;Budesonide;200mcg twice daily;2022-04-03;Ongoing;Once a month;4 refills remaining;901234;29 
+37;Epilepsy;2022-04-06;Dr. Harrison;Levetiracetam;1000mg twice daily;2022-04-06;Ongoing;Once a month;5 refills remaining;345678;44 
+38;Schizophrenia;2022-04-10;Dr. Ingram;Risperidone;3mg daily;2022-04-10;Ongoing;Once a month;6 refills remaining;789012;27 
+39;Diabetes Mellitus Type 1;2022-04-13;Dr. Johnson;Insulin Glargine;10units daily;2022-04-13;Ongoing;As needed;Not applicable;5678901;18 </s>
+40; Chronic Fatigue Syndrome;2022-04-15;Dr. Smith;Modafinil;200mg daily;2022-04-15;Ongoing;Once a month;4 refills remaining;123456;33 
+41;Major Depressive Disorder;2022-04-17;Dr. Anderson;Escitalopram;10mg daily;2022-04-17;Ongoing;Once a month;5 refills remaining;654321;55 
+42;Bipolar Disorder Type 2;2022-04-19;Dr. Thomas;Lamotrigine;100mg daily;2022-04-19;Ongoing;Once a month;6 refills remaining;987654;41 
+43;Obstructive Sleep Apnea;2022-04-21;Dr. Patel;Continuous Positive Airway Pressure (CPAP) device;As prescribed;2022-04-21;Ongoing;As needed;Not applicable;3456789;29 
+44;Rheumatoid Arthritis;2022-04-23;Dr. Kim;Methotrexate;15mg once weekly;2022-04-23;Ongoing;Once a month;5 refills remaining;888777;59 
+45;Hypothyroidism;2022-04-25;Dr. Gonzales;Levothyroxine;100mcg daily;2022-04-25;Ongoing;Once every 3 months;3 refills remaining;9101112;47 
+46;Asthma;2022-04-27;Dr. Moore;Budesonide inhaler;2 puffs twice daily;2022-04-27;Ongoing;As needed;Not applicable;13141516;36 
+47;Chronic Obstructive Pulmonary Disease (COPD);2022-04-29;Dr. Green;Tiotropium inhaler;1 inhalation daily;2022-04-29;Ongoing;Once a month;4 refills remaining;17181920;58 
+48;Parkinson's Disease;2022-05-01;Dr. Hall;Carbidopa-Levodopa;25mg/100mg 4 times daily;2022-05-01;Ongoing;Once a month;5 refills remaining;22232425;64 
+49;Multiple Sclerosis;2022-05-03;Dr. Collins;Glatiramer Acetate;20mg daily;2022-05-03;Ongoing;Once a week;4 refills remaining;28293031;48 </s>
+50; Rheumatoid Arthritis;2022-05-05;Dr. Anderson;Methotrexate;10mg once a week;2022-05-05;Ongoing;Every 28 days;3 refills remaining;33343536;52 
+51;Diabetes Mellitus Type 2;2022-05-07;Dr. Bell;Metformin;500mg twice daily;2022-05-07;Ongoing;Once a month;5 refills remaining;37383940;45 
+52;Hypertension;2022-05-09;Dr. Johnson;Lisinopril;10mg daily;2022-05-09;Ongoing;Once a month;4 refills remaining;41424344;70 
+53;Asthma;2022-05-11;Dr. Kim;Budesonide-Formoterol;1 inhalation twice daily;2022-05-11;Ongoing;Once a month;3 refills remaining;45464748;35 
+54;Hypothyroidism;2022-05-13;Dr. Lee;Levothyroxine;50mcg daily;2022-05-13;Ongoing;Once a month;6 refills remaining;49505152;58 
+55;Chronic Pain Syndrome;2022-05-15;Dr. Miller;Gabapentin;300mg 3 times daily;2022-05-15;Ongoing;Twice a month;4 refills remaining;53545556;60 
+56;Depression;2022-05-17;Dr. Phillips;Sertraline;50mg daily;2022-05-17;Ongoing;Once a month;5 refills remaining;57585960;35 
+57;Anxiety Disorder;2022-05-19;Dr. Ramirez;Escitalopram;10mg daily;2022-05-19;Ongoing;Once a month;6 refills remaining;61626364;40 
+58;Epilepsy;2022-05-21;Dr. Taylor;Lamotrigine;50mg daily;2022-05-21;Ongoing;Twice a month;4 refills remaining;65666768;32 
+59;Obstructive Sleep Apnea;2022-05-23;Dr. White;Continuous Positive Airway Pressure (CPAP) therapy;As prescribed;2022-05-23;Ongoing;N/A;N/A;69707172;47 </s>
+60; Chronic Fatigue Syndrome;2022-05-25;Dr. Patel;Modafinil;200mg daily;2022-05-25;Ongoing;Once a week;8 refills remaining;73747576;50 
+61;Fibromyalgia;2022-05-27;Dr. Singh;Pregabalin;150mg twice daily;2022-05-27;Ongoing;Twice a month;5 refills remaining;77787980;39 
+62;Depression;2022-05-28;Dr. Kim;Sertraline;50mg daily;2022-05-28;Ongoing;Once a month;7 refills remaining;81828384;28 
+63;Asthma;2022-05-30;Dr. Jackson;Fluticasone-Salmeterol;One puff twice daily;2022-05-30;Ongoing;Once a month;12 refills remaining;85868788;45 
+64;High Blood Pressure;2022-06-01;Dr. Smith;Lisinopril;10mg daily;2022-06-01;Ongoing;Once a month;10 refills remaining;89909192;56 
+65;Diabetes Type 2;2022-06-03;Dr. Johnson;Metformin;500mg twice daily;2022-06-03;Ongoing;Twice a month;11 refills remaining;93949596;63 
+66;Migraine;2022-06-05;Dr. Lee;Topiramate;50mg twice daily;2022-06-05;Ongoing;Once a week;14 refills remaining;97989900;35 
+67;Bipolar Disorder;2022-06-06;Dr. Davis;Lithium;600mg twice daily;2022-06-06;Ongoing;Twice a month;8 refills remaining;01020304;22 
+68;Rheumatoid Arthritis;2022-06-08;Dr. Garcia;Methotrexate;10mg once weekly;2022-06-08;Ongoing;Once a month;10 refills remaining;05060708;52 
+69;Hypothyroidism;2022-06-10;Dr. Hernandez;Levothyroxine;50mcg daily;2022-06-10;Ongoing;Once a month;15 refills remaining;11121314;49 </s>
+70; Diabetes Mellitus Type 2;2022-06-12;Dr. Ingram;Metformin;1000mg twice daily;2022-06-12;Ongoing;Once a month;12 refills remaining;17181920;65 
+71;Asthma;2022-06-14;Dr. Johnson;Albuterol;2 puffs every 4 hours as needed;2022-06-14;Ongoing;As needed;N/A;23242526;14 
+72;Hypertension;2022-06-16;Dr. Kim;Lisinopril;20mg daily;2022-06-16;Ongoing;Once a month;10 refills remaining;28293031;50 
+73;Chronic Obstructive Pulmonary Disease;2022-06-18;Dr. Lee;Tiotropium Bromide;18mcg once daily;2022-06-18;Ongoing;Once a month;12 refills remaining;33343536;72 
+74;Epilepsy;2022-06-20;Dr. Martinez;Lamotrigine;200mg daily;2022-06-20;Ongoing;Once a month;15 refills remaining;38394041;33 
+75;Dyslipidemia;2022-06-22;Dr. Nelson;Atorvastatin;40mg daily;2022-06-22;Ongoing;Once a month;12 refills remaining;43444546;45 
+76;Depression;2022-06-24;Dr. O'Connor;Sertraline;50mg daily;2022-06-24;Ongoing;Once a month;10 refills remaining;48495051;29 
+77;Anxiety Disorder;2022-06-26;Dr. Patel;Escitalopram;10mg daily;2022-06-26;Ongoing;Once a month;10 refills remaining;53545556;37 
+78;Chronic Pain;2022-06-28;Dr. Quinn;Pregabalin;150mg twice daily;2022-06-28;Ongoing;Once a month;8 refills remaining;58596061;56 
+79;Multiple Sclerosis;2022-06-30;Dr. Robinson;Glatiramer Acetate;20mg daily;2022-06-30;Ongoing;Once a week;4 refills remaining;63646566;35 </s>
+80; Arthritis;2022-07-02;Dr. Thompson;Celecoxib;200mg daily;2022-07-02;Ongoing;Once a month;6 refills remaining;48495052;63 
+81;Asthma;2022-07-04;Dr. Anderson;Budesonide;400mcg twice daily;2022-07-04;Ongoing;Once a month;12 refills remaining;51525354;40 
+82;Depression;2022-07-06;Dr. Bennett;Sertraline;50mg daily;2022-07-06;Ongoing;Once a month;9 refills remaining;54555657;28 
+83;Diabetes Type 2;2022-07-08;Dr. Carson;Metformin;1000mg twice daily;2022-07-08;Ongoing;Once a month;7 refills remaining;57585960;50 
+84;Epilepsy;2022-07-10;Dr. Davis;Levetiracetam;1000mg twice daily;2022-07-10;Ongoing;Once a month;5 refills remaining;61626364;32 
+85;Fibromyalgia;2022-07-12;Dr. Evans;Duloxetine;60mg daily;2022-07-12;Ongoing;Once a month;8 refills remaining;65666768;46 
+86;Gastroesophageal Reflux Disease;2022-07-14;Dr. Foster;Omeprazole;20mg daily;2022-07-14;Ongoing;Once a month;11 refills remaining;69707172;70 
+87;Hypothyroidism;2022-07-16;Dr. Garcia;Levothyroxine;100mcg daily;2022-07-16;Ongoing;Once a month;10 refills remaining;45464748;56 
+88;Hypertension;2022-07-18;Dr. Hall;Lisinopril;20mg daily;2022-07-18;Ongoing;Once a month;7 refills remaining;73747576;67 
+89;Insomnia;2022-07-20;Dr. Ingram;Zolpidem;10mg daily;2022-07-20;Ongoing;Once a month;6 refills remaining;77787980;49 </s>
+90; Asthma;2022-07-21;Dr. Johnson;Budesonide;200mcg inhalation twice daily;2022-07-21;Ongoing;Once a month;8 refills remaining;34563456;33 
+91;Arthritis;2022-07-22;Dr. Keller;Meloxicam;15mg daily;2022-07-22;Ongoing;Once a month;9 refills remaining;22332234;70 
+92;Diabetes;2022-07-23;Dr. Lawson;Metformin;1000mg twice daily;2022-07-23;Ongoing;Once a month;5 refills remaining;11121112;45 
+93;Epilepsy;2022-07-24;Dr. Mitchell;Lamotrigine;25mg twice daily;2022-07-24;Ongoing;Once a month;7 refills remaining;66676768;28 
+94;Migraine;2022-07-25;Dr. Nelson;Topiramate;50mg twice daily;2022-07-25;Ongoing;Once a month;10 refills remaining;88898990;35 
+95;Allergies;2022-07-26;Dr. O'Donnell;Cetirizine;10mg daily;2022-07-26;Ongoing;Once a month;6 refills remaining;99101011;52 
+96;Depression;2022-07-27;Dr. Patel;Sertraline;50mg daily;2022-07-27;Ongoing;Once a month;8 refills remaining;22232324;63 
+97;Anxiety;2022-07-28;Dr. Quinn;Buspirone;15mg twice daily;2022-07-28;Ongoing;Once a month;7 refills remaining;55565657;42 
+98;Cholesterol;2022-07-29;Dr. Robinson;Atorvastatin;10mg daily;2022-07-29;Ongoing;Once a month;9 refills remaining;77787879;58 
+99;Chronic Pain;2022-07-30;Dr. Smith;Gabapentin;300mg three times daily;2022-07-30;Ongoing;Twice a month;4 refills remaining;33343435;47 </s>
+100; Depression;2022-08-01;Dr. Johnson;Escitalopram;10mg daily;2022-08-01;Ongoing;Once a month;8 refills remaining;11121213;35 
+101;Hypertension;2022-08-02;Dr. Brown;Lisinopril;20mg daily;2022-08-02;Ongoing;Twice a month;5 refills remaining;22232324;52 
+102;Diabetes Type 2;2022-08-03;Dr. Green;Metformin;500mg twice daily;2022-08-03;Ongoing;Once a month;7 refills remaining;44454546;63 
+103;Asthma;2022-08-04;Dr. Taylor;Budesonide;200mcg twice daily;2022-08-04;Ongoing;Once a month;6 refills remaining;66676768;28 
+104;Arthritis;2022-08-05;Dr. Anderson;Meloxicam;7.5mg daily;2022-08-05;Ongoing;Once a month;10 refills remaining;88898990;70 
+105;Migraines;2022-08-06;Dr. Thompson;Rizatriptan;5mg as needed;2022-08-06;Ongoing;As needed;15 refills remaining;99909091;39 
+106;Insomnia;2022-08-07;Dr. Carter;Zolpidem;10mg nightly;2022-08-07;Ongoing;Once a month;12 refills remaining;12341235;51 
+107;Gastroesophageal Reflux Disease;2022-08-08;Dr. Davis;Omeprazole;20mg daily;2022-08-08;Ongoing;Once a month;6 refills remaining;23452346;49 
+108;Hypothyroidism;2022-08-09;Dr. Miller;Levothyroxine;50mcg daily;2022-08-09;Ongoing;Once a month;9 refills remaining;45674568;54 
+109;Epilepsy;2022-08-10;Dr. Wilson;Lamotrigine;100mg twice daily;2022-08-10;Ongoing;Twice a month;3 refills remaining;67896781;36 

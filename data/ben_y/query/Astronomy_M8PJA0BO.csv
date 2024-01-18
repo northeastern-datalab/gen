@@ -1,0 +1,111 @@
+;`Star; Star Type; Right Ascension; Declination; Apparent Magnitude; Absolute Magnitude; Distance from Earth (ly); Diameter; Mass; Star System Formation Date; Black Hole Presence; Spiral Arm Structure; Number of Planets; Number of Moons`
+0; Proxima Centauri; M5 Ve Dwarf; 02h 29m 42.5s; -62°40'46'' ; 11.05; 15.6; 4.24; 0.14; 0.12; 4.8+/-0.5 Bya; No; No; None; None
+1;Sirius A; A1 V-IV ma star; 06h 45m 08.9s; -16°42'58'' ; -1.46; 1.42; 8.6; 1.32; 2.02; 200-300 Ma; No; No; None; None
+2;Canopus; F0 II star; 06h 24m 05.4s; -52°41'45'' ; -0.72; -5.53; 310; 7.69; 9.28; 12-36 Ma; No; Yes; None; None
+3;Alpha Centauri B; G2 V star; 14h 39m 36.3s; -60°50'09'' ; 1.34; 5.74; 4.37; 0.865; 1.1; 4.8-5.5 Bya; No; No; None; None
+4;Vega; A0 Va star; 15h 19m 28.1s; +38°47'01'' ; 0.03; 0.58; 25; 2.36; 2.14; 455+/-10 Ma; No; Spiral; None; None
+5;Capella Aa; G8 III star; 05h 16m 41.3s; +45°59'53'' ; 0.08; -0.48; 42.2; 12.59; 2.5; 60-130 Ma; No; No; None; None
+6;Rigel; B8 Ia star; 05h 14m 32.2s; -08°12'06'' ; 0.12; -7.01; 860; 75.6; 18; 6-8 Ma; No; Spiral; None; None
+7;Pollux; K0 III-IV star; 07h 45m 19.9s; -28°06'07'' ; 1.14; 1.09; 33.7; 10.29; 2.3; 725-755 Ma; No; Bar; None; None
+8;Fomalhaut; A3 V star; 22h 57m 32.6s; -29°37'20'' ; 1.16; -1.16; 25; 3.26; 2.3; 440-490 Ma; No; Spiral; None; None
+9;Betelgeuse; M2 Iab star; 05h 55m 10.3s; +07°24'25'' ; 0.42; -5.61; 640; 887; 11.4; 8.5-10.4 Ma; Yes; Spiral; None; None</s>
+10; Procyon; F5 IV-V star; 07h 39m 18.1s; -05°13'39'' ; 0.34; 2.68; 11.4; 4.07; 1.5; 1.8-2.9 Ga; No; Inter-arm; None; None
+11;Deneb; A2 Ia star; 20h 41m 25.9s; +45°16'43'' ; -6.18; -8.44; 1596; 203; 19.3; 1.5-2.5 Ga; Yes; Spiral Arm; 2; None
+12;Mira; M7 III star; 02h 19m 20.9s; +00°58'12'' ; 3.08; -3.3; 299; 397; 1.5; 6.7-7.5 Ga; No; Spiral Arm; 1; None
+13;Rigel; B8 Ia star; 05h 14m 32.2s; -08°12'06'' ; -6.73; -7.01; 700; 63; 17; 8-9 Ma; Yes; Spiral Arm; 1; None
+14;Acrux; O9.5 II star; 12h 23m 03.3s; -63°09'15'' ; -0.91; -5.56; 320; 17; 15; 11-13 Ma; No; None; None; None
+15;Aldebaran; K5 III star; 04h 35m 55.2s; +16°30'33'' ; 0.85; -0.61; 65; 44.2; 1.7; 70-110 Ma; No; Spiral Arm; 0; None
+16;Capella; G8 III-V star; 05h 16m 41.4s; +45°59'54'' ; -0.46; -0.25; 42; 12.3; 2.5; 580-640 Ma; No; None; None; None
+17;Spica; B1 III-IV star; 13h 25m 11.8s; -11°06'42'' ; 0.98; -4.02; 264; 7.7; 12.5; 12-13 Ma; No; Bar; 2; None
+18;Antares; M1 Iab star; 16h 29m 24.1s; -26°25'55'' ; -2.63; -6.69; 550; 836; 12.3; 11.8-20.5 Ma; Yes; Spiral Arm; 1; None
+19;Nash; B2 IV star; 17h 40m 35.5s; +41°25'08'' ; -0.79; -3.82; 470; 7; 11; 10-20 Ma; No; Spiral; None; None</s>
+20; Canopus; F0 II star; 06h 24m 07.2s; -52°41'55'' ; -0.72; -5.53; 310; 56.6; 14.2; 7-9 Ma; No; Between Arms; 2; None 
+21;Alpha Centauri A; G2 V star; 14h 39m 36.5s; -60°50'02'' ; -0.01; 4.38; 4.37; 1.22; 1.1; 4.6-6.3 Ga; No; Spiral Arm; None; None 
+22;Beta Centauri A; B1 III star; 14h 34m 32.2s; -60°36'14'' ; -2.09; -4.73; 350; 6.6; 10.2; 7-11 Ma; No; Spiral Arm; 1; None 
+23;Regulus; B7 V star; 10h 08m 22.1s; +11°58'00'' ; -0.26; -0.97; 77; 2.9; 3.8; 2-3 Ga; No; Bar; 1; None 
+24;Altair; A7 IV-V star; 19h 50m 46.8s; +08°52'06'' ; 0.77; -0.18; 17; 1.6; 1.8; 3-5 Ma; No; Spiral Arm; 1; None 
+25;Pollux; K0 IIIb star; 07h 45m 17.8s; -28°00'48'' ; 1.14; 1.04; 34; 10.2; 2.9; 500-700 Ma; No; Between Arms; 2; None 
+26;Procyon A; F5 IV-V star; 07h 39m 43.1s; +05°13'59'' ; 2.58; 2.68; 11; 3.5; 1.5; 1.8-2.9 Ga; No; Spiral Arm; 1; None 
+27;Alhena; A0 Ve star; 03h 53m 24.1s; +16°06'56'' ; 1.91; 1.06; 105; 14.4; 2.8; 200-500 Ma; No; Spiral Arm; 1; None 
+28;Rigel; B8 Iae star; 05h 14m 32.2s; -08°12'06'' ; -2.11; -7.02; 860; 57; 17; 8-10 Ma; No; Spiral Arm; 0; None 
+29;Zeta Puppis; O4 If star; 07h 39m 18.1s; -45°18'02'' ; -3.04; -5.10; 1200; 19; 36; 3-4 Ma; No; Between Arms; 0; None </s>
+30; Procyon A; F5 IV-V star; 07h 39m 18.1s; -08°12'06''; 0.34; 2.68; 11.4; 4.07; 1.4; 1.6-3.4 Ga; No; Interarm; 1; None 
+31;Achernar; B3 Vep star; 01h 37m 42.9s; -57°14'13''; -1.49; -2.46; 144; 2.99; 6; 14-20 Ma; No; Spiral Arm; 0; None 
+32;Deneb; A2 Ia star; 20h 41m 25.9s; +45°16'43''; -6.14; -8.40; 1500; 120; 19; 1-3 Ma; No; Outer Arm; 1; None 
+33;Beta Centauri A; B1 III-IV star; 14h 03m 53.9s; -60°30'02''; -3.34; -4.06; 350; 8.5; 11; 10-12 Ma; No; Between Arms; 1; None 
+34;Beta Crucis; B1 II-III star; 12h 59m 38.0s; -60°21'56''; -3.00; -4.50; 350; 8.7; 16; 10-12 Ma; No; Between Arms; 0; None 
+35;Alpha Orionis (Betelgeuse); M2 Iab star; 05h 55m 10.3s; +07°24'25''; -4.28; -5.56; 520; 850; 15; 8-10 Ma; No; Spiral Arm; 1; None 
+36;Mu Cephei (Herschel's Garnet Star); M2 I star; 21h 03m 31.5s; +58°20'39''; -3.48; -5.10; 2400; 1290; 20; 8-10 Ma; No; Spiral Arm; 1; None 
+37;Eta Carinae; LBV star; 10h 45m 03.5s; -59°41'04''; -5.67; -6.72; 7500; 140; 100-150; 2-3 Ma; Unknown; Between Arms; 2; None 
+38;Gamma Velorum (Regor) AB; WC8+O8Iafpe star; 08h 10m 18.1s; -47°28'46''; -3.48; -5.10; 810; 22.7; 40; 2-3 Ma; No; Interarm; 4; None 
+39;Sigma Orionis; O9.5 V star; 05h 38m 47.3s; +02°36'02''; -2.64; -3.60; 1150; 11.7; 20; 2-3 Ma; No; Orion Arm; 1; None </s>
+40; Zeta Ophiuchi; O9.5 V star; 16h 10m 25.0s; -24°48'16''; -2.56; -4.28; 367; 7.1; 19; 2-3 Ma; No; Sagittarius Arm; 0; None 
+41;Epsilon Orionis (Alnilam); B0 Ia star; 05h 36m 11.9s; -01°12'53''; -3.21; -6.72; 1350; 48; 35; 2-3 Ma; No; Orion Arm; 0; None 
+42;Pi Scorpii (Jabba); B1 Ib-II star; 16h 57m 52.5s; -32°16'26''; -3.66; -5.88; 1800; 24.3; 22; 2-3 Ma; No; Sagittarius Arm; 0; None 
+43;Xi Persei (Menkib); B1 Ia star; 03h 55m 35.6s; +48°09'59''; -3.98; -6.24; 1600; 11.6; 20; 2-3 Ma; No; Perseus Arm; 0; None 
+44;Delta Cancri (Acubens); F0 III-IV star; 08h 55m 19.8s; +19°50'10''; -0.16; -0.19; 160; 2.9; 1.5; 2-3 Ma; No; Orion Arm; 0; None 
+45;Kappa Velorum (Markab); B2 IV star; 08h 22m 16.2s; -55°10'14''; -3.53; -1.22; 81; 2.9; 5; 2-3 Ma; No; Scutum-Centaurus Arm; 0; None 
+46;Lambda Scorpii (Shaula); B1.5 IV star; 16h 57m 01.8s; -37°00'50''; -4.02; -1.51; 70; 2.1; 7; 2-3 Ma; No; Sagittarius Arm; 0; None 
+47;Phi Persei; A0 V star; 03h 32m 12.3s; +46°55'00''; -0.01; -0.56; 190; 2.1; 2.5; 2-3 Ma; No; Perseus Arm; 0; None 
+48;Psi1 Aurigae (Al Kab); K4 III star; 05h 54m 27.3s; +30°46'50''; 1.93; -0.17; 30; 21.6; 3; 2-3 Ma; No; Orion Spur; 0; None 
+49;Tau Boötis; F7 V star; 14h 23m 04.8s; +13°32'19''; 2.81; -0.01; 51; 1.8; 1.3; 2-3 Ma; No; Orion Spur; 1; None </s>
+50; Epsilon Indi; K5 V star; 22h 03m 59.9s; -56°46'38''; 4.68; 6.04; 11.8; 0.72; 0.75; 1.3 Ga; No; Scutum-Crux Arm; 1; None 
+51;Zeta Reticuli; G2 V star; 03h 33m 33.9s; -59°40'54''; 5.03; 4.8; 37; 1.3; 1.1; 1.3 Ga; No; Scutum-Crux Arm; 2; None 
+52;16 Cygni A; G2.5 IV-III star; 19h 58m 29.0s; +50°58'07''; 5.97; 4.87; 72; 2.3; 1.5; 2.8 Ga; No; Cygnus Arm; 1; None 
+53;Sigma Draconis; G9 V star; 16h 29m 17.8s; +51°29'45''; 4.28; 5.12; 22; 1.4; 0.85; 2.5 Ga; No; Cygnus Arm; 0; None 
+54;Theta Leporis; K1 IV star; 05h 08m 52.4s; -17°30'22''; 3.33; 4.43; 27; 11.2; 2; 2.9 Ga; No; Orion Spur; 0; None 
+55;Kappa Ceti; G5 V star; 02h 35m 23.5s; +02°56'16''; 4.82; 5.58; 30; 1.2; 1.05; 3.6 Ga; No; Orion Spur; 5; None 
+56;Xi Ceti; K0 III star; 02h 10m 03.4s; -09°18'34''; 3.85; 1.92; 41; 24; 3; 5.5 Ga; No; Orion Spur; 0; None 
+57;Beta Canis Majoris (Mirzam); B1 III star; 07h 35m 10.2s; -08°33'22''; 1.98; -5.05; 500; 30.4; 17; 6 Ma; No; Orion Spur; 0; None 
+58;Alpha Circini; B8 V star; 15h 43m 57.8s; -56°58'19''; 3.18; -2.85; 53; 3.1; 3; 100 Ma; No; Scutum-Crux Arm; 0; None 
+59;Eta Carinae; LBV star; 06h 22m 45.3s; -59°41'01''; 6.2; -6.2; 7500; 1500; 2300; 10 Ma; Yes; Carina Arm; 0; None </s>
+60;Zeta Ophiuchi; O9.5 V star; 16h 10m 20.1s; -24°48'16''; 2.56; -4.6; 367; 6.7; 19; 2.5 Ma; No; Sagittarius Arm; 0; None 
+61;Phi2 Aquilae; K0 III star; 19h 34m 20.5s; -06°10'04''; 3.02; -1.6; 141; 11.2; 10; 160 Ma; No; Scutum-Crux Arm; 0; None 
+62;Theta Muscae; O7.5 V star; 12h 17m 23.5s; -64°50'13''; 2.85; -5.3; 300; 7.6; 25; 6.7 Ma; No; Carina Arm; 0; None 
+63;Gamma Velorum; WC8+O9 I star; 08h 09m 35.5s; -47°28'02''; 1.64; -5.4; 810; 17; 54; 8 Ma; Yes; Orion Spur; 0; None 
+64;Iota Orionis; O9 II star; 05h 32m 11.2s; -05°24'15''; 2.76; -5.6; 1300; 12; 20; 6.7 Ma; No; Orion Spur; 0; None 
+65;Delta Centauri; B2 IV star; 13h 58m 05.5s; -60°47'02''; 2.58; -2.6; 4.3; 2.9; 6; 17 Ma; No; Scutum-Crux Arm; 0; None 
+66;Epsilon Canis Majoris (Adhara); B2 II star; 06h 39m 30.9s; -18°23'24''; 1.51; -5.4; 430; 18; 14; 11 Ma; No; Orion Spur; 0; None 
+67;Sigma Sagittarii; B1 Ib star; 18h 01m 11.3s; -27°01'36''; 2.88; -6.2; 640; 19; 55; 8.2 Ma; No; Sagittarius Arm; 0; None 
+68;Lambda Scorpii (Shaula); B2 III star; 16h 57m 02.2s; -37°06'34''; 2.24; -3.1; 115; 2.5; 6.5; 15 Ma; No; Scutum-Crux Arm; 0; None 
+69;Kappa Canis Majoris (Taramela); B1.5 III star; 07h 25m 39.3s; -23°28'00''; 2.32; -4.7; 600; 7; 17; 13 Ma; No; Orion Spur; 0; None 
+70; Upsilon Orionis (Hatsya); O9.7 Ib star; 05h 26m 16.5s; -01°55'09''; 4.02; -7.1; 1250; 14; 30; 6.8 Ma; No; Orion Arm; 0; None 
+71;Pi Scorpii (Jabbah); B2 IV star; 16h 53m 26.5s; -25°53'34''; 2.39; -2.8; 470; 5.4; 10; 12 Ma; No; Orion Spur; 0; None 
+72;Rho1 Sagittarii; B1.5 II-III star; 19h 24m 15.3s; -13°48'40''; 3.91; -5.6; 1300; 12; 25; 9.1 Ma; No; Sagittarius Arm; 0; None 
+73;Eta Centauri (Menkent); K1 II star; 14h 41m 53.8s; -60°49'22''; 2.06; -1.5; 85; 50; 10; 3.6 Ga; No; Scutum-Crux Arm; 0; None 
+74;Phi1 Sagittarii (Albaldah); B1.5 III star; 18h 53m 21.0s; -24°16'41''; 3.10; -4.5; 1020; 7.5; 20; 11 Ma; No; Orion Spur; 0; None 
+75;Omega1 Scorpii (Sargas); B8 III star; 16h 56m 58.3s; -23°56'00''; 2.01; -2.9; 320; 11; 5; 55 Ma; No; Sagittarius Arm; 0; None 
+76;Psi1 Aurigae (Kapteyn's Star); M1 V star; 05h 16m 55.8s; +34°20'17''; 8.86; 10.2; 12.88; 0.3; 0.28; 11 Ga; No; Orion Arm; 0; None 
+77;Tau Sagittarii (Ascella); K1 III star; 19h 11m 54.0s; -25°53'13''; 3.34; -1.6; 160; 43; 1.6; 4.3 Ga; No; Sagittarius Arm; 0; None 
+78;Rho2 Sagittarii (Kaus Borealis); F2 II star; 19h 24m 02.7s; -14°22'09''; 2.77; -0.4; 19; 2.7; 7.5; 2.8 Ga; No; Sagittarius Arm; 0; None 
+79;Chi1 Orionis (Mintaka); O9 III star; 05h 32m 00.2s; -00°17'58''; 2.19; -5.1; 915; 3.5; 19; 15 Ma; No; Orion Arm; 0; None </s>
+80; Zeta Ophiuchi; O9.5 V star; 16h 29m 24.3s; -24°23'02''; 2.55; -4.8; 367; 6.6; 18; 4.2 Ma; No; Sagittarius Arm; 0; None 
+81;Epsilon Canis Majoris (Adhara); B2 II star; 06h 45m 08.9s; -15°26'34''; 1.52; -6.3; 400; 9.4; 16; 12 Ma; No; Orion Arm; 0; None 
+82;Sigma Scorpii (Alniatalaucanae); B1.5 III star; 16h 29m 18.0s; -31°57'58''; 2.23; -5.5; 700; 7; 14; 8.5 Ma; No; Sagittarius Arm; 0; None 
+83;Phi1 Eridani (Cursa); B2 IV star; 03h 54m 29.1s; -12°17'07''; 2.88; -3.9; 110; 5.7; 10; 18 Ma; No; Orion Arm; 0; None 
+84;Delta Centauri (Hadar); B1 III-IV star; 14h 04m 07.0s; -60°22'01''; 1.32; -4.4; 3.9; 5.7; 40; 7.4; 11; 14 Ma; No; Scutum-Crux Arm  0  None 
+85;Phi2 Eridani (Acamar); B2 IV star; 03h 55m 26.1s; -12°43'04''; 2.90; -4.0; 120; 7.3; 10; 12; 18 Ma; No; Orion Arm; 0  None 
+86;Omicron Velorum (Suhail); B2 III star; 09h 01m 10.3s; -54°36'04''; 2.19; -5.2; 1000; 8; 16; 11; 12 Ma; No; Scutum-Crux Arm; 0  None 
+87;Theta Muscae (Navi); O9.5 IV star; 12h 13m 54.9s; -64°53'25''; 2.64; -5.0; 930; 6.7; 16; 20 Ma; No; Scutum-Crux Arm; 0; None 
+88;Kappa Canis Majoris (Tarazed); K3 II star; 07h 28m 38.5s; -11°07'52''; 2.64; -3.3; 460; 32; 7; 8; 16 Ma; No; Orion Arm; 0  None 
+89;Psi1 Orionis (Aludeida); O9 V star; 05h 24m 12.1s; -02°20'50''; 3.04; -4.9; 830; 6.3; 17; 20 Ma; No; Orion Arm; 0; None </s>
+90;Epsilon Carinae (Avior); K3 II star; 10h 43m 03.6s; -59°44'34''; 1.83; -3.4; 600; 110; 9; 12; 20 Ma; No; Carina Arm; 0  None 
+91;Zeta Puppis (Suhail); O4 If star; 07h 40m 48.9s; -26°13'19''; 2.23; -6.0; 1010; 19; 60; 2.5; 3 Ma; No; Carina Arm; 0  None 
+92;Delta Canis Majoris (Wezen); G8 Ib star; 07h 02m 42.6s; -20°47'08''; 1.83; -5.9; 1600; 210; 17; 12; 6 Ma; No; Orion Arm; 0  None 
+93;Beta Crucis (Mimosa); B1 III-IV star; 12h 53m 45.0s; -60°47'13''; 1.25; -3.9; 270; 12; 12; 11; 12 Ma; No; Carina Arm; 0  None 
+94;Alpha Arae (Choo); K3 II star; 16h 57m 54.1s; -52°20'25''; 2.82; -3.8; 330; 18; 7; 8; 11 Ma; No; Scutum-Crux Arm; 0  None 
+95;Sigma Sagittarii (Nunki); K0-4 II-III star; 19h 25m 26.5s; -26°02'15''; 2.05; -4.1; 220; 14; 10; 10; 33 Ma; No; Sagittarius Arm; 0  None 
+96;Delta Centauri (Alhakim); B2 IV star; 13h 59m 44.7s; -60°20'39''; 2.56; -2.6; 400; 5.5; 9; 11; 17 Ma; No; Carina Arm; 0  None 
+97;Gamma Velorum (Regor) ; WC8 + O8 V star; 08h 09m 25.6s; -47°28'00''; 1.64; -5.8; 820; 12; 25; 11; 5 Ma; No; Carina Arm; 0  None 
+98;Kappa Centauri (Idi); O6 III star; 13h 09m 02.7s; -57°46'35''; 2.42; -4.8; 400; 7.5; 20; 11; 11 Ma; No; Carina Arm; 0  None 
+99;Omicron Scorpii (Lesath); O6.5 V star; 16h 37m 46.6s; -26°11'28''; 2.72; -4.9; 800; 7; 20; 11; 11 Ma; No; Sagittarius Arm; 0  None 
+100; Epsilon Canis Majoris (Adhara); B2 II star; 06h 27m 45.3s; -20°46'19''; 1.51; -6.2; 430; 14; 16; 9; 6 Ma; No; Orion Arm; 0  None
+101; Delta Orionis (Mintaka); O9 II star; 05h 32m 00.2s; -00°18'51''; 2.23; -5.6; 915; 13; 20; 9; 4 Ma; No; Orion Arm; 0  None
+102; Zeta Orionis (Alnitak); O9.5 Ib star; 05h 40m 57.3s; -01°56'33''; 1.72; -6.1; 800; 20; 35; 9; 4 Ma; No; Orion Arm; 0  None
+103; Eta Carinae; LBV star; 10h 45m 03.6s; -59°41'04''; 4.5; -9.0; 7500; 1200; 100; 8; 2-3 Ma; Yes; Carina Arm; 0  None
+104; Sigma Orionis; O9.5 V star; 05h 38m 44.1s; -02°36'00''; 4.21; -3.6; 1150; 4; 15; 3; 1 Ma; No; Orion Arm; 0  None
+105; Beta Crucis (Mimosa); B0.5 IV star; 12h 50m 46.0s; -60°11'59''; 1.29; -5.4; 278; 12; 13; 11; 7 Ma; No; Crux Arm; 0  None
+106; Alpha Arae (Choo); B2 III star; 16h 52m 30.0s; -52°35'28''; 2.88; -3.9; 220; 5.5; 13; 10; 7 Ma; No; Scutum-Centaurus Arm; 0  None
+107; Gamma Muscae; O7 V star; 12h 24m 03.6s; -64°33'54''; 3.84; -4.8; 325; 7; 20; 12; 10 Ma; No; Carina Arm; 0  None
+108; Delta Muscae; O8 V star; 12h 24m 19.5s; -64°27'20''; 4.01; -4.2; 960; 7; 20; 11; 11 Ma; No; Carina Arm; 0  None
+109; Epsilon Muscae; B3 IV star; 12h 25m 56.1s; -63°49'40''; 3.41; -3.5; 110; 4.5; 10; 8; 11 Ma; No; Carina Arm; 0  None</s>

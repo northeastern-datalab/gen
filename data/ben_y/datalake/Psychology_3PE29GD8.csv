@@ -1,0 +1,11 @@
+;SubjectID;DateOfBirth;Gender;AgeAtTesting;EducationLevel;Occupation;AnnualIncome;MaritalStatus;HasChildrenFromPreviousRelationship;NewPersonalityType;Trait6;Trait7;Trait8;Trait9
+0; 101;1985-08-12;Female;35;Doctorate;Psychologist;120000;Married;No;INTJ;Conscientiousness;Agreeableness;Neuroticism;Openness
+1;202;1990-12-04;Male;29;Bachelor's;Software Engineer;80000;Single;No;ESTP;Extraversion;Conscientiousness;Low Neuroticism;Openness
+2;303;1968-03-20;Female;52;High School Diploma;Retail Manager;50000;Divorced;Yes;ESFJ;Agreeableness;Conscientiousness;Low Neuroticism;Extraversion
+3;404;1977-06-15;Male;43;Master's;Marketing Manager;100000;Married;Yes;ENFP;Openness;Extraversion;Low Neuroticism;Agreeableness
+4;505;1988-09-07;Female;32;Doctorate;University Professor;90000;Single;No;INTP;Openness;Conscientiousness;Low Neuroticism;Agreeableness
+5;606;1991-01-31;Male;29;Associate's;Construction Worker;60000;Married;Yes;ISTJ;Conscientiousness;Low Neuroticism;Agreeableness;Extraversion
+6;707;1979-07-23;Female;41;Bachelor's;Graphic Designer;70000;Divorced;Yes;ENFJ;Extraversion;Agreeableness;Openness;Low Neuroticism
+7;808;1962-11-16;Male;58;High School Diploma;Truck Driver;40000;Married;Yes;ESTJ;Conscientiousness;Extraversion;Low Neuroticism;Agreeableness
+8;909;1982-04-26;Female;38;Master's;Elementary School Teacher;65000;Single;No;INFJ;Agreeableness;Openness;Conscientiousness;Low Neuroticism
+9;1010;1975-02-02;Male;46;Doctorate;Psychiatrist;200000;Married;Yes;INTJ;Conscientiousness;Low Neuroticism;Openness;Agreeableness</s>

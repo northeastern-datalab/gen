@@ -1,0 +1,20 @@
+;"\
+Chef Name";"\
+Estimated Cost Per Serving";"\
+Meal Type";"\
+Number of Recipes Used";"\
+Caloric Content";"\
+Special Equipment";"\
+Cooking Techniques";"\
+Prep Area Setup";"\
+Dietary Restrictions"
+0; Gordon Ramsay; $25.00; Gourmet Dinner; 3; 800 calories; Sous Vide Machine; Sous Vide, Searing; Island with stove, prep table; None
+1;Jamie Oliver; $15.00; Italian Pasta; 1; 500 calories; Pasta Machine; Hand Shaping, Cutting; Large counter space, sink; Vegetarian
+2;Julia Child; $30.00; French Cuisine; 5; 1200 calories; Creme Brulee Torch; Flambe, Reduction; Ample counter space, stove; None
+3;Bobby Flay; $20.00; Southwestern BBQ; 2; 700 calories; Grill, Smoker; Grilling, Smoking; Outdoor cooking area, prep table; Gluten-Free
+4;Ina Garten; $22.00; Comfort Food; 4; 900 calories; Stand Mixer; Creaming, Folding; Spacious kitchen, island; None
+5;Martha Stewart; $35.00; Upscale Desserts; 6; 1500 calories; Food Processor; Mousse, Choux Pastry; Professional kitchen, large oven; None
+6;Alton Brown; $28.00; Seafood Boil; 2; 650 calories; Stockpot; Blanching, Steaming; Large stove, foldable table; None
+7;Nigella Lawson; $18.00; International Breakfast; 1; 400 calories; Crepe Pan; Flipping; Small counter space, stove; Vegan
+8;Hugh Fearnley-Whittingstall; $27.00; British Roast; 3; 1000 calories; Roasting Tray; Carving, Roasting; Fireplace with grate, chopping block; None
+9;Ree Drummond; $24.00; Rustic Casseroles; 4; 1100 calories; Dutch Oven; Layering, Browning; Large oven, counter space; Dairy-Free</s>

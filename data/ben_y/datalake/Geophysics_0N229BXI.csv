@@ -1,0 +1,11 @@
+;Refraction Method; P and S wave Velocities; Layered Earth Modeling; Strain Analysis; Stress Estimation; Anisotropy Measurements; Electromagnetic Induction Profiling; Magnetometer Survey; Amplitude; Phase; Geologic Hazard Assessment; Free Surface Effect
+0;  8 km/s; 3.2 km/s; Three-layer model; 0.0005/0.003; 120/45 bars; 0.12; Yes; 120 mV; 45 degrees; Landslide risk; Yes; Present
+1; 2 km/s; 3.5 km/s; Two-layer model; 0.0008/0.005; 150/55 bars; 0.18; Yes; 90 mV; 70 degrees; Earthquake hazard; No; Absent
+2; 9 km/s; 2.8 km/s; Four-layer model; 0.0003/0.002; 80/35 bars; 0.15; No; 150 mV; 35 degrees; Sinkhole risk; Yes; Present
+3; 0 km/s; 4.0 km/s; Single-layer model; 0.001/0.006; 200/65 bars; 0.21; Yes; 75 mV; 20 degrees; Volcanic activity; No; Absent
+4; 5 km/s; 3.7 km/s; Three-layer model; 0.0007/0.004; 130/50 bars; 0.19; Yes; 105 mV; 55 degrees; Soil liquefaction; Yes; Present
+5; 2 km/s; 2.9 km/s; Four-layer model; 0.0004/0.003; 70/30 bars; 0.14; No; 135 mV; 30 degrees; Coastal erosion; Yes; Present
+6; 8 km/s; 3.9 km/s; Two-layer model; 0.0009/0.005; 160/60 bars; 0.20; Yes; 80 mV; 65 degrees; Fault rupture; No; Absent
+7; 6 km/s; 3.0 km/s; Three-layer model; 0.0006/0.003; 100/40 bars; 0.17; Yes; 110 mV; 45 degrees; Land subsidence; Yes; Present
+8; 7 km/s; 2.6 km/s; Five-layer model; 0.0002/0.0015; 55/25 bars; 0.13; No; 140 mV; 25 degrees; Groundwater contamination; No; Absent
+9; 2 km/s; 4.2 km/s; Single-layer model; 0.0012/0.007; 220/75 bars; 0.23; Yes; 60 mV; 15 degrees; Tectonic activity; No; Absent</s>

@@ -1,0 +1,12 @@
+;time\_period; variable\_type; Gross\_Domestic\_Product,\_Trillions; industryCode\_EconomicActivityNACE\_Rev4; country\_name\_Full\_ISO\_3\_ALPHA\_Format; state\_abbreviation; population\_size\_Million\_People; data\_source; sample\_description; additional\_column1; additional\_column2
+0;" ""time\_period"; variable\_type; Gross\_Domestic\_Product, \_Trillions; industryCode\_EconomicActivityNACE\_Rev4; country\_name\_Full\_ISO\_3\_ALPHA\_Format; state\_abbreviation; population\_size\_Million\_People; data\_source; sample\_description; additional\_column1;" additional\_column2"""
+1;"""2020 Q2"; Nominal; 21.44; G; USA; CA; 39.51; World Bank; National accounts data; Unemployment rate;" Homeless rate"""
+2;"""2020 Q2"; Nominal; 2.55; H; DEU; BY; 83.16; World Bank; National accounts data; Inflation rate;" Car ownership rate"""
+3;"""2020 Q2"; Nominal; 5.35; I; JPN; NH; 126.47; World Bank; National accounts data; Retail sales;" Life expectancy"""
+4;"""2020 Q2"; Nominal; 1.68; K; GBR; EN; 66.65; World Bank; National accounts data; Stock market index;" Housing affordability"""
+5;"""2020 Q2"; Nominal; 15.23; L; CHN; SH; 143.93; World Bank; National accounts data; Patent applications;" Research and development spending"""
+6;"""2020 Q2"; Nominal; 2.09; M; IND; MH; 138.00; World Bank; National accounts data; Electricity production;" Internet penetration rate"""
+7;"""2020 Q2"; Nominal; 0.71; N; FRA; FR; 67.06; World Bank; National accounts data; Gasoline consumption;" Cycling rate"""
+8;"""2020 Q2"; Nominal; 1.57; O; ITA; IT; 60.46; World Bank; National accounts data; Exports of goods and services;" Carbon emissions"""
+9;"""2020 Q2"; Nominal; 0.61; P; ESP; AN; 47.36; World Bank; National accounts data; Tourism receipts;" Vaccination rate"""
+10;"""2020 Q2"; Nominal; 3.25; Q; BRA; RJ; 211.05; World Bank; National accounts data; Deficit/surplus in public finances;" Education spending""</s>"

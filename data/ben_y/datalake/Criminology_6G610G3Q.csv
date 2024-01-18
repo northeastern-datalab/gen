@@ -1,0 +1,11 @@
+;Incident Number;Weapon Used;Date & Time Arrest Made;Arrestees Count;Suspected Motive;Additional Details;Legal Outcome;Injury Present?;Evidence Recovered;Witness Reports;Perpetrator Gender;Perpetrator Race;Arresting Officer;Court Disposition
+0; 1;Knife;2022-03-15 23:47:09;1;Robbery;Victim was walking home when perpetrator demanded his wallet;Charges filed, trial pending;Yes;Stolen wallet and knife;Yes, victim;Male;Black;Officer Smith;Not yet disposed
+1;2;Baseball bat;2022-03-16 04:15:36;1;Assault;Perpetrator attacked victim during a dispute over property;Convicted, sentenced to 6 months;Yes;Baseball bat;Yes, victim;Male;White;Officer Johnson;Guilty, 6 months imprisonment
+2;3;Gun;2022-03-17 10:26:18;2;Murder;Planned assassination of rival gang member;Charges filed, trial pending;No;Firearm and silencer;No;N/A;Male;Hispanic;Officer Garcia Not yet disposed
+3;4;Crowbar;2022-03-18 17:32:01;1;Burglary;Forced entry into a hardware store;Charges filed, trial pending;No;Crowbar;No;N/A;Male;Asian;Officer Nelson Not yet disposed
+4;5;Poison;2022-03-19 21:48:45;1;Attempted Murder;Attempted to poison victim's drink;Charges filed, trial pending;No;Poison and note;No, victim did not consume;Female;White;Officer Thompson;Not yet disposed
+5;6;Grenade;2022-03-20 00:05:27;1;Terrorism;Planted explosives at a public gathering;Charges filed, trial pending;No;Explosives and schematics;No;N/A;Male;Middle Eastern;Officer Davis Not yet disposed
+6;7;Car;2022-03-21 06:51:03;1;Hit and Run;Intentionally hit pedestrian during an argument;Convicted, sentenced to 3 years;Yes;Vehicle and driver's license;Yes, pedestrian;Male;Black;Officer Wong;Guilty, 3 years imprisonment
+7;8;Knitting needle;2022-03-22 13:08:19;1;Assault;Perpetrator attacked victim during a heated argument;Convicted, sentenced to probation;Yes;Knitting needle;Yes, victim;Female;White;Officer Lee;Guilty, probation
+8;9;Syringe;2022-03-23 18:23:35;1;Attempted Murder;Attempted to inject victim with HIV-positive blood;Charges filed, trial pending;No;Syringe and fake ID;No, victim did not get injected;Male;Hispanic;Officer Martinez;Not yet disposed
+9;10;Strangulation;2022-03-24 22:10:26;1;Domestic Violence;Physically abused spouse during an argument;Charges filed, trial pending;Yes;Clothing fibers and restraint marks;Yes, victim;Male;White;Officer Hernandez;Not yet disposed</s>

@@ -1,0 +1,111 @@
+;Condition Name; Animal Type; Breed; Age; Gender; Symptoms; Diagnosis; Treatment Duration; Cost; Prescribed Medication
+0;  Arthritis; Dog; Labrador Retriever; 8 years; Female; Limping, Swelling in Joints; Osteoarthritis; Long-term; High; Rimadyl, Glucosamine Supplements
+1; Diabetes; Cat; Siamese; 7 years; Male; Excessive Thirst, Weight Loss; Diabetes Mellitus; Long-term; High; Insulin Injections, Special Diet
+2; Heartworm Disease; Dog; German Shepherd; 3 years; Male; Coughing, Fatigue; Dirofilaria Immitis; Medium-term; Medium; Heartworm Preventative, Antiparasitics
+3; Kidney Disease; Cat; Persian; 12 years; Female; Increased Urination, Lethargy; Chronic Kidney Disease; Long-term; High; Subcutaneous Fluids, Special Diet
+4; Allergies; Dog; Bulldog; 2 years; Male; Itching, Skin Rash; Atopic Dermatitis; Long-term; Medium; Antihistamines, Steroids, Specialized Shampoos
+5; Obesity; Cat; Domestic Shorthair; 5 years; Male; Overeating, Lethargy; Obesity; Short-term; Low; Special Diet, Encourage Exercise
+6; Dental Disease; Dog; Chihuahua; 6 years; Female; Bad Breath, Difficulty Eating; Periodontal Disease; Short-term; Low; Dental Cleaning, Tooth Extraction
+7; Upper Respiratory Infection; Cat; Maine Coon; 1 year; Male; Sneezing, Nasal Discharge; Feline Upper Respiratory Infection; Short-term; Low; Antibiotics, Supportive Care
+8; Epilepsy; Dog; Golden Retriever; 4 years; Female; Seizures, Disorientation; Idiopathic Epilepsy; Long-term; High; Anticonvulsant Medication, Regular Monitoring
+9; Flea Allergy Dermatitis; Cat; Bengal; 3 years; Male; Itching, Hair Loss; Flea Allergy Dermatitis; Long-term; Medium; Antihistamines, Steroids, Flea Preventative.</s>
+10;  Hip Dysplasia; Dog; German Shepherd; 2 years; Female; Limping, Decreased Range of Motion; Hip Dysplasia; Long-term; High; Pain Relievers, Joint Supplements, Physical Therapy
+11; Heartworm Disease; Dog; Labrador Retriever; 5 years; Male; Coughing, Fatigue; Heartworm Disease; Long-term; Medium; Antiparasitic Medication, Regular Testing
+12; Diabetes Mellitus; Cat; Siamese; 7 years; Male; Increased Thirst, Weight Loss; Diabetes Mellitus; Long-term; High; Insulin, Diet Management
+13; Patellar Luxation; Dog; Yorkshire Terrier; 1 year; Female; Limping, Abnormal Gait; Patellar Luxation; Short-term; Medium; Pain Relievers, Surgery
+14; Kidney Disease; Cat; Domestic Shorthair; 12 years; Male; Increased Thirst, Weight Loss; Chronic Kidney Disease; Long-term; High; Fluid Therapy, Diet Management
+15; Arthritis; Dog; Rottweiler; 8 years; Female; Limping, Decreased Activity; Osteoarthritis; Long-term; High; Pain Relievers, Joint Supplements, Weight Management
+16; Asthma; Cat; Russian Blue; 3 years; Male; Difficulty Breathing, Wheezing; Asthma; Long-term; High; Bronchodilators, Steroids
+17; Urinary Tract Infection; Dog; Beagle; 2 years; Female; Increased Urination, Painful Urination; Urinary Tract Infection; Short-term; Medium; Antibiotics, Fluid Therapy
+18; Hyperthyroidism; Cat; Persian; 15 years; Male; Increased Appetite, Weight Loss; Hyperthyroidism; Long-term; High; Anti-thyroid Medication, Diet Management
+19; Ear Infection; Dog; Cocker Spaniel; 3 years; Male; Head Shaking, Ear Pain; Ear Infection; Short-term; Low; Antibiotics, Ear Cleaning.</s>
+20;  Rabies; Dog; Labrador; 4 years; Female; Aggression, Foaming at Mouth; Rabies; Long-term; High; Rabies Vaccine, Isolation
+21; Arthritis; Cat; Siamese; 12 years; Male; Limping, Swelling; Arthritis; Long-term; Medium; Pain Relievers, Joint Supplements
+22; Dental Disease; Dog; Chihuahua; 7 years; Female; Bad Breath, Difficulty Eating; Dental Disease; Short-term; Low; Dental Cleaning, Antibiotics
+23; Heartworm Disease; Dog; German Shepherd; 5 years; Male; Coughing, Fatigue; Heartworm Disease; Long-term; High; Heartworm Prevention, Antiparasitics
+24; Diabetes Mellitus; Cat; Maine Coon; 8 years; Female; Increased Urination, Excessive Thirst; Diabetes Mellitus; Long-term; High; Insulin, Diet Management
+25; Flea Allergy Dermatitis; Dog; Bulldog; 1 year; Male; Itching, Hair Loss; Flea Allergy Dermatitis; Short-term; Low; Antihistamines, Flea Treatment
+26; Kidney Disease; Cat; Ragdoll; 10 years; Male; Increased Urination, Weight Loss; Kidney Disease; Long-term; High; Fluid Therapy, Diet Management
+27; Cancer; Dog; Golden Retriever; 9 years; Female; Lumps, Weight Loss; Cancer; Long-term; Very High; Chemotherapy, Surgery
+28; Asthma; Cat; Abyssinian; 3 years; Male; Difficulty Breathing, Wheezing; Asthma; Long-term; Medium; Bronchodilators, Steroids
+29; Eye Infection; Dog; Shih Tzu; 2 years; Female; Redness, Discharge; Eye Infection; Short-term; Low; Antibiotics, Eye Drops</s>
+30;  Arthritis; Dog; German Shepherd; 7 years; Female; Limping, Swelling; Arthritis; Long-term; High; Pain Relievers, Joint Supplements
+31; Diabetes; Cat; Siamese; 5 years; Male; Excessive Thirst, Weight Loss; Diabetes; Long-term; High; Insulin Injections, Diet Change
+32; Ear Infection; Dog; Beagle; 4 years; Male; Head Shaking, Scratching; Ear Infection; Short-term; Medium; Antibiotics, Ear Drops
+33; Heartworm; Dog; Labrador Retriever; 2 years; Male; Coughing, Fatigue; Heartworm; Medium-term; High; Antiparasitics, Supportive Care
+34; Kidney Disease; Cat; Maine Coon; 10 years; Female; Increased Urination, Lethargy; Kidney Disease; Long-term; High; Fluid Therapy, Diet Change
+35; Liver Disease; Dog; Chihuahua; 6 years; Male; Loss of Appetite, Vomiting; Liver Disease; Medium-term; High; Fluid Therapy, Diet Change
+36; Obesity; Cat; British Shorthair; 8 years; Male; Difficulty Breathing, Lethargy; Obesity; Long-term; Medium; Diet Change, Exercise
+37; Parvovirus; Dog; Rottweiler; 1 year; Male; Severe Vomiting, Diarrhea; Parvovirus; Short-term; Very High; Fluid Therapy, Antiviral Medication
+38; Skin Allergies; Cat; Persian; 2 years; Female; Itching, Rash; Skin Allergies; Short-term; Low; Antihistamines, Topical Treatments
+39; Tooth Decay; Dog; Poodle; 4 years; Male; Bad Breath, Difficulty Eating; Tooth Decay; Short-term; Medium; Dental Cleaning, Tooth Extraction</s>
+40;  Heartworm Disease; Dog; Labrador; 3 years; Male; Coughing, Fatigue; Heartworm Disease; Long-term; High; Heartworm Prevention Medication, Antibiotics
+41; Inflammatory Bowel Disease; Cat; Siamese; 5 years; Female; Vomiting, Diarrhea; Inflammatory Bowel Disease; Long-term; Medium; Special Diet, Anti-inflammatory Medication
+42; Hip Dysplasia; Dog; German Shepherd; 2 years; Male; Limping, Difficulty Walking; Hip Dysplasia; Long-term; High; Pain Medication, Surgery
+43; Feline Leukemia; Cat; Domestic Shorthair; 1 year; Female; Weight Loss, Anemia; Feline Leukemia; Long-term; High; Supportive Care, Chemotherapy
+44; Epilepsy; Dog; Golden Retriever; 5 years; Male; Seizures; Epilepsy; Long-term; High; Anticonvulsant Medication, Lifestyle Changes
+45; Arthritis; Cat; Maine Coon; 8 years; Female; Limping, Decreased Activity; Arthritis; Long-term; Medium; Pain Medication, Joint Supplements
+46; Kidney Disease; Dog; Cocker Spaniel; 9 years; Male; Increased Thirst, Weight Loss; Kidney Disease; Long-term; High; Fluid Therapy, Special Diet
+47; Asthma; Cat; British Shorthair; 3 years; Female; Difficulty Breathing, Coughing; Asthma; Long-term; Medium; Bronchodilators, Steroids
+48; Bladder Infections; Dog; Beagle; 2 years; Female; Frequent Urination, Blood in Urine; Bladder Infections; Short-term; Medium; Antibiotics, Special Diet
+49; Ear Infections; Cat; Abyssinian; 1 year; Male; Head Shaking, Ear Pain; Ear Infections; Short-term; Low; Antibiotics, Ear Drops</s>
+50;  Arthritis; Dog; German Shepherd; 7 years; Female; Limping, Swelling in Joints; Arthritis; Long-term; High; Pain Relievers, Joint Supplements
+51; Dental Disease; Cat; Domestic Shorthair; 5 years; Male; Bad Breath, Difficulty Eating; Dental Disease; Medium-term; Medium; Dental Cleaning, Special Diet
+52; Heartworms; Dog; Labrador Retriever; 4 years; Male; Coughing, Fatigue; Heartworms; Long-term; High; Antiparasitics, Supportive Care
+53; Diabetes; Cat; Siamese; 8 years; Female; Excessive Thirst, Weight Loss; Diabetes; Long-term; High; Insulin, Special Diet
+54; Hip Dysplasia; Dog; Golden Retriever; 2 years; Male; Limping, Difficulty Walking; Hip Dysplasia; Long-term; High; Pain Relievers, Surgery
+55; Flea Allergy; Cat; Bengal; 3 years; Female; Itching, Hair Loss; Flea Allergy; Short-term; Low; Antihistamines, Flea Prevention
+56; Kidney Disease; Dog; Shih Tzu; 10 years; Male; Increased Thirst, Weight Loss; Kidney Disease; Long-term; High; Fluid Therapy, Special Diet
+57; Obesity; Cat; Maine Coon; 5 years; Female; Difficulty Moving, Excessive Eating; Obesity; Long-term; Medium; Special Diet, Exercise
+58; Parvovirus; Dog; Rottweiler; 1 year; Male; Vomiting, Diarrhea; Parvovirus; Short-term; High; Fluid Therapy, Supportive Care
+59; Upper Respiratory Infection; Cat; Persian; 1 year; Male; Sneezing, Runny Nose; Upper Respiratory Infection; Short-term; Medium; Antibiotics, Supportive Care</s>
+60; Dental Disease; Dog; Chihuahua; 7 years; Female; Bad Breath, Tartar Buildup; Dental Disease; Short-term; Medium; Dental Cleaning, Tooth Brushing
+61; Flea Allergy Dermatitis; Cat; Domestic Shorthair; 3 years; Male; Itching, Hair Loss; Flea Allergy Dermatitis; Short-term; Low; Anti-inflammatory Medication, Flea Control
+62; Hip Dysplasia; Dog; German Shepherd; 2 years; Male; Limping, Pain; Hip Dysplasia; Long-term; High; Pain Relief Medication, Surgery
+63; Heartworm Disease; Dog; Labrador Retriever; 4 years; Male; Coughing, Fatigue; Heartworm Disease; Long-term; High; Antiparasitic Medication, Supportive Care
+64; Eye Inflammation; Cat; Siamese; 8 years; Female; Redness, Discharge; Eye Inflammation; Short-term; Medium; Antibiotics, Eye Drops
+65; Diabetes Mellitus; Dog; Poodle; 6 years; Male; Excessive Thirst, Weight Loss; Diabetes; Long-term; High; Insulin Therapy, Diet Management
+66; Ear Infection; Cat; Bengal; 2 years; Female; Head Shaking, Ear Pain; Ear Infection; Short-term; Low; Antibiotics, Ear Cleaning
+67; Arthritis; Dog; Golden Retriever; 9 years; Male; Limping, Stiffness; Arthritis; Long-term; Medium; Pain Medication, Joint Supplements
+68; Urinary Tract Infection; Cat; British Shorthair; 7 years; Female; Frequent Urination, Pain; Urinary Tract Infection; Short-term; Medium; Antibiotics, Fluid Therapy
+69; Kidney Disease; Dog; Bulldog; 10 years; Male; Increased Thirst, Weight Loss; Kidney Disease; Long-term; High; Fluid Therapy, Diet Management</s>
+70;  Dental Disease; Cat; Siamese; 5 years; Female; Bad Breath, Difficulty Eating; Dental Disease; Short-term; Medium; Dental Cleaning, Antibiotics
+71; Heartworms; Dog; Labrador Retriever; 3 years; Male; Coughing, Fatigue; Heartworms; Medium-term; High; Antiparasitics, Supportive Care
+72; Diabetes; Cat; Maine Coon; 8 years; Male; Increased Thirst, Weight Loss; Diabetes; Long-term; High; Insulin, Diet Management
+73; Allergies; Dog; German Shepherd; 2 years; Female; Itching, Skin Rash; Allergies; Medium-term; Medium; Antihistamines, Steroids
+74; Ear Infection; Cat; Persian; 1 year; Female; Head Shaking, Ear Discharge; Ear Infection; Short-term; Medium; Antibiotics, Ear Drops
+75; Hip Dysplasia; Dog; Rottweiler; 6 years; Male; Limping, Difficulty Walking; Hip Dysplasia; Long-term; High; Pain Medication, Surgery
+76; Fleas; Cat; Domestic Shorthair; 3 months; Female; Itching, Hair Loss; Fleas; Short-term; Low; Flea Treatment, Environmental Control
+77; Obesity; Dog; Beagle; 5 years; Male; Overweight, Lethargy; Obesity; Long-term; Medium; Diet Management, Exercise
+78; Eye Inflammation; Cat; Bengal; 2 years; Male; Redness, Squinting; Eye Inflammation; Short-term; Medium; Antibiotics, Eye Drops
+79; Vomiting; Dog; Poodle; 4 years; Female; Vomiting, Loss of Appetite; Gastroenteritis; Short-term; Low; Fluid Therapy, Anti-emetics</s>
+80;  Arthritis; Dog; German Shepherd; 7 years; Female; Limping, Swelling; Degenerative Joint Disease; Long-term; High; Pain Relief Medication, Joint Supplements
+81; Ear Infection; Cat; Siamese; 3 years; Male; Head Shaking, Redness; Otitis Externa; Short-term; Medium; Antibiotics, Ear Cleaning Solution
+82; Dental Disease; Dog; Bulldog; 6 years; Male; Bad Breath, Difficulty Eating; Periodontitis; Long-term; Medium; Dental Cleaning, Antibiotics
+83; Diabetes; Cat; Maine Coon; 8 years; Female; Increased Thirst, Weight Loss; Diabetes Mellitus; Long-term; High; Insulin, Diet Management
+84; Heartworm Disease; Dog; Labrador; 3 years; Male; Coughing, Tiring Easily; Dirofilariasis; Long-term; High; Heartworm Prevention, Antiparasitics
+85; Kidney Disease; Cat; Persian; 10 years; Female; Increased Thirst, Weight Loss; Chronic Kidney Disease; Long-term; High; Fluid Therapy, Diet Management
+86; Flea Allergy; Dog; Terrier; 2 years; Male; Itching, Skin Irritation; Flea Allergy Dermatitis; Short-term; Low; Antihistamines, Flea Control
+87; Upper Respiratory Infection; Cat; Domestic Shorthair; 1 year; Male; Sneezing, Nasal Discharge; Feline Upper Respiratory Infection; Short-term; Low; Antibiotics, Fluid Therapy
+88; Lower Back Pain; Dog; Dachshund; 5 years; Female; Limping, Whining; Intervertebral Disc Disease; Short-term; High; Pain Relief Medication, Rest
+89; Skin Cancer; Cat; Sphynx; 5 years; Male; Lump, Skin Irritation; Squamous Cell Carcinoma; Long-term; High; Surgery, Radiation Therapy</s>
+90;  Arthritis; Dog; Labrador Retriever; 8 years; Female; Limping, Difficulty Jumping; Osteoarthritis; Long-term; Medium; Pain Relief Medication, Joint Supplements
+91; Heartworm Disease; Dog; German Shepherd; 3 years; Male; Coughing, Fatigue; Dirofilariasis; Medium-term; High; Antiparasitic Medication, Supportive Care
+92; Diabetes; Cat; Siamese; 7 years; Male; Excessive Thirst, Weight Loss; Diabetes Mellitus; Long-term; High; Insulin Therapy, Diet Management
+93; Kidney Disease; Dog; Chihuahua; 10 years; Female; Increased Urination, Vomiting; Chronic Kidney Disease; Long-term; High; Fluid Therapy, Diet Management
+94; Allergies; Cat; Ragdoll; 2 years; Female; Itching, Skin Irritation; Atopic Dermatitis; Long-term; Medium; Antihistamines, Steroids
+95; Hip Dysplasia; Dog; Golden Retriever; 1 year; Male; Limping, Difficulty Walking; Hip Dysplasia; Long-term; High; Pain Relief Medication, Surgery
+96; Eye Infection; Cat; Bengal; 3 years; Male; Redness, Squinting; Conjunctivitis; Short-term; Low; Antibiotics, Eye Drops
+97; Ear Infection; Dog; Poodle; 4 years; Female; Head Shaking, Ear Pain; Otitis Externa; Short-term; Medium; Antibiotics, Ear Cleaning
+98; Thyroid Disease; Cat; Domestic Longhair; 12 years; Female; Weight Loss, Increased Appetite; Hyperthyroidism; Long-term; Medium; Medication, Diet Management
+99; Bladder Infection; Dog; Beagle; 6 years; Male; Frequent Urination, Painful Urination; Bacterial Cystitis; Short-term; Medium; Antibiotics, Fluid Therapy</s>
+100;  Arthritis; Dog; German Shepherd; 8 years; Male; Limping, Swelling; Degenerative Joint Disease; Long-term; High; Pain Relievers, Joint Supplements
+101; Heartworm Disease; Dog; Labrador Retriever; 3 years; Male; Coughing, Fatigue; Dirofilariasis; Medium-term; High; Antiparasitics, Supportive Care
+102; Diabetes Mellitus; Cat; Domestic Shorthair; 7 years; Female; Excessive Thirst, Increased Urination; Feline Diabetes; Long-term; High; Insulin, Diet Management
+103; Dental Disease; Dog; Chihuahua; 5 years; Female; Bad Breath, Difficulty Eating; Periodontal Disease; Short-term; Medium; Dental Cleaning, Antibiotics
+104; Kidney Disease; Cat; Siamese; 10 years; Male; Weight Loss, Increased Thirst; Chronic Kidney Disease; Long-term; High; Fluid Therapy, Diet Management
+105; Flea Allergy Dermatitis; Dog; Bulldog; 2 years; Male; Itching, Hair Loss; FAD; Short-term; Low; Antihistamines, Topical Treatments
+106; Upper Respiratory Infection; Cat; Maine Coon; 1 year; Female; Sneezing, Nasal Discharge; Cat Flu; Short-term; Low; Antibiotics, Fluid Therapy
+107; Gastric Dilatation-Volvulus; Dog; Great Dane; 2 years; Male; Distended Stomach, Restlessness; Bloat; Short-term; Very High; Surgery, IV Fluids
+108; Patellar Luxation; Dog; Bichon Frise; 2 years; Female; Limping, Hind Leg Instability; Luxating Patella; Short-term; Medium; Surgery, Physical Therapy
+109; Ehrlichiosis; Dog; Rottweiler; 5 years; Male; Fever, Lethargy; Canine Ehrlichiosis; Medium-term; Medium; Antibiotics, Supportive Care</s>

@@ -1,0 +1,11 @@
+;Incident Number; Date & Time Occurred; Offense Description; Location; Offense Category; Incident Type;\
+0; 101; 2022-03-01 07:30:00; A man was seen breaking into a car at the parking lot; Parking Lot C, 1234 Main St; Property Crime; Theft from Vehicle;
+1;102; 2022-03-01 09:15:00; A woman reported being harassed by her ex-boyfriend; 5678 Elm St Apt 4B; Personal Crime; Stalking;
+2;103; 2022-03-01 11:30:00; A shoplifter was caught stealing goods from a convenience store; 9101 Oak St Groceries R Us; Property Crime; Shoplifting;
+3;104; 2022-03-01 14:45:00; A fight broke out between two customers at a restaurant; 2345 Maple St Restaurant Royal; Public Order Crime; Disturbing the Peace;
+4;105; 2022-03-01 16:00:00; A car was vandalized with a spray paint in the parking lot; Parking Lot B, 5678 Elm St; Property Crime; Vandalism;
+5;106; 2022-03-01 18:15:00; A person was caught driving under the influence of alcohol; 9101 Oak St, near the intersection of Oak St and Birch St; Public Order Crime; DUI;
+6;107; 2022-03-01 20:30:00; A person was caught carrying a concealed weapon; 2345 Maple St, near the entrance of the mall; Public Order Crime; Carrying a Concealed Weapon;
+7;108; 2022-03-01 22:00:00; A person was caught stealing a bike from the bike rack; Parking Lot A, 1234 Main St; Property Crime; Theft of Bicycle;
+8;109; 2022-03-01 23:45:00; A man was seen looking into windows of houses in the neighborhood; 5678 Elm St, multiple locations; Public Order Crime; Peeping Tom;
+9;110; 2022-03-02 01:30:00; A car was broken into and items were stolen; Parking Lot D, 9101 Oak St; Property Crime; Theft from Vehicle.</s>;

@@ -1,0 +1,94 @@
+;"<semi-colon-separated table 2 column headers>\
+Phylogenic tree structure";"\
+Conservation status";"\
+Ecologically significant traits";"\
+Biomolecular interactions network";"\
+Metabolic pathways involved";"\
+Gene regulation elements and associated factors";"\
+Chromosomal locations and variations";"\
+Epigenetics marks and modifications";"\
+Chloroplast/mitochondrial genome composition";"\
+Biodiversity distribution";"\
+Protein complexes (subunits & oligomerizations)";"\
+Expression patterns across environments";"\
+Gene duplication events and their effects"
+0; Arabidopsis thaliana;;;;;;;;;;;;
+1;Least Concern;;;;;;;;;;;;
+2;Small stature, rapid life cycle, abundant seeds;;;;;;;;;;;;
+3;Interacts with hormones, proteins, and environmental factors;;;;;;;;;;;;
+4;Involved in photosynthesis, metabolism, and signaling;;;;;;;;;;;;
+5;Regulated by transcription factors, enhancers, and silencers;;;;;;;;;;;;
+6;Located on five chromosomes with occasional inversions;;;;;;;;;;;;
+7;Modified by DNA methylation, histone modifications, and small RNA;;;;;;;;;;;;
+8;Contains a circular mitochondrial genome and a linear chloroplast genome;;;;;;;;;;;;
+9;Found worldwide in various habitats;;;;;;;;;;;;
+10;Involved in various protein complexes for cellular processes;;;;;;;;;;;;
+11;Exhibits differential expression in diverse environments;;;;;;;;;;;;
+12;Gorilla gorilla;;;;;;;;;;;;
+13;Critically Endangered;;;;;;;;;;;;
+14;Large body size, strong social bonds, tool use;;;;;;;;;;;;
+15;Interacts with pathogens, conspecifics, and abiotic factors;;;;;;;;;;;;
+16;Involved in immune response, metabolism, and communication;;;;;;;;;;;;
+17;Regulated by non-coding RNAs, transcription factors, and epigenetic modifications;;;;;;;;;;;;
+18;Located on 24 chromosomes with occasional translocations;;;;;;;;;;;;
+19;Modified by DNA methylation, histone modifications, and higher-order chromatin structures;;;;;;;;;;;;
+20;Contains circular mitochondrial and chloroplast genomes with reduced functionality;;;;;;;;;;;;
+21;Restricted to dense forests in Central Africa;;;;;;;;;;;;
+22;Involved in various protein complexes for brain function and muscle development;;;;;;;;;;;;
+23;Exhibits differential expression in response to environmental changes;;;;;;;;;;;;
+24;Escherichia coli;;;;;;;;;;;;
+25;Least Concern (non-pathogenic strains);;;;;;;;;;;;
+26;Versatile metabolism, motility, biofilm formation;;;;;;;;;;;;
+27;Interacts with nutrients, signaling molecules, and other microbes;;;;;;;;;;;;
+28;Involved in central metabolism, amino acid biosynthesis, and stress response;;;;;;;;;;;;
+29;Regulated by sigma factors, transcription factors, and small RNA molecules;;;;;;;;;;;;
+30;Located on a circular chromosome with occasional plasmids;;;;;;;;;;;;
+31;Modified by DNA methylation, phase-variable genes, and restriction-modification systems;;;;;;;;;;;;
+32;Contains a circular mitochondrial genome (only in aerobic strains);;;;;;;;;;;;
+33;Found worldwide in diverse environments;;;;;;;;;;;;
+34;Involved in various protein complexes for motility, DNA replication, and transcription;;;;;;;;;;;;
+35;Exhibits differential expression in response to environmental stimuli;;;;;;;;;;;;
+36;Drosophila melanogaster;;;;;;;;;;;;
+38;Small size, short lifespan, abundant offspring;;;;;;;;;;;;
+39;Interacts with food, mates, and pathogens;;;;;;;;;;;;
+40;Involved in development, reproduction, and stress response;;;;;;;;;;;;
+41;Regulated by non-coding RNAs, transcription factors, and epigenetic marks;;;;;;;;;;;;
+42;Located on four chromosomes with occasional inversions and translocations;;;;;;;;;;;;
+44;Contains a circular mitochondrial genome with reduced functionality;;;;;;;;;;;;
+45;Worldwide distribution in various habitats;;;;;;;;;;;;
+46;Involved in various protein complexes for neural function and development;;;;;;;;;;;;
+47;Exhibits differential expression in response to environmental cues;;;;;;;;;;;;
+48;Panthera leo;;;;;;;;;;;;
+49;Vulnerable;;;;;;;;;;;;
+50;Large body size, social hierarchy, territoriality;;;;;;;;;;;;
+51;Interacts with prey, conspecifics, and abiotic factors;;;;;;;;;;;;
+54;Located on 18 chromosomes with occasional variations;;;;;;;;;;;;
+57;Restricted to sub-Saharan Africa and a small portion of India;;;;;;;;;;;;
+58;Involved in various protein complexes for muscle development and neural function;;;;;;;;;;;;
+60;Bos taurus;;;;;;;;;;;;
+61;Domesticated;;;;;;;;;;;;
+62;Large body size, gregarious, used for meat, milk, and labor;;;;;;;;;;;;
+63;Interacts with humans, feed, and pathogens;;;;;;;;;;;;
+64;Involved in metabolism, growth, reproduction, and immune response;;;;;;;;;;;;
+66;Located on 30 chromosomes with occasional variations;;;;;;;;;;;;
+70;Involved in various protein complexes for muscle development and milk production;;;;;;;;;;;;
+72;Caenorhabditis elegans;;;;;;;;;;;;
+74;Small size, self-fertilizing hermaphrodites, short lifespan;;;;;;;;;;;;
+78;Located on six chromosomes with occasional variations;;;;;;;;;;;;
+84;Canis lupus familiaris;;;;;;;;;;;;
+86;Various sizes and shapes, used for companionship, hunting, and herding;;;;;;;;;;;;
+87;Interacts with humans, food, and pathogens;;;;;;;;;;;;
+90;Located on 38 chromosomes with occasional variations;;;;;;;;;;;;
+94;Involved in various protein complexes for muscle development, neural function, and sensory perception;;;;;;;;;;;;
+96;Populus tremuloides;;;;;;;;;;;;
+98;Deciduous tree, fast-growing, extensive root system;;;;;;;;;;;;
+99;Interacts with sunlight, water, soil, and pathogens;;;;;;;;;;;;
+100;Involved in photosynthesis, metabolism, and stress response;;;;;;;;;;;;
+102;Located on 19 chromosomes with occasional variations;;;;;;;;;;;;
+104;Contains a circular mitochondrial genome and a circular chloroplast genome;;;;;;;;;;;;
+105;Native to North America in various habitats;;;;;;;;;;;;
+106;Involved in various protein complexes for wood formation and defense response;;;;;;;;;;;;
+108;Danio rerio;;;;;;;;;;;;
+110;Small size, egg-laying, used as model organism;;;;;;;;;;;;
+114;Located on 25 chromosomes with occasional variations;;;;;;;;;;;;
+117;Native to Southeast Asia in various aquatic habitats;;;;;;;;;;;;

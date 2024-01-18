@@ -1,0 +1,11 @@
+;CommonNames;Scientific_Classification_v2;NativeOrIntroduced_v2;OptimalSunlight_v2;LeafArrangement_v2;SoilTypePreference;WateringNeeds;PruningTips;ProperPlantCode;AdditionalCulturalInfo;SpecialFeatures
+0; Rose;Rosa spp.;Introduced;Full Sun;Exact;Loamy;Moderate;Prune in late winter or early spring;ROS;Grows well in most regions;Has fragrant flowers, attractive hips
+1;Lily;Lilium spp.;Introduced;Partial Shade;Spiral;Well-drained;Regular watering;Deadhead spent flowers to encourage reblooming;LIL;Prefers cooler climates, protect from heat;
+2;Marigold;Tagetes spp.;Introduced;Full Sun;Opposite;Well-drained;Low water;Pinch back to encourage bushiness;TAG;Tolerant of poor soils, repels pests;
+3;Orchid;Orchidaceae family;Introduced/Native*;Varies;Varies;Varies;Varies;Careful not to overwater;ORC;Air plants need no soil, epiphytic roots;
+4;Daffodil;Narcissus spp.;Introduced;Full Sun;Alternate;Well-drained;Moderate;Leave foliage until it dies back naturally;NAR;Plant bulbs in fall for spring blooms;
+5;Sunflower;Helianthus annuus;Introduced;Full Sun;Alternate;Well-drained;Moderate;Prune for compact growth, remove bottom leaves;HEL;Attracts pollinators, edible seeds;
+6;Tulip;Tulipa spp.;Introduced;Full Sun;Alternate;Well-drained;Low water;Plant bulbs in fall for spring blooms;TUL;Deer resistant, good for cut flowers;
+7;Fern;Polypodiopsida class*;Native;Shade;Varies;Moist, well-drained;High;Trim off dead or decaying fronds;FER;Air purifying, evergreen in warmer climates;
+8;Zinnia;Zinnia spp.;Introduced;Full Sun;Alternate;Well-drained;Low;Pinch back to encourage bushiness;ZIN;Attracts pollinators, long bloom time;
+9;Hydrangea;Hydrangea spp.;Introduced/Native*;Partial Shade;Varies;Rich, well-drained;Moderate;Prune regularly for strong growth;HYD;Color of flowers can indicate soil pH, blooms on old wood</s>;

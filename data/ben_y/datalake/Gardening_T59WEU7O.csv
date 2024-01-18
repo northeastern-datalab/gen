@@ -1,0 +1,12 @@
+;GardenLocation; ClimateType; IrrigationSystem; SoilingSchedule; PestManagement; HarvestSeason; TotalAreaSqMeters; NumberofYearsUsingGarden; BudgetAllocationYearly; MembersInvolved; CommunityEngagementLevel; VolunteerEventsOrganizedAnnually; MaintenanceRecordsKept; AchievementsUnlocked
+0; GardenLocation; ClimateType; IrrigationSystem; SoilingSchedule; PestManagement; HarvestSeason; TotalAreaSqMeters; NumberofYearsUsingGarden; BudgetAllocationYearly; MembersInvolved; CommunityEngagementLevel; VolunteerEventsOrganizedAnnually; MaintenanceRecordsKept; AchievementsUnlocked
+1;City Rooftop; Humid Subtropical; Drip Irrigation; Every 3 days; Biological Control, Rotation; Spring, Autumn; 120; 5; $2000; 12; High; 6; Yes; Organic Garden Certification, Local Food Donation
+2;Urban Community Garden; Marine West Coast; Sprinkler System; Weekly; Integrated Pest Management; Summer; 250; 7; $5000; 35; Very High; 10; Yes; Multiple Harvest Festivals, Increased Community Cohesion
+3;Suburban Backyard; Mediterranean; Soaker Hose; Every 5 days; Organic Pesticides, Row Covers; Fall; 180; 3; $1000; 4; Medium; 2; Yes; Sustainable Living Award, Native Plant Haven
+4;Rural Homestead; Continental; Hand Watering; Daily; Natural Predators, Crop Diversity; Year-Round; 650; 10; $8000; 6; Low; 1; Yes; Self-Sufficient Food Production, Rare Variety Preservation
+5;School Garden; Temperate Oceanic; Drip Irrigation; Weekly; Neem Oil, Beneficial Insects; Summer, Autumn; 40; 2; $500; 15; Very High; 4; Yes; Young Environmentalist Badge, Improved School Lunch Program
+6;Community Allotment; Humid Continental; Sprinkler System; Every 4 days; Soap Sprays, Companion Planting; Late Spring, Early Fall; 150; 6; $3000; 25; High; 3; Yes; Local Charity Donation, Skill Sharing Workshops
+7;Therapeutic Garden; Desert; Hand Watering; Every 2 days; Minimal Intervention; Spring, Fall; 70; 1; $1500; 8; Very High; 2; Yes; Healing Garden Designation, Horticultural Therapy Sessions
+8;Indoor Herb Garden; Indoor Controlled; Hydroponics; Daily; Essential Oils, Pruning; All Year; 20; 0.5; $1000; 2; N/A; 0; Yes; Indoor Gardening Certificate, Fresh Culinary Herbs
+9;Balcony Container; Subtropical Highland; Self-Watering Pots; Every 3 days; Insecticidal Soap, Timely Harvest; Late Spring, Early Fall; 10; 1; $200; 1; Low; 0; Yes; Space Efficient Design, Edible Balcony Recognition
+10;Guerrilla Garden; Temperate Oceanic; Rainwater Harvesting; As Needed; Guerilla Tactics; Late Spring, Early Fall; 30; 2; $0; Varies; N/A; 0; No; Street Beautification, Stealth Vegetable Gardening</s>

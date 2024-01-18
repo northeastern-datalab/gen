@@ -1,0 +1,11 @@
+;Athlete Nickname; Athletic Association Number (AAN); Match ID; Sport; Points Earned; Passes Completed; Blocks Made; Tackles Missed; Fouls; Steering Committee Votes; Injuries Sustained
+0;" ""The Flash"""; AAN0001; MATCH001; Track and Field; 2000; 15; 0; 0; 0; 25; 0
+1;"""Air Jordan"""; AAN0002; MATCH002; Basketball; 120; 50; 2; 1; 3; 20; 1
+2;"""The Iceman"""; AAN0003; MATCH003; Ice Hockey; 35; 20; 7; 3; 2; 18; 2
+3;"""Bonecrusher"""; AAN0004; MATCH004; Rugby; 40; 0; 15; 2; 5; 22; 1
+4;"""Golden Boy"""; AAN0005; MATCH005; Boxing; 90; 4; 0; 0; 1; 30; 0
+5;"""The Rocket"""; AAN0006; MATCH006; Baseball; 85; 35; 0; 0; 0; 28; 0
+6;"""The Secret Weapon"""; AAN0007; MATCH007; Soccer; 25; 20; 10; 2; 1; 15; 1
+7;"""The Freak"""; AAN0008; MATCH008; American Football; 150; 75; 3; 2; 2; 27; 1
+8;"""The Whiz"""; AAN0009; MATCH009; Golf; 75; 0; 0; 0; 0; 30; 0
+9;"""The Bullet"""; AAN0010; MATCH010; Swimming; 150; 0; 0; 0; 0; 25; 0</s>

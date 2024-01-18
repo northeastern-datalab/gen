@@ -1,0 +1,11 @@
+;SiteCode; LocationDetails; CulturalAffiliation; Era; Division; TotalStratigraphicUnits; GeologicalStrataNumber; ExcavationProgressPercentage; ArtificialDivision; UndisturbedContexts; SpecialFindings; PreservationStatus; ResearcherName1; ResearcherName2
+0; DX991; Mesopotamian plains, Iraq; Sumerian; Ubaid Period; Southern Mesopotamian; 6; 4; 75%; Primary Excavation; 3; Uncovered Temple Ruins; Good; Jane Smith; Alex Johnson
+1;CA442; Central Anatolia, Turkey; Hittite; Hittite Empire; Anatolian; 9; 7; 60%; Secondary Excavation; 5; Discovered Bronze Weapons; Fair; Mehmet Kemal; Emily Davis
+2;PO881; Nile River Valley, Egypt; Ancient Egyptian; Middle Kingdom; Nile Valley; 12; 8; 45%; Tertiary Excavation; 4; Unearthed Pharaoh's Tomb; Excellent; Robert Johnson; Fatima El-Rahman
+3;BR662; Amazon Rainforest, Brazil; Pre-Columbian; Acre Ceramic; Amazonian; 7; 5; 80%; Primary Excavation; 2; Found Earthwork Mounds; Good; Maria Gonzales; Carlos Santos
+4;IN221; Indus River Valley, India; Harappan; Indus Valley Civilization; Western Indian; 10; 6; 35%; Secondary Excavation; 6; Revealed Seal Engravings; Fair; Rajesh Patel; Ayesha Khan
+5;SN330; Yellow River Basin, China; Shang Dynasty; Erligang Period; Central Chinese; 8; 4; 55%; Primary Excavation; 3; Identified Oracle Bones; Good; Li Wei; Xu Jing
+6;CH779; Andean Highlands, Peru; Inca; Late Horizon; Central Andean; 11; 7; 70%; Secondary Excavation; 4; Discovered Royal Tombs; Excellent; Juan Rodriguez; Maria Lopez
+7;ME119; Arabian Peninsula, Saudi Arabia; Nabatean; Nabatean Kingdom; Arabian; 5; 3; 65%; Primary Excavation; 2; Exposed Temple of Dushara; Good; Hassan Al-Saud; Sofia Al-Faisal
+8;AF334; East African Rift Valley, Kenya; Early Human; Oldowan; Eastern African; 7; 4; 40%; Tertiary Excavation; 5; Found Stone Tools; Fair; James Ogola; Grace Mwangi
+9;NO885; Arctic Tundra, Canada; Dorset; Pre-Dorset; Arctic; 4; 3; 35%; Primary Excavation; 1; Recovered Bone Harpoons; Poor; Susan Adams; David Brown</s>

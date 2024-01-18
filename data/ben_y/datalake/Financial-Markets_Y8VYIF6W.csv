@@ -1,0 +1,11 @@
+;Stock Market Index_2; Stock Market Sector_2; Interest Rates_2; Volatility Index_2; Dividend Yield_2; Price/Earnings Ratio_2; Market Capitalization_2; Trading Volume_2; New Column 1; New Column 2; New Column 3; New Column 4
+0; Dow Jones Industrial Average; Industrials; 0.025%; 12; 2.03%; 23.45; $7.96 trillion; 3.82 billion; Technology advancements; Global economic growth; Inflation concerns; Trade tensions
+1;S&P 500; Financial Services; 0.022%; 10; 1.73%; 21.54; $34.94 trillion; 2.16 billion; Regulatory changes; Interest rates; Market competition; Consumer sentiment
+2;NASDAQ Composite; Technology; 0.019%; 18; 1.49%; 28.39; $19.35 trillion; 4.23 billion; Artificial Intelligence; Cybersecurity; Digital transformation; Government policies
+3;Euro Stoxx 50; Consumer Goods; 0.015%; 15; 2.21%; 16.52; €4.03 trillion; 1.21 billion; Demographic shifts; Consumer protection; Currency fluctuations; Supply chain disruptions
+4;Nikkei 225; Consumer Services; 0.010%; 13; 1.84%; 15.22; ¥201.43 trillion; 1.37 billion; Aging population; Corporate governance; Environmental concerns; Tourism industry
+5;Shanghai Composite; Energy; 0.008%; 11; 3.55%; 10.88; ¥31.36 trillion; 1.14 billion; Energy transition; Trade policies; Government regulations; Commodity prices
+6;Hang Seng Index; Real Estate; 0.006%; 9; 2.52%; 11.66; HK$37.42 trillion; 1.88 billion; Urbanization; Housing affordability; Infrastructure development; Property market regulations
+7;ASX 200; Materials; 0.004%; 8; 4.15%; 12.98; A$2.28 trillion; 1.07 billion; Raw material supplies; Technological innovations; Environmental regulations; Global demand
+8;FTSE 100; Health Care; 0.003%; 7; 3.06%; 14.09; £2.48 trillion; 913.87 million; Ageing population; Drug pricing; Regulatory compliance; Technological advancements
+9;KS11; Communication Services; 0.002%; 6; 2.98%; 13.65; ₩2.04 quadrillion; 1.27 billion; 5G networks; Digitalization; Privacy concerns; Data security regulations</s>

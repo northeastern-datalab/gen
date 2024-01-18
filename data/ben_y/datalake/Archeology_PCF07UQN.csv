@@ -1,0 +1,11 @@
+;ExcavationDate; ExcavatorTeamLead; FundingSource; SoilComposition; GeologicalFeatures; ArtifactPreservationCondition; BiofactsCount; BiofactType; BiofactDescription; AnalysisMethod
+0;2010-06-01; Ashmita Sengupta; Indian Archeological Society; Clay and Silt; Presence of limestone; Fair; 15; Seeds; Prehistoric pulse remains; Macrofossil analysis
+1;1997-08-15; Hans Dietrich; German Research Foundation; Sand and Gravel; Fossilized shells; Good; 22; Mollusk shells; Evidence of Early Pliocene marine life; Stratigraphic correlation
+2;2003-04-20; Fatima Amr; Egyptian Supreme Council of Antiquities; Silty Loam; Unusual stratification; Poor; 8; Pottery shards; Indicates possible settlement disturbance; Ceramic petrology
+3;1985-09-02; Koji Nishimura; Japanese Archaeological Association; Loamy Sand; Volcanic ash layer; Excellent; 5; Stone tools; Signs of microwear from use; Use-wear analysis
+4;2012-11-07; Sarah Johnson; National Science Foundation; Clay and Silt; Iron concretions; Good; 12; Metallic artifacts; Hints of copper alloy use; Metallography
+5;1999-07-22; Enrique Lopez; Spanish National Research Council; Sandy Loam; Cave formations; Poor; 18; Bone fragments; Animal or human? Paleopathology;
+6;1976-05-10; Jane Thompson; Smithsonian Institution; Silt and Sand; Petrified wood; Fair; 10; Wooden tools; Construction methods of ancient societies; Dendrochronology
+7;2005-02-14; Pierre Dubois; French National Centre for Scientific Research; Loamy Sand; Obsidian deposits; Excellent; 3; Projectile points; Traces of blood residue; Residue analysis
+8;2015-07-06; Zhang Wei; Chinese Academy of Social Sciences; Silty Clay; Fossilized footprints; Good; 7; Human footprints; Revealing early human migration; Pedestrian analysis
+9;1988-12-20; Maria Rodriguez; Mexican Institute of Anthropology and History; Sandy Loam; Evidence of coastal erosion; Poor; 6; Ceramic figurines; Cultural connections through trade; Stylistic analysis</s>

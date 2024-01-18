@@ -1,0 +1,11 @@
+;Advanced Analytics; Species Distribution; Strain Information; Initial Weight; Followup Exam Date; Treating Veterinarian; Symptom Severity Level; Additional Therapies Needed; Recheck Appointment; Payment Method
+0;" ""Advanced Analytics"; Dog; Canine Influenza Strain; 15kg; 2022-03-15; Dr. Anderson; Moderate; Cough Suppressants; 2022-03-22;" Insurance"""
+1;"""Advanced Analytics"; Cat; Feline Calicivirus Strain; 4kg; 2022-03-17; Dr. Thompson; Severe; Antibiotics, Fluid Therapy; 2022-03-24;" Cash Payment"""
+2;"""Advanced Analytics"; Horse; Equine Herpesvirus Strain; 500kg; 2022-03-12; Dr. Patel; Mild; Anti-inflammatory Medication; 2022-03-19;" Credit Card"""
+3;"""Advanced Analytics"; Cow; Bovine Viral Diarrhea Strain; 700kg; 2022-03-10; Dr. Smith; Moderate; Supportive Care; 2022-03-17;" Health Savings Account"""
+4;"""Advanced Analytics"; Pig; Porcine Reproductive and Respiratory Syndrome Strain; 150kg; 2022-03-08; Dr. Garcia; Severe; Antibiotics, Oxygen Therapy; 2022-03-15;" Check"""
+5;"""Advanced Analytics"; Sheep; Ovine Pulmonary Adensovirus Strain; 80kg; 2022-03-05; Dr. Johnson; Mild; Pain Relief; 2022-03-12;" Insurance"""
+6;"""Advanced Analytics"; Goat; Caprine Arthritis Encephalitis Strain; 50kg; 2022-03-03; Dr. Kim; Moderate; Vitamin B12 Injections; 2022-03-10;" Credit Card"""
+7;"""Advanced Analytics"; Chicken; Avian Influenza Strain; 2kg; 2022-02-27; Dr. Rodriguez; Severe; Antiviral Medication, Fluid Therapy; 2022-03-06;" Cash Payment"""
+8;"""Advanced Analytics"; Turkey; Turkey Hemorrhagic Enteritis Strain; 12kg; 2022-02-25; Dr. Wilson; Mild; Electrolytes; 2022-03-04;" Health Savings Account"""
+9;"""Advanced Analytics"; Duck; Duck Virus Enteritis Strain; 4kg; 2022-02-22; Dr. Lee; Moderate; Antibiotics; 2022-03-01;" Check""</s>"

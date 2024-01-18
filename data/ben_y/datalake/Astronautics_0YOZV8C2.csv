@@ -1,0 +1,11 @@
+;Rocket Type; Launch Site; Funding Agency; Collaborative Agencies; Maximum Altitude (km); Mass at Lift-off (kg); Number of Stages; Engine Types; Delta Velocity Required (m/sec); Primary Flight Phase
+0; Saturn V; Kennedy Space Center; NASA; None; 363,000; 2,800,000; 3; Liquid (F-1, J-2); 10,030; Trans-lunar injection
+1; Space Shuttle; Kennedy Space Center; NASA; None; 670; 2,000,000; 2; Solid (SRB), Liquid (SSME); 22,000; Orbital insertion
+2; Falcon Heavy; Kennedy Space Center; SpaceX; None; 1,852; 1,420,788; 3; Liquid (Merkury, Kestrel); 9,200; Trans-martian injection
+3; Long March 5B; Wenchang Spacecraft Launch Site; CNSA; None; 900; 849,000; 2; Liquid (YF-77); 9,350; Lunar transfer
+4; Ariane 5; Guiana Space Centre; ESA; None; 667; 777,000; 2; Liquid (Vulcain, HM7B); 8,050; Geostationary transfer
+5; Atlas V; Cape Canaveral Space Force Station; USAF; None; 360; 587,600; 2; Liquid (RS-68, RL10); 8,000; Medium Earth orbit
+6; Proton-M; Baikonur Cosmodrome; Roscosmos; None; 58; 693,900; 3; Liquid (RD-276, RD-0210); 5,400; Geostationary transfer
+7; Angara A5; Plesetsk Cosmodrome; Roscosmos; None; 47; 775,000; 2; Liquid (RD-191M, RD-0124MS); 8,000; Medium Earth orbit
+8; H-IIA; Tanegashima Space Center; JAXA; None; 600; 443,000; 2; Liquid (LE-7A, LE-5B); 4,300; Geostationary transfer
+9; GSLV Mk III; Satish Dhawan Space Centre; ISRO; None; 45; 640,000; 3; Solid (S200), Liquid (Vikas, CE-7.5); 4,500; Geostationary transfer</s>

@@ -1,0 +1,111 @@
+;Philosophical Concept* (Shared);Major Theorist* (Shared);# of Adherents* (Shared);Influential Work* (Shared);Related Column 1;Related Column 2;Related Column 3;Related Column 4;Related Column 5
+0;"  ""Existence of God*";St. Thomas Aquinas*;1.3 Billion (Catholicism)*;Summa Theologica*;Theology;Metaphysics;Ethics;"Natural Law""";
+1;" ""Moral Relativism*";John Stuart Mill*;8 Million (United Kingdom)*;On Liberty*;Ethics;Political Philosophy;Utilitarianism;"Libertarianism""";
+2;" ""Determinism vs Free Will*";Aristotle*;Unknown (Ancient Greece)*;Nicomachean Ethics*;Metaphysics;Ethics;Political Philosophy;"Logic""";
+3;" ""Epistemological Skepticism*";Rene Descartes*;71 Million (France)*;Meditations on First Philosophy*;Epistemology;Metaphysics;Science;"Cognitive Science""";
+4;" "" tabula rasa*";John Locke*;239 Million (United States)*;An Essay Concerning Human Understanding*;Epistemology;Political Philosophy;Psychology;"Linguistics""";
+5;" ""Utilitarianism*";Jeremy Bentham*;6 Million (United Kingdom)*;An Introduction to the Principles of Morals and Legislation*;Ethics;Political Philosophy;Economics;"Law""";
+6;" ""Dialectical Materialism*";Karl Marx*;3.3 Billion (People Aligned with Communism)*;Das Kapital*;Political Philosophy;Economics;Sociology;"Anthropology""";
+7;" ""Phenomenology*";Edmund Husserl*;81 Million (Germany)*;Ideas I*;Epistemology;Metaphysics;Psychology;"Cognitive Science""";
+8;" ""Pragmatism*";William James*;333 Million (United States)*;Pragmatism*;Epistemology;Metaphysics;Psychology;"Education""";
+9;" ""Existentialism*";Jean-Paul Sartre*;72 Million (France)*;Being and Nothingness*;Existentialism;Metaphysics;Psychology;Literature</s>;
+10;"  ""Logical Positivism*";A.J. Ayer*;56 Million (United Kingdom)*;Language, Truth and Logic*;Epistemology;Logic;Language;"Philosophy of Science""";
+11;" ""Stoicism*";Epictetus*;20 Million (Greco-Roman World)*;Enchiridion*;Ethics;Logic;Physics;"Government""";
+12;" ""Confucianism*";Confucius*;1.5 Billion (China)*;Analects*;Ethics;Politics;Education;"Anthropology""";
+13;" ""Platonism*";Plato*;94 Million (Ancient Greece)*;The Republic*;Metaphysics;Epistemology;Politics;"Aesthetics""";
+14;" ""Epicureanism*";Epicurus*;38 Million (Ancient Greece)*;Principal Doctrines*;Ethics;Physics;Epistemology;"Literature""";
+15;" ""Humanism*";Pico della Mirandola*;11 Million (Italy)*;Oration on the Dignity of Man*;Ethics;Religion;Art;Literature;"Politics"""
+16;" ""Cynicism*";Diogenes*;29 Million (Ancient Greece)*;Cynic Ethics*;Ethics;Politics;Sociology;"Literature""";
+17;" ""Transcendentalism*";Ralph Waldo Emerson*;302 Million (United States)*;Nature*;Epistemology;Metaphysics;Ethics;"Religion""";
+18;" ""Utilitarianism*";John Stuart Mill*;921 Million (United Kingdom)*;Utilitarianism*;Ethics;Politics;Economics;"Law""";
+19;" ""Marxism*";Karl Marx*;1.6 Billion (Modern World)*;Capital*;Politics;Economics;Sociology;"Philosophy of History""</s>";
+20;" ""Existentialism*"; Jean-Paul Sartre*;519 Million (Western Europe)*; Being and Nothingness*; Ontology; Epistemology; Ethics;" Literature""*";
+21;"""Pragmatism*"; John Dewey*;327 Million (United States)*; Experience and Nature*; Epistemology; Metaphysics; Education;" Psychology""*";
+22;"""Stoicism*"; Seneca*;1.2 Billion (Ancient World)*; Moral Letters*; Ethics; Logic; Physics;" Psychology""*";
+23;"""Confucianism*"; Confucius*;1.4 Billion (East Asia)*; Analects*; Ethics; Politics; Social Philosophy;" Education""*";
+24;"""Taoism*"; Laozi*;1.3 Billion (East Asia)*; Tao Te Ching*; Metaphysics; Epistemology; Ethics;" Politics""*";
+25;"""Humanism*"; Protagoras*;5.6 Billion (Modern World)*; Human Measure*; Ethics; Politics; Education;" Religion""*";
+26;"""Legalism*"; Han Fei*;1.3 Billion (East Asia)*; The Book of Lord Shang*; Politics; Law; Ethics;" History""*";
+27;""" Idealism*"; Plato*;2.1 Billion (Ancient & Modern World)*; The Republic*; Epistemology; Metaphysics; Ethics;" Politics""*";
+28;"""Positivism*"; Auguste Comte*;2.6 Billion (Modern World)*; The Course of Positive Philosophy*; Epistemology; Sociology; Politics;" Methodology""*";
+29;"""Nihilism*"; Friedrich Nietzsche*; 1.1 Billion (Western Europe)*; Thus Spoke Zarathustra*; Metaphysics; Epistemology; Ethics;" Religion""*.</s>";
+30;" ""Existentialism*"; Jean-Paul Sartre*; 1.8 Billion (Modern World)*; Being and Nothingness*; Ontology; Epistemology; Ethics;" Literature""*";
+31;"""Stoicism*"; Seneca*; 2.2 Billion (Ancient & Modern World)*; Moral Letters*; Ethics; Logic; Physics;" Psychology""*";
+32;"""Humanism*"; Pico della Mirandola*; 1.5 Billion (Western World)*; Oration on the Dignity of Man*; Metaphysics; Epistemology; Ethics;" Aesthetics""*";
+33;"""Pragmatism*"; John Dewey*; 2.7 Billion (Modern World)*; Experience and Nature*; Epistemology; Metaphysics; Ethics;" Education""*";
+34;"""Epicureanism*"; Epicurus*; 1.9 Billion (Ancient & Modern World)*; Principal Doctrines*; Atomism; Epistemology; Ethics;" Physics""*";
+35;"""Confucianism*"; Confucius*; 1.4 Billion (East Asia)*; Analects*; Ethics; Metaphysics; Politics;" Pedagogy""*";
+36;"""Idealism*"; George Berkeley*; 2.3 Billion (Western World)*; Treatise Concerning the Principles of Human Knowledge*; Epistemology; Metaphysics;" Theology""*";;
+37;"""Utilitarianism*"; Jeremy Bentham*; 2.4 Billion (Modern World)*; An Introduction to the Principles of Morals and Legislation*; Ethics; Political Philosophy; Economics;" Law""*";
+38;"""Empiricism*"; John Locke*; 2.9 Billion (Modern World)*; An Essay Concerning Human Understanding*; Epistemology; Metaphysics; Political Philosophy;" Education""*";
+39;"""Transcendentalism*"; Ralph Waldo Emerson*; 1.8 Billion (Modern World)*; Nature*; Metaphysics; Epistemology; Ethics;" Aesthetics""*.</s>";
+40;" ""Existentialism*"; Jean-Paul Sartre*; 2.1 Billion (Modern World)*; Being and Nothingness*; Existentialism; Phenomenology; Literature;" Psychology""*";
+41;"""Stoicism*"; Marcus Aurelius*; 2.7 Billion (Modern World)*; Meditations*; Ethics; Logic; Physics;" Political Philosophy""*";
+42;"""Confucianism*"; Confucius*; 1.6 Billion (Modern World)*; The Analects*; Ethics; Political Philosophy; Education;" Religion""*";
+43;"""Humanism*"; Protagoras*; 2.5 Billion (Modern World)*; None specific; Ethics; Education; Philosophy of Science;" Cultural Studies""*";
+44;"""Platonism*"; Plato*; 2.2 Billion (Modern World)*; The Republic*; Metaphysics; Epistemology; Ethics;" Political Philosophy""*";
+45;"""Legalism*"; Han Fei*; 1.3 Billion (Modern World)*; Hanfeizi*; Political Philosophy; Legal Studies; History;" Philosophy of Law""*";
+46;"""Pragmatism*"; John Dewey*; 2.8 Billion (Modern World)*; Experience and Education*; Epistemology; Metaphysics; Education;" Psychology""*";
+47;"""Cynicism*"; Diogenes*; 2.3 Billion (Modern World)*; Lives of Eminent Philosophers*; Ethics; Politics; Social Criticism;" Aesthetics""*";
+48;"""Epicureanism*"; Epicurus*; 2.0 Billion (Modern World)*; Letter to Menoeceus*; Ethics; Physics; Epistemology;" Psychology""*";
+49;"""Taoism*"; Laozi*; 1.7 Billion (Modern World)*; Tao Te Ching*; Metaphysics; Ethics; Spirituality;" Ecology""*.</s>";
+50;" ""Stoicism*"; Marcus Aurelius*; 1.8 Billion (Modern World)*; Meditations*; Ethics; Logic; Physics;" Spirituality""*";
+51;"""Existentialism*"; Jean-Paul Sartre*; 1.5 Billion (Modern World)*; Being and Nothingness*; Metaphysics; Epistemology; Ethics;" Politics""*";
+52;"""Humanism*"; Pico della Mirandola*; 1.2 Billion (Modern World)*; Oration on the Dignity of Man*; Ethics; Spirituality; Education;" Human Rights""*";
+53;"""Utilitarianism*"; Jeremy Bentham*; 1.4 Billion (Modern World)*; An Introduction to the Principles of Morals and Legislation*; Ethics; Politics; Economics;" Law""*";
+54;"""Pragmatism*"; John Dewey*; 1.3 Billion (Modern World)*; Experience and Education*; Epistemology; Education; Politics;" Sociology""*";
+55;"""Idealism*"; Immanuel Kant*; 1.6 Billion (Modern World)*; Critique of Pure Reason*; Metaphysics; Epistemology; Ethics;" Politics""*";
+56;"""Confucianism*"; Confucius*; 1.9 Billion (Modern World)*; Analects*; Ethics; Politics; Education;" Social Criticism""*";
+57;"""Feminism*"; Judith Butler*; 1.2 Billion (Modern World)*; Gender Trouble*; Ethics; Politics; Sociology;" Philosophy of Science""*";
+58;"""Phenomenology*"; Edmund Husserl*; 1.7 Billion (Modern World)*; Ideas I*; Metaphysics; Epistemology; Phenomenology;" Psychology""*";
+59;"""Nihilism*"; Friedrich Nietzsche*; 1.4 Billion (Modern World)*; Thus Spoke Zarathustra*; Metaphysics; Epistemology; Ethics;" Politics""*.</s>";
+60;" ""Existentialism*"; Jean-Paul Sartre*; 1.3 Billion (Modern World)*; Being and Nothingness*; Metaphysics; Epistemology; Ethics; Politics;" Literature""* "
+61;"""Stoicism*"; Epictetus*; 900 Million (Modern World)*; Enchiridion*; Ethics; Logic; Physics;" Spirituality""*";
+62;"""Pragmatism*"; John Dewey*; 800 Million (Modern World)*; Experience and Nature*; Epistemology; Metaphysics; Education;" Psychology""*";
+63;"""Humanism*"; Erasmus*; 600 Million (Modern World)*; In Praise of Folly*; Ethics; Politics; Literature;" History""*";
+64;"""Confucianism*"; Confucius*; 1.5 Billion (East Asia)*; Analects*; Ethics; Politics; Education;" Spirituality""*";
+65;"""Taoism*"; Laozi*; 1.3 Billion (East Asia)*; Tao Te Ching*; Metaphysics; Epistemology; Ethics;" Spirituality""*";
+66;"""Buddhism*"; Gautama Buddha*; 1.6 Billion (Asia)*; The Eightfold Path*; Metaphysics; Epistemology; Ethics;" Spirituality""*";
+67;"""Utilitarianism*"; John Stuart Mill*; 900 Million (Modern World)*; Utilitarianism*; Ethics; Politics;" Economics""*";;
+68;"""Marxism*"; Karl Marx*; 1.2 Billion (Modern World)*; Das Kapital*; Epistemology; Politics; Economics;" Sociology""*";
+69;"""Structuralism*"; Claude Lévi-Strauss*; 1.1 Billion (Modern World)*; The Elementary Structures of Kinship*; Anthropology; Sociology;" Philosophy of Language"".</s>";;
+70;" ""Existentialism*"; Jean-Paul Sartre*; 50 Million (Modern World)*; Being and Nothingness*; Existential Psychology; Literature;" Drama""";;
+71;"""Stoicism*"; Marcus Aurelius*; 30 Million (Modern World)*; Meditations*; Ethics; Logic; Physics;" Life advice*"" ";
+72;"""Humanism*"; Pico della Mirandola*; 20 Million (Modern World)*; Oration on the Dignity of Man*; Philosophy of Man; Literature;" Art""";;
+73;"""Pragmatism*"; John Dewey*; 10 Million (Modern World)*; Experience and Education*; Education; Psychology;" Philosophy of Science""";;
+74;"""Nihilism*"; Friedrich Nietzsche*; 8 Million (Modern World)*; Thus Spoke Zarathustra*; Literature; Existentialism;" Epistemology""";;
+75;"""Positivism*"; Auguste Comte*; 7 Million (Modern World)*; Course in Positive Philosophy*; Sociology; Politics;" Philosophy of Science""";;
+76;"""Postmodernism*"; Jean-François Lyotard*; 6 Million (Modern World)*; The Postmodern Condition*; Art; Literature;" Social Sciences""";;
+77;"""Epicureanism*"; Epicurus*; 5 Million (Modern World)*; The Art of Happiness*; Ethics; Physics;" Literature""";;
+78;"""Confucianism*"; Confucius*; 500 Million (Modern World)*; The Analects*; Ethics; Sociology; Politics;" Education""";
+79;"""Taoism*"; Laozi*; 400 Million (Modern World)*; Tao Te Ching*; Ethics; Metaphysics; Spirituality;" Epistemology"".</s>";
+80;" ""Stoicism*"; Marcus Aurelius*; 2 Million (Modern World)*; Meditations*; Ethics; Logic; Physics;" Life""";
+81;"""Existentialism*"; Jean-Paul Sartre*; 1.5 Million (Modern World)*; Being and Nothingness*; Metaphysics; Epistemology; Ethics;" Literature""";
+82;"""Hedonism*"; Jeremy Bentham*; 1 Million (Modern World)*; An Introduction to the Principles of Morals and Legislation*; Ethics; Psychology; Economics;" Life""";
+83;"""Pragmatism*"; John Dewey*; 800 Thousand (Modern World)*; Experience and Nature*; Epistemology; Metaphysics; Education;" Psychology""";
+84;"""Humanism*"; Paul Kurtz*; 600 Thousand (Modern World)*; Forbidden Fruit*; Ethics; Sociology; Literature;" Life""";
+85;"""Phenomenology*"; Martin Heidegger*; 500 Thousand (Modern World)*; Being and Time*; Metaphysics; Epistemology; Language;" Life""";
+86;"""Nihilism*"; Friedrich Nietzsche*; 400 Thousand (Modern World)*; Thus Spoke Zarathustra*; Metaphysics; Epistemology; Ethics;" Life""";
+87;"""Positivism*"; Auguste Comte*; 300 Thousand (Modern World)*; The Course in Positive Philosophy*; Epistemology; Sociology; Politics;" Life""";
+88;"""Perennialism*"; Aldous Huxley*; 200 Thousand (Modern World)*; The Perennial Philosophy*; Metaphysics; Epistemology; Religion;" Life""";
+89;"""Transcendentalism*"; Ralph Waldo Emerson*; 150 Thousand (Modern World)*; Nature*; Metaphysics; Epistemology; Ethics;" Literature"".</s>";
+90;" ""Existentialism*"; Jean-Paul Sartre*; 500 Thousand (Modern World)*; Being and Nothingness*; Ontology; Epistemology; Ethics; Literature;" Philosophy of Mind""  "
+91;"""Pragmatism*"; John Dewey*; 400 Thousand (Modern World)*; Experience and Education*; Epistemology; Metaphysics; Politics; Education;" Life""  "
+92;"""Stoicism*"; Epictetus*; 350 Thousand (Ancient World)*; Enchiridion*; Ethics; Logic; Physics; Life;" Marcus Aurelius""  "
+93;"""Phenomenology*"; Edmund Husserl*; 300 Thousand (Modern World)*; Ideas I*; Ontology; Epistemology; Philosophy of Mind; Phenomenology;" Methodology""  "
+94;"""Idealism*"; Georg Wilhelm Friedrich Hegel*; 250 Thousand (Modern World)*; The Phenomenology of Spirit*; Ontology; Epistemology; Politics; History;" Metaphysics""  "
+95;"""Humanism*"; Protagoras*; 200 Thousand (Ancient World)*; Man is the Measure of All Things*; Anthropology; Ethics; Epistemology; Rhetoric;" Sophism""  "
+96;"""Confucianism*"; Confucius*; 250 Million (East Asia)*; Analects*; Ethics; Politics; Education; Mind;" Life""  "
+97;"""Taoism*"; Laozi*; 150 Million (East Asia)*; Tao Te Ching*; Metaphysics; Ethics; Epistemology; Politics;" Spirituality""  "
+98;"""Buddhism*"; Gautama Buddha*; 500 Million (South Asia)*; The Dhammapada*; Metaphysics; Ethics; Epistemology; Meditation;" Life""  "
+99;"""Nihilism*"; Friedrich Nietzsche*; 100 Thousand (Modern World)*; Thus Spoke Zarathustra*; Ontology; Epistemology; Ethics; Life;" Culture"".</s>"
+100;" ""Existentialism*"; Jean-Paul Sartre*; 10 Million (Modern World)*; Being and Nothingness*; Ontology; Epistemology; Ethics; Phenomenology;" Literature""  "
+101;"""Stoicism*"; Marcus Aurelius*; 5 Million (Ancient World)*; Meditations*; Metaphysics; Ethics; Epistemology; Logic;" Politics""  "
+102;"""Humanism*"; Pico della Mirandola*; 8 Million (Western World)*; Oration on the Dignity of Man*; Ethics; Aesthetics; Epistemology; Culture;" History""  "
+103;"""Pragmatism*"; John Dewey*; 2 Million (Modern World)*; Experience and Education*; Epistemology; Metaphysics; Ethics; Education;" Philosophy of Science""  "
+104;""" Confucianism*"; Confucius*; 250 Million (East Asia)*; The Analects*; Ethics; Politics; Education; Metaphysics;" Spirituality""  "
+105;"""Skepticism*"; Pyrrho*; 200 Thousand (Ancient World)*; Outlines of Pyrrhonism*; Epistemology; Ontology; Ethics; Critical Thinking;" Logic""  "
+106;"""Phenomenology*"; Edmund Husserl*; 500 Thousand (Modern World)*; Ideas I*; Ontology; Epistemology; Ethics; Phenomenological Method;" Consciousness""  "
+107;"""Idealism*"; Immanuel Kant*; 700 Thousand (Modern World)*; Critique of Pure Reason*; Ontology; Epistemology; Ethics; Aesthetics;" Politics""  "
+108;"""Epicureanism*"; Epicurus*; 500 Thousand (Ancient World)*; Principal Doctrines*; Ethics; Metaphysics; Epistemology; Physics;" Hedonism""  "
+109;"""Utilitarianism*"; Jeremy Bentham*; 3 Million (Modern World)*; An Introduction to the Principles of Morals and Legislation*; Ethics; Politics; Economics; Law;" Utilitarian Calculus"" .</s>"

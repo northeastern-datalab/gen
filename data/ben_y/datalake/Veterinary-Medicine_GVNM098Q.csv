@@ -1,0 +1,12 @@
+;Condition Name; Animal Owner Name; Animal Type; Breed; Age; Gender; Symptoms; Diagnosis; Treatment Procedure; Treatment Duration; Cost
+0; Condition Name; Animal Owner Name; Animal Type; Breed; Age; Gender; Symptoms; Diagnosis; Treatment Procedure; Treatment Duration; Cost
+1;Rabies; John Doe; Dog; Labrador; 3 years; Male; Aggression, disorientation; Rabies; Euthanasia; Instant; $0
+2;Arthritis; Jane Smith; Cat; Siamese; 8 years; Female; Limping, difficulty jumping; Arthritis; Pain medication, physical therapy; Long-term; $300
+3;Ear Infection; Bob Johnson; Dog; Beagle; 2 years; Male; Head shaking, scratching ears; Ear Infection; Medicated ear drops, cleaning ears; Short-term; $150
+4;Parvovirus; Sarah Lee; Dog; Mix Breed; 6 months; Female; Vomiting, diarrhea, lethargy; Parvovirus; Intravenous fluids, isolation; Several days; $800
+5;Dental Disease; Michael Brown; Cat; Persian; 5 years; Male; Bad breath, difficulty eating; Dental Disease; Dental cleaning, extractions if needed; Short-term; $250
+6;Flea Allergy; Emily Davis; Dog; Terrier; 1 year; Female; Itchy skin, hair loss; Flea Allergy; Flea medication, antihistamines; Short-term; $100
+7;Obesity; James Miller; Cat; Domestic Shorthair; 10 years; Male; Overweight, difficulty moving; Obesity; Diet and exercise plan; Long-term; $0
+8;Urinary Tract Infection; Karen White; Cat; Bengal; 4 years; Female; Straining to urinate, frequent urination; UTI; Antibiotics, fluid therapy; Short-term; $200
+9;Heartworm Disease; Daniel Robinson; Dog; Golden Retriever; 4 years; Male; Coughing, lethargy, weight loss; Heartworm Disease; Heartworm treatment, supportive care; Several weeks; $600
+10;Skin Cancer; Laura Garcia; Dog; Boxer; 7 years; Female; Mass on skin, ulcers; Skin Cancer; Surgery, radiation therapy; Several weeks to months; $2000</s>

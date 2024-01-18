@@ -1,0 +1,111 @@
+;Musical Key; Time Signature; Tempo (BPM); Main Instruments; Melodic Tone; Harmonic Progression; Lyrics Themes; Audience Age Group; Production Techniques; Digital Sales Platform
+0; C Major; 4/4; 120; Piano, Drums; Bright, Uplifting; I-V-vi-IV; Love, Friendship; 18-35; Multi-track Recording, Auto-tune; iTunes
+1;A Minor; 3/4; 90; Acoustic Guitar, Violin; Sorrowful, Reflective; vi-IV-I-V; Loss, Longing; 25-50; Stereo Recording, Reverb; Spotify
+2;E Major; 6/8; 100; Electric Guitar, Bass; Energetic, Excited; I-IV-V; Adventure, Freedom; 15-30; Live Recording, Distortion; Google Play
+3;F Major; 2/2; 70; Trumpet, Saxophone; Joyful, Celebratory; II-V-I; Celebration, Happiness; All Ages; Surround Sound, Equalization; Amazon Music
+4;B Flat Major; 5/4; 80; Cello, Flute; Dreamy, Whimsical; IV-vi-I-V; Imagination, Wonder; 10-14; Binaural Recording, Chorus Effect; Pandora
+5;D Major; 7/4; 110; Banjo, Mandolin; Playful, Lively; I-IV-V-vi; Fun, Games; 5-8; Field Recording, Compression; Deezer
+6;G Major; 9/8; 130; Harmonica, Accordion; Nostalgic, Wistful; III-vi-II-V; Memories, Nostalgia; 30-50; Lo-fi Recording, Delay; Tidal
+7;C Minor; 12/8; 60; Timpani, Choir; Epic, Dramatic; vi-IV-I-V; Heroism, Bravery; 13-18; Cinematic Recording, Echo; Napster
+8;A Flat Major; 10/4; 95; Sitar, Tabla; Exotic, Mystical; I-V-vi-III; Exploration, Discovery; 19-25; World Music Recording, Phasing; SoundCloud
+9;E Flat Major; 8/6; 105; Xylophone, Harp; Magical, Enchanting; II-V-vi-IV; Fairy Tales, Fantasy; 4-10; High-fidelity Recording, Flanger; Groove Music</s>
+10; B Major; 4/4; 120; Electric Guitar, Drums; Energetic, Rock; I-IV-V-IV; Rebellion, Freedom; 15-18; Multi-track Recording, Overdrive; Spotify
+11;E Minor; 3/4; 80; Violin, Piano; Sorrowful, Classical; i-iv-V-i; Loss, Love; 26-50; Surround Sound Recording, Reverb; Amazon Music
+12;C Sharp Major; 7/8; 110; Saxophone, Double Bass; Jazzy, Sophisticated; II-V-I-vi; Urban Life, Relationships; 20-30; Stereo Recording, Compression; Pandora
+13;A Minor; 9/8; 70; Pan Flute, Rain Stick; Peaceful, Ambient; vi-IV-I-V; Nature, Tranquility; Any Age; Binaural Recording, Delay; Apple Music
+14;F Major; 11/8; 130; Turntables, Drum Machine; Lively, Hip Hop; I-IV-V-IV; City Life, Empowerment; 13-25; Lo-fi Recording, Distortion; Tidal
+15;D Major; 5/4; 100; Trumpet, Trombone; Uplifting, Brass; III-vi-ii-V; Celebration, Success; 18-40; Live Recording, Equalization; Google Play Music
+16;G Sharp Minor; 6/4; 85; Oboe, Cello; Thoughtful, Chamber; iv-I-V-vi; Introspection, Contemplation; 31-55; High-Resolution Recording, Stereo Enhancement; Deezer
+17;B Flat Major; 13/16; 140; Djembe, Shaker; Exciting, World; I-V-vi-III; Community, Rhythm; 5-12; Field Recording, Reverse; YouTube Music
+18;F Sharp Minor; 2/2; 90; Accordion, Clarinet; Nostalgic, Folk; ii-V-i-iv; Heritage, Narrative; 36-70; Digital Mastering, Chorus; Claro Music
+19;C Major; 1/2; 200; Vocaloids, Synthesizer; Futuristic, Electronic; IV-V-vi-III; Technology, Innovation; 10-22; Synthetic Recording, Autotune; Bandcamp</s>
+20; D Major; 4/4; 120; Electric Guitar, Bass Guitar; Uplifting, Rock; I-IV-V-vi; Freedom, Rebellion; 15-35; Studio Recording, Distortion; Spotify
+21;E Major; 3/4; 60; Harp, Flute; Dreamy, Celtic; ii-V-I-vi; Nature, Mythology; 8-18; Live Recording, Reverb; Apple Music
+22;A Minor; 5/4; 80; Saxophone, Double Bass; Melancholic, Jazz; vi-ii-V-I; Love, Loss; 23-50; Multi-tracking, Improvisation; Amazon Music
+23;G Major; 7/8; 100; Drums, Cello; Energetic, Classical; III-vi-ii-V; Courage, Perseverance; 12-45; Conducting, Sampling; Google Play Music
+24;B Major; 12/8; 70; Banjo, Fiddle; Playful, Bluegrass; I-IV-V-I; Humor, Family; 5-15; Double-tracking, Overdubbing; Pandora
+25;C Sharp Minor; 9/8; 160; Trumpet, Tuba; Triumphant, Brass; IV-I-V-vi; Achievement, Unity; 18-60; Editing, Compression; Deezer
+26;F Major; 6/8; 110; Pan Flute, Rain Stick; Serene, Ambient; i-III-IV-vi; Tranquility, Connection; All ages; Mastering, Stereo imaging; SoundCloud
+27;A Flat Major; 11/8; 130; Sitar, Tabla; Spiritual, World; VII-IV-I-V; Enlightenment, Celebration; 8-75; Arrangement, Layering; Tidal
+28;E Flat Major; 10/4; 150; Bagpipes, Snare Drum; Powerful, Folk; vi-III-IV-I; Pride, Heritage; 10-80; Mixing, Equalization; Napster
+29;D Minor; 8/8; 170; Turntables, Synthesizer; Experimental, Electronic; II-V-vi-III; Exploration, Creativity; 13-30; DJing, Effects; Beatport</s>
+30; B Major; 7/4; 90; Standup Bass, Brushes; Nostalgic, Jazz; IV-ii-V-I; Love, Longing; 22-65; Improvisation, Reverb; Spotify
+31;G Major; 9/8; 110; Harmonica, Acoustic Guitar; Soulful, Blues; IV-vi-ii-V; Hardship, Perseverance; 25-70; Sliding, Bending; Apple Music
+32;F Major; 12/8; 140; Electric Guitar, Drum Kit; Uplifting, Rock; I-IV-V-IV; Freedom, Adventure; 18-55; Distortion, Pedals; Google Play
+33;C Major; 6/8; 80; Cello, Piano; Melancholic, Classical; vi-IV-I-V; Loss, Hope; 15-90; Vibrato, Arpeggio; Amazon Music
+34;A Sharp Minor; 5/4; 160; Trumpet, Double Bass; Energetic, Swing; II-V-I-vi; Joy, Excitement; 10-60; Mute, Plunger; Pandora
+35;E Major; 3/4; 120; Violin, Harp; Fantasy, Celtic; IV-I-V-IV; Imagination, Wonder; 5-20; Pizzicato, Glissando; Deezer
+36;F Sharp Minor; 13/16; 100; Saxophone, Drum Machine; Mysterious, Funk; VII-IV-I-V; Intrigue, Curiosity; 13-35; Filter, Delay; SoundCloud
+37;B Flat Minor; 4/4; 180; Drums, Bass Guitar; Aggressive, Metal; I-V-vi-IV; Anger, Rebellion; 15-45; Double Bass, Blast Beat; Bandcamp
+38;G Sharp Major; 2/2; 70; Flute, Pan Flute; Peaceful, World; II-V-I-vi; Tranquility, Nature; 5-12; Overtones, Circular Breathing; YouTube Music
+39;D Major; 2/4; 100; Accordion, Clarinet; Playful, Polka; I-IV-V-I; Community, Celebration; 8-80; Oompah, Counterpoint; Klarna Music</s>
+40; A Minor; 3/4; 120; Violin, Cello; Melancholic, Classical; i-IV-V-vi; Love, Loss; 13-25; Vibrato, Arpeggio; Spotify
+41;E Flat Major; 6/8; 80; Ukulele, Marimba; Cheerful, Calypso; II-V-I-IV; Happiness, Island Life; 3-10; Strumming, Harmonics; Apple Music
+42;F Major; 5/4; 160; Electric Guitar, Drums; Energetic, Rock; I-IV-V-vi; Adventure, Road Trip; 20-50; Power Chords, Solo; Amazon Music
+43;B Major; 12/8; 60; Saxophone, Piano; Smooth, Jazz; II-V-I-vi; Romance, Nightlife; 18-40; Improvisation, Swing; Google Play Music
+44;C Minor; 4/4; 200; Trumpet, Tuba; Powerful, Brass Band; I-IV-V-IV; Triumph, Victory; 15-60; Mutes, Vibrato; Pandora
+45;D Flat Major; 7/8; 90; Harp, Flute; Fantasy, Celtic; III-VI-II-V; Myth, Legend; 5-35; Pedal, Glissando; Deezer
+46;E Minor; 9/8; 110; Sitar, Tabla; Spiritual, Eastern; I-IV-V-vi; Enlightenment, Meditation; 10-50; Raga, Tala; Tidal
+47;F Sharp Minor; 10/4; 140; Drum Kit, Bass; Thrilling, Metal; I-V-vi-IV; Fear, Horror; 18-35; Blast Beats, Chugging; Napster
+48;G Minor; 11/4; 75; Mandolin, Banjo; Folk, Bluegrass; II-V-I-vi; Heritage, Storytelling; 10-70; Fingerpicking, Chop; Shazam
+49;A Flat Major; 13/16; 100; Oboe, English Horn; Elegant, Baroque; IV-I-V-vi; Royalty, Elegance; 15-60; Vibrato, Ornamentation; SoundCloud</s>
+50; D Major; 4/4; 120; Electric Guitar, Drums; Energetic, Rock; Verse-Chorus; Youth, Rebellion; 15-30; Distortion, Reverb; Spotify
+51;E Minor; 3/4; 90; Violin, Cello; Melancholic, Classical; Sonata Form; Love, Loss; 18-65; Vibrato, Legato; Apple Music
+52;B Minor; 7/8; 80; Sitar, Tabla; Spiritual, World; Raga; Enlightenment, Journey; 13-50; Sustained Notes, Rhythmic Variation; Amazon Music
+53;F Major; 9/8; 160; Accordion, Trumpet; Joyful, Polka; Chorus-Verse; Community, Celebration; 10-80; Fast Tempo, Staccato; Pandora
+54;A Major; 5/4; 130; Saxophone, Double Bass; Mysterious, Jazz; Improvisation; Intrigue, Late Night; 20-50; Scat Singing, Syncopation; Google Play
+55;C Sharp Minor; 6/4; 65; Harp, Flute; Peaceful, Celtic; Leitmotif; Nature, Mythology; 5-50; Arpeggios, Harmonics; Deezer
+56;G Major; 12/8; 105; Piano, Drums; Passionate, Latin; A-B-A Form; Emotion, Rhythm; 15-50; Samba, Call and Response; Tidal
+57;D Flat Major; 2/2; 110; Acoustic Guitar, Harmonica; Nostalgic, Folk; Storytelling; Memories, Reflection; 20-70; Fingerpicking, Vibrato; Youtube Music
+58;E Flat Major; 16/8; 70; Choir, Organ; Sacred, Choral; Mass; Spirituality, Unity; 5-90; Polyphony, Reverberation; Groove Music
+59;B Flat Minor; 2/4; 180; Electric Bass, Synthesizer; Futuristic, Electronica; Loop-Based; Technology, Change; 10-40; Sequencing, Sampling; Bandcamp</s>
+60; G Major; 4/4; 120; Drums, Electric Guitar; Energetic, Rock; Rebellion; Youth, Freedom; 15-35; Distortion, Overdubbing; Spotify
+61;C Major; 3/4; 90; Violin, Cello; Melancholic, Classical; Love, Loss; Heartbreak, Sorrow; 18-65; Vibrato, Legato; Apple Music
+62;A Minor; 6/8; 100; Flute, Piano; Soothing, New Age; Nature, Tranquility; Relaxation, Mindfulness; 5-90; Reverb, Delay; Pandora
+63;F Sharp Major; 5/4; 130; Saxophone, Double Bass; Jazzy, Swing; Romance, Dance; Flirtation, Passion; 20-50; Improvisation, Swing Rhythm; Amazon Music
+64;E Major; 7/8; 140; Sitar, Tabla; Exotic, World; Mysticism, Exploration; Culture, Understanding; 10-80; Sitar Effects, Tabla Rolls; Google Play Music
+65;A Major; 9/8; 80; Bagpipes, Snare Drum; Celtic, Folk; Heritage, Celebration; Community, Pride; 5-90; Drone, Embellishments; Deezer
+66;D Major; 12/8; 60; Pan Flute, Rainstick; Ambient, Experimental; Dream, Meditation; Inner Peace, Calm; 5-90; Natural Harmonics, Delay; Tidal
+67;C Sharp Minor; 20/16; 160; Turntables, Sampler; Hip Hop, Urban; Struggle, Triumph; Empowerment, Inspiration; 10-40; Scratching, Beat Juggling; SoundCloud
+68;B Major; 11/8; 100; Mandolin, Banjo; Bluegrass, Folk; Nostalgia, Community; Family, Togetherness; 20-70; Bluegrass Techniques, Bending; Napster
+69;F Major; 13/16; 150; Trumpet, Trombone; Big Band, Jazz; Entertainment, Celebration; Happiness, Excitement; 20-60; Jazz Improv, Ensemble Playing; Music Red</s>
+70; G Major; 4/4; 120; Electric Guitar, Bass; Rock, Classic; Love, Life; Passion, Adventure; 10-50; Distortion, Overdrive; iTunes
+71;A Minor; 12/8; 80; Piano, Violin; Classical, Romantic; Emotion, Passion; Love, Heartbreak; 15-65; Arpeggios, Trills; Amazon Music
+72;D Major; 3/4; 180; Accordion, Guitar; Folk, World; Home, Tradition; Family, Love; 10-90; Accenting, Polka Rhythm; Google Play
+73;E Flat Major; 5/4; 70; Saxophone, Double Bass; Jazz, Cool; Relaxation, Meditation; Mindfulness, Inner Peace; 20-70; Improvisation, Swing; Spotify
+74;B Flat Major; 7/4; 90; Harp, Flute; Celtic, Folk; Mythology, Legend; Fantasy, Adventure; 15-80; Ornamentation, Harmonics; Pandora
+75;F Sharp Major; 6/8; 130; Drums, Electric Bass; Rock, Progressive; Power, Ambition; Courage, Perseverance; 15-45; Odd Time Signature, Polyrythms; Deezer
+76;A Flat Major; 9/8; 110; Oboe, Bassoon; Baroque, Classical; Elegance, Beauty; Art, Inspiration; 20-80; Articulation, Dynamics; Tidal
+77;D Flat Major; 10/8; 60; Sitar, Tabla; Indian, World; Spirituality, Inner Journey; Reflection, Serenity; 10-90; Raga, Tala; Groove Music
+78;E Major; 16/16; 140; Synthesizer, Drum Machine; Techno, Dance; Energy, Movement; Unity, Celebration; 15-55; Sequencing, Layering; Beatport
+79;C Major; 14/16; 170; Fiddle, Banjo; Country, Americana; Freedom, Love; Home, Nostalgia; 10-60; Double Stops, Bends; Apple Music</s>
+80; A Major; 4/4; 120; Piano, Violin; Classical, Romantic; Love, Longing; Heartbreak, Passion; 15-90; Pedaling, Vibrato; Spotify
+81;B Flat Major; 3/4; 72; Cello, Oboe; Baroque, Orchestral; Elegance, Grandeur; Royalty, Nobility; 20-80; Articulation, Dynamics; Amazon Music
+82;F Sharp Minor; 5/4; 80; Saxophone, Bass; Jazz, Swing; Melancholy, Contemplation; City Lights, Solitude; 18-70; Improvisation, Swing; Pandora
+83;G Major; 7/8; 100; Flute, Panpipes; Latin, World; Exoticism, Sensuality; Nature, Mysticism; 15-65; Vibrato, Tremolo; Deezer
+84;A Minor; 9/8; 90; Harp, Accordion; Celtic, Folk; Nostalgia, Legend; Ancestry, Heritage; 13-75; Arpeggio, Chords; Google Play
+85;D Major; 12/8; 130; Trumpet, Trombone; Big Band, Swing; Joy, Liberation; Party, Crowd; 10-99; Glissando, Mutes; Napster
+86;E Flat Major; 6/8; 56; Timpani, Xylophone; Classical, Percussion; Rhythm, Excitement; Drumline, Competition; 5-99; Rolls, Dynamics; Tidal
+87;F Major; 2/2; 75; Guitar, Bass Drum; Folk, Singer-Songwriter; Simplicity, Honesty; Self-discovery, Relationships; 10-90; Fingerpicking, Strumming; Klarna Music
+88;B Major; 11/8; 150; Electric Guitar, Drums; Rock, Alternative; Rebellion, Intensity; Identity, Angst; 13-50; Distortion, Pedals; SoundCloud
+89;C Sharp Minor; 13/16; 105; Mandolin, Dobro; Bluegrass, Americana; Family, Community; Tradition, Perseverance; 10-80; Bends, Slides; YouTube Music</s>
+90; D Major; 4/4; 120; Piano, Violin; Classical, Romantic; Love, Longing; 18-90; Vibrato, Staccato; Apple Music;
+91;E Flat Major; 3/4; 60; Harp, Flute; Fantasy, Enchantment; Imagination, Wonder; 5-12; Glissando, Tremolo; Amazon Music;
+92;F Minor; 5/4; 90; Saxophone, Double Bass; Jazz, Swing; Freedom, Passion; 20-60; Improvisation, Scat; Google Play Music;
+93;G Major; 6/8; 100; Accordion, Clarinet; Polka, Folk; Celebration, Tradition; 30-70; Oom-pah, Counterpoint; Pandora;
+94;A Flat Major; 7/4; 80; Ukulele, Marimba; Hawaiian, Reggae; Island, Relaxation; 5-50; Strumming, Harmony; Spotify;
+95;B Major; 9/8; 130; Sitar, Tabla; Indian, World; Spirituality, Journey; 13-60; Raga, Tala; Deezer;
+96;C Minor; 10/4; 110; Timpani, Horn; Symphonic, Epic; Power, Courage; 18-80; Crescendo, Decrescendo; Napster;
+97;D Flat Major; 12/8; 140; Djembe, Shaker; African, Tribal; Unity, Rhythm; 3-30; Call-and-response, Polyphony; Tidal;
+98;E Major; 16/16; 160; Synthesizer, Drum Machine; Techno, Dance; Energy, Movement; 15-35; Looping, Sampling; Bandcamp;
+99;F Major; 20/16; 175; Organ, Trumpet; Baroque, Gospel; Faith, Grace; 10-90; Fugue, Canon; Ghostprod.co</s>;
+100; A Major; 4/4; 120; Piano, Violin; Romantic, Melancholy; Love, Longing; 18-30; Layering, Reverberation; Spotify;
+101;B Flat Major; 3/4; 60; Acoustic Guitar, Flute; Folk, Nature; Home, Simplicity; 10-80; Fingerpicking, Natural Harmonics; iTunes;
+102;C Major; 7/8; 100; Sitar, Tabla; Indian, Spiritual; Inner Peace, Journey; 5-90; Raga, Improvisation; Amazon Music;
+103;D Major; 9/8; 130; Accordion, Clarinet; Eastern European, Nostalgia; Family, Tradition; 15-60; Polka, Counterpoint; Google Play;
+104;E Flat Major; 5/4; 90; Saxophone, Double Bass; Jazz, City Life; Freedom, Creativity; 20-50; Swing, Call-and-Response; Pandora;
+105;F Major; 11/8; 180; Mandolin, Bouzouki; Celtic, Celebration; Community, Joy; 5-80; Jig, Ostinato; Deezer;
+106;G Flat Major; 13/16; 210; Harp, Cello; Epic, Adventure; Bravery, Quest; 8-80; Arpeggio, Pedal Point; Napster;
+107;A Flat Major; 6/8; 105; Ukulele, Steel Drums; Tropical, Relaxation; Ocean, Tranquility; 2-90; Strumming, Echo; SoundCloud;
+108;B Major; 2/2; 150; Banjo, Fiddle; Bluegrass, Americana; Heritage, Homecoming; 5-70; Backbeat, Crosspicking; Groove Music;
+109;C Minor; 10/16; 80; Timpani, Harpsichord; Classical, Solemnity; History, Wisdom; 10-90; Canon, Counterpoint; YouTube Music.</s>;

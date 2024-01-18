@@ -1,0 +1,11 @@
+;CensusYear; StateAbbreviation; CountyName; CityOrTown; TotalPopulation; CountryOfBirth; OccupationalGroup; AnnualIncome; EducationLevelAttained; Ethnicity; LifeExpectancy
+0;2010; CA; Los Angeles; Los Angeles; 3,792,621; United States; Management, business, science, and arts occupations; $78,579; Bachelor's degree or higher; Hispanic or Latino (of any race); 80.8
+1;2000; TX; Harris; Houston; 3,400,578; Mexico; Service occupations; $27,338; High school graduate or equivalent; Non-Hispanic White; 76.9
+2;1990; NY; Kings; Brooklyn; 2,230,937; United States; Sales and office occupations; $32,702; Some college, but no degree; African American or Black; 72.4
+3;1980; PA; Philadelphia; Philadelphia; 1,688,210; Italy; Production, craft, and repair occupations; $21,262; High school graduate or equivalent; White, not of Hispanic origin; 71.3
+4;1970; OH; Cuyahoga; Cleveland; 876,050; Germany; Operative and fabricator occupations; $16,401; Less than high school diploma; White, not of Hispanic origin; 68.5
+5;1960; IL; Cook; Chicago; 3,550,404; Poland; Laborers (excluding farm, mine, and construction); $9,561; Some high school; White, not of Hispanic origin; 68.7
+6;1950; MA; Suffolk; Boston; 801,444; Ireland; Machine operators and inspectors; $5,469; Less than eighth grade; White, not of Hispanic origin; 67.1
+7;1940; MI; Wayne; Detroit; 1,623,452; Canada; Farming, forestry, and fishing occupations; $1,385; Illiterate; White, not of Hispanic origin; 64.0
+8;1930; IN; Marion; Indianapolis; 315,194; Russia; Service workers (excluding private household); $1,002; Illiterate; White, not of Hispanic origin; 61.5
+9;1920; MO; St. Louis; St. Louis; 774,013; Austria-Hungary; Clerical and kindred workers; $1,235; Illiterate; White, not of Hispanic origin; 58.9</s>

@@ -1,0 +1,11 @@
+;SociologistProfile; StudyYear; ResearchLocation; FundingSource; Collaboration; DataSharing; ResearchBias; PeerReviewStatus; MediaCoverage; IndustryImpact; OpenResearch; TeachingExperience; SupervisionExperience
+0;  Sarah Jacobs; 2018; University of California, Berkeley; National Science Foundation; Yes; Open data; Minimal; Accepted; The New York Times; Increased understanding of social issues; Yes; 15 years; 10 years
+1; David Kim; 2020; Seoul National University; Korean Research Foundation; No; Restricted data; Moderate; Under review; The Korea Herald; Improved public policy; No; 10 years; 5 years
+2; Emily Wong; 2019; University of Hong Kong; Hong Kong Research Grants Council; Yes; Open data; Low; Accepted; South China Morning Post; Enhanced community development; Yes; 8 years; 7 years
+3; Carlos Alvarez; 2021; University of Mexico; Mexican National Council of Science and Technology; Yes; Open data; Minimal; Accepted; El Universal; Informed decision-making; Yes; 12 years; 9 years
+4; Lea Nguyen; 2017; Hanoi National University; Vietnamese Academy of Social Sciences; No; Restricted data; Moderate; Under review; Vietnam News; Reduced inequality; No; 18 years; 15 years
+5; James Park; 2020; University of Tokyo; Japan Society for the Promotion of Science; Yes; Open data; Low; Accepted; The Asahi Shimbun; Advocated social change; Yes; 7 years; 4 years
+6; Olivia Chen; 2019; Tsinghua University; National Natural Science Foundation of China; No; Restricted data; Minimal; Accepted; People's Daily; Improved education; No; 9 years; 6 years
+7; Fatima Ahmed; 2018; Cairo University; Egyptian Academy of Scientific Research and Technology; Yes; Open data; Moderate; Under review; Al-Ahram; Increased cultural awareness; Yes; 11 years; 8 years
+8; Raul Garcia; 2017; University of Sao Paulo; The State of Sao Paulo Research Foundation; Yes; Open data; Low; Accepted; Folha de S.Paulo; Reduced crime rates; Yes; 14 years; 12 years
+9; Priya Patel; 2020; Delhi University; Indian Council of Social Science Research; No; Restricted data; Moderate; Under review; The Times of India; Enhanced healthcare access; No; 6 years; 3 years</s>

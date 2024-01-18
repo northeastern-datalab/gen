@@ -1,0 +1,23 @@
+;"\
+Chef Name";"\
+Estimated Cost Per Meal";"\
+Seasonality";"\
+Caloric Content";"\
+Taste Rating";"\
+Dish Presentation Score";"\
+Allergen Free";"\
+Sustainability Source";"\
+Would Make Again";"\
+Last Updated";"\
+Cultural Notes";"\
+Special Occasion"
+0; Gary Smith; $25; Summer; 600 calories; 4.5/5; 4.7/5; Yes; Local farmers market; Yes; 2022-06-12; Light and refreshing; No 
+1;Jacqueline Wilson; $30; Autumn; 800 calories; 4.8/5; 4.8/5; Yes; Organic grocery store; Yes; 2022-06-13; Rich and comforting; No 
+2;Henry Jones; $35; Winter; 1200 calories; 4.2/5; 4.5/5; Yes; Whole Foods; Yes; 2022-06-14; Hearty and warming; No 
+3;Pamela Johnson; $20; Spring; 500 calories; 4.9/5; 4.9/5; Yes; Trader Joe's; Yes; 2022-06-15; Light and fresh; No 
+4;Daniel Kim; $40; Any; 1000 calories; 5/5; 5/5; No; High-end grocery store; Yes; 2022-06-16; Elegant and decadent; No 
+5;Kimberly Lewis; $22; Summer; 700 calories; 4.6/5; 4.7/5; Yes; Farmers market; Yes; 2022-06-17; Bright and flavorful; No 
+6;Thomas Thompson; $32; Autumn; 900 calories; 4.7/5; 4.6/5; Yes; CSA box; Yes; 2022-06-18; Savory and hearty; No 
+7;Evelyn Davis; $18; Winter; 1100 calories; 4.3/5; 4.4/5; Yes; Costco; Yes; 2022-06-19; Robust and comforting; No 
+8;Stephanie Brown; $28; Spring; 600 calories; 4.8/5; 4.7/5; Yes; Asian grocery store; Yes; 2022-06-20; Light and aromatic; No 
+9;Michael Taylor; $45; Any; 1300 calories; 5/5; 5/5; No; Specialty food store; Yes; 2022-06-21; Exquisite and indulgent; No.</s>

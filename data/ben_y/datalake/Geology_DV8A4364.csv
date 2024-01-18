@@ -1,0 +1,11 @@
+;Rock Type; Mineral Composition; Age (Million Years); Formation Location; Stratigraphic Position; Subsurface Conditions; Hydrological Properties; Mechanical Properties; Weathering Grade; Fossil Content; Depositional Environment; Rock Chemistry; Geologic Structure; Tectonic Setting; Metamorphic Grade.
+0; Granite; Quartz, Feldspar, Mica; 375; Mountain Ranges; Intrusive; Varied; High porosity, Low permeability; Strong; Slow; Rare; Volcanic; Silicic; Dome; Extensional; Low grade
+1;Shale; Clay, Quartz, Calcite; 350; Ocean Basins; Deep; Anoxic; Low porosity, Low permeability; Weak; Slow; None; Deep marine; Calcareous; Laminated; Compressional; Low grade
+2;Sandstone; Quartz, Feldspar, Mica; 250; Deserts, Beaches; Intermediate; Moderate; Moderate porosity, Moderate permeability; Strong; Slow; Rare; Fluvial, Eolian; Silicic; Stratified; Compressional; Low grade
+3;Limestone; Calcite, Dolomite; 200; Tropical Platforms; Shallow; Saturated; High porosity, High permeability; Moderate; Slow; Fossil rich; Platform; Calcareous; Bedded; Stable; Low grade
+4;Gneiss; Quartz, Feldspar, Mica; 1500; Ancient Continents; High grade metamorphic; Dense; Low porosity, Low permeability; Strong; Slow; None; Unknown; Silicic; Foliated; Continental; High grade
+5;Schist; Mica, Quartz, Feldspar; 500; Mountain Belts; Medium grade metamorphic; Dense; Low porosity, Low permeability; Moderate; Slow; Rare; Sheared; Silicic; Schistose; Orogenic; Medium grade
+6;Basalt; Pyroxene, Olivine, Plagioclase; 20; Ocean Ridges, Oceanic Plateaus; Extrusive; Dense; Low porosity, High permeability; Strong; Fast; Rare; Volcanic; Mafic; Pillow; Divergent; Low grade
+7;Conglomerate; Variable (Granite, Schist, etc.); 50; Mountain Belts, River floodplains; Intermediate; High; High porosity, High permeability; Strong; Slow; Rare; Fluvial; Varied; Clast-supported; Compressional; Low grade
+8;Marble; Calcite, Dolomite; 500; Mountain Belts; High grade metamorphic; Dense; Low porosity, Low permeability; Moderate; Slow; None; Marble belt; Calcareous; Massive; Orogenic; High grade
+9;Chalk; Calcite; 100; Platforms; Shallow; Saturated; High porosity, High permeability; Weak; Slow; Fossil rich; Platform; Calcareous; Porous; Stable; Low grade</s>

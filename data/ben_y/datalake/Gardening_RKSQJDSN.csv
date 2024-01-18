@@ -1,0 +1,11 @@
+;QuantityPurchased ; TotalCost ; SupplierDetails； OriginCountry;\ botanicalFamily ; colorVariety ; averageMatureHeight ; floweringSeason ; maintenanceTips ; idealSoilDepth ; wildlifeAttractor ; FertilizerRecommendations ; DateofLastWater
+0; 5; $34.95; Green Garden Supply, Atlanta, GA, USA; USA; Compositae; Yellow; 3ft; Spring; Deadhead flowers to promote more blooms; 1ft; Bees, Butterflies; Use a balanced fertilizer every 6 weeks  2022-04-01
+1;12; $74.50; Earth's Delight, Los Angeles, CA, USA; Mexico; Liliaceae; Orange; 4ft; Summer; Provide support for the stalks; 1.5ft; Hummingbirds; Use a high-phosphorus fertilizer for blooming  2022-04-05
+2;20; $115.00; The Flora Depot, New York, NY, USA; Netherlands; Orchidaceae; White; 6ft; Fall; Keep the soil moist, not soggy; 2ft; None; Use a specific orchid fertilizer  2022-04-03
+3;6; $24.50; Sunflower Shack, Kansas City, MO, USA; USA; Asteraceae; Yellow; 5ft; Late Summer; Plant in full sun; 1ft; Bees, Birds; Use a general-purpose fertilizer  2022-04-02
+4;8; $39.99; Roses R Us, Dallas, TX, USA; France; Rosaceae; Red; 3ft; Spring; Prune for bushiness; 1.5ft; Butterflies, Bees; Use a rose-specific fertilizer  2022-04-04
+5;3; $12.50; Marigold Mania, Miami, FL, USA; India; Asteraceae; Orange; 1ft; Summer; Pinch back to encourage bushiness; 0.5ft; None; Use a general-purpose fertilizer  2022-04-06
+6;10; $45.00; Tulip Time, Chicago, IL, USA; Bulgaria; Liliaceae; Red; 2ft; Spring; Plant bulbs deep; 6in; Bees; Use a bulb fertilizer  2022-04-01
+7;7; $29.99; Carnation Castle, Philadelphia, PA, USA; Colombia; Caryophyllaceae; Pink; 2ft; Spring; Pinch back young flowers for bigger blooms; 1ft; Butterflies, Bees; Use a general-purpose fertilizer  2022-04-02
+8;15; $62.50; Lavender Lane, Phoenix, AZ, USA; France; Lamiaceae; Purple; 3ft; Summer; Prune after flowering; 1ft; Bees, Butterflies; Use a specific lavender fertilizer  2022-04-03
+9;9; $44.95; Hydrangea Haven, Seattle, WA, USA; Japan; Hydrangeaceae; Blue; 5ft; Summer; Prune in late winter; 2ft; Butterflies; Use an acidic fertilizer for blue blooms  2022-04-04</s>

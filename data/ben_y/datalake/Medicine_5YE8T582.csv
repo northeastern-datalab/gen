@@ -1,0 +1,21 @@
+;"\
+Alternative Medicine Condition";"\
+Treating Specialist";"\
+Recommended Herbal Supplement";"\
+Dose and Instructions";"\
+Expiration Date";"\
+Prescription Charge";"\
+Additional Instructions from Pharmacists";"\
+Patient Insurance ID";"\
+Total Cost of Treatment";"\
+Union Key"
+0;  Herbal Medicine; Naturopathic Doctor; St. John's Wort; 300mg, twice daily; 06/2024; $25; Avoid sun exposure, monitor side effects; 123456789; $50; Hypericum perforatum - HERB001
+1; Acupuncture; Licensed Acupuncturist; No herbal supplement; N/A; 09/2023; $35; Rest following treatment, avoid caffeine; 987654321; $35; ACU002
+2; Aromatherapy; Certified Aromatherapist; Lavender Essential Oil; 5 drops, three times daily; 12/2022; $10; Use with a diffuser, avoid eye contact; 456123789; $10; LAV003
+3; Ayurvedic Medicine; Ayurvedic Practitioner; Ashwagandha; 500mg, once daily; 03/2025; $15; Monitor blood sugar, take with food; 234987612; $30; ASH004
+4; Chiropractic Care; Doctor of Chiropractic; No herbal supplement; N/A; 05/2024; $60; Regular follow-ups, maintain good posture; 765432189; $60; CHI005
+5; Homeopathy; Classical Homeopath; Arnica Montana; 30C, four times daily; 07/2023; $10; Avoid coffee, mint, and camphor; 890123456; $10; ARN006
+6; Hypnotherapy; Certified Hypnotherapist; No herbal supplement; N/A; 11/2024; $75; Practice relaxation techniques, attend sessions; 654890123; $75; HYP007
+7; Reflexology; Certified Reflexologist; No herbal supplement; N/A; 04/2023; $40; Drink water, expect soreness; 321654987; $40; REF008
+8; Traditional Chinese Medicine; TCM Practitioner; Ginger; 500mg, three times daily; 10/2023; $12; Monitor digestion, take with food; 987321098; $12; GIN009
+9; Naturopathy; Naturopathic Doctor; Turmeric; 500mg, twice daily; 01/2025; $20; Monitor inflammation, take with black pepper; 567980123; $40; TUR010</s>

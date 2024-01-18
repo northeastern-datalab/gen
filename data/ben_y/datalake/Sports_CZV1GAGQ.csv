@@ -1,0 +1,11 @@
+;TeamName; TeamID; CoachName; AverageAgeOfPlayers; HeightVariance; WeightVariance; DraftPicksHistory; DomesticPlayersRatio; InternationalPlayersRatio; TrainingFacilitiesRating; SocialMediaFollowersCount; RecentSponsorshipDeals; TotalTeamValue; NumberOfMinorAchievements; NumberOfMajorAchievements.
+0; Boston Ballers; BB-001; Jamie Brown; 25.3; 4.3; 22.5; 2015, 2017, 2019 (1st round); 0.75; 0.25; Excellent; 5M; Nike, Gatorade; $300M; 6; 3
+1;New York Nets; NY-002; Rebecca Carter; 27.1; 3.8; 25.1; 2016, 2018 (1st, 2nd round); 0.85; 0.15; Good; 3M; Under Armour, Powerade; $220M; 4; 2
+2;Los Angeles Lights; LA-003; Carlos Martinez; 24.5; 5.1; 20.6; 2014, 2017, 2020 (1st round); 0.65; 0.35; Very Good; 7M; Adidas, Red Bull; $400M; 7; 4
+3;Chicago Blues; CH-004; Susan Johnson; 26.4; 4.7; 23.4; 2015, 2018 (2nd round); 0.9; 0.1; Excellent; 6M; Nike, Gatorade; $280M; 5; 3
+4;Philadelphia Flyers; PH-005; Eric Thompson; 25.9; 3.9; 21.8; 2016, 2019 (1st round); 0.7; 0.3; Good; 4M; Under Armour, Powerade; $250M; 3; 1
+5;Miami Waves; MI-006; Jennifer Davis; 24.8; 5.2; 20.9; 2017, 2020 (1st, 2nd round); 0.6; 0.4; Very Good; 5M; Adidas, Red Bull; $350M; 6; 3
+6;Detroit Dragons; DT-007; Matthew Walker; 26.1; 4.5; 23.1; 2014, 2018 (1st round); 0.85; 0.15; Excellent; 6M; Nike, Gatorade; $320M; 5; 3
+7;Seattle Surfers; SE-008; Nicole Miller; 25.6; 4.1; 22.3; 2015, 2019 (2nd round); 0.7; 0.3; Good; 5M; Under Armour, Powerade; $270M; 3; 1
+8;Atlanta Avengers; AT-009; Brian Taylor; 24.6; 5.5; 21.2; 2016, 2020 (1st round); 0.55; 0.45; Very Good; 7M; Adidas, Red Bull; $450M; 8; 5
+9;Phoenix Pumas; PH-010; Laura White; 27.8; 3.6; 24.8; 2014, 2018 (1st, 2nd round); 0.95; 0.05; Excellent; 4M; Nike, Gatorade; $290M; 6; 3</s>

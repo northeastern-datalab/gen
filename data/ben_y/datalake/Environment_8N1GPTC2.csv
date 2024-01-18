@@ -1,0 +1,111 @@
+;Renewable\_Energy\_Contribution;Recycling\_Rate;Energy\_Efficiency\_Index;Waste\_Generation\_per\_Capita;Carbon\_Emissions\_per\_Capita;Number\_of\_Green\_Spaces;Species\_Protection\_Laws;Climate\_Change\_Vulnerability\_Index;Public\_Transportation\_Usage;Sustainable\_Agriculture\_Practices
+0; 5%; 60%; 85; 0.5 kg/day; 10 tonnes/year; 12; Yes, strong laws; 0.65; 45%; 90% organic farming
+1;6%; 70%; 78; 0.7 kg/day; 12 tonnes/year; 8; Moderate laws, needs improvement; 0.75; 30%; 60% sustainable practices
+2;10%; 85%; 92; 0.4 kg/day; 8 tonnes/year; 25; Strong laws, consistently enforced; 0.55; 60%; 80% permaculture
+3;12%; 65%; 65; 0.8 kg/day; 15 tonnes/year; 5; Weak laws, needs reform; 0.85; 15%; 30% biodynamic farming
+4;4%; 90%; 88; 0.3 kg/day; 7 tonnes/year; 30; Strong laws, consistently enforced; 0.5; 50%; 70% sustainable practices
+5;7%; 75%; 80; 0.6 kg/day; 11 tonnes/year; 10; Moderate laws, some enforcement; 0.6; 35%; 50% organic farming
+6;9%; 55%; 70; 0.9 kg/day; 14 tonnes/year; 7; Weak laws, needs reform; 0.9; 20%; 40% biodynamic farming
+7;5%; 80%; 90; 0.45 kg/day; 9 tonnes/year; 15; Strong laws, inconsistently enforced; 0.58; 40%; 85% sustainable practices
+8;11%; 60%; 72; 0.75 kg/day; 13 tonnes/year; 6; Moderate laws, needs improvement; 0.72; 25%; 60% organic farming
+9;8%; 78%; 84; 0.55 kg/day; 10 tonnes/year; 9; Strong laws, consistently enforced; 0.62; 45%; 90% permaculture</s>
+10;12%; 85%; 88; 0.40 kg/day; 8 tonnes/year; 20; Strong laws, consistently enforced; 0.55; 55%; 80% agroforestry
+11;15%; 70%; 92; 0.60 kg/day; 12 tonnes/year; 12; Moderate laws, needs improvement; 0.76; 30%; 70% sustainable intensification
+12;10%; 75%; 86; 0.50 kg/day; 9 tonnes/year; 18; Strong laws, consistently enforced; 0.65; 48%; 88% biodynamic agriculture
+13;13%; 82%; 89; 0.42 kg/day; 7 tonnes/year; 16; Strong laws, inconsistently enforced; 0.52; 52%; 95% wildlife-friendly farming
+14;14%; 65%; 77; 0.78 kg/day; 14 tonnes/year; 7; Moderate laws, needs improvement; 0.81; 28%; 65% regenerative agriculture
+15;16%; 90%; 95; 0.35 kg/day; 6 tonnes/year; 25; Strong laws, consistently enforced; 0.49; 60%; 75% conservation agriculture
+16;9%; 73%; 82; 0.62 kg/day; 11 tonnes/year; 10; Strong laws, inconsistently enforced; 0.68; 42%; 82% ecological farming
+17;17%; 77%; 87; 0.48 kg/day; 8 tonnes/year; 14; Strong laws, consistently enforced; 0.57; 57%; 95% holistic management
+18;18%; 88%; 93; 0.38 kg/day; 7 tonnes/year; 22; Moderate laws, needs improvement; 0.50; 58%; 80% natural farming
+19;19%; 68%; 75; 0.80 kg/day; 15 tonnes/year; 8; Strong laws, inconsistently enforced; 0.84; 35%; 70% organic farming</s>
+20; 20%; 92%; 97; 0.25 kg/day; 6 tonnes/year; 30; Robust laws and enforcement; 0.42; 65%; 98% permaculture
+21;16%; 84%; 89; 0.52 kg/day; 9 tonnes/year; 16; Strict laws but enforcement lacking; 0.61; 42%; 85% biodynamic farming
+22;15%; 73%; 79; 0.63 kg/day; 11 tonnes/year; 12; Weak laws, rarely enforced; 0.75; 28%; 60% sustainable farming
+23;21%; 95%; 96; 0.18 kg/day; 5 tonnes/year; 35; Rigorous laws, consistently enforced; 0.38; 70%; 99% agroecology
+24;14%; 65%; 72; 0.92 kg/day; 17 tonnes/year; 6; Poor laws, sporadically enforced; 0.96; 22%; 55% conventional farming
+25;22%; 98%; 99; 0.12 kg/day; 4 tonnes/year; 40; Extensive laws and strict enforcement; 0.26; 75%; 90% regenerative farming
+26;13%; 60%; 66; 1.05 kg/day; 20 tonnes/year; 4; Minimal laws, rarely enforced; 1.20; 15%; 40% monoculture
+27;23%; 99%; 99; 0.10 kg/day; 3 tonnes/year; 45; Comprehensive laws and strong enforcement; 0.19; 82%; 90% sustainable pastoralism
+28;12%; 55%; 63; 1.20 kg/day; 22 tonnes/year; 2; Limited laws, weakly enforced; 1.35; 10%; 35% factory farming
+29;17%; 85%; 88; 0.42 kg/day; 7 tonnes/year; 20; Robust laws, improving enforcement; 0.55; 60%; 90% ecological farming</s>
+30;25%; 90%; 92; 0.25 kg/day; 5 tonnes/year; 50; Strict laws and strict enforcement; 0.32; 70%; 80% organic farming
+31;10%; 70%; 75; 1.03 kg/day; 18 tonnes/year; 10; Limited laws, poorly enforced; 1.17; 15%; 25% industrial farming
+32;20%; 80%; 85; 0.55 kg/day; 8 tonnes/year; 30; Comprehensive laws, somewhat enforced; 0.65; 55%; 70% sustainable farming
+33;15%; 95%; 96; 0.15 kg/day; 4 tonnes/year; 60; Strict laws and strict enforcement; 0.23; 85%; 95% permaculture
+34;18%; 65%; 70; 0.90 kg/day; 15 tonnes/year; 15; Limited laws, poorly enforced; 1.41; 20%; 45% intensive farming
+35;13%; 98%; 98; 0.08 kg/day; 2 tonnes/year; 70; Comprehensive laws, strictly enforced; 0.12; 90%; 98% biodynamic farming
+36;19%; 82%; 84; 0.38 kg/day; 6 tonnes/year; 25; Robust laws, improving enforcement; 0.47; 65%; 85% sustainable livestock farming
+37;11%; 75%; 80; 0.75 kg/day; 12 tonnes/year; 20; Comprehensive laws, somewhat enforced; 0.98; 35%; 55% extensive farming
+38;21%; 93%; 94; 0.18 kg/day; 3 tonnes/year; 55; Strict laws and strict enforcement; 0.21; 75%; 85% urban farming
+39;16%; 92%; 93; 0.12 kg/day; 3 tonnes/year; 40; Robust laws, strictly enforced; 0.17; 95%; 90% agroecology.</s>
+40;25%; 88%; 91; 0.35 kg/day; 5 tonnes/year; 35; Comprehensive laws, fairly enforced; 0.56; 65%; 70% organic farming
+41;18%; 95%; 96; 0.10 kg/day; 2 tonnes/year; 60; Strict laws and strict enforcement; 0.10; 80%; 88% permaculture
+42;22%; 65%; 70; 0.90 kg/day; 15 tonnes/year; 10; Comprehensive laws, somewhat enforced; 0.78; 25%; 30% extensive farming
+43;19%; 82%; 85; 0.22 kg/day; 4 tonnes/year; 45; Robust laws, strictly enforced; 0.34; 70%; 75% urban farming
+44;28%; 97%; 98; 0.05 kg/day; 1 tonnes/year; 70; Strict laws and strict enforcement; 0.08; 90%; 95% agroecology
+45;13%; 78%; 81; 1.05 kg/day; 18 tonnes/year; 15; Comprehensive laws, somewhat enforced; 0.89; 20%; 25% extensive farming
+46;24%; 85%; 87; 0.30 kg/day; 6 tonnes/year; 50; Robust laws, strictly enforced; 0.45; 60%; 65% organic farming
+47;17%; 96%; 97; 0.08 kg/day; 1.5 tonnes/year; 65; Comprehensive laws, fairly enforced; 0.15; 85%; 90% permaculture
+48;27%; 72%; 74; 1.15 kg/day; 20 tonnes/year; 5; Comprehensive laws, somewhat enforced; 0.92; 10%; 15% extensive farming
+49;20%; 89%; 91; 0.15 kg/day; 3 tonnes/year; 30; Robust laws, strictly enforced; 0.25; 55%; 60% urban farming</s>
+50; 25%; 93%; 95; 0.20 kg/day; 4.5 tonnes/year; 80; Comprehensive laws, very well enforced; 0.30; 70%; 75% organic farming
+51;18%; 85%; 87; 0.10 kg/day; 2.2 tonnes/year; 45; Strong laws, generally enforced; 0.22; 60%; 65% agroforestry
+52;30%; 68%; 70; 1.30 kg/day; 24 tonnes/year; 35; Basic laws, unevenly enforced; 0.85; 15%; 20% monoculture
+53;15%; 95%; 96; 0.05 kg/day; 1.2 tonnes/year; 70; Highly comprehensive laws, well enforced; 0.18; 80%; 85% biodynamic farming
+54;23%; 78%; 80; 0.85 kg/day; 18 tonnes/year; 55; Decent laws, selectively enforced; 0.65; 25%; 30% mixed farming
+55;35%; 62%; 64; 1.60 kg/day; 32 tonnes/year; 25; Limited laws, poorly enforced; 1.05; 5%; 10% conventional farming
+56;10%; 97%; 98; 0.03 kg/day; 0.8 tonnes/year; 100; Extensive laws, very strictly enforced; 0.10; 90%; 95% community-supported agriculture
+57;40%; 58%; 60; 2.00 kg/day; 40 tonnes/year; 15; Negligible laws, rarely enforced; 1.30; 2%; 5% genetically modified farming
+58;28%; 80%; 82; 0.35 kg/day; 5.5 tonnes/year; 60; Developing laws, progressively enforced; 0.45; 35%; 40% sustainable intensification
+59;13%; 92%; 93; 0.12 kg/day; 1.7 tonnes/year; 90; Strict laws, fully enforced; 0.28; 75%; 80% regenerative agriculture</s>
+60;65%; 62%; 70; 1.50 kg/day; 25 tonnes/year; 35; Laws exist but not enforced; 0.95; 28%; 35% agroecology
+61;32%; 85%; 88; 0.40 kg/day; 7.5 tonnes/year; 55; Emerging laws, selectively enforced; 0.60; 42%; 50% organic farming
+62;50%; 70%; 75; 1.20 kg/day; 18 tonnes/year; 40; Laws in progress, unevenly enforced; 1.05; 30%; 60% conservation agriculture
+63;70%; 55%; 65; 2.25 kg/day; 32 tonnes/year; 20; Limited laws, partially enforced; 1.45; 18%; 25% integrated farming
+64;15%; 95%; 96; 0.15 kg/day; 2.3 tonnes/year; 85; Rigorous laws, consistently enforced; 0.35; 70%; 85% biodynamic agriculture
+65;45%; 66%; 72; 1.75 kg/day; 28 tonnes/year; 30; Modest laws, occasionally enforced; 1.20; 25%; 40% permaculture
+66;80%; 45%; 50; 2.75 kg/day; 45 tonnes/year; 10; Few laws, rarely enforced; 1.65; 10%; 15% holistic management
+67;30%; 90%; 91; 0.25 kg/day; 3.8 tonnes/year; 70; Robust laws, strictly enforced; 0.50; 65%; 75% no-till farming
+68;60%; 75%; 80; 1.90 kg/day; 30 tonnes/year; 25; Expanding laws, diligently enforced; 1.10; 22%; 55% cover cropping
+69;10%; 97%; 98; 0.10 kg/day; 1.2 tonnes/year; 95; Extensive laws, unwaveringly enforced; 0.22; 78%; 90% sustainable pasture management</s>
+70;55%; 85%; 88; 0.30 kg/day; 4.2 tonnes/year; 50; Comprehensive laws, rigorously enforced; 0.45; 50%; 60% organic farming
+71;25%; 95%; 96; 0.15 kg/day; 2.1 tonnes/year; 80; Strict laws, consistently upheld; 0.28; 82%; 85% permaculture practices
+72;70%; 70%; 74; 2.10 kg/day; 28 tonnes/year; 30; Robust laws, actively implemented; 1.50; 35%; 60% crop rotation
+73;15%; 93%; 94; 0.12 kg/day; 1.6 tonnes/year; 90; Extensive laws, uniformly obeyed; 0.25; 70%; 95% agroforestry
+74;40%; 80%; 83; 1.10 kg/day; 12 tonnes/year; 45; Expansive laws, strictly adhered to; 0.80; 45%; 70% biodynamic farming
+75;65%; 60%; 64; 2.30 kg/day; 33 tonnes/year; 20; Robust laws, unfailingly observed; 1.30; 28%; 55% sustainable aquaculture
+76;35%; 92%; 93; 0.20 kg/day; 2.5 tonnes/year; 65; Comprehensive laws, regularly enforced; 0.35; 68%; 80% integrated pest management
+77;50%; 72%; 76; 1.70 kg/day; 24 tonnes/year; 35; Extensive laws, consistently implemented; 0.75; 42%; 65% holistic management
+78;20%; 96%; 97; 0.05 kg/day; 0.8 tonnes/year; 100; Robust laws, unwaveringly upheld; 0.15; 85%; 90% conservation agriculture
+79;75%; 65%; 69; 2.70 kg/day; 36 tonnes/year; 15; Expansive laws, strictly obeyed; 1.70; 25%; 50% regenerative agriculture</s>
+80;45%; 80%; 85; 1.30 kg/day; 18 tonnes/year; 60; Comprehensive laws, diligently enforced; 0.55; 60%; 70% permaculture
+81;65%; 55%; 62; 2.40 kg/day; 21 tonnes/year; 20; Wide-ranging laws, vigilantly observed; 1.25; 30%; 45% agroecology
+82;35%; 70%; 73; 2.00 kg/day; 30 tonnes/year; 40; Substantial laws, rigorously implemented; 1.50; 45%; 60% biodynamic agriculture
+83;85%; 35%; 78; 0.80 kg/day; 12 tonnes/year; 55; Extensive laws, systematically observed; 0.60; 70%; 80% organic farming
+84;55%; 60%; 67; 2.20 kg/day; 27 tonnes/year; 30; Broad laws, stringently enforced; 1.00; 50%; 55% sustainable pasture management
+85;70%; 50%; 68; 2.50 kg/day; 33 tonnes/year; 25; Comprehensive laws, strictly adhered to; 1.65; 35%; 40% conservation tillage
+86;90%; 20%; 82; 0.40 kg/day; 4 tonnes/year; 80; Robust laws, persistently upheld; 0.25; 90%; 95% no-till farming
+87;25%; 85%; 89; 1.10 kg/day; 15 tonnes/year; 70; Expansive laws, consistently obeyed; 0.45; 75%; 85% cover cropping
+88;10%; 90%; 92; 0.15 kg/day; 2 tonnes/year; 95; Extensive laws, rigorously enforced; 0.10; 95%; 97% integrated crop-livestock management
+89;60%; 45%; 64; 2.80 kg/day; 39 tonnes/year; 18; Wide-ranging laws, conscientiously implemented; 1.85; 25%; 35% alley cropping.</s>
+90;55%; 70%; 78; 1.75 kg/day; 12 tonnes/year; 55; Comprehensive laws, frequently monitored; 0.67; 60%; 60% permaculture
+91;30%; 55%; 69; 1.40 kg/day; 22 tonnes/year; 42; Robust laws, regularly updated; 1.30; 40%; 50% agroforestry
+92;80%; 88%; 91; 0.70 kg/day; 7 tonnes/year; 100; Rigorous laws, strictly enforced; 0.35; 80%; 70% organic farming
+93;45%; 60%; 73; 2.30 kg/day; 28 tonnes/year; 34; Detailed laws, carefully managed; 1.65; 30%; 40% sustainable forestry
+94;70%; 75%; 85; 1.25 kg/day; 18 tonnes/year; 63; Stringent laws, thoroughly checked; 0.95; 65%; 68% biodynamic farming
+95;20%; 40%; 54; 2.00 kg/day; 25 tonnes/year; 22; Careful laws, considerately implemented; 1.55; 22%; 30% pasture cropping
+96;65%; 50%; 71; 2.60 kg/day; 35 tonnes/year; 28; Thoughtful laws, respectfully followed; 2.10; 30%; 45% silvopasture
+97;90%; 95%; 96; 0.10 kg/day; 1 tonnes/year; 105; Strict laws, accurately observed; 0.05; 92%; 93% biointensive agriculture
+98;15%; 35%; 47; 3.10 kg/day; 32 tonnes/year; 12; Fair laws, decently enforced; 2.40; 15%; 20% conservation agriculture
+99;50%; 80%; 87; 0.90 kg/day; 9 tonnes/year; 80; Harmonious laws, inclusively practiced; 0.55; 70%; 75% regenerative agriculture</s>
+100;85%; 75%; 82; 1.30 kg/day; 12 tonnes/year; 60; Robust laws, actively promoted; 0.75; 60%; 65% agroforestry practices
+101;70%; 60%; 75; 1.50 kg/day; 15 tonnes/year; 50; Comprehensive laws, systematically implemented; 0.85; 50%; 55% permaculture
+102;60%; 50%; 70; 1.90 kg/day; 18 tonnes/year; 35; Effective laws, regularly monitored; 1.00; 40%; 45% organic farming
+103;55%; 45%; 65; 2.00 kg/day; 21 tonnes/year; 30; Reasonable laws, fairly applied; 1.20; 35%; 40% biodynamic agriculture
+104;45%; 30%; 60; 2.30 kg/day; 24 tonnes/year; 25; Limited laws, selectively reinforced; 1.45; 30%; 33% sustainable pasture management
+105;40%; 20%; 55; 2.60 kg/day; 27 tonnes/year; 20; Minimal laws, weakly enforced; 1.65; 25%; 27% integrated crop-livestock management
+106;30%; 10%; 50; 3.00 kg/day; 30 tonnes/year; 15; Lax laws, poorly applied; 1.90; 20%; 25% conservation tillage
+107;25%; 5%; 40; 3.50 kg/day; 35 tonnes/year; 10; Weak laws, rarely enforced; 2.20; 15%; 18% no-till farming
+108;20%; 0%; 30; 4.00 kg/day; 40 tonnes/year; 5; Negligible laws, ineffectively enforced; 2.50; 10%; 15% conventional agriculture
+109;10%; 0%; 20; 4.50 kg/day; 45 tonnes/year; 0; Token laws, blatantly disregarded; 2.80; 5%; 10% extensive livestock management</s>

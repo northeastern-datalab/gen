@@ -1,0 +1,111 @@
+;Rock Type; Mineral Composition; Age (Million Years); Formation Location; Stratigraphic Position; Subsurface Conditions; Hydrological Properties; Mechanical Properties; Weathering Grade; Fossil Content; Depositional Environment
+0;  Igneous; Feldspar, Quartz, Mica; 250; Oceanic Ridges; Intrusive; Hot, Solidified; Poor; Brittle, Strong; Low; None; Volcanic
+1; Sedimentary; Calcite, Quartz, Clay; 120; River Delta; Upper; Porous, Water-Saturated; Permeable; Soft, Weak; Moderate; Fossil Impressions, Shells; Shallow Marine
+2; Metamorphic; Garnet, Mica, Feldspar; 350; Subduction Zone; Near Surface; Dense, Foliated; Impermeable; Sturdy, Fracturable; Moderate; Mineral Veins; High-Pressure, High-Temperature
+3; Sedimentary; Limestone, Dolomite, Quartz; 540; Platform Carbonate; Middle; Vugs, Fissures; Slightly Permeable; Moderately Hard, Easily Crushed; High; Fossil Corals, Brachiopods; Tropical Shelf
+4; Igneous; Pyroxene, Olivine, Plagioclase; 1000; Mid-Ocean Ridges; Extrusive; Cooled Lava; Impermeable; Hard, Fragile; Low; None; Underwater, Hydrothermal Vents
+5; Metamorphic; Biotite, Muscovite, Hornblende; 420; Collision Zone; Deep; Schistose, Well-Layered; Low Permeability; High Strength, Prone to Cleavage; Low; Foliated Plant Fossils; Mountain Belts
+6; Sedimentary; Shale, Quartz, Clay; 400; Basin, Deep Marine; Bottom; Tightly Packed, Low Porosity; Low Permeability; Soft, Friable; Low; Trace Fossils, Burrows; Deep Ocean
+7; Igneous; Gabbro, Pyroxene, Plagioclase; 1100; Oceanic Crust; Intrusive; Coarse-Grained, Rare Vugs; Low Permeability; Strong, Rigid; Low; Basalt Fragments; Slow Cooling, Ocean Floor
+8; Metamorphic; Staurolite, Quartz, Muscovite; 480; Continental Crust; High-Pressure; Gneissose, Banded; Impermeable; Extremely Hard, Brittle; Low; Distorted Fossils; Roots of Mountain Chains
+9; Sedimentary; Conglomerate, Quartz, Feldspar; 65; Alluvial Fan; Base; Interlocked, Large Pores; Permeable; Hard, Abrasive; Low; Pebble, Cobble, Boulder; Rapid Deposition, Near Shore</s>
+10;  Sedimentary; Shale, Clay, Silt; 200; Delta; Top; Laminated, Tiny Pores; Low Permeability; Soft, Friable; Low; Trace Fossils; Calm, Deep Water
+11; Igneous; Granite, Quartz, Feldspar; 1200; Continental Crust; Intrusive; Phaneritic, Jointed; Low Permeability; Strong, Rigid; Low; Rare Fossils; Slow Cooling, Magma Chamber
+12; Metamorphic; Gneiss, Quartz, Biotite; 630; Mountain Belt; High-Pressure; Banded, Coarse-Grained; Impermeable; Hard, Brittle; Low; Distorted Fossils; Subduction Zone
+13; Sedimentary; Coal, Organic Matter; 320; Swamp; Top; Layered, Poorly Consolidated; Low Permeability; Weak, Friable; High; Plant Debris; Stagnant, Low-Oxygen
+14; Igneous; Basalt, Pyroxene, Olivine; 20; Oceanic Crust; Extrusive; Fine-Grained, Aphantic; High Permeability; Strong, Rigid; Low; Volcanic Rock Fragments; Rapid Cooling, Ocean Floor
+15; Metamorphic; Schist, Mica, Quartz; 400; Mountain Belt; Medium-Pressure; Foliated, Medium-Grained; Low Permeability; Moderately Hard, Brittle; Low; Distorted Fossils; Metamorphic Event
+16; Sedimentary; Limestone, Calcite, Dolomite; 240; Shallow Marine; Middle; Massive, Fossiliferous; Moderate Permeability; Moderately Hard, Soluble; High; Abundant Fossils; Calcium Carbonate Precipitation
+17; Igneous; Andesite, Plagioclase, Pyroxene; 60; Island Arc; Intrusive; Phaneritic, Jointed; Low Permeability; Strong, Rigid; Low; Rare Fossils; Volcanic Arc Formation
+18; Metamorphic; Marble, Calcite, Dolomite; 500; Mountain Belt; High-Temperature; Massive, Recrystallized; Low Permeability; Hard, Brittle; Low; Distorted Fossils; Contact Metamorphism
+19; Sedimentary; Sandstone, Quartz, Feldspar; 350; Desert; Base; Cross-Bedded, Moderate-Size Pores; Permeable; Hard, Abrasive; Low; Sand Grains; Eolian Deposition</s>
+20;  Igneous; Basalt, Pyroxene, Olivine; 120; Ocean Floor; Extrusive; Aphantic, Fine-Grained; Very Low Permeability; Strong, Rigid; Low; No Fossils; Mid-Ocean Ridge
+21; Metamorphic; Schist, Mica, Quartz; 400; Mountain Belt; High-Pressure; Foliated, Medium-Grained; Low Permeability; Weak, Brittle; Low; Distorted Fossils; Regional Metamorphism
+22; Sedimentary; Shale, Clay, Silt; 400; River Delta; Top; Laminated, Tightly Packed; Low Permeability; Soft, Easily Eroded; Low; Fossil Fragments; Fresh Water Swamp
+23; Igneous; Gabbro, Pyroxene, Plagioclase; 100; Ocean Floor; Intrusive; Phaneritic, Coarse-Grained; Low Permeability; Strong, Rigid; Low; Rare Fossils; Diking
+24; Metamorphic; Gneiss, Quartz, Feldspar; 600; Mountain Belt; High-Grade; Banded, Coarse-Grained; Low Permeability; Strong, Brittle; Low; Distorted Fossils; Multiple Metamorphic Events
+25; Sedimentary; Coal, Plant Debris; 300; Swamp; Top; Layered, Dense; Low Permeability; Soft, Fragile; Low; Fossil Plants; Peat Swamp
+26; Igneous; Diorite, Plagioclase, Hornblende; 150; Island Arc; Intrusive; Phaneritic, Medium-Grained; Low Permeability; Strong, Rigid; Low; Rare Fossils; Island Arc Formation
+27; Metamorphic; Slate, Mica, Quartz; 450; Mountain Belt; Low-Grade; Foliated, Fine-Grained; Low Permeability; Weak, Brittle; Low; Distorted Fossils; Slaty Cleavage
+28; Sedimentary; Limestone, Calcite, Aragonite; 250; Shelf; Top; Layered, Contains Fossils; Moderate Permeability; Soft, Soluble; Low; Abundant Fossils; Marine Carbonate Deposition
+29; Igneous; Peridotite, Olivine, Pyroxene; 2000; Ocean Floor; Deep-Seated; Massive, Ultramafic; Extremely Low Permeability; Strong, Rigid; Low; No Fossils; Upper Mantle Rocks</s>
+30;  Igneous; Granite, Quartz, Feldspar; 1200; Continental Crust; Deep-Seated; Phaneritic, Coarse-Grained; Low Permeability; Strong, Rigid; Low; No Fossils; Intrusive Plutonic Rocks
+31; Sedimentary; Shale, Clay, Quartz; 300; Delta; Bottom; Laminated, Contains Fossils; Low Permeability; Soft, Friable; Low; Abundant Fossils; Deltaic Depositional Environment
+32; Metamorphic; Schist, Mica, Quartz; 500; Mountain Belt; Medium-Grade; Foliated, Medium-Grained; Low Permeability; Moderately Weak, Brittle; Low; Distorted Fossils; Schistosity
+33; Sedimentary; Sandstone, Quartz, Feldspar; 400; Beach; Top; Well-Sort, Cross-Bedded; Moderate Permeability; Hard, Durable; Low; Few Fossils; Aeolian, Fluvial Depositional Environment
+34; Igneous; Basalt, Pyroxene, Plagioclase; 100; Oceanic Crust; Deep-Seated; Phaneritic, Medium-Grained; Low Permeability; Strong, Rigid; Low; No Fossils; Intrusive Plutonic Rocks
+35; Metamorphic; Gneiss, Quartz, Feldspar; 800; Mountain Belt; High-Grade; Layered, Coarse-Grained; Low Permeability; Strong, Brittle; Low; Rare Distorted Fossils; Gneissosity
+36; Sedimentary; Coal, Carbon; 350; Swamp; Top; Layered, Contains Plant Fossils; Very Low Permeability; Weak, Friable; Low; Abundant Plant Fossils; Peat Depositional Environment
+37; Igneous; Gabbro, Pyroxene, Plagioclase; 1500; Oceanic Crust; Deep-Seated; Phaneritic, Coarse-Grained; Low Permeability; Strong, Rigid; Low; No Fossils; Intrusive Plutonic Rocks
+38; Sedimentary; Conglomerate, Rounded Clasts; 600; River; Top; Clast-Supported, Poorly-Sort; High Permeability; Strong, Durable; Low; Few Fossils; Fluvial Depositional Environment
+39; Metamorphic; Marble, Calcite, Dolomite; 500; Mountain Belt; High-Grade; Recrystallized, Coarse-Grained; Low Permeability; Weak, Brittle; Low; Distorted Fossils; Marble Bedding Planes</s>
+40; Igneous; Granite, Quartz, Feldspar; 1200; Continental Crust; Deep-Seated; Phaneritic, Coarse-Grained; Low Permeability; Strong, Rigid; Low; No Fossils; Intrusive Plutonic Rocks
+41; Sedimentary; Shale, Silt, Clay; 400; Ocean; Bottom; Laminated, Silt-Sized Particles; Low Permeability; Weak, Flexible; High; Abundant Fossils; Deep Marine Depositional Environment
+42; Metamorphic; Schist, Mica, Quartz, Feldspar; 450; Subduction Zone; Medium-Grade; Foliated, Medium-Grained; Low Permeability; Moderately Strong, Brittle; Low; Deformed Fossils; Schistosity
+43; Igneous; Basalt, Pyroxene, Plagioclase; 100; Oceanic Crust; Deep-Seated; Aphantic, Fine-Grained; Moderate Permeability; Strong, Rigid; Low; No Fossils; Extrusive Volcanic Rocks
+44; Sedimentary; Sandstone, Quartz, Feldspar; 350; Coastal Environment; Top; Well-Sort, Moderate-Sized Particles; High Permeability; Strong, Durable; Low; Few Fossils; Beach Depositional Environment
+45; Metamorphic; Gneiss, Quartz, Feldspar, Mica; 650; Mountain Belt; High-Grade; Banded, Coarse-Grained; Low Permeability; Strong, Brittle; Low; Distorted Fossils; Gneissic Layering
+46; Igneous; Andesite, Plagioclase, Pyroxene; 25; Volcanic Arc; Intermediate-Seated; Phaneritic, Medium-Grained; Low Permeability; Strong, Rigid; Low; Rare Fossils; Volcanic Arc Environment
+47; Sedimentary; Coal, Organic Matter; 320; Swamp; Top; Layered; Very Low Permeability; Weak, Brittle; High; Abundant Plant Fossils; Sedimentary Organic Deposits
+48; Metamorphic; Slate, Clay Minerals; 420; Mountain Belt; Low-Grade; Slaty Cleavage; Low Permeability; Weak, Brittle; Very Low; Distorted Fossils; Slate Formation
+49; Igneous; Diorite, Plagioclase, Hornblende; 280; Oceanic Crust; Deep-Seated; Phaneritic, Medium-Grained; Low Permeability; Strong, Rigid; Low; Rare Fossils; Intrusive Plutonic Rocks</s>
+50;  Sedimentary; Limestone, Calcite; 440; Shallow Marine; Platform; Layered; Low Permeability; Moderately Strong, Brittle; Low; Fossiliferous; Carbonate Shelf
+51; Metamorphic; Schist, Mica, Quartz; 360; Mountain Belt; Medium-Grade; Slaty Cleavage; Moderately Low Permeability; Moderately Strong; Low; Deformed Fossils; Schistosity
+52; Igneous; Basalt, Pyroxene, Olivine; 150; Oceanic Crust; Deep-Seated; Aphanitic, Fine-Grained; Very Low Permeability; Very Strong, Rigid; Rare; None; Mid-Ocean Ridge
+53; Sedimentary; Sandstone, Quartz, Feldspar; 500; Beach; Beach Ridge; Cross-Bedding; High Permeability; Moderately Strong, Brittle; Low; Rare Fossils; Aeolian Deposits
+54; Metamorphic; Gneiss, Feldspar, Quartz, Mica; 600; Collisional Zone; High-Grade; Gneissic Banding; Low Permeability; Strong, Rigid; Very Low; Rare Distorted Fossils; Gneiss Formation
+55; Igneous; Gabbro, Pyroxene, Plagioclase; 800; Oceanic Crust; Deep-Seated; Phaneritic, Medium-Grained; Low Permeability; Strong, Rigid; None; None; Ocean Floor Magmatism
+56; Sedimentary; Shale, Clay Minerals; 780; Deltaic; Topset Beds; Layered; Very Low Permeability; Weak, Brittle; Very Low; Abundant Microfossils; Shale Deposits
+57; Metamorphic; Marble, Calcite; 500; Subduction Zone; High-Grade; Massive; Very Low Permeability; Strong, Brittle; Low; Deformed Fossils; Marble Formation
+58; Igneous; Andesite, Plagioclase, Pyroxene; 100; Volcanic Arc; Shallow; Phaneritic, Medium-Grained; Low Permeability; Strong, Rigid; Rare Fossils; Volcanic Arc Magmatism;
+59; Sedimentary; Conglomerate, Rock Fragments; 220; River Channel; Top; Layered; Medium Permeability; Strong, Brittle; Low; Rare Trace Fossils; Fluvial Channel</s>
+60;  Sedimentary; Shale, Clay; 350; Delta; Middle; Layered, Low Porosity; High Clay Content; Moderate, Brittle; Low; Abundant Trace Fossils; Deltaic Depositional Environment
+61; Igneous; Basalt, Pyroxene, Olivine; 175; Mid-Ocean Ridge; Deep; Aphanitic, Fine-Grained; Very Low Permeability; Strong, Rigid; No Fossils; Mid-Ocean Ridge Spreading;
+62; Metamorphic; Schist, Mica, Quartz; 420; Collision Zone; Medium-Grade; Foliated; Low Permeability; Moderate, Ductile; Deformed Fossils; Regional Metamorphism;
+63; Sedimentary; Coal, Plant Debris; 310; Swamp; Top; Layered, High Organic Content; Low Porosity; Weak, Brittle; Low; Fossilized Plants; Swamp Depositional Environment
+64; Igneous; Gabbro, Pyroxene, Olivine; 195; Oceanic Plate Boundary; Deep; Phaneritic, Medium-Grained; Low Permeability; Strong, Rigid; No Fossils; Oceanic Plate Boundary Magmatism;
+65; Metamorphic; Gneiss, Feldspar, Quartz; 600; Mountain Building; High-Grade; Banded; Low Permeability; Highly Ductile; Deformed Fossils; Granulite Facies Metamorphism;
+66; Sedimentary; Limestone, Calcite; 280; Shallow Marine; Top; Layered; Medium Permeability; Moderate, Brittle; Abundant Fossils; Carbonate Platform;
+67; Igneous; Granite, Quartz, Feldspar; 900; Continental Margin; Deep; Phaneritic, Coarse-Grained; Low Permeability; Strong, Rigid; Rare Fossils; Plutonic Magmatism;
+68; Metamorphic; Phyllite, Mica, Quartz; 480; Subduction Zone; Low-Grade; Foliated; Low Permeability; Moderate, Ductile; Deformed Fossils; Low-Grade Regional Metamorphism;
+69; Sedimentary; Sandstone, Quartz; 440; Desert; Top; Layered; High Permeability; Strong, Brittle; Rare Trace Fossils; Eolian Depositional Environment</s>;
+70;  Igneous; Basalt, Pyroxene, Olivine; 120; Oceanic Spreading Center; Deep; Aphanitic, Fine-Grained; Very Low Permeability; No Fossils; Volcanic Magmatism;;
+71; Metamorphic; Schist, Mica, Feldspar; 380; Collisional Orogeny; Medium-Grade; Foliated; Low Permeability; Moderate, Ductile; Deformed Fossils; Dynamic Metamorphism;
+72; Sedimentary; Shale, Clay, Silt; 530; Delta; Layered; Low Permeability; Soft, Friable; Common Microfossils; Lacustrine Depositional Environment;;
+73; Igneous; Gabbro, Pyroxene, Plagioclase; 1000; Oceanic Plate; Deep; Phaneritic, Coarse-Grained; Low Permeability; Rare Fossils; Intrusive Magmatism;;
+74; Metamorphic; Gneiss, Feldspar, Quartz; 1500; Mountain Belt; High-Grade; Gneissic; Very Low Permeability; Rare Deformed Fossils; Contact Metamorphism;;
+75; Sedimentary; Limestone, Calcite; 270; Shallow Platform; Top; Layered; Moderate Permeability; Soluble, Brittle; Abundant Fossils; Platform Carbonate Depositional Environment;
+76; Igneous; Diorite, Amphibole, Plagioclase; 800; Oceanic Plate; Deep; Phaneritic, Medium-Grained; Low Permeability; Rare Fossils; Intrusive Magmatism;;
+77; Metamorphic; Slate, Mica, Chlorite; 400; Continental Margin; Low-Grade; Foliated; Low Permeability; No Fossils; Hydrothermal Metamorphism;;
+78; Sedimentary; Conglomerate, Rock Fragments; 30; Alluvial Fan; Top; Unlayered; Low Permeability; Strong, Brittle; Rare Trace Fossils; Fluvial Depositional Environment;
+79; Igneous; Andesite, Plagioclase, Pyroxene; 60; Volcanic Arc; Deep; Phaneritic, Medium-Grained; Low Permeability; Rare Fossils; Volcanic Magmatism;</s>;
+80;  Sedimentary; Coal, Carbon, Sulfur; 350; Delta; Top; Layered; Can Be Compressed Easily; Fossil Content High; Swamp Depositional Environment;;
+81; Metamorphic; Schist, Quartz, Muscovite; 500; Subduction Zone; Medium-Grade; Foliated; Moderate Permeability; No Fossils; Metamorphic Differentiation;;
+82; Igneous; Rhyolite, Quartz, Sanidine; 5; Volcanic Plateau; Shallow; Aphanitic, Fine-Grained; Low Permeability; No Fossils; Igneous Cooling;;
+83; Sedimentary; Limestone, Calcite, Dolomite; 250; Shallow Marine; Top; Massive; Moderate Permeability; Fossil Content High; Carbonate Depositional Environment;;
+84; Metamorphic; Gneiss, Feldspar, Quartz; 700; Mountain Building; High-Grade; Non-Foliated; Low Permeability; Rare Metamorphic Minerals; High-Grade Metamorphism;;
+85; Igneous; Basalt, Pyroxene, Plagioclase; 150; Ocean Ridge; Deep; Phaneritic, Medium-Grained; Low Permeability; No Fossils; Mid-Ocean Ridge Eruptions;;
+86; Sedimentary; Shale, Clay, Silt; 450; Deep Sea; Top; Laminated; Low Permeability; Can Contain Trace Fossils; Deep Marine Depositional Environment;;
+87; Metamorphic; Marble, Calcite, Dolomite; 500; Contact Metamorphism; High-Grade; Non-Foliated; Low Permeability; Fossil Content Low; Thermal Metamorphism;;
+88; Igneous; Gabbro, Pyroxene, Plagioclase; 120; Ocean Floor; Deep; Phaneritic, Coarse-Grained; Low Permeability; No Fossils; Slow Cooling;;
+89; Sedimentary; Sandstone, Quartz, Feldspar; 320; Beach; Top; Cross-Bedded; Moderate Permeability; Rare Trace Fossils; Coastal Depositional Environment.</s>;;
+90;  Sedimentary; Coal, Organic Material; 300; Swamp; Top; Laminated; Very Low Permeability; No Fossils; Swamp Depositional Environment;;
+91; Igneous; Basalt, Pyroxene, Plagioclase; 50; Ocean Floor; Deep; Aphantic, Fine-Grained; Low Fossil Content; Mid-Ocean Ridge Eruption;;;
+92; Metamorphic; Schist, Mica, Quartz, Feldspar; 400; Subduction Zone; Medium-Grade; Foliated; Low Permeability; Metamorphic Facies; Yes, Index Fossils;;
+93; Sedimentary; Shale, Clay, Silt, Quartz; 600; Ocean Floor; Deep; Massive; Low Permeability; No Fossils; Deep Marine Depositional Environment;;
+94; Igneous; Granite, Quartz, Feldspar, Mica; 1000; Continental Crust; Low-Grade; Phaneritic, Coarse-Grained; Low Permeability; No Fossils; Intrusion;;
+95; Metamorphic; Gneiss, Feldspar, Quartz, Mica; 800; Mountain Building; High-Grade; Foliated; Low Permeability; Few Fossils; Regional Metamorphism;;
+96; Sedimentary; Limestone, Calcite, Aragonite; 250; Shallow Marine; Top; Massive; Moderate Permeability; Yes, Fossils; Shallow Marine Depositional Environment;;
+97; Igneous; Peridotite, Olivine, Pyroxene; 2000; Upper Mantle; Deep; Ultramafic, Coarse-Grained; No Fossils; Ultramafic Magmatism;;;
+98; Metamorphic; Slate, Clay, Mica; 450; Mountain Building; Low-Grade; Foliated; Low Permeability; No Fossils; Low-Grade Metamorphism;;
+99; Sedimentary; Conglomerate, Granite, Quartz; 500; River; Top; Clast-supported; High Permeability; Rare Trace Fossils; Fluvial Depositional Environment.</s>;;
+100;  Igneous; Gabbro, Pyroxene, Plagioclase; 1500; Oceanic Crust; Deep; Mafic, Medium-Grained; No Fossils; Intrusive Igneous;;;
+101; Metamorphic; Schist, Mica, Quartz; 400; Subduction Zone; Medium-Grade; Foliated; Low Permeability; No Fossils; High-Grade Metamorphism;*;
+102; Sedimentary; Coal, Organic Material; 300; Swamp; Top; Fine-Grained; Low Permeability; No Fossils; Coalification;*;
+103; Igneous; Basalt, Pyroxene, Plagioclase; 100; Ocean Floor; Deep; Mafic, Fine-Grained; No Fossils; Seafloor Spreading;;;
+104; Metamorphic; Gneiss, Feldspar, Quartz; 2000; Mountain Building; High-Grade; Non-Foliated; Low Permeability; No Fossils; Granulite Facies;*;
+105; Sedimentary; Sandstone, Quartz, Feldspar; 800; Desert; Top; Clast-supported; Medium Permeability; No Fossils; Eolian Depositional Environment;*;
+106; Igneous; Andesite, Plagioclase, Pyroxene; 20; Volcanic Arc; Intermediate; Phaneritic; No Fossils; Volcanic Arc;*;;
+107; Metamorphic; Marble, Calcite; 500; Mountain Building; High-Grade; Non-Foliated; Low Permeability; No Fossils; Contact Metamorphism;*;
+108; Sedimentary; Limestone, Calcite, Dolomite; 350; Shallow Marine; Top; Mudstone; Low Permeability; Fossiliferous; Carbonate Depositional Environment;*;
+109; Igneous; Granite, Quartz, Feldspar; 1200; Continental Crust; Deep; Phaneritic; No Fossils; Plutonism;*;;

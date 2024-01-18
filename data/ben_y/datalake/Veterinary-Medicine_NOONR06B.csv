@@ -1,0 +1,11 @@
+;Advanced Analytics Results; Admission Date ;Discharge Date; Animal Type; Breed; Age; Gender; Symptoms; Treatment Duration; Cost
+0;" ""Data Analysis Completed"; 2022-03-01; 2022-03-05; Dog; Labrador; 3 years; Female; Limping, Loss of Appetite; 4 days;" $500"""
+1;"""Data Analysis Completed"; 2022-02-15; 2022-02-20; Cat; Domestic Shorthair; 2 years; Male; Vomiting, Dehydration; 5 days;" $600"""
+2;"""Data Analysis Completed"; 2022-02-01; 2022-02-03; Bird; Parakeet; 1 year; Female; Difficulty Breathing; 2 days;" $300"""
+3;"""Data Analysis Completed"; 2022-01-10; 2022-01-15; Horse; Thoroughbred; 5 years; Male; Lameness, Fever; 7 days;" $1200"""
+4;"""Data Analysis Completed"; 2022-03-10; 2022-03-12; Dog; Beagle; 4 years; Female; Skin Irritation, Itching; 3 days;" $400"""
+5;"""Data Analysis Completed"; 2022-02-25; 2022-02-27; Cat; Siamese; 8 months; Male; Eye Infection, Sneezing; 2 days;" $250"""
+6;"""Data Analysis Completed"; 2022-01-20; 2022-01-23; Dog; German Shepherd; 7 years; Female; Arthritis, Pain; 5 days;" $700"""
+7;"""Data Analysis Completed"; 2022-03-15; 2022-03-17; Bird; Canary; 6 months; Female; Weight Loss, Lethargy; 3 days;" $350"""
+8;"""Data Analysis Completed"; 2022-02-05; 2022-02-08; Horse; Quarter Horse; 3 years; Male; Diarrhea, Weakness; 6 days;" $1000"""
+9;"""Data Analysis Completed"; 2022-01-25; 2022-01-28; Dog; Bulldog; 2 years; Male; Ear Infection, Hearing Loss; 4 days;" $550""</s>"

@@ -1,0 +1,11 @@
+;`Planet Name; Primary Star Name; Primary Star Type; Primary Right Ascension; Primary Declination; Orbital Period; Orbit Size(AU); Satellite Count; Atmosphere; Rings; Magnetic Field`
+0; Jupiter; Sun; G2V; 05h 32m 32.1s;" +22° 00' 48.0"" "; 11.86 years ; 5.20 ; 79 ; Hydrogen, Helium, Methane, Water, Ammonia ; Yes ; Strong
+1;Saturn; Sun; G2V; 13h 39m 53.5s;" +06° 44' 49.0"" "; 29.46 years ; 9.58 ; 82 ; Hydrogen, Helium ; Yes ; Strong
+2;Earth; Sun; G2V; 13h 22m 44.4s;" +09° 26' 51.0"" "; 1.00 years ; 1.00 ; 1 ; Nitrogen, Oxygen, Argon, Carbon Dioxide ; No ; Weak
+3;Mars; Sun; G2V; 02h 25m 44.4s;" +15° 11' 04.0"" "; 1.88 years ; 1.52 ; 2 ; Carbon Dioxide, Nitrogen, Argon ; No ; Weak
+4;Venus; Sun; G2V; 13h 16m 45.8s;" +00° 31' 45.0"" "; 0.62 years ; 0.72 ; 0 ; Carbon Dioxide, Nitrogen ; No ; Weak
+5;Uranus; Sun; G2V; 04h 51m 26.4s;" -15° 11' 48.0"" "; 84.02 years ; 19.18 ; 27 ; Hydrogen, Helium, Methane ; Yes ; Weak
+6;Pluto; Sun; G2V; 15h 22m 59.2s;" +02° 07' 16.0"" "; 248.54 years ; 39.53 ; 5 ; Nitrogen, Methane, Carbon Monoxide ; No ; Weak
+7;Neptune; Sun; G2V; 20h 49m 07.0s;" -14° 48' 02.0"" "; 164.79 years ; 30.07 ; 14 ; Hydrogen, Helium, Methane ; Yes ; Strong
+8;Ceres; Dwarf Planet; C; 08h 56m 17.9s;" +07° 09' 17.7"" "; 4.60 years ; 2.77 ; 0 ; Water, Ammonia, Carbon Dioxide ; No ; Negligible
+9;Erida; Dwarf Planet; P; 16h 27m 02.1s;" +45° 58' 51.0"" "; >500 years ; ~44 ; 0 ; Unknown ; No ; Negligible</s>

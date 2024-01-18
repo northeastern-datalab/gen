@@ -1,0 +1,11 @@
+;TeamName;League;GameDate;PlayerName;PlayerID;MatchID;Sport;MinutesPlayed;FieldGoalPercentage;ThreePointFieldGoalPercentage;FreeThrowPercentage;TotalPoints;ReboundType;StealType;TurnoverType
+0;Boston Celtics;NBA;2023-03-02;Jayson Tatum;123456;1;Basketball;32;0.556;0.444;0.889;35;Offensive Rebound;Steal: Clean;Turnover: Traveling
+1;Golden State Warriors;NBA;2023-03-02;Stephen Curry;654321;1;Basketball;36;0.500;0.556;0.900;32;Defensive Rebound;Steal: Pickpocket;Turnover: Pass
+2;Los Angeles Lakers;NBA;2023-03-01;LeBron James;987654;2;Basketball;40;0.476;0.333;0.750;29;Offensive Rebound;Steal: Strip;Turnover: Offensive Foul
+3;Philadelphia 76ers;NBA;2023-03-01;Joel Embiid;345678;2;Basketball;34;0.611;0.000;0.750;25;Defensive Rebound;Steal: None;Turnover: Shot Clock Violation
+4;Brooklyn Nets;NBA;2023-02-28;Kevin Durant;234567;3;Basketball;38;0.556;0.400;0.800;34;Offensive Rebound;Steal: Finger Roll;Turnover: Backcourt Violation
+5;Milwaukee Bucks;NBA;2023-02-28;Giannis Antetokounmpo;765432;3;Basketball;42;0.647;0.500;0.625;30;Defensive Rebound;Steal: Swipe;Turnover: Double Dribble
+6;Los Angeles Clippers;NBA;2023-02-27;Kawhi Leonard;567890;4;Basketball;39;0.483;0.429;0.750;36;Offensive Rebound;Steal: Block;Turnover: Out of Bounds
+7;Phoenix Suns;NBA;2023-02-27;Devin Booker;901234;4;Basketball;36;0.524;0.500;0.889;33;Defensive Rebound;Steal: Intercept;Turnover: Palming
+8;Dallas Mavericks;NBA;2023-02-26;Luka Doncic;543210;5;Basketball;41;0.444;0.333;0.800;39;Offensive Rebound;Steal: None;Turnover: Five Second Violation
+9;Miami Heat;NBA;2023-02-26;Jimmy Butler;876543;5;Basketball;44;0.471;0.364;0.818;40;Defensive Rebound;Steal: Tip;Turnover: Three Second Violation</s>

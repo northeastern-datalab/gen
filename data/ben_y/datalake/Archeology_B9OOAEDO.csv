@@ -1,0 +1,11 @@
+;ExcavationDate; FieldDirector; SurveyMethod; LabAnalysisBy; ChemicalTests; RadiocarbonDating; GeologicalAnalysis; Archaeobotany; Zooarchaeology; Photogrammetry; ConservationStatus
+0;2022-05-01; John Smith; Total Station; Emily Johnson; Acid Base Titration, ICP-MS; Yes; Sediment Core Analysis; Plant Macrofossil Analysis; Faunal Remains Analysis; Drones; Undergoing Treatment
+1;1998-08-15; Sarah Adams; Magnetic Gradiometer; Michael Brown; Flame Photometry, CHN Analyzer; No; Soil Profile Description; Charred Plant Remains; Vertebrate and Invertebrate Fossils; 3D Laser Scanning; Stable but Monitored
+2;2005-03-30; David Lee; Ground Penetrating Radar; Jessica Davis; Atomic Absorption Spectroscopy; Yes; Stratigraphic Logging; Pollen and Seeds; Bone and Shell Identification; Photogrammetric Mapping; On Display
+3;1987-09-20; Thomas Clark; Resistivity Meter; Rebecca Thompson; UV-Vis Spectrophotometry; No; Hearth Delineation; Phytolith Analysis; Fish and Mammal Bones; Aerial Image Analysis; Lost and Abandoned
+4;2010-11-12; Laura Garcia; Electromagnetic Induction; Daniel Walker; GC-MS; Yes; Soil Pit Excavation; Diatoms and Starch; Avian and Reptile Remains; Structured Light Scanning; In Storage
+5;2002-07-04; James Hall; Metal Detector; Amy Jones; ICP-OES; Yes; Test Pit Digging; Charcoal and Wood Analysis; Small Mammal and Bird Bones; Terrestrial LiDAR; Displayed in Museum
+6;1995-06-06; Karen Taylor; Hand-drawn Maps; Brian Kim; AAS; No; Site Surface Collection; Macroscopic Soil Analysis; Amphibian and Insect Remains; Close-range Photogrammetry; Destroyed by Construction
+7;2015-02-28; Timothy White; Proton Magnetometer; Patricia Lewis; IC; Yes; Subsurface Probing; Fossil Pollen and Spores; Fish and Mollusk Remains; Photogrammetric Modeling; Preserved in Archive
+8;1985-10-10; Susan Green; Compass and Pacing; Gary Garcia; NA; No; Shovel Test Excavation; Seeds and Leaves; Reptile and Amphibian Remains; Aerial Photogrammetry; Stored Away
+9;1979-04-15; Richard Harris; Grid System; Linda Lewis; AA; Yes; Auger Probing; Microscopic Soil Analysis; Rodent and Insect Remains; Ground-based Photogrammetry; Donated to University.</s>

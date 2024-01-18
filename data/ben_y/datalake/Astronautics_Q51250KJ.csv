@@ -1,0 +1,11 @@
+;MISSION_ID; Mission_Name; Start_Date; Duration_Days; Spacecraft_Used; Primary_Objective; Astronomer_On_Board; Orbits_Achieved; Payloads_Deployed; Reusable; First_Stage_Return; Crew_Count; Spaceflight_Program; Starship_Type; Additional_Info_1
+0; 101; Apollo 11; 1969-07-16; 19; Apollo Lunar Module, Apollo Command Module; Land the first two humans on the Moon; Buzz Aldrin; 30; Lunar Module, Flag, Other Equipment; No; No; 3; Apollo; Lunar Lander, Moon Walk;
+1;102; Soyuz T-15; 1986-03-13; 125; Soyuz T-15; Mir Expedition and visiting Salyut 7 space stations; Aleksandr Viktorenko; 2169; N/A; Yes; Yes; 2; Soviet Union's Intercosmos; Soyuz T; Experimentation and servicing 
+2;103; Space Shuttle Discovery STS-41; 1990-10-06; 4; Space Shuttle Discovery; Deploy the Ulysses probe to study the Sun; Richard Covey; 64; Ulysses, N/A; Yes; Yes; 5; Space Shuttle; Orbiter, Scientific Research;
+3;104; Shenzhou 7; 2008-09-25; 68; Shenzhou 7; First Chinese three-person space mission; Zhai Zhigang; 129; N/A; Yes; Yes; 3; Shenzhou; Spacecraft, Spacewalk;
+4;105; Space Shuttle Columbia STS-61-A; 1985-10-30; 8; Space Shuttle Columbia; Deploy the German-led Spacelab D1 module; Henry Hartsfield; 112; Spacelab D1, N/A; Yes; Yes; 7; Space Shuttle; Orbiter, Scientific Research;
+5;106; Mir EO-18; 1998-08-13; 203; Soyuz TM-26; Mir Expedition and visiting Spektr module; Anatoly Solovyev; 3296; N/A; Yes; Yes; 2; Soviet Union's Intercosmos; Soyuz TM; Experimentation and servicing 
+6;107; Apollo-Soyuz Test Project; 1975-07-15; 9; Apollo Command Module, Soyuz 19; First joint space mission by the US and Soviet Union; Thomas Stafford; 85; N/A; No; No; 3; Apollo-Soyuz; Test Project;
+7;108; Space Shuttle Atlantis STS-37; 1991-04-05; 5; Space Shuttle Atlantis; Deploy the Compton Gamma Ray Observatory; Steven Nagel; 80; Compton Gamma Ray Observatory, N/A; Yes; Yes; 5; Space Shuttle; Orbiter, Scientific Research;
+8;109; STS-51-F Spacelab 2; 1985-07-29; 8; Space Shuttle Challenger; Conduct life science and materials processing experiments in a pressurized laboratory; Gordon Fullerton; 127; Spacelab 2, N/A; Yes; Yes; 7; Space Shuttle; Orbiter, Scientific Research;
+9;110; Soyuz TMA-4; 2004-04-19; 195; Soyuz TMA-4; ISS Expedition 9, visiting Zvezda module and Spacehab; Gennady Padalka; 2816; N/A; Yes; Yes; 2; Soviet Union's Intercosmos; Soyuz TMA; Station servicing </s>

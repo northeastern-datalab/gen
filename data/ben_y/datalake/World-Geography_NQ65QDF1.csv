@@ -1,0 +1,81 @@
+;Island Nation; Island Area (km2); Coastline Length (km); Number Of Islands; Underwater Volcanoes; Closest Continent; Average Temperature (°C); Precipitation (mm); Dominant Marine Life; Famous Coral Reef System; Highest Elevation (m); Population
+0; Iceland; 103,000; 4,970; 1; 130; Europe; 4.4; 1,220; North Atlantic cod; None; 2,104 (Hvannadalshnúkur); 364,000
+1;Japan; 377,975; 29,751; 6,852; 109; Asia; 12.6; 1,700; Sea bass; None; 3,776 (Fuji); 126,800,000
+2;Indonesia; 1,919,440; 54,716; 17,508; 76; Asia; 26.1; 2,830; Clownfish; Raja Ampat; 5,030 (Puncak Jaya); 270,600,000
+3;Philippines; 300,000; 36,289; 7,107; 53; Asia; 26.6; 2,565; Clownfish; Tubbataha; 2,954 (Mount Apo); 109,580,000
+4;New Zealand; 268,800; 15,134; 778; 11; Australia; 10.7; 1,465; Blue maomao; Poor Knights Islands; 3,754 (Mount Cook); 4,882,000
+5;United Kingdom; 242,495; 19,492; 1; 30; Europe; 8.9; 885; Atlantic cod; None; 1,345 (Ben Nevis); 67,886,000
+6;Ireland; 84,421; 3,171; 1; 50; Europe; 9.6; 1,200; Atlantic salmon; None; 1,038 (Carrauntoohil); 4,937,000
+7;Cuba; 110,860; 3,735; 1; 27; North America; 24.1; 1,300; Snapper; Gardens of the Queen; 2,005 (Pico Turquino); 11,423,000
+8;Hawaii (USA); 16,633; 1,227; 137; 5; North America; 19.9; 1,597; Yellow tang; None; 4,205 (Mauna Kea); 1,455,000
+9;Bahamas; 13,880; 3,542; 700; 4; North America; 24.8; 1,333; Nassau grouper; Andros; 63 (Mount Alvernia); 395,000</s>
+10; Iceland; 103,000; 4,970; 1; 130; Europe; 6.1; 892; Atlantic cod; None; 2,100 (Hvannadalshnjúkur); 364,000
+11;New Zealand; 268,021; 15,134; 2; 11; Australia; 11.3; 1,434; Blue marlin; Poor Knights Islands; 3,754 (Aoraki/Mount Cook); 4,900,000
+12;Japan; 377,973; 29,751; 6,852; 110; Asia; 11.9; 1,746; Yellowfin tuna; Izu-Ogasawara; 3,776 (Fuji); 126,500,000
+13;Philippines; 300,000; 36,289; 7,641; 22; Asia; 25.5; 2,360; Clownfish; Tubbataha Reefs; 2,954 (Mount Apo); 113,172,000
+14;Madagascar; 587,041; 4,828; 1; 6; Africa; 23.1; 1,623; Green sea turtle; None; 2,876 (Maromokotro); 29,100,000
+15;Papua New Guinea; 462,840; 5,152; 6; 16; Australia; 25.3; 3,183; Hammerhead shark; None; 4,509 (Mount Wilhelm); 9,073,000
+16;UK (British Isles); 242,910; 19,492; 5; 30; Europe; 7.9; 1,168; European eel; None; 1,345 (Ben Nevis); 67,886,000
+17;Greenland; 2,175,600; 44,087; 1; 176; North America; -3.8; 432; Polar bear; Northeast Greenland; 3,739 (Gunnbjørn Fjeld); 56,370
+18;Indonesia; 1,910,931; 54,716; 18; 76; Asia; 25.3; 2,795; Manta ray; Raja Ampat; 5,030 (Puncak Jaya); 273,523,615
+19;Ireland; 84,421; 1,448; 1; 6; Europe; 10.3; 1,192; Harbor seal; Skellig; 1,038 (Carrauntoohil); 5,015,000</s>
+20; Iceland; 103,000; 4,970; 1; 130; Europe; 4.4; 1,198; Atlantic puffin; N/A; 2,110 (Hvannadalshnjúkur); 364,134
+21;Philippines; 300,000; 36,289; 7,641; 53; Asia; 26.6; 2,360; Whale shark; Tubbataha; 2,954 (Mount Apo); 113,178,072
+22;United Kingdom; 242,495; 12,429; 1; 27; Europe; 8.9; 885; Atlantic bottlenose dolphin; The Great Barrier Reef; 1,345 (Scafell Pike); 67,886,011
+23;Japan; 377,975; 29,751; 6,852; 110; Asia; 13.1; 1,689; Clownfish; Ogasawara; 3,776 (Mount Fuji); 126,475,664
+24;Papua New Guinea; 462,840; 5,152; 600; 11; Australia; 26.7; 3,083; Saltwater crocodile; The Coral Triangle; 4,509 (Mount Wilhelm); 9,020,100
+25;New Zealand; 270,534; 15,134; 1; 14; Australia; 11.7; 1,142; Little blue penguin; Great Barrier Reef; 3,754 (Aoraki/Mount Cook); 4,994,324
+26;Madagascar; 587,041; 4,828; 1; 0; Africa; 24.2; 1,621; Aye-aye; N/A; 2,876 (Maromokotra); 29,176,349
+27;Canada; 9,984,670; 202,080; 2; 27; North America; -0.8; 1,160; Beluga whale; N/A; 5,959 (Mount Logan); 38,005,238
+28;Bahamas; 13,880; 3,542; 700; 1; North America; 23.5; 1,295; White-spotted eagle ray; Andros Barrier Reef; 63 (Mount Alvernia); 395,348
+29;Borneo; 748,168; 4,670; 1; 11; Asia; 26.9; 3,140; Bornean orangutan; Coral Triangle; 4,101 (Mount Kinabalu); 23,184,500</s>
+30; Iceland; 103,000; 4,970; 1; 13; Europe; 3.9; 1,212; Atlantic puffin; N/A; 2,109.6 (Hvannadalshnjúkur); 364,410
+31;Cuba; 110,860; 3,735; 1; 0; North America; 25.5; 1,360; Cuban crocodile; Gardens of the Queen; 2,005 (Pico Turquino); 11,349,867
+32;Svalbard; 62,049; 3,587; 3; 9; Europe; -3.1; 1,160; Polar bears; N/A; 1,717 (Newtontoppen); 2,216
+33;Java; 138,794; 6,020; 1; 6; Asia; 26.5; 3,840; Javan rhinoceros; Coral Triangle; 3,636 (Mount Semeru); 151,225,385
+34;Sri Lanka; 65,610; 1,340; 1; 0; Asia; 27.5; 2,400; Blue whale; N/A; 2,524 (Pidurutalagala); 22,123,100
+35;Greenland; 2,166,086; 44,087; 1; 28; North America; -9.7; 761; Polar bears; N/A; 3,730 (Gunnbjørn Fjeld); 56,370
+36;Madagascar; 587,041; 4,828; 1; 16; Africa; 25.5; 1,620; Lemurs; N/A; 2,876 (Maromokotro); 29,131,300
+37;New Zealand; 267,710; 15,134; 2; 5; Australia; 12.5; 1,490; Kiwis; Poor Knights Islands; 3,754 (Aoraki/Mount Cook); 4,950,680
+38;Baffin Island; 507,451; 11,265; 1; 3; North America; -4.6; 745; Polar bears; N/A; 2,621 (Mount Odin); 11,684
+39;Philippines; 300,000; 36,289; 7,107; 3; Asia; 26.6; 2,540; Whale shark; Tubbataha Reefs; 3,144 (Mount Apo); 101,403,867</s>
+40; Iceland; 103,000; 4,970; 1; 120; Europe; 7.1; 1,211; Atlantic puffins; Þingvellir National Park; 2,110 (Hvannadalshnúkur); 348,580
+41;Cuba; 110,860; 3,735; 1; 5; North America; 25; 1,321; Humpback whale; Gardens of the Queen; 2,005 (Pico Turquino); 11,326,616
+42;Sri Lanka; 65,610; 1,340; 1; 16; Asia; 26.5; 2,369; Blue whale; Great Basses Reef; 2,524 (Pidurutalagala); 21,706,338
+43;Japan; 377,915; 29,751; 6,852; 110; Asia; 15; 1,689; Giant pacific octopus; Izu-Ogasawara Islands; 3,776 (Mount Fuji); 126,168,156
+44;Papua New Guinea; 462,840; 5,152; 6,000; 15; Australia; 26.7; 3,069; Saltwater crocodile; Coral Sea Islands; 4,509 (Mount Wilhelm); 8,542,635
+45;Madagascar; 587,041; 4,828; 1; 5; Africa; 24; 1,724; Aye-aye; Toliara Reefs; 2,876 (Maromokotro); 29,121,638
+46;Svalbard and Jan Mayen; 62,050; 3,587; 2; 2; Europe; -3.4; 977; Polar bears; Nordaust-Svalbard Nature Reserve; 1,717 (Newtontoppen); 2,667
+47;Borneo; 748,168; 4,670; 3; 5; Asia; 26.7; 3,155; Orangutan; Sarawak Coral Reefs; 4,095 (Mount Kinabalu); 21,482,070
+48;Greenland; 2,166,086; 44,087; 1; 75; North America; -9.5; 697; Polar bears; Greenland National Park; 3,738 (Gunnbjørn Fjeld); 55,835
+49;Indonesia; 1,904,569; 54,716; 17,508; 129; Asia; 25.6; 2,465; Manta ray; Raja Ampat Islands; 5,030 (Puncak Jaya); 263,521,122</s>
+50; Iceland; 103,000; 4,970; 1; 30; Europe; 5.6; 800; Atlantic puffin; None; 2,110 (Hvannadalshnjúkur); 339,712
+51;New Zealand; 268,838; 15,134; 2; 11; Australia; 12.5; 1,106; Little blue penguin; None; 3,724 (Aoraki/Mount Cook); 4,793,500
+52;Japan; 377,915; 29,751; 6,852; 110; Asia; 14.9; 1,700; Killer whale; Izu-Ogasawara Islands; 3,776 (Mount Fuji); 126,598,000
+53;Philippines; 300,000; 36,289; 7,641; 23; Asia; 26.5; 2,341; Whale shark; Tubbataha Reefs; 2,954 (Mount Apo); 109,581,000
+54;Great Britain; 242,495; 12,429; 1; 10; Europe; 9.3; 885; Atlantic grey seal; None; 1,343 (Ben Nevis); 67,886,011
+55;Cuba; 110,860; 5,746; 1; 9; North America; 24.4; 1,526; American crocodile; None; 2,005 (Pico Turquino); 11,340,945
+56;Hawaii (USA); 28,311; 1,228; 0; 5; North America; 22.8; 1,452; Hawaiian monk seal; Papahānaumokuākea Marine; 4,205 (Mauna Kea); 1,427,538
+57;Sri Lanka; 65,610; 1,580; 1; 13; Asia; 26.9; 2,501; Blue whale; None; 2,524 (Pidurutalagala); 21,916,000
+58;Madagascar; 587,041; 4,828; 1; 20; Africa; 24.2; 1,924; Fossa; None; 2,876 (Maromokotra); 27,099,990
+59;Bali (Indonesia); 5,780; 621; 1; 7; Asia; 26.4; 2,026; Mola mola; None; 3,031 (Mount Agung); 4,225,000</s>
+60; New Zealand; 268,021; 15,134; 1; 53; Australia; 12.5; 1,451; Southern right whale; Great Barrier Reef; 3,754 (Aoraki/Mount Cook); 4,699,700
+61;Iceland; 103,000; 4,970; 1; 150; Europe; 5.7; 861; Atlantic puffin; None; 2,109.6 (Hvannadalshnúkur); 339,100
+62;Cuba; 110,860; 3,735; 1; 1; North America; 24.8; 1,309; American crocodile; None; 2,005 (Pico Turquino); 11,326,000
+63;Borneo; 743,330; 5,390; 3; 50; Asia; 26.6; 3,588; Orangutan; None; 4,095 (Mount Kinabalu); 20,930,600
+64;Greenland; 2,130,800; 44,087; 1; 179; North America; -9.5; 696; Polar bear; None; 3,738 (Gunnbjørn Fjeld); 56,456
+65;Philippines; 300,000; 36,289; 7,107; 35; Asia; 26.5; 2,056; Whale shark; Tubbataha Reefs; 2,954 (Mount Apo); 106,678,000
+66;Great Britain; 209,331; 12,429; 1; 5; Europe; 8.6; 878; Atlantic grey seal; Great Barrier Reef; 1,345 (Ben Nevis); 65,648,000
+67;Hawaii (USA); 28,311; 1,043; 132; 4; North America; 22.5; 1,411; Hawaiian monk seal; None; 4,205 (Mauna Kea); 1,455,700
+68;Mindanao; 97,530; 3,219; 1; 21; Asia; 26.8; 2,185; Philippine eagle; None; 2,954 (Mount Apo); 27,585,000
+69;Sulawesi; 186,200; 5,265; 1; 19; Asia; 26; 2,950; Sulawesi crested macaque; Bunaken; 3,478 (Latimojong); 19,143,000</s>
+70; Iceland; 103,000; 4,970; 1; 100; Europe; 5.7; 1,207; Atlantic puffin; None; 2,104 (Hvannadalshnúkur); 338,300
+71;Cuba; 110,860; 3,735; 1; 5; North America; 25; 1,339; Cuban crocodile; Gardens of the Queen; 2,005 (Pico Turquino); 11,340,000
+72;Borneo; 288,869; 4,670; 3; 50; Asia; 26.7; 3,182; Orangutan; None; 4,095 (Mount Kinabalu); 20,828,000
+73;Zanzibar; 2,461; 651; 2; 2; Africa; 26.7; 1,934; Fruit bat; None; 1,295 (Lewa Mlima); 1,303,000
+74;Greenland; 2,166,086; 44,087; 1; 75; North America; -5.5; 751; Polar bear; None; 3,700 (Gunnbjørn Fjeld); 55,990
+75;New Guinea; 785,753; 5,420; 2; 20; Australia; 24.3; 3,183; Bird of paradise; None; 4,884 (Puncak Jaya); 13,802,000
+76;Bali; 5,780; 236; 1; 3; Asia; 26.4; 2,021; Bali starling; None; 3,031 (Mount Agung); 4,225,000
+77;Java; 126,700; 5,982; 1; 3; Asia; 26.2; 3,023; Javan rhinoceros; None; 3,636 (Mount Semeru); 146,800,000
+78;Madagascar; 587,041; 4,828; 1; 3; Africa; 22.2; 1,561; Lemur; None; 2,876 (Maromokotro); 25,660,000
+79;Cyprus; 9,251; 648; 1; 1; Europe; 20; 477; Mediterranean monk seal; None; 1,952 (Mount Olympus); 1,205,000</s>

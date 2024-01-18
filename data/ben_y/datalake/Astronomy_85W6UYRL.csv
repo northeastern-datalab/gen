@@ -1,0 +1,11 @@
+;`Planet Name; Stellar Body it Orbits; Satellite (if applicable); Orbital Period (years); Mass (Earth masses); Surface Temperature (Kelvin); Radius (km); Axial Tilt; Ring System (yes or no); Other Relevant Information about Object`
+0; Jupiter; Sun; Ganymede, Europa, Io, Callisto; 11.86; 1326; 69911; 3.13; Yes; Largest planet in solar system with a prominent Great Red Spot.;
+1;Saturn; Sun; Titan, Enceladus, Mimas, Tethys, Dione, Rhea, Iapetus, Hyperion, Phoebe; 29.46; 568; 58232; 26.73; Yes; Known for its extensive ring system and moons with varied geological features.;
+2;Uranus; Sun; Titania, Oberon, Umbriel, Ariel, Miranda; 84.02; 14.5; 25362; 97.77; No; Has a unique axial tilt leading to extreme seasonal changes.;
+3;Neptune; Sun; Triton, Nereid; 164.8; 17.2; 24622; 28.32; No; Coldest planet in the solar system, Triton orbits in the opposite direction of Neptune's rotation.;
+4;Mars; Sun; Phobos, Deimos; 1.88; 210; 3389.5; 25.19; 25.22; No; Often called the Red Planet, it shows signs of past water activity.
+5;Venus; Sun; No; 0.615; 0.815; 737; 6051.8; 177.36; No; Hottest planet in the solar system, thick atmosphere traps heat.
+6;Earth; Sun; No; 1; 1; 288; 6371; 23.44; No; Only known planet to support life.
+7;Mercury; Sun; No; 0.241; 0.055; 167; 2439.7; 2.11; No; Closest planet to the sun, has large iron core comprising about 42% of its volume.
+8;Pluto; Charon; No; 248.5; 0.00215; 38; 1187.3; 122.5; No; Smallest and coldest planet in the solar system, formerly considered the ninth planet.
+9;Haumea; Sun; No; 283.25; 0.00021; 32; 1150; 119.9; No; Oblate spheroid shaped dwarf planet, discovered in 2004.</s>

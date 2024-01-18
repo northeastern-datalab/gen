@@ -1,0 +1,11 @@
+;Chef Name;Budget;Ratings;Calories per Serving;Meal Type;Presentation;Tasting Notes;Occasion;Special Equipment;Used Resources;Recipe Source;Number of Recipes From Same Source
+0; Gordon Ramsay;$500;4.5 stars;700 calories;Entree;Impressive;Rich and hearty flavor;Dinner Party;Blender;Epicurious;3;
+1;Thomas Keller;$700;5 stars;850 calories;Dessert;Elegant;Buttery and not too sweet;Wedding;Stand mixer;Bon Appetit;2;
+2;Julia Child;$300;4 stars;600 calories;Main Course;Homey;Classic comfort food;Family Dinner;Dutch oven;The French Chef;6;
+3;Jamie Oliver;$400;4.2 stars;650 calories;Appetizer;Vibrant;Fresh and light;Summer BBQ;Grill;Ministry of Food;1;
+4;Alice Waters;$450;4.7 stars;500 calories;Salad;Natural;Seasonal and local;Lunch;Mandoline;Chez Panisse Vegetables;4;
+5;Ina Garten;$550;4.8 stars;800 calories;Side Dish;Polished;Buttery and creamy;Holiday Feast;Food processor;Barefoot Contessa Family Style;2;
+6;Nigella Lawson;$600;4.5 stars;750 calories;Soup;Comforting;Velvety and rich;Winter Dinner;Immersion blender;Nigella Express;3;
+7;Martha Stewart;$800;5 stars;900 calories;Roast;Elegant;Crispy skin and juicy meat;Sunday Family Lunch;Roasting Pan;Martha Stewart Living;1;
+8;Yotam Ottolenghi;$500;4.6 stars;450 calories;Vegetarian;Fresh;Bold and exciting flavors;Vegetarian Friendly Dinner;Spice Grinder;Plenty More;5;
+9;Bobby Flay;$400;4.3 stars;700 calories;Grilling;Spicy;Smoky and savory;Tailgate Party;Grill;Boy Meets Grill;4</s>;

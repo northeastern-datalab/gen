@@ -1,0 +1,11 @@
+;ProductID; ProductName_ClothesType; Quantity; SizeVariation; ColorSelection; MaterialDetails; BrandInformation; DiscountRate; OriginalPrice; SalePrice; DeliveryOptions; ManufacturingCountry; ProductionTimeframe; ProductCondition; PurchaseDate
+0; 1001; Denim Jacket - Casual Wear; 250; S-XXL; Blue, Black, White; 100% Cotton; Levi's; 10%; 60.00; 54.00; Free Shipping, Store Pickup; USA; 4-6 weeks; New; 2022-03-15
+1;1002; Floral Maxi Dress - Formal Wear; 150; XS-XL; Red, Pink, Beige; Polyester & Spandex; Jenny Yoo; 15%; 220.00; 187.00; Express Shipping, Store Pickup; China; 3-4 weeks; New; 2022-03-17
+2;1003; Men's Leather Loafers - Shoes; 500; 7-13; Brown, Black; Genuine Leather; Johnston & Murphy; 5%; 110.00; 104.50; Free Shipping; Italy; 8-10 weeks; New; 2022-03-18
+3;1004; Women's Wool Blazer - Business Wear; 300; 0-16; Grey, Blue, Black; Wool & Polyester; Theory; 12%; 350.00; 306.00; Free Shipping, Store Pickup; UK; 6-8 weeks; New; 2022-03-19
+4;1005; Men's Casual T-Shirt - Basic Wear; 1000; S-XXL; White, Black, Blue; 100% Cotton; Calvin Klein; 7%; 20.00; 18.60; Free Shipping; Turkey; 2-3 weeks; New; 2022-03-20
+5;1006; Women's Knitted Cardigan - Sweaters; 700; XS-XXL; Beige, Grey, Cream; Wool & Nylon; Ralph Lauren; 8%; 95.00; 87.60; Free Shipping; USA; 5-6 weeks; New; 2022-03-21
+6;1007; Girls' Denim Jeans - Kids' Clothing; 800; 6-16; Blue, Light Blue, White; 98% Cotton; Guess; 10%; 30.00; 27.00; Free Shipping; Mexico; 4-5 weeks; New; 2022-03-22
+7;1008; Boys' Cotton Shirt - Kids' Clothing; 500; 6-14; White, Blue, Green; 100% Cotton; Tommy Hilfiger; 5%; 25.00; 23.75; Free Shipping; Bangladesh; 6-7 weeks; New; 2022-03-23
+8;1009; Women's Running Shoes - Athletic Wear; 350; 5-11; Black, Pink, Blue; Mesh & Synthetic Leather; Nike; 15%; 120.00; 102.00; Free Shipping, Store Pickup; Vietnam; 7-8 weeks; New; 2022-03-24
+9;1010; Men's Slim Fit Suit - Formal Wear; 200; 36-48; Black, Blue, Grey; Wool & Polyester; Hugo Boss; 12%; 500.00; 440.00; Free Shipping; Italy; 10-12 weeks; New; 2022-03-25</s>

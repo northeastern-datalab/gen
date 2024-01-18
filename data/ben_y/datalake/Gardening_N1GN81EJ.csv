@@ -1,0 +1,11 @@
+;QuantityPurchased; TotalCost; AverageGrowRate; HarvestSeason; SoilType; AdditionalNutrients; PropagationMethods; MatureSizeWidth; MatureSizeHeight; ColorVariations; WaterRequirement; LightCondition; HardinessZone; ReasonForPopularity
+0;5; $25.99; 20 cm per week; Fall; Loamy; Compost; Seeds, Cuttings; 30 cm; 90 cm; Green, Variegated; Moderate; Partial Shade; 5-9; Easy to grow and maintain
+1;2; $6.99; 10 cm per week; Spring; Sandy; None; Seeds; 20 cm; 60 cm; Red, Pink, White; High; Full Sun; 3-10; Drought tolerant and deer resistant
+2;8; $32.99; 15 cm per week; Summer; Clay; Fertilizer; Division, Layering; 45 cm; 120 cm; Yellow, Orange, Red; Low; Full Sun; 9-11; Showy flowers and long blooming period
+3;3; $14.99; 5 cm per week; Spring; Loamy; Mulch; Seeds, Cuttings; 25 cm; 70 cm; Purple, Blue, White; Moderate; Full Sun; 4-8; Attracts bees and butterflies
+4;6; $19.99; 12 cm per week; Fall; Sandy; Fertilizer; Division, Layering; 60 cm; 180 cm; Green, Yellow, Gold; Low; Full Sun; 6-10; Tolerant of salt and air pollution
+5;7; $29.99; 25 cm per week; Summer; Loamy; Compost; Seeds, Cuttings; 75 cm; 220 cm; Red, Pink, White; Moderate; Full Sun; 2-9; Provides shade and shelter for other plants
+6;10; $45.99; 30 cm per week; Spring; Clay; None; Division, Layering; 90 cm; 270 cm; Blue, Purple, Pink; Low; Full Sun; 5-9; Used as a barrier or hedge in landscaping
+7;4; $11.99; 7 cm per week; Fall; Loamy; Mulch; Seeds, Cuttings; 35 cm; 100 cm; White, Cream, Yellow; Moderate; Full Sun; 3-8; Fragrant flowers and easy to grow
+8;9; $39.99; 35 cm per week; Spring; Sandy; Compost; Seeds, Cuttings; 120 cm; 300 cm; Red, Orange, Yellow; Low; Full Sun; 9-11; Produces edible fruits and seeds
+9;12; $54.99; 40 cm per week; Summer; Clay; Fertilizer; Division, Layering; 150 cm; 360 cm; Pink, Red, White; Low; Full Sun; 5-10; Popular in cut flower arrangements and bouquets.</s>

@@ -1,0 +1,91 @@
+;Island Nation; Island Size (km²); Coastline Length;\
+0; Bahamas; 13,940; 3,542;
+1;Fiji; 18,274; 1,129;
+2;Iceland; 103,000; 4,970;
+3;Ireland; 84,421; 3,171;
+4;Jamaica; 10,991; 1,022;
+5;Madagascar; 587,041; 4,828;
+6;Maldives; 300; 644;
+7;New Zealand; 268,680; 15,134;
+8;Sri Lanka; 65,610; 1,340;
+9;United Kingdom; 242,495; 12,429</s>;
+10; Madagascar; 587,041; 4,828;
+11;Japan; 377,975; 29,751;
+12;Papua New Guinea; 462,840; 5,152;
+13;Cuba; 110,860; 3,735;
+14;Ireland; 84,421; 1,448;
+15;Hawaii (USA); 16,625; 1,230;
+16;Borneo (Indonesia); 743,330; 5,394;
+17;Philippines; 300,000; 36,289;
+18;Seychelles; 459; 496;</s>
+19; Cuba; 110,860; 3,735;
+20;Java (Indonesia); 138,794; 6,020;
+21;Bali (Indonesia); 5,780; 621;
+22;Great Britain; 242,495; 12,429;
+23;New Guinea; 785,753; 5,420;
+24;Hawaii (USA); 10,932; 1,230;
+25;Irish Republic; 70,273; 1,448;</s>
+26; Iceland; 103,000; 4,970;
+27;Cyprus; 9,251; 648;
+28;Borneo; 743,330; 4,670;
+29;Bali (Indonesia); 5,780; 563;
+30;Kangaroo Island (Australia); 4,405; 509;
+31;Mindanao (Philippines); 94,630; 2,250;</s>
+32; Iceland (Iceland); 103,000; 4,970;
+33;Svalbard (Norway); 62,049; 3,587;
+34;Sumatra (Indonesia); 443,062; 14,000;
+35;Honshu (Japan); 227,960; 5,450;
+36;Borneo (Malaysia/Indonesia/Brunei); 748,168; 4,800;
+37;Madagascar (Madagascar); 587,041; 4,828;
+38;New Guinea (Indonesia/Papua New Guinea); 785,753; 5,100;
+39;Greenland (Greenland); 2,166,086; 41,346;
+40;Sri Lanka (Sri Lanka); 65,610; 1,340;
+41;Java (Indonesia); 132,107; 5,960;</s>
+42; Madagascar (Madagascar); 587,041; 4,828;
+43;Borneo (Indonesia, Malaysia, Brunei); 743,330; 5,394;
+44;Sumatra (Indonesia); 443,062; 3,784;
+45;British Isles (United Kingdom); 315,134; 19,492;
+46;New Guinea (Indonesia, Papua New Guinea); 785,753; 6,300;
+47;Baffin Island (Canada); 507,451; 2,665;
+48;Vancouver Island (Canada); 32,134; 3,338;
+49;Luzon (Philippines); 109,965; 4,544;
+50;Ellesmere Island (Canada); 196,236; 1,939;</s>
+51; New Guinea (Indonesia/Papua New Guinea); 785,753; 5,420;
+52;Borneo (Brunei/Indonesia/Malaysia); 748,168; 4,670;
+53;Baffin Island (Canada); 507,451; 4,317;
+54;Sumatra (Indonesia); 443,066; 3,560;
+55;Honshu (Japan); 227,960; 6,348;
+56;Iceland (Iceland); 100,250; 4,970;
+57;Sri Lanka (Sri Lanka); 65,610; 1,585;
+58;Java (Indonesia); 138,794; 5,960;
+59;Kalimantan (Indonesia); 539,355; 7,030;</s>
+60; New Zealand (New Zealand); 268,021; 15,134;
+61;Cuba (Cuba); 110,860; 3,735;
+62;Iceland (Iceland); 103,000; 4,970;
+63;Hawaii (United States); 10,931; 1,230;
+64;Cyprus (Cyprus); 9,251; 648;
+65;Sardinia (Italy); 24,090; 1,890;
+66;Sicily (Italy); 25,711; 1,484;
+67;Corsica (France); 8,680; 1,080;
+68;Mindanao (Philippines); 97,530; 3,219;
+69;Sulawesi (Indonesia); 174,600; 5,095;</s>
+70;Bali (Indonesia); 5,780; 625;
+71;Sumatra (Indonesia); 443,066; 3,202;
+72;Celebes (Indonesia); 189,031; 5,990;
+73;Hokkaido (Japan); 83,457; 3,232;
+74;Newfoundland (Canada); 111,390; 9,654;
+75;Borneo (Malaysia-Indonesia-Brunei); 748,168; 4,670;
+76;Greenland (Denmark); 2,130,800; 44,087;</s>
+77;Luzon (Philippines); 109,965; 3,622;
+78;Hokkaido (Japan); 83,423; 2,782;
+79;Sulawesi (Indonesia); 189,216; 5,093;
+80;South Island (New Zealand); 150,737; 2,593;
+81;Baffin Island (Canada); 507,451; 15,173;
+82;Sumatra (Indonesia); 473,481; 3,377;
+83;Honshu (Japan); 227,960; 4,828;</s>
+84;Luzon (Philippines); 109,965; 3,589;
+85;Borneo (Indonesia); 748,168; 4,670;
+86;Great Britain; 209,331; 17,820;
+87;Victoria Island (Canada); 217,291; 7,120;
+88;Ellesmere Island (Canada); 196,236; 4,266;
+89;New Guinea (Indonesia); 785,753; 5,471;</s>

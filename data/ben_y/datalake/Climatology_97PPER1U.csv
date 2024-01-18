@@ -1,0 +1,24 @@
+;"\
+Climate Type";"\
+Global Mean Temp Increase (\^o C from preindustrial)";"\
+Carbon Dioxide Concentration Level(ppmv - parts per million by volume)";"\
+Sea level Rise Rate ((mm /year) - annual rate)";"\
+Glacier Melting Extent(% change annually)";"\
+Storm Frequency Change({number of storms/\ year})";"\
+Annual Rainfall Changes ({% deviance or mm increase})";"\
+Cyclone Intensity Trend({increasing OR decreased with category changes})";"\
+Extreme weather events trend {(*specific extreme event type* like heatwaves, drought)}";"\
+Ocean Acidification pH Levels{pHT units decrease indicating acidity rise }";"\
+Biosphere Impact Summarized{\*(effect summary)*}";"\
+Anthropogenic Forcing Indexes {\(*index name such as CO\_2 forcing index etc.*\)}";"\
+Methane Concentration Levels {(ppbv - parts per billion by volume)}"
+0; Tropical Climate; 1.1^o C; 417 ppmv; 3.3 mm/year; 2.4%; +5 storms/year; +10% annual rainfall; Increasing cyclone intensity (Cat 4-5); Frequent heatwaves, occasional drought; pH 8.05 (0.12 unit decrease); Widespread coral bleaching, shifts in species ranges; CO2 forcing index +50%; 1877 ppbv
+1;Temperate Climate; 1.0^o C; 415 ppmv; 2.2 mm/year; 1.9%; -1 storms/year; +7% annual rainfall; Increasing cyclone intensity (Cat 3-4); More frequent and severe floods, occasional drought; pH 8.1 (0.1 unit decrease); Shifts in phenology, species range changes; CH4 forcing index +150%; 1950 ppbv
+2;Continental Climate; 1.2^o C; 420 ppmv; 1.8 mm/year; 1.5%; -2 storms/year; +3% annual rainfall; Increasing cyclone intensity (Cat 2-3); Increased forest fires, drought; pH 8.15 (0.08 unit decrease); Forest dieback, invasive species; N2O forcing index +25%; 330 ppbv
+3;Polar Climate; 2.0^o C; 430 ppmv; 1.5 mm/year; 0.8%; -3 storms/year; -10% annual rainfall; Reduced cyclone intensity (Cat 1 below); Increased melt rate of ice sheets, permafrost thaw; pH 8.2 (0.1 unit decrease); Accelerated sea ice loss, methane release; CH4 forcing index +300%; 2000 ppbv
+4;Desert Climate; 0.9^o C; 412 ppmv; 1.1 mm/year; 1.2%; +1 storms/year; +8% annual rainfall; Increasing cyclone intensity (Cat 1-2); Increased flash floods, drought; pH 8.12 (0.07 unit decrease); Changes in vegetation patterns, desertification; NH3 forcing index +50%; 1500 ppbv
+5;Mountain Climate; 1.3^o C; 425 ppmv; 1.4 mm/year; 1.7%; -1 storms/year; -5% annual rainfall; Reduced cyclone intensity (Cat 1 below); Increased glacier melt, permafrost thaw; pH 8.18 (0.06 unit decrease); Changes in alpine ecosystems, landslides; H2O forcing index +10%; 500 ppbv
+6;Mediterranean Climate; 1.1^o C; 418 ppmv; 2.0 mm/year; 2.1%; -1 storms/year; +12% annual rainfall; Increasing cyclone intensity (Cat 2-3); Increased forest fires, drought; pH 8.08 (0.12 unit decrease); Changes in vegetation patterns, invasive species; CO forcing index +75%; 2500 ppbv
+7;Arid Climate; 0.8^o C; 409 ppmv; 0.9 mm/year; 1.3%; +2 storms/year; +6% annual rainfall; Increasing cyclone intensity (Cat 1-2); Increased flash floods, drought; pH 8.14 (0.08 unit decrease); Expansion of desert areas, loss of biodiversity; SO2 forcing index +30%; 1000 ppbv
+8;Tropical Monsoon Climate; 1.4^o C; 423 ppmv; 3.0 mm/year; 2.8%; +4 storms/year; +15% annual rainfall; Increasing cyclone intensity (Cat 3-4); Increased floods, occasional drought; pH 8.04 (0.1 unit decrease); Mangrove loss, coastal erosion; CH4 forcing index +250%; 2200 ppbv
+9;Marine West Coast Climate; 1.0^o C; 414 ppmv; 2.5 mm/year; 2.2%; +1 storms/year; +10% annual rainfall; Increasing cyclone intensity (Cat 2-3); Increases in coastal flooding, erosion; pH 8.09 (0.11 unit decrease); Loss of kelp forests, ocean warming; N2O forcing index +5%; 400 ppbv</s>

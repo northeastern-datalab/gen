@@ -1,0 +1,11 @@
+;ProductID; ProductName; ClothingType; Size; Color; Material; Brand; Price; SeasonalTrendingness; OccasionAppropriateness; StylePoints; AvailabilityStatus; StoreLocation; AdditionalDetails
+0; 101; Little Black Dress; Dress; 4; Black; Polyester & Spandex; Chic Couture; 99.99; Highly Trending; Formal Occasions; 8.5; Available; Online & New York Boutique; Perfect for parties, made of stretchy material for comfort
+1;102; Denim Jacket; Jacket; S; Light Wash; Denim; Levi's; 79.99; Moderately Trending; Casual Occasions; 7.8; Available; Nationwide Stores & Online; Classic piece, versatile, great for layering
+2;103; Pink Blouse; Blouse; S; Blush Pink; Silk; Louboutin; 299.99; Slightly Trending; Business Occasions; 9.2; Available; Paris Flagship Store; High-quality silk, designed with ruffles, great for work
+3;104; White Sneakers; Sneakers; 8; White; Canvas; Vans; 69.99; Always Trending; Casual Occasions; 8.9; Available; Worldwide Stores & Online; Iconic style, comfortable, suitable for various outfits
+4;105; Black Tuxedo; Suit; 42R; Black; Wool; Armani; 699.99; Highly Trending; Formal Occasions; 9.7; Available; London Store & Online; Slim fit, hand-tailored, perfect for black-tie events
+5;106; Red Maxi Dress; Dress; XL; Bright Red; Chiffon; Alice + Olivia; 249.99; Moderately Trending; Cocktail Parties & Summer Events; 8.2; Available; Online & Los Angeles Boutique; Elegant, floor-length style, flowing fabric
+6;107; Floral Skirt; Skirt; M; Multi-colored; Cotton; J.Crew; 49.99; Slightly Trending; Casual Occasions; 7.6; Available; Worldwide Stores & Online; Playful pattern, versatile, suitable for various tops
+7;108; Grey Hoodie; Hoodie; XL; Ash Grey; Fleece; Champion; 59.99; Always Trending; Casual Occasions; 8.7; Available; Nationwide Stores & Online; Soft fabric, classic fit, suitable for everyday wear
+8;109; Leather Biker Jacket; Jacket; L; Black; Leather; Saint Laurent; 995.99; Moderately Trending; Casual Occasions; 9.4; Available; Paris Flagship Store; Premium quality leather, edgy style for any outfit
+9;110; Silk Scarf; Accessories; One Size; Navy Blue; Silk; Hermes; 329.99; Slightly Trending; Formal Occasions; 9.1; Available; Online & Worldwide Boutiques; Luxurious addition to any outfit, exquisite design

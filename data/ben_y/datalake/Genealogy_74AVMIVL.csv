@@ -1,0 +1,11 @@
+;CensusYear; StateAbbreviation; CountyName; CityOrTownship; OccupancyStatus; Race; Gender; TotalNumberOfPeople, Including Head; RelationshipToHeadofHousehold
+0; 1850; NY; New York; Manhattan; Rented; White; Male; 8; Head
+1; 1860; PA; Philadelphia; Philadelphia; Owned; White; Female; 6; Wife
+2; 1870; VA; Fairfax; Alexandria; Rented; White; Male; 4; Son
+3; 1880; CA; Los Angeles; Los Angeles; Owned; White; Female; 2; Daughter
+4; 1890; IL; Cook; Chicago; Rented; White; Male; 5; Boarder
+5; 1900; TX; Harris; Houston; Owned; White; Female; 3; Head
+6; 1910; OH; Cuyahoga; Cleveland; Rented; White; Male; 7; Nephew
+7; 1920; MA; Suffolk; Boston; Owned; White; Female; 9; Granddaughter
+8; 1930; MI; Wayne; Detroit; Rented; White; Male; 10; Lodger
+9; 1940; FL; Dade; Miami; Owned; White; Female; 11; Self, in own family.</s>

@@ -1,0 +1,11 @@
+;Rocket Type; Launch Site; Discovery Method; Funding Source; Experiment Conducted; Collision Avoidance System; Propulsion Types; Mission Control Center; Astronomy Field Expanded; Technical Challenges Overcome
+0; Saturn V; Kennedy Space Center; Active Monitoring; NASA; Moon Landing Experiment; Proximity Warning System; Liquid and Solid; Houston MCC; Lunar Exploration; Extreme Temperature Fluctuations
+1;Falcon Heavy; Cape Canaveral; Radar Imaging; SpaceX; In-space Propulsion Test; Drone Ship Detect; Electric and Liquid; SpaceX MCC; Space Debris Tracking; Reusable Rocket Technology
+2;Long March 5B; Wenchang; Optical Observation; CNSA; Orbital Module Test; Space Based Radar; Liquid; Beijing MCC; Low Earth Orbit Exploration; Heavy Lift Capability
+3;Ariane 5; Kourou; Infrared Tracking; ESA; GeostationaryTransfer Test; Collision Risk Modeling; Cryogenic Liquid; Toulouse MCC; Telecommunications Expansion; Dual Engine Outage
+4;Proton-M; Baikonur; Active Sensor Fusion; Roscosmos; Commercial Cargo Mission; Automatic Collision Avoidance; Liquid; Korolev MCC; Satellite Deployment; Propulsion System Redundancy
+5;H-IIB; Tanegashima; LIDAR Sensing; JAXA; H-II Transfer Vehicle Test; Obstacle Detection; Liquid; Tsukuba MCC; Space Station Logistics; Structural Strength
+6;Vega; Kourou; Acoustic Detection; ESA; Small Satellite Launch; Reactive Thrust Vectoring; Solid; Toulouse MCC; Microsatellite Research; Vibration Suppression
+7;SLV; Sriharikota; Star Sensor Tracking; ISRO; Reusable Launch Vehicle Technology; Terminal Guidance; Liquid & Solid Hybrid; Bangalore MCC; Launch On Demand; Reliability Improvement
+8;Antares; Wallops; Passive Ranging; Orbital ATK; Cygnus Cargo Mission; Collision Mitigation; Liquid; Dulles MCC; Commercial Resupply Services; Return To Flight
+9;Minotaur IV; Vandenberg; Sensor Fusion; USAF; National Reconnaissance Office Payload; Impact Prediction; Solid; Schriever MCC; Surveillance Mission; Navigation Accuracy</s>

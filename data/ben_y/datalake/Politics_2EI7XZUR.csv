@@ -1,0 +1,85 @@
+;`Political Party; Politicians Count; Annual Budget; Source of Annual Budget; Policy Focus; Ideological Affiliation; Number of Scandals; Party Leader; Membership Trends; Opposition Party`
+0; Democratic Party; 45 politicians; $50 million; Private Donations, Membership Fees; Economic Equality, Environmental Protection; Center-Left; 2 scandals; John Smith; Steadily Growing; Republican Party
+1;Republican Party; 40 politicians; $60 million; Private Donations, Corporate Sponsors; Fiscal Conservatism, Strong Defense; Center-Right; 3 scandals; Sarah Johnson; Slightly Declining; Independent Party
+2;Independent Party; 15 politicians; $12 million; Individual Wealth, Small Donations; Fiscal Responsibility, Social Tolerance; Independent; 1 scandal; James Brown; Stable; Democratic Party
+3;Green Party; 10 politicians; $8 million; Membership Fees, Environmental Grants; Green Economy, Grassroots Democracy; Left-Wing; 0 scandals; Emily Davis; Growing Slowly; Opposition Party
+4;Libertarian Party; 8 politicians; $7 million; Private Donations, Investments; Personal Freedom, Free Market; Right-Libertarian; 1 scandal; Michael Miller; Consistent Membership; Independent Party
+5;Progressive Party; 5 politicians; $4 million; Labor Unions, Crowdfunding; Workers Rights, Progressive Values; Left-Wing; 0 scandals; Susan Thompson; Steadily Growing; Opposition Party
+6;Reform Party; 3 politicians; $2 million; Business Interests, Local Grants; Political Reform, Fiscal Responsibility; Center; 1 scandal; Robert Wilson; Declining Membership; Independent Party
+7;Constitution Party; 2 politicians; $1 million; Grassroots Donations; Strict Constructionism, Social Conservatism; Far-Right; 0 scandals; Jane Brown; Stable Membership; Opposition Party
+8;Socialist Party; 1 politician; $500,000; Small Donations, Workers Unions; Democratic Socialism, Workers Rights; Left-Wing; 0 scandals; Alan Carter; Steadily Growing; Opposition Party
+9;Communist Party; 1 politician; $250,000; Personal Wealth; Marxism-Leninism, Workers Revolution; Far-Left; 0 scandals; Maria Rodriguez; Consistent Membership; Independent Party</s>
+10; Green Party; 3 politicians; $750,000; Environmental Activism Donations; Environmentalism, Social Progressivism; Left-Wing; 1 scandal; Laura Johnson; Increasing Membership; Opposition Party 
+11;Libertarian Party; 4 politicians; $1.2 million; Business Donations; Minimal Government, Free Markets; Right-Libertarian; 2 scandals; Michael Davis; Slowly Growing; Opposition Party 
+12;Democratic Party; 150 politicians; $200 million; Large Donors, Business, Labor; Liberalism, Centrism; Center-Left; 15 scandals; John Smith; Steadily Declining; Governing Party 
+13;Republican Party; 130 politicians; $250 million; Large Donors, Business, Evangelical Groups; Conservatism, Neoconservatism; Right-Wing; 22 scandals; James Johnson; Declining Membership; Governing Party 
+14;Reform Party; 6 politicians; $3 million; Varied Donations; Populism, Centrism; Center; 0 scandals; Karen Thompson; Steady Membership; Opposition Party 
+15;Whig Party; 2 politicians; $500,000; Historical Preservation Donations; Classical Liberalism, Fiscal Conservatism; Center-Right; 0 scandals; William Collins; Consistent Membership; Independent Party 
+16;Independent Party; 1 politician; $150,000; Personal Wealth; Nonpartisan, Independent Politics; Centrism; 0 scandals; Susan Garcia; Stagnant Membership; Independent Party 
+17;Tea Party; 8 politicians; $2 million; Business Donations; Fiscal Conservatism, Social Conservatism; Far-Right; 1 scandal; Robert Anderson; Declining Membership; Faction of Republican Party 
+18;Working Families Party; 3 politicians; $800,000; Labor Unions, Small Donors; Democratic Socialism, Progressivism; Left-Wing; 0 scandals; Thomas Williams; Steadily Growing; Affiliated with Democratic Party 
+19;Progressive Party; 4 politicians; $1 million; Small Donors, Progressive Organizations; Progressivism, Social Democracy; Left-Wing; 1 scandal; Linda White; Stable Membership; Opposition Party </s>
+20; Green Party; 5 politicians; $1.5 million; Environmental Activists, Small Donors; Green Politics, Eco-socialism; Left-Wing; 0 scandals; Sarah Johnson; Slowly Growing; Opposition Party 
+21;Libertarian Party; 6 politicians; $3 million; Business Donations, Individual Donors; Fiscal Conservatism, Social Liberalism; Right-Libertarian; 2 scandals; James Smith; Steadily Growing; Opposition Party 
+22;Democratic Party; 200 politicians; $2 billion; Business Donations, Individual Donors; Liberal Democracy, Centrism; Center-Left; 5 scandals; Joseph Biden; Steadily Growing; Governing Party 
+23;Republican Party; 150 politicians; $1.5 billion; Business Donations, Individual Donors; Conservative Ideology, Neoliberalism; Center-Right; 10 scandals; Donald Trump; Stable Membership; Governing Party 
+24;Socialist Party; 7 politicians; $500,000; Small Donors, Socialist Organizations; Democratic Socialism, Marxism; Left-Wing; 1 scandal; Eric Miller; Declining Membership; Opposition Party 
+25;Constitution Party; 3 politicians; $200,000; Small Donors, Conservative Activists; Paleoconservatism, Christian Right; Far-Right; 0 scandals; John Brown; Stable Membership; Opposition Party 
+26;Reform Party; 2 politicians; $300,000; Business Donations, Individual Donors; Centrism, Populism; Center; 0 scandals; Nicole Thompson; Declining Membership; Opposition Party 
+27;Independent Party; 1 politician; $100,000; Personal Wealth, Small Donors; Independent, Political Centrism; N/A; 0 scandals; Angela Davis; Steadily Growing; Opposition Party 
+28;Whig Party; 1 politician; $50,000; Personal Wealth, Individual Donors; Centrism, Liberal Conservatism; Center-Right; 0 scandals; John Anderson; N/A; Opposition Party 
+29;Federalist Party; 0 politician; $0; N/A; Federalism, Classical Liberalism; Center-Right; 0 scandals; N/A; N/A; N/A 
+30; Green Party; 3 politicians; $250,00</s>;;;;;;;
+31; Socialist Party; 5 politicians; $750,000; Membership Fees, Union Donations; Workers' Rights, Democratic Socialism; Left-Wing; 2 scandals; Alexandra Ocasio-Cortez; Growing; Opposition Party 
+32;Libertarian Party; 7 politicians; $1,000,000; Corporate Donations, Individual Donors; Individual Liberty, Free-Market Capitalism; Right-Wing; 1 scandal; Jo Jorgensen; Stable; Opposition Party 
+33;Progressive Party; 4 politicians; $800,000; Small Donations, Grant Funding; Social Justice, Progressivism; Left-Wing; 3 scandals; Elizabeth Warren; Growing; Opposition Party 
+34;Reform Party; 6 politicians; $900,000; Corporate Donations, Individual Donors; Political Reform, Centrism; Center; 1 scandal; Donald Trump (hypothetical); Declining; Opposition Party 
+35;Constitution Party; 3 politicians; $350,000; Individual Donors, Membership Fees; Original Intent, Fiscal Conservatism; Far-Right; 0 scandals; Ben Carson (hypothetical); Stable; Opposition Party 
+36;Tea Party; 8 politicians; $1,200,000; Corporate Donors, Super PACs; Fiscal Conservatism, Small Government; Far-Right; 4 scandals; Ted Cruz; Declining; Opposition Party 
+37;Bull Moose Party; 2 politicians; $400,000; Individual Donors, Grant Funding; Progressivism, Environmentalism; Left-Wing; 1 scandal; Paul Ryan (hypothetical); N/A; Opposition Party 
+38;Objectivist Party; 1 politician; $150,000; Individual Wealth, Book Sales; Objectivism, Laissez-Faire Capitalism; Far-Right; 0 scandals; Adam Kokesh; N/A; Opposition Party 
+39;Communist Party; 1 politician; $100,000; Membership Fees, Small Donations; Marxism-Leninism, Workers' Rights; Far-Left; 0 scandals; Angela Davis; Stable; Opposition Party 
+40;America First Party; 4 politicians; $500,000; Individual Donors, Corporate Donors; Isolationism, Right-Wing Populism; Far-Right; 2 scandals; David Duke; Declining; Opposition Party.</s>
+41; Green Party; 12 politicians; $700,000; Individual Donors, Green Businesses; Environmentalism, Social Justice; Center-Left; 1 scandal; Jill Stein; Growing; Opposition Party 
+42;Libertarian Party; 34 politicians; $2,000,000; Individual Donors, Political Action Committees; Limited Government, Free Markets; Right-Libertarian; 3 scandals; Gary Johnson; Stable; Major Opposition Party 
+43;Reform Party; 8 politicians; $800,000; Individual Donors, Wealthy Benefactors; Centrism, Populism; Center; 0 scandals; Bill Kristol; Declining; Opposition Party 
+44;Constitution Party; 6 politicians; $350,000; Individual Donors, Small Donations; Constitutional Originalism, Right-Wing Populism; Far-Right; 1 scandal; Frank Fluckiger; Stable; Opposition Party 
+45;Socialist Party; 9 politicians; $400,000; Individual Donors, Organized Labor; Democratic Socialism, Workers' Rights; Center-Left; 2 scandals; Keith Ellison; Growing; Opposition Party 
+46;Progressive Party; 3 politicians; $200,000; Individual Donors, Small Donations; Progressivism, Social Justice; Left-Wing; 0 scandals; Elizabeth Warren; Stable; Opposition Party 
+47;Prohibition Party; 2 politicians; $100,000; Individual Donors, Morality Organizations; Prohibitionism, Fiscal Conservatism; Right-Wing; 0 scandals; Jack Fellure; Declining; Opposition Party 
+48;Solidarity Party; 4 politicians; $300,000; Individual Donors, Diaspora Donations; Nationalism, Social Democracy; Center-Left; 1 scandal; Marion Smith; Stable; Opposition Party 
+49;Tea Party (movement); Influential in Republican Party; Variable annual budgets; Individual Donors, Business Interests; Fiscal Conservatism, Social Conservatism; Right-Wing; 5 scandals; N/A; Integrated; Influential Faction within Republican Party 
+50;Working Families Party; Influential in Democratic Party; Variable annual budgets; Individual Donors, Labor Unions; Progressivism, Working Class Empowerment; Left-Wing; 0 scandals; N/A; Integrated; Influential Faction within Democratic Party.</s>
+51; Green Party; 6 politicians; $500,000; Individual Donors, Small Business Donations; Environmentalism, Social Progressivism; Left-Wing; 2 scandals; Eva White; Growing; Opposition Party 
+52;Libertarian Party; 12 politicians; $800,000; Individual Donors, Corporate Donations; Fiscal Conservatism, Social Liberalism; Right-Libertarian; 3 scandals; Jake Parker; Stable; Opposition Party 
+53;Reform Party; 8 politicians; $700,000; Individual Donors, Wealthy Donors; Populism, Centrism; Center; 4 scandals; Patricia Hamilton; Declining; Opposition Party 
+54;Constitution Party; 3 politicians; $250,000; Individual Donors, Religious Organizations; Christian Nationalism, Fiscal Conservatism; Far-Right; 0 scandals; James Wilson; Stable; Opposition Party 
+55;Progressive Party; 5 politicians; $350,000; Individual Donors, Progressive Groups; Progressivism, Democratic Socialism; Left-Wing; 1 scandal; Susan Johnson; Growing; Opposition Party 
+56;Independence Party; 7 politicians; $600,000; Individual Donors, Local Businesses; Fiscal Responsibility, Moderate Social Policies; Center; 2 scandals; Robert Thompson; Stable; Opposition Party 
+57;Americans Elect; 4 politicians; $400,000; Individual Donors, Crowdfunding; Centrism, Third-Way Politics; Center; 0 scandals; Michael Lee; New; Influential Faction within Republican Party 
+58;New Democratic-Republican Party; 6 politicians; $550,000; Individual Donors, Bipartisan Donors; Bipartisan Policies, Political Centrism; Center; 1 scandal; Elizabeth Thompson; New; Influential Faction with Democratic Party 
+59;Whig Party; 3 politicians; $200,000; Individual Donors, Historical Donors; Moderate Conservatism, Centrism; Center-Right; 0 scandals; Andrew Jackson; Stable; Opposition Party 
+60;Objectivist Party; 2 politicians; $100,000; Individual Donors, Ayn Rand Fans; Objectivism, Minarchism; Right-Libertarian; 0 scandals; Richard Brandon; Stable; Opposition Party </s>
+61; Federalist Party; 4 politicians; $300,000; Historical Donors, Wealthy Supporters; Federalism, Classical Liberalism; Right-Center; 1 scandal; Alexander Hamilton; Declining; Opposition Party 
+62;Green Party; 5 politicians; $400,000; Environmental Activists, Individual Donors; Green Politics, Progressivism; Left-Leaning; 0 scandals; Naomi Klein; Growing; Influential Faction with Democratic Party 
+63;Reform Party; 7 politicians; $750,00</s>;;;;;;;
+64; Whig Party; 12 politicians; $1,200,000; Business Leaders, Reform Advocates; Political Reform, Centrism; Center; 2 scandals; William Henry Harrison; Stable; Opposition Party 
+65;Communist Party; 3 politicians; $150,000; Workers, Labor Unions; Social Revolution, Marxism-Leninism; Far Left; 0 scandals; Gus Hall; Stagnant; Opposition Party 
+66;Democratic Party; 250 politicians; $10,000,000; Diverse Interests, Grassroots Donors; Social Liberalism, Third Way; Center-Left; 12 scandals; Joe Biden; Dominant, Split Factions;
+67;Republican Party; 180 politicians; $8,500,000; Corporations, Wealthy Donors; Conservatism, Neoconservatism; Right; 15 scandals; Kevin McCarthy; Declining, Mainstream;
+68;Libertarian Party; 10 politicians; $600,000; Anti-Authoritarian Activists, Individual Donors; Minimal Government, Free Markets; Right-Leaning; 1 scandal; Jo Jorgensen; Steady, Minor Influence;
+69;Tea Party; 16 politicians; $900,000; Fiscal Conservatives, Anti-Establishment Activists; Small Government, Originalist Constitution; Right-Center; 3 scandals; Jim DeMint; Integrated into Republican Party;
+70;Socialist Party; 6 politicians; $350,000; Labor Unions, Social Justice Advocates; Democratic Socialism, Worker's Rights; Left; 0 scandals; Bernie Sanders; Small, Expanding;
+71;Bull Moose Party; 8 politicians; $700,000; Progressive Activists, Philanthropists; Progressive Reforms, Environmental Protection; Center-Left; 1 scandal; Theodore Roosevelt; Short-lived, Failed to Gain Traction;
+72;Constitution Party; 3 politicians; $200,000; Religious Conservatives, Small Government Advocates; Originalist Constitution, Social Conservatism; Far Right; 0 scandals; Frank Fluckiger; Stable, Small Presence;
+73;Progressive Party; 21 politicians; $1,800,000; Labor Unions, Social Justice Advocates; Progressivism, Civil Rights; Left-Leaning; 6 scandals; Elizabeth Warren; Increasing, Influential Faction with Democratic Party;</s>
+74; Democratic Party; 472 politicians; $2,876,000,000; Various Sources, Big Donors, Party Fundraising; Broad Focus on Progressive Policies; Center-Left; 27 scandals; Joe Biden; Stable and Dominant, Strong Opposition to Republican Party;
+75;Republican Party; 295 politicians; $2,253,000,000; Big Donors, Corporations, Business Interests; Fiscal Conservatism, Conservative Social Policies; Right; 34 scandals; Kevin McCarthy; Stable and Dominant, Strong Opposition to Democratic Party;
+76;Green Party; 15 politicians; $1,700,000; Environmental Activists, Small Donors; Environmental Protection, Social Justice; Left; 1 scandal; Anita Tang; Steady, Third Party with Limited Representation;
+77;Libertarian Party; 22 politicians; $4,500,000; Individual Donors, Business Interests; Civil Liberties, Fiscal Responsibility; Center-Right; 2 scandals; Austin Petersen; Growing, Third Party with Limited Representation;
+78;Reform Party; 6 politicians; $650,000; Small Donors, Grassroots Movements; Campaign Finance Reform, Fiscal Responsibility; Center; 0 scandals; Nicole Schneider; Declining, Failed to Gain Traction;
+79;Socialist Party; 12 politicians; $1,300,000; Labor Unions, Grassroots Donations; Democratic Socialism, Workers' Rights; Left; 3 scandals; Angela Walker; Increasing, Third Party with Limited Representation;
+80;Pirate Party; 2 politicians; $140,000; Tech Activists, Internet Freedom Advocates; Transparency, Direct Democracy; Center-Left; 0 scandals; Brian Hull; Emerging, Minor Party with Limited Representation;
+81;Tea Party (within GOP); 42 politicians; $635,000,000; Affluent Donors, Business Interests; Fiscal Conservatism, Limited Government; Far Right; 6 scandals; Jim Jordan; Influential Faction, Subgroup within Republican Party;
+82;Working Families Party; 7 politicians; $950,000; Labor Unions, Progressive Activists; Progressive Policies, Economic Equality; Left; 0 scandals; Chris Silvera; Rising, Minor Party with Limited Representation;
+83;Independent Party; 12 politicians; $2,000,000; Small Donors, Individual Supporters; Varied, Non-partisan Policies; Center; 1 scandal; Terry Hayes; Stagnant, Third Party with Limited Representation.</s>;

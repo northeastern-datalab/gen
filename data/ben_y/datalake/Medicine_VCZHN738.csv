@@ -1,0 +1,11 @@
+;Prescription Cost;Insurance Coverage Amount;Pharmacy Name;Payment Method;Pharmacist Name;Consultation Fee;Follow Up Appointment Date;Follow Up Reason;Additional Instructions from Doctor;Side Effects Experienced
+0;" ""50""";"""80%""";"""CVS Pharmacy""";"""Insurance""";"""John Doe""";"""$10""";"""2023-03-15""";"""Check blood pressure""";"""Take medication with food""";"""Dizziness, headache"""
+1;"""75""";""" null""";"""Walgreens""";"""Credit Card""";"""Jane Smith""";"""$20""";"""2023-03-20""";"""Monitor sugar levels""";"""Avoid alcohol""";"""Nausea, fatigue"""
+2;"""35""";"""60%""";"""Rite Aid""";"""Cash""";"""Alice Johnson""";"""$5""";"""2023-03-22""";"""Check allergic reaction""";"""No specific instructions""";"""Rash, itching"""
+3;"""80""";"""100%""";"""Walmart Pharmacy""";"""Insurance""";"""Michael Davis""";"""$0""";"""2023-03-25""";"""Refill prescription""";"""No specific instructions""";"""None"""
+4;"""60""";"""70%""";"""Costco Pharmacy""";"""HSA Card""";"""Sarah Lee""";"""$15""";"""2023-03-27""";"""Check cholesterol levels""";"""Take medication at same time every day""";"""Upset stomach"""
+5;"""45""";"""50%""";"""Kroger Pharmacy""";"""Debit Card""";"""David Kim""";"""$25""";"""2023-03-30""";"""Check glucose levels""";"""Avoid driving after taking medication""";"""Sleepiness, confusion"""
+6;"""100""";""" null""";"""CVS Pharmacy""";"""Credit Card""";"""Emily Wong""";"""$30""";"""2023-04-02""";"""Follow-up appointment""";"""No specific instructions""";"""None"""
+7;"""120""";"""80%""";"""Walgreens""";"""Insurance""";"""James Brown""";"""$20""";"""2023-04-05""";"""Check blood pressure""";"""Take medication with food""";"""Dizziness, headache"""
+8;"""25""";"""30%""";"""Rite Aid""";"""Cash""";"""Grace Chen""";"""$10""";"""2023-04-07""";"""Check allergic reaction""";"""No specific instructions""";"""Rash, itching"""
+9;"""90""";"""100%""";"""Walmart Pharmacy""";"""Insurance""";"""Olivia Thompson""";"""$0""";"""2023-04-09""";"""Refill prescription""";"""No specific instructions""";"""None""</s>"

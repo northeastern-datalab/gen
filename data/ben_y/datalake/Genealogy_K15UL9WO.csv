@@ -1,0 +1,11 @@
+;CensusYear; AncestralHomeCountry; ImmigrationYear; NaturalizationDocNumber; PeriodofMilitaryService\_Startdate; PeriodofMilitaryService\_Enddate; OccupationHistory; CriminalRecord; ReligiousAffiliation; EducationLevel; NumberOfChildren; Patrilineage; MatriarchyPaternalSide
+0; 1850; Italy; 1825; 5464832-ITL; 1848-04-01; 1848-12-31; Farmer; No record; Roman Catholic; Illiterate; 5; Di Natale; De Luca
+1;1880; Ireland; 1867; 7839521-IRL; 1872-08-15; 1876-11-23; Laborer; Convicted for theft in 1870, served 2 years; Church of Ireland; Primary education; 3; Murphy; O'Brien
+2;1900; Russia; 1892; 3219065-RUS; 1918-02-01; 1919-06-30; Tailor; No record; Jewish; Vocational training; 0; Goldstein; Rosenberg
+3;1920; Sweden; 1908; 9873456-SWE; 1917-05-20; 1918-09-15; Domestic worker; No record; Lutheran; High school; 4; Andersson; Svensson
+4;1940; Poland; 1931; 1209876-POL; 1944-09-01; 1946-08-31; Mechanic; No record; Polish Catholic; Vocational training; 2; Kowalski; Wozniak
+5;1960; Germany; 1955; 4530219-DEU; 1961-08-13; 1962-12-31; Engineer; No record; Lutheran; University degree; 3; Schmidt; Müller
+6;1970; Italy; 1968; 6589302-ITA; 1975-05-01; 1979-06-30; Teacher; No record; Roman Catholic; Master's degree; 1; Bianchi; Rossi
+7;1990; Soviet Union; 1985; 8731954-URS; 1991-01-01; 1992-10-31; Computer scientist; No record; Russian Orthodox; PhD in Computer Science; 0; Ivanov; Petrov
+8;2010; Mexico; 2000; 9087352-MEX; 2002-07-05; 2004-03-31; Business executive; No record; Catholic; MBA in Business Administration; 2; González; Rodríguez
+9;2020; India; 2011; 3956184-IND; 2017-12-01; 2018-11-30; Software engineer; No record; Hindu; Master's degree in Computer Science; 0; Singh; Patel</s>

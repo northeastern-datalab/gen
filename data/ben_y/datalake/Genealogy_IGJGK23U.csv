@@ -1,0 +1,11 @@
+;MemberID; FirstName; LastName; DateOfBirth; PlaceOfBirth; RelationshipStatus; Gender; Occupation; EducationLevel; Income; Email
+0; 101; John; Doe; 1980-05-15; New York, USA; Single; Male; Software Engineer; Master's Degree; $80,000; john.doe@email.com
+1;102; Jane; Doe; 1975-12-28; Chicago, USA; Married; Female; Doctor; PhD; $120,000; jane.doe@email.com
+2;103; Bob; Smith; 1990-08-11; Los Angeles, USA; In a relationship; Male; Teacher; Bachelor's Degree; $60,000; bob.smith@email.com
+3;104; Alice; Johnson; 1985-03-22; Houston, USA; Single; Female; Artist; Master's Degree; $45,000; alice.johnson@email.com
+4;105; Charlie; Brown; 1978-11-04; San Francisco, USA; Married; Male; Lawyer; JD; $150,000; charlie.brown@email.com
+5;106; Sarah; Williams; 1992-06-17; Detroit, USA; In a relationship; Female; Nurse; Bachelor's Degree; $70,000; sarah.williams@email.com
+6;107; Michael; Davis; 1988-02-29; Boston, USA; Single; Male; Business Analyst; Master's Degree; $75,000; michael.davis@email.com
+7;108; Emily; Miller; 1976-09-01; Seattle, USA; Married; Female; Marketing Manager; MBA; $90,000; emily.miller@email.com
+8;109; Daniel; Thompson; 1991-04-13; Atlanta, USA; In a relationship; Male; Web Developer; Bachelor's Degree; $65,000; daniel.thompson@email.com
+9;110; Jessica; Moore; 1982-12-12; New York, USA; Single; Female; Accountant; Master's Degree; $85,000; jessica.moore@email.com</s>

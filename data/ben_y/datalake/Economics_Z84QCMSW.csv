@@ -1,0 +1,12 @@
+;time\_period; variable\_type; GDP\_$\_trillion; industry\_code; country\_name; state\_abbreviation; population\_size; inflation\_rate; unemployment\_rate; data\_source; sample\_description
+0;" ""time\_period"; variable\_type; GDP\_$\_trillion; industry\_code; country\_name; state\_abbreviation; population\_size; inflation\_rate; unemployment\_rate; data\_source;" sample\_description"""
+1;"""2020 Q4"; actual; 21.43; 11,100; United States; NA; 331,449,281; 1.4%; 3.5%; World Bank;" Full population"""
+2;"""2019 Q4"; actual; 21.13; 11,100; United States; NA; 329,093,153; 2.3%; 3.7%; World Bank;" Full population"""
+3;"""2018 Q4"; actual; 20.55; 11,100; United States; NA; 327,757,493; 2.5%; 4.0%; World Bank;" Full population"""
+4;"""2017 Q4"; actual; 19.99; 11,100; United States; NA; 325,727,679; 2.1%; 4.4%; World Bank;" Full population"""
+5;"""2016 Q4"; actual; 19.41; 11,100; United States; NA; 324,459,463; 1.3%; 4.8%; World Bank;" Full population"""
+6;"""2015 Q4"; actual; 18.86; 11,100; United States; NA; 322,140,724; 0.1%; 5.3%; World Bank;" Full population"""
+7;"""2014 Q4"; actual; 18.33; 11,100; United States; NA; 318,857,056; 1.6%; 5.8%; World Bank;" Full population"""
+8;"""2013 Q4"; actual; 17.41; 11,100; United States; NA; 316,128,839; 1.5%; 6.7%; World Bank;" Full population"""
+9;"""2012 Q4"; actual; 16.87; 11,100; United States; NA; 313,849,117; 2.1%; 7.9%; World Bank;" Full population"""
+10;"""2011 Q4"; actual; 15.99; 11,100; United States; NA; 311,569,583; 3.0%; 8.9%; World Bank;" Full population""</s>"

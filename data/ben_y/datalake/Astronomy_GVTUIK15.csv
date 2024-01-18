@@ -1,0 +1,11 @@
+;`Planet Name; Planet Type; Right Ascension; Declination; Semi-Major Axis (AU); Orbital Period (Earth Years); Mean Radius (km); Mass (Earth Masses); Surface Temperature (Celsius); Discovery Date; Number of Satellites; Rings Presence`
+0; Jupiter; Gas Giant; 03h 56m 23.9s; 16° 32' 22'' N; 5.203 AU; 11.86 Earth Years; 69,911 km; 317.8 Earth Masses; -145 Celsius; 1610; 79; Yes
+1;Saturn; Gas Giant; 13h 39m 53.5s; 14° 30' 0'' N; 9.582 AU; 29.46 Earth Years; 58,232 km; 95.2 Earth Masses; -178 Celsius; 1610; 82; Yes
+2;Uranus; Ice Giant; 05h 53m 27.1s; 16° 46' 58'' N; 19.183 AU; 84.02 Earth Years; 25,362 km; 14.5 Earth Masses; -195 Celsius; 1781; 27; Yes
+3;Neptune; Ice Giant; 20h 49m 05.9s; 22° 22' 0'' S; 30.07 AU; 164.8 Earth Years; 24,622 km; 17.2 Earth Masses; -200 Celsius; 1846; 14; Yes
+4;Mars; Terrestrial; 02h 57m 43.1s; 23° 02' 20'' N; 1.524 AU; 1.88 Earth Years; 3,389.5 km; 0.107 Earth Masses; -65 Celsius; 1659; 2; No
+5;Venus; Terrestrial; 13h 31m 52.8s; 23° 24' 0'' N; 0.723 AU; 0.615 Earth Years; 6,051.8 km; 0.815 Earth Masses; 464 Celsius; Ancient; 0; No
+6;Mercury; Terrestrial; 12h 00m 00.0s; 23° 26' 28'' N; 0.39 AU; 0.24 Earth Years; 2,439.7 km; 0.055 Earth Masses; 167 Celsius; Ancient; 0; No
+7;Pluto; Dwarf Planet; 23h 09m 45.9s; 24° 08' 0'' N; 39.53 AU; 247.7 Earth Years; 1,187 km; 0.0021 Earth Masses; -230 Celsius; 1930; 5; Yes
+8;Eris; Dwarf Planet; 03h 23m 39.9s; 22° 31' 0'' N; 67.67 AU; 557 Earth Years; 1,163 km; 0.0025 Earth Masses; -215 Celsius; 2005; 1; Yes
+9;Haumea; Dwarf Planet; 10h 52m 34.1s; 11° 34' 0'' N; 43.33 AU; 285 Earth Years; 996 km; 0.00038 Earth Masses; -210 Celsius; 2004; 2; Yes</s>

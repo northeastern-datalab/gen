@@ -1,0 +1,11 @@
+;Nebula Name; Nebula Category; Gas Composition (%); Dust Component; Radiation Intensity (W/m³); Distance from Solar Systems Center (kpc); Closest Star 1 (Star Name, Distance from Nebula); Closest Star 2 (Star Name, Distance from Nebula); Closest Star 3 (Star Name, Distance from Nebula); Closest Star 4 (Star Name, Distance from Nebula)
+0;  Orion Nebula; Diffuse Nebula; Hydrogen 70%, Helium 29%; Silicate Dust; 100 W/m³; 0.42; Betelgeuse (134 pc), Rigel (240 pc);;;
+1; Crab Nebula; Supernova Remnant; Hydrogen 1%; Iron 65%, Oxygen 34%; Silicate-Carbon Dust; 10000 W/m³; 6.3; Eta Tauri (6500 pc);;
+2; Trifid Nebula; Emission/Reflection Nebula; Hydrogen 76%, Carbon Monoxide 24%; Silicate Dust; 50 W/m³; 2.8; HD 164492 (78 pc);;;
+3; Carina Nebula; Emission Nebula; Hydrogen 90%, Sulfur 8%, Oxygen 2%; Silicate Dust; 200 W/m³; 2.3; Eta Carinae (230 pc);;;
+4; Eagle Nebula; Emission/Reflection Nebula; Hydrogen 70%, Oxygen 28%, Carbon Monoxide 2%; Silicate Dust; 30 W/m³; 1.8; HD 168076 (2048 pc);;;
+5; Helix Nebula; Planetary Nebula; Hydrogen 95%, Helium 5%; Amorphous Carbon Dust; 10 W/m³; 0.33; SAO 107360 (215 pc);;;
+6; Ring Nebula; Planetary Nebula; Hydrogen 99%, Nitrogen 1%; Silicate Dust; 20 W/m³; 0.13; 82 Eridani (163 pc);;;
+7; Cat's Eye Nebula; Planetary Nebula; Hydrogen 95%, Oxygen 5%; Silicate Dust; 10 W/m³; 1.3; CPD -54 810 (3000 pc);;;
+8; Dumbbell Nebula; Planetary Nebula; Hydrogen 60%, Oxygen 38%, Neon 2%; Silicate Dust; 25 W/m³; 0.52; ADS 4249 (136 pc);;;
+9; Bubble Nebula; Emission Nebula; Hydrogen 75%, Sulfur 20%, Nitrogen 5%; Silicate Dust; 40 W/m³; 2.6; SAO 24164 (1149 pc);;;

@@ -1,0 +1,11 @@
+;Lithological Description; Grain Size; Metamorphism Level; Igneous Texture; Crystallinity; Chemicals & Elemental Analysis; Biogenicity; Tectonic Setting : Earthquake Potential; Landscape Impact; Additional Data
+0;  Sedimentary Rock; Fine to Medium Grain; No Metamorphism; Not Applicable; Poor Crystallinity; Carbonate Content; Biogenic; Oceanic Plate Boundary; Low; Erosional Erosion  None
+1; Igneous Rock, Granite; Phaneritic; None; Phaneritic Texture; High Crystallinity; Silica-rich; Aphanitic; Intrusive, Stable; Low; Weathering  Radioactive Tracing
+2; Metamorphic Rock, Schist; Medium to Coarse Grain; Medium Grade; None; High Crystallinity; Mica Minerals; Not Biogenic; Convergent Plate Boundary; High; Landslides, Seismic Activity  Mineral Foliation Observation
+3; Sedimentary Rock, Shale; Very Fine Grain; No Metamorphism; Not Applicable; Poor Crystallinity; Clay Minerals; Biogenic; Passive Margin; Low; Soil Erosion  Organic Matter Preservation
+4; Igneous Rock, Basalt; Phaneritic; None; Aphantic Texture; High Crystallinity; Silica-poor; Porphyritic; Oceanic Plate Boundary; Moderate; Magma Effusion  Seismic Tomography
+5; Metamorphic Rock, Gneiss; Coarse Grain; High Grade; None; High Crystallinity; Feldspar and Quartz; Not Biogenic; Continental Collision; Low; Exfoliation  Pressure Estimation
+6; Sedimentary Rock, Sandstone; Medium Grain; No Metamorphism; Not Applicable; Poor to Fair Crystallinity; Quartz and Feldspar; Not Biogenic; Active Margin; Moderate; Fluvial Erosion  Sediment Source Analysis
+7; Igneous Rock, Gabbro; Phaneritic; None; None; High Crystallinity; Mafic; Aphantic; Oceanic Plate Boundary; Low; Ocean Floor Weathering  Gravity Measurement
+8; Metamorphic Rock, Marble; Coarse Grain; Low Grade; None; High Crystallinity; Calcite; Not Biogenic; Continental Collision; Low; Solution Weathering  Carbon Isotope Ratio
+9; Sedimentary Rock, Coal; Variable Grain; No Metamorphism; Not Applicable; Poor Crystallinity; Carbon-rich; Biogenic; Passive Margin; Low; Peat Accumulation  Organic Matter Composition</s>

@@ -1,0 +1,11 @@
+;Column 1; Reflection Energy; Column 3; Column 4; Column 5; Amplitude; Phase; Column 8; Geologic Hazard Assessment; Free Surface Effect; Topographic Corrections; Sea Level Changes
+0; Row 1: Seismic Wave; High; Yes; Anisotropic Media; 1.5mV; 30 degrees; Yes; Soil Liquefaction; Present; Not Applicable; Not Applicable; Not Applicable
+1;Row 2: Electromagnetic Pulses; Medium; No; Isotropic Media; 0.7mV; 60 degrees; Yes; Volcanic Eruptions; Present; Not Applicable; Not Applicable; Not Applicable
+2;Row 3: Gravity Waves; Low; Yes; Stratified Media; 1.2mV; 15 degrees; Yes; Fault Rupture; Present; Applicable; Applicable; Not Applicable
+3;Row 4: Acoustic Waves; High; Yes; Unconsolidated Sediments; 2.0mV; 45 degrees; Yes; Landslides; Present; Applicable; Applicable; Not Applicable
+4;Row 5: Magnetic Pulses; Medium; No; Heterogeneous Media; 0.8mV; 75 degrees; Yes; Tsunamis; Present; Applicable; Not Applicable; Applicable
+5;Row 6: Thermal Energy; Low; Yes; Layered Media; 1.0mV; 55 degrees; Yes; Slope Instability; Present; Not Applicable; Applicable; Not Applicable
+6;Row 7: Radio Waves; High; No; Homogeneous Media; 1.8mV; 25 degrees; Yes; Soil Creep; Not Present; Not Applicable; Not Applicable; Not Applicable
+7;Row 8: Sonic Waves; Medium; Yes; Horizontally Layered Media; 1.3mV; 40 degrees; Yes; Subsidence; Present; Not Applicable; Applicable; Not Applicable
+8;Row 9: Ultrasonic Waves; Low; Yes; Inhomogeneously Layered Media; 0.9mV; 50 degrees; Yes; Ground Heave; Present; Applicable; Applicable; Not Applicable
+9;Row 10: Infrasound; High; No; Isotropic and Homogeneous Media; 2.2mV; 35 degrees; Yes; Aseismic Slides; Present; Not Applicable; Not Applicable; Not Applicable</s>

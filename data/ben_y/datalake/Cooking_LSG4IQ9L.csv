@@ -1,0 +1,11 @@
+;ChefName;CostPerMeal;Seasonality;NumPansUsed;WeightOfIngredients;CaloricContent;VeganOrGlutenFree;SpecialKitchenAppliance;WebsiteURL
+0;chefbobericci;$50;Spring;3;2kg;800cal;Gluten-Free;StandMixer;www.chefbobericci.com
+1;chefjessicamartinez;$35;Winter;5;1.5kg;1200cal;Vegan;Blender;www.chefjessicamartinez.com
+2;chefdanielparker;$40;Summer;4;2.5kg;900cal;Gluten-Free;FoodProcessor;www.chefdanielparker.com
+3;chefisabellabaker;$45;Autumn;6;3kg;1100cal;Vegan;ToasterOven;www.chefisabellabaker.com
+4;chefryanweiss;$30;Spring;2;1kg;700cal;Gluten-Free;SlowCooker;www.chefryanweiss.com
+5;cheflaurenschmidt;$55;Winter;7;2kg;1300cal;Vegan;AirFryer;www.cheflaurenschmidt.com
+6;cheftimothygoodman;$60;Summer;8;3.5kg;1000cal;Gluten-Free;IceCreamMachine;www.cheftimothygoodman.com
+7;chefheatherjones;$25;Autumn;1;0.5kg;500cal;Vegan;Juicer;www.chefheatherjones.com
+8;chefadamkelly;$70;Spring;9;4kg;1400cal;Gluten-Free;DeepFryer;www.chefadamkelly.com
+9;chefvictoriagarcia;$20;Winter;0;1.2kg;1600cal;Vegan;WaffleMaker;www.chefvictoriagarcia.com</s>

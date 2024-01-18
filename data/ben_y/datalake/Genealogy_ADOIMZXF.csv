@@ -1,0 +1,11 @@
+;AncestorOneGivenName; AncestorOneMiddleName; AncestorOneSurname; AncestorOneBirthPlace; AncestorOneDeathDate; AncestorOneSSN; AdoptiveMotherGivenName; AdoptiveMotherMaidenName; AdoptiveMotherSSN; SpouseName; NumberOfMarriages; Ethnicity; AmountInherited
+0; John; Doe; Smith; New York, USA; 01-Jan-1900; 123-45-6789; Jane; Doe; 987-65-4321; Sarah Smith; 1; Caucasian; 50000
+1;James; Carter; Patterson; Chicago, USA; 10-Feb-1910; 234-56-7890; Emily; Carter; 876-54-3210; James Carter; 2; African American; 75000
+2;Robert; Thompson; Johnson; Los Angeles, USA; 15-Mar-1920; 345-67-8901; Linda; Thompson; 765-43-2109; Robert Johnson; 1; Hispanic; 100000
+3;William; Brown; Davis; Dallas, USA; 20-Apr-1930; 456-78-9012; Barbara; Brown; 654-32-1098; William Davis; 0; Asian; 150000
+4;Charles; White; Miller; San Francisco, USA; 25-May-1940; 567-89-0123; Elizabeth; White; 321-09-8765; Charles Miller; 3; Native American; 200000
+5;David; Green; Wilson; Boston, USA; 30-Jun-1950; 678-90-1234; Grace; Green; 210-98-7654; David Wilson; 1; Middle Eastern; 250000
+6;Thomas; Black; Anderson; Detroit, USA; 05-Jul-1960; 789-01-2345; Helen; Black; 109-87-6543; Thomas Anderson; 2; Pacific Islander; 300000
+7;Michael; Blue; Taylor; Seattle, USA; 10-Aug-1970; 890-12-3456; Susan; Blue; 987-65-4321; Michael Taylor; 1; Indian; 350000
+8;Daniel; Gray; Moore; Washington, USA; 15-Sep-1980; 901-23-4567; Patricia; Gray; 876-54-3210; Daniel Moore; 0; Canadian; 400000
+9;Kenneth; Silver; Harris; Atlanta, USA; 20-Oct-1990; 012-34-5678; Nancy; Silver; 765-43-2109; Kenneth Harris; 3; British; 450000</s>

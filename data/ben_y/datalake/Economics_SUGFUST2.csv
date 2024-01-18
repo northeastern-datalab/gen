@@ -1,0 +1,12 @@
+;time\_period; variable\_type*; GDP\*\*; industry\_code-unique to Table 2'$; country\_name*; state\_abbreviation; population\_size$-similar meaning but different calculation methodology^*^\]; data\_source-$different source than Table 1$\^{}; sample\_description$; unique\_column\_A; unique\_column\_B; unique\_column\_C.*Semantic Alignment = These fields share a common theme or interpretation with their corresponding field name indicated by *.
+0;" ""time\_period"; variable\_type; GDP; country\_name; state\_abbreviation; population\_size; data\_source; sample\_description; unique\_column\_A; unique\_column\_B; unique\_column\_C;
+1;2010Q1; Nominal; 1500000000000; United States; CA; 37253956; World Bank; US Census Bureau survey; Technology advancements; Renewable energy usage; Electric car production;
+2;2010Q2; Real; 1450000000000; United States; NY; 19378102; Federal Reserve Economic Data; American Community Survey; Industrial robot adoption; Natural gas consumption; Semiconductor production;
+3;2010Q3; Nominal; 1600000000000; United States; TX; 25145561; Bureau of Labor Statistics; Current Population Survey; Artificial Intelligence investment; Wind energy capacity; Autonomous vehicle R&D;
+4;2010Q4; Real; 1500000000000; United States; FL; 18801310; Bureau of Economic Analysis; Survey of Business Owners; Financial technology growth; Solar energy capacity; Drone delivery services;
+5;2011Q1; Nominal; 1550000000000; United States; IL; 12830632; OECD; Quarterly National Accounts; E-commerce sales growth; Geothermal energy capacity; Smart city initiatives;
+6;2011Q2; Real; 1600000000000; United States; PA; 12702379; US Bureau of Economic Analysis; Economic Census; Sharing economy expansion; Hydroelectric energy capacity; Autonomous trucking;
+7;2011Q3; Nominal; 1700000000000; United States; OH; 11536504; US Census Bureau; Annual Survey of Manufactures; Blockchain technology implementation; Biofuel production; Cryptocurrency mining;
+8;2011Q4; Real; 1750000000000; United States; GA; 9919945; BEA; Consumer Expenditure Survey; Virtual reality market size; Landfill gas energy; Online education platforms;
+9;2012Q1; Nominal; 1800000000000; United States; MI; 9883360; Federal Reserve; Flow of Funds Accounts; 5G network deployment; Waste-to-energy projects; Remote work tools;
+10;2012Q2; Real; 1850000000000; United States; NC; 9535483; US Bureau of Labor Statistics; Job Openings and Labor Turnover Survey; Quantum computing research; Tidal energy projects; Telehealth services;"""</s>"

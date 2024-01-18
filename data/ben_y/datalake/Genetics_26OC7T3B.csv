@@ -1,0 +1,11 @@
+;Family History; Genes Affecting Similar Traits; Average Age at Onset; Penetrance%; Variable Expressivity?; Protein Impact Analysis$; Phenotype Correlation Study%; Epigenomic Modifications^ Relating To The Condition*; Diagnosis Confirmatory Tests#; Treatment Options&; Prognostic Indicator(%)^+; Genetic Counseling Recommendations**
+0; Family History; BRCA1 & BRCA2; 40-50; 55-85%; Yes; Loss of Function; Moderate; Hypermethylation; Genetic Testing, Imaging; Surgery, Chemotherapy; Poor for Breast/Ovarian Cancer; Strongly Recommended
+1;Family History; APOE4; 60-65; 40-80%; No; Amino Acid Change; Moderate; Hypermethylation; Cognitive Testing, Genetic Testing; Lifestyle Changes, Medications; Poor for Alzheimer's; Recommended
+2;Family History; F5 (Leiden); 20-30; 20-30%; Yes; Missense Mutation; Moderate; Hypomethylation; Coagulation Testing, Genetic Testing; Anticoagulation Therapy; Poor for Venous Thromboembolism; Recommended
+3;Family History; CFTR; 2-30; 50-100%; Yes; Splice Site Mutation; Severe; Hypermethylation; Sweat Test, Genetic Testing; Chest Therapy, Medications; Poor for Cystic Fibrosis; Strongly Recommended
+4;Family History; HTT; 30-50; 100%; Yes; CAG Expansion; Severe; No Modifications; Neurological Exam, Genetic Testing; No Effective Treatments; Poor for Huntington's; Strongly Recommended
+5;Family History; MLH1, MSH2, MSH6, PMS2; 40-50; 40-80%; Yes; Frame Shift Mutation; Moderate; Hypomethylation; Tumor Testing, Genetic Testing; Surgery, Chemotherapy; Poor for Lynch Syndrome; Recommended
+6;Family History; TP53; 30-50; 60-90%; Yes; Nonsense Mutation; Severe; Hypomethylation; Biopsy, Genetic Testing; Radiation Therapy, Surgery; Poor for Li-Fraumeni; Strongly Recommended
+7;Family History; GBA; 50-70; 5-30%; No; Missense Mutation; Moderate; No Modifications; Gaucher Cell Count, Genetic Testing; Enzyme Replacement Therapy, Substrate Reduction Therapy; Poor for Gaucher Disease; Recommended
+8;Family History; HFE (C282Y); 30-60; 75-100%; No; Missense Mutation; Mild; No Modifications; Transferrin Saturation, Genetic Testing; Phlebotomy, Chelators; Poor for Hemochromatosis; Recommended
+9;Family History; LMNA; 2-10; 50-100%; Yes; Missense Mutation; Moderate; No Modifications; Physical Exam, Genetic Testing; No Effective Treatments; Poor for Muscular Dystrophy; Strongly Recommended</s>

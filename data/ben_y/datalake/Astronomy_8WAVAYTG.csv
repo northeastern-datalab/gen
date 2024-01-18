@@ -1,0 +1,111 @@
+;`Galaxy; Galaxy Type; Right Ascension; Declination; Apparent Diameter; Luminosity; Mass; Star System Formation Rate; Black Hole Presence; Spiral Arm Structure Observable?; Number of Neighboring Galaxies Within ~3 Light Years`
+0; Andromeda Galaxy; Spiral; 00h 42m 44.3s; +41°16′09″; 202' x 60' ; 2.25 x 10^39 W; 1.5 x 10^42 kg; 0.68-1.05 solar masses/year; Yes; Yes; 54
+1;Milky Way; Spiral; 14h 00m 00.0s; -29°00′00″; 30°; 6.5 x 10^36 W; 1.5 x 10^42 kg; 1.9 solar masses/year; Yes; Yes; 6
+2;Triangulum Galaxy; Spiral; 01h 36m 56.2s; +30°44′02″; 13' x 6' ; 2.0 x 10^38 W; 1.0 x 10^41 kg; 0.2 solar masses/year; Yes; Yes; 2
+3;Whirlpool Galaxy; Spiral; 10h 45m 17.6s; +56°46′46″; 9.2' x 7.3' ; 2.0 x 10^38 W; 2.3 x 10^41 kg; 1.1 solar masses/year; Yes; Yes; 27
+4;Sombrero Galaxy; Unbarred Spiral; 12h 39m 46.4s; -11°37′20″; 7' x 4' ; 5.5 x 10^37 W; 8.0 x 10^40 kg; 0.11 solar masses/year; Yes; Yes; 5
+5;Whipple Galaxy; Elliptical; 09h 04m 29.8s; +24°40′36″; 2.2' x 1.9' ; 3.9 x 10^37 W; 1.0 x 10^43 kg; -; Yes; No; 0
+6;Messier 81; Spiral; 09h 55m 33.1s; +69°03′55″; 27' x 13' ; 1.2 x 10^39 W; 1.0 x 10^41 kg; 1.3 solar masses/year; Yes; Yes; 13
+7;Messier 87; Elliptical; 12h 30m 49.4s; +12°23′28″; 7.8' x 6.6' ; 7.4 x 10^38 W; 2.0 x 10^43 kg; -; Yes; No; 0
+8;NGC 4889; Elliptical; 12h 59m 55s; +28°06′43″; 1.6' x 0.8' ; 1.6 x 10^38 W; 2.8 x 10^43 kg; -; Yes; No; 0
+9;NGC 3115; Lenticular; 10h 05m 11.3s; -07°43′05″; 8.3' x 2.3' ; 6.4 x 10^37 W; 1.2 x 10^42 kg; -; Yes; No; 0</s>
+10; Whirlpool Galaxy; Spiral; 09h 55m 33.2s; +22°43′04″; 11.9' x 7.2' ; 2.0 x 10^38 W; 3.0 x 10^41 kg; 2.2; Yes; Yes; 2
+11;Andromeda Galaxy; Spiral; 00h 42m 44.3s; +41°16′09″; 201' x 60' ; 1.3 x 10^40 W; 1.5 x 10^42 kg; 1.9; Yes; Yes; 4
+12;Sombrero Galaxy; Lenticular; 12h 39m 47.7s; -11°37′23″; 8.0' x 2.0' ; 1.1 x 10^39 W; 8.0 x 10^40 kg; -; Yes; Yes; 0
+13;Centaurus A; Elliptical; 13h 25m 27.6s; -43°01′09″; 24.0' x 16.0' ; 2.6 x 10^39 W; 1.8 x 10^43 kg; -; Yes; Yes; 2
+14;NGC 5128; Radio Galaxy; 13h 25m 27.6s; -43°01′09″; 24.0' x 16.0' ; 2.6 x 10^39 W; 1.8 x 10^43 kg; -; Yes; Yes; 2
+15;NGC 4594; Lenticular; 12h 39m 48.1s; -11°37′28″; 10.2' x 5.3' ; 1.3 x 10^39 W; 1.0 x 10^42 kg; -; Yes; Yes; 0
+16;NGC 7331; Spiral; 22h 37m 02.6s; +34°24′58″; 9.8' x 2.3' ; 1.0 x 10^39 W; 6.5 x 10^41 kg; 1.6; Yes; Yes; 0
+17;NGC 253; Starburst; 00h 47m 33.1s; -25°17′18″; 28.3' x 7.7' ; 3.2 x 10^39 W; 6.0 x 10^41 kg; 4.4; Yes; Yes; 1
+18;Messier 94; Spiral; 13h 59m 58.2s; +41°07′08″; 9.5' x 4.3' ; 8.7 x 10^38 W; 3.5 x 10^41 kg; 1.5; Yes; Yes; 0
+19;NGC 4414; Spiral; 12h 26m 22.5s; +31°16′00″; 8.6' x 6.9' ; 8.1 x 10^38 W; 1.5 x 10^41 kg; 1.3; Yes; Yes; 0</s>
+20; NGC 300; Spiral; 00h 54m 54.7s; -37°41′03″; 20.4' x 12.0' ; 8.9 x 10^38 W; 1.1 x 10^41 kg; 1.1; Yes; Yes; 2
+21;IC 431; Spiral; 03h 45m 10.1s; +66°52′38″; 12.6' x 4.9' ; 7.5 x 10^38 W; 1.0 x 10^41 kg; 1.0; Yes; Yes; 1
+22;NGC 5033; Spiral; 13h 13m 59.1s; +58°44′38″; 11.2' x 9.8' ; 1.5 x 10^39 W; 2.2 x 10^41 kg; 1.6; Yes; Yes; 0
+23;UGC 2885; Spiral; 09h 59m 26.0s; +54°25′11″; 10.2' x 8.1' ; 1.2 x 10^39 W; 1.9 x 10^41 kg; 1.4; Yes; Yes; 1
+24;NGC 6674; Spiral; 18h 41m 19.8s; -00°51′02″; 7.8' x 6.4' ; 6.5 x 10^38 W; 1.3 x 10^41 kg; 1.2; Yes; Yes; 0
+25;NGC 6946; Spiral; 20h 34m 53.0s; +60°09′14″; 13.4' x 10.2' ; 1.1 x 10^39 W; 1.7 x 10^41 kg; 1.7; Yes; Yes; 2
+26;NGC 7331; Spiral; 22h 37m 03.0s; +34°17′13″; 11.4' x 9.7' ; 1.4 x 10^39 W; 2.0 x 10^41 kg; 1.8; Yes; Yes; 0
+27;NGC 7479; Spiral; 23h 03m 30.7s; +12°19′14″; 6.2' x 4.8' ; 6.0 x 10^38 W; 1.2 x 10^41 kg; 1.3; Yes; Yes; 0
+28;NGC 7552; Spiral; 23h 17m 56.8s; -42°34′03″; 6.6' x 4.9' ; 5.4 x 10^38 W; 1.0 x 10^41 kg; 1.0; Yes; Yes; 1
+29;NGC 7741; Spiral; 23h 44m 01.5s; +23°33′33″; 6.0' x 4.6' ; 5.1 x 10^38 W; 8.0 x 10^40 kg; 0.9; Yes; Yes; 0</s>
+30; UGC 1215; Spiral; 01h 27m 49.8s; +15°28′33″; 7.4' x 5.8'; 7.8 x 10^38 W; 1.1 x 10^41 kg; 1.2; Yes; Yes; 1
+31;NGC 6822; Irregular; 19h 44m 56.6s; -14°57′09″; 10' x 7'; 2.2 x 10^38 W; 3.0 x 10^40 kg; 0.6; No; No; 0
+32;IC 5063; Spiral; 20h 57m 15.4s; -39°45′18″; 6.5' x 5.1'; 4.9 x 10^38 W; 8.5 x 10^40 kg; 1.1; Yes; Yes; 1
+33;UGC 9391; Elliptical; 15h 01m 38.3s; +72°04′05″; 4.4' x 3.9'; 4.2 x 10^39 W; 2.1 x 10^42 kg; 0.0; No; No; 0
+34;NGC 3254; Spiral; 10h 28m 09.3s; +15°26′45″; 7.3' x 6.1'; 4.0 x 10^38 W; 4.8 x 10^40 kg; 1.5; Yes; Yes; 1
+35;IC 3350; Spiral; 12h 25m 56.5s; +13°57′08″; 5.8' x 4.3'; 3.7 x 10^38 W; 1.2 x 10^41 kg; 0.8; Yes; Yes; 1
+36;NGC 5713; Spiral; 14h 40m 53.7s; +00°20′24″; 7.7' x 6.9'; 3.2 x 10^39 W; 1.8 x 10^41 kg; 1.2; Yes; Yes; 0
+37;NGC 7331; Spiral; 22h 37m 04.4s; +34°25′02″; 10' x 6.3'; 1.9 x 10^39 W; 2.7 x 10^41 kg; 1.3; Yes; Yes; 1
+38;UGC 6527; Spiral; 11h 05m 52.3s; +59°37′01″; 7.8' x 6.6'; 2.0 x 10^39 W; 1.4 x 10^41 kg; 0.7; Yes; Yes; 1
+39;NGC 5248; Spiral; 13h 37m 43.0s; +08°03′35″; 10' x 7.4'; 8.9 x 10^38 W; 1.7 x 10^41 kg; 1.6; Yes; Yes; 0</s>
+40; IC 4316; Spiral; 13h 55m 58.9s; -02°56′14″; 5.2' x 4.1'; 1.2 x 10^39 W; 9.1 x 10^40 kg; 0.9; Yes; Yes; 2
+41;NGC 5701; Lenticular; 14h 39m 52.6s; +05°24′50″; 4.9' x 3.5'; 1.6 x 10^39 W; 8.4 x 10^40 kg; 0.5; No; No; 3
+42;UGC 10738; Irregular; 16h 02m 26.7s; +53°25′55″; 4.4' x 3.9'; 1.1 x 10^39 W; 5.3 x 10^40 kg; 1.8; No; No; 0
+43;NGC 7678; Spiral; 23h 25m 34.1s; +06°11′17″; 3.4' x 2.8'; 3.2 x 10^39 W; 7.5 x 10^40 kg; 1.9; Yes; Yes; 1
+44;PGC 66157; Elliptical; 23h 41m 21.2s; +25°18′38″; 2.2' x 1.9'; 2.5 x 10^39 W; 1.1 x 10^41 kg; 0.2; No; No; 0
+45;NGC 1055; Spiral; 02h 42m 41.8s; +08°15′09″; 9.6' x 3.6'; 3.3 x 10^39 W; 3.8 x 10^41 kg; 0.6; Yes; Yes; 1
+46;UGC 2456; Spiral; 07h 47m 36.7s; +36°55′28″; 5.7' x 3.1'; 5.2 x 10^39 W; 6.6 x 10^40 kg; 2.0; Yes; Yes; 2
+47;NGC 2541; Spiral; 08h 15m 27.8s; +26°11′00″; 4.0' x 2.5'; 1.4 x 10^39 W; 5.8 x 10^40 kg; 1.2; Yes; Yes; 0
+48;IC 1954; Spiral; 03h 59m 56.9s; -61°53′33″; 3.1' x 2.8'; 1.6 x 10^39 W; 7.1 x 10^40 kg; 1.6; Yes; Yes; 2
+49;Mrk 178; Irregular; 23h 19m 12.9s; +12°17′12″; 1.4' x 1.1'; 4.8 x 10^38 W; 1.9 x 10^40 kg; 2.4; No; No; 0</s>
+50; UGC 3995; Spiral; 11h 57m 18.1s; -00°14′23″; 5.3' x 4.2'; 3.1 x 10^39 W; 1.3 x 10^41 kg; 2.1; Yes; Yes; 1
+51;NGC 7424; Spiral; 23h 00m 59.9s; -40°26′00″; 6.9' x 4.4'; 6.8 x 10^39 W; 2.9 x 10^41 kg; 2.8; Yes; Yes; 3
+52;IC 5152; Irregular; 22h 01m 34.6s; -50°58′05″; 4.2' x 3.0'; 5.3 x 10^39 W; 2.2 x 10^41 kg; 2.3; No; No; 0
+53;NGC 6822; Irregular; 19h 44m 56.7s; -14°48′02″; 10.0' x 4.5'; 2.9 x 10^39 W; 1.3 x 10^41 kg; 2.0; No; No; 1
+54;UGC 11861; Spiral; 15h 35m 04.1s; +56°53′44″; 6.2' x 2.0'; 1.1 x 10^39 W; 4.6 x 10^40 kg; 1.5; Yes; Yes; 0
+55;NGC 4656; Irregular; 12h 43m 58.1s; +32°14′08″; 10.8' x 2.3'; 1.2 x 10^39 W; 5.1 x 10^40 kg; 1.8; No; No; 1
+56;Mrk 108; Spiral; 01h 53m 16.8s; +61°49′02″; 4.7' x 1.5'; 3.4 x 10^38 W; 1.4 x 10^40 kg; 2.6; Yes; Yes; 0
+57;NGC 7793; Spiral; 23h 57m 48.0s; -32°35′42″; 12.2' x 3.5'; 1.3 x 10^39 W; 5.7 x 10^40 kg; 1.9; Yes; Yes; 3
+58;IC 4662; Irregular; 17h 45m 26.1s; -52°36′01″; 3.4' x 1.6'; 1.8 x 10^39 W; 7.6 x 10^40 kg; 1.7; No; No; 0
+59;UGC 9965; Spiral; 23h 23m 53.8s; +40°56′38″; 4.9' x 2.2'; 1.9 x 10^39 W; 8.2 x 10^40 kg; 2.0; Yes; Yes; 0</s>
+60; NGC 7027; Planetary; 21h 07m 06.8s; +42°22′04″; 0.13' x 0.11'; 2.4 x 10^35 W; 1.3 x 10^33 kg; 0.001; No; No; 0
+61;NGC 4594; Lenticular; 12h 39m 49.5s; -11°37′23″; 8.9' x 4.6'; 9.2 x 10^39 W; 2.2 x 10^42 kg; 0.5; Yes; No; 4
+62;NGC 6822; Irregular; 19h 44m 56.6s; -14°54′36″; 10.5' x 4.3'; 4.5 x 10^39 W; 3.0 x 10^41 kg; 0.4; No; No; 1
+63;UGC 5456; Spiral; 09h 25m 53.9s; +69°36′43″; 4.2' x 1.8'; 1.4 x 10^39 W; 2.7 x 10^41 kg; 1.5; Yes; Yes; 2
+64;IC 342; Spiral; 03h 46m 48.5s; +68°05′56″; 19.6' x 12.8'; 8.0 x 10^39 W; 3.2 x 10^41 kg; 2.2; Yes; Yes; 4
+65;NGC 2403; Spiral; 07h 36m 52.4s; +65°36′03″; 20.2' x 13.1'; 1.1 x 10^40 W; 1.2 x 10^42 kg; 1.8; Yes; Yes; 3
+66;NGC 4258; Spiral; 12h 18m 57.5s; +47°18′13″; 12.6' x 9.9'; 1.6 x 10^40 W; 6.4 x 10^41 kg; 2.4; Yes; Yes; 2
+67;NGC 3034; Irregular; 09h 55m 51.8s; +69°40′44″; 18.9' x 12.6'; 1.8 x 10^40 W; 2.9 x 10^42 kg; 1.1; No; No; 0
+68;NGC 7331; Spiral; 22h 37m 04.0s; +34°24′58″; 10.4' x 3.2'; 1.2 x 10^40 W; 2.7 x 10^42 kg; 2.6; Yes; Yes; 4
+69;UGC 12158; Spiral; 23h 59m 34.5s; +13°20′07″; 7.5' x 2.2'; 4.4 x 10^39 W; 1.0 x 10^42 kg; 2.9; Yes; Yes; 0</s>
+70; Milky Way; Spiral; 14h 59m 59.6s; -29°00′00″; 0.5° x 0.2°; 3.2 x 10^33 W; 1.5 x 10^42 kg; 2.3; Yes; Yes; 4
+71;Andromeda; Spiral; 00h 42m 44.3s; +41°16′09″; 3.1' x 1.0'; 1.1 x 10^41 W; 1.0 x 10^42 kg; 1.9; Yes; Yes; 4
+72;NGC 253; Starburst; 00h 47m 33.2s; -25°17′35″; 27.2' x 7.0'; 2.3 x 10^40 W; 3.5 x 10^41 kg; 5.1; Yes; Yes; 3
+73;NGC 5194; Spiral; 13h 29m 52.7s; +47°11′43″; 7.2' x 5.0'; 3.7 x 10^40 W; 8.0 x 10^41 kg; 3.4; Yes; Yes; 2
+74;NGC 4594; Lenticular; 12h 39m 47.7s; -11°37′24″; 11.5' x 3.2'; 1.5 x 10^40 W; 2.5 x 10^42 kg; 1.5; Yes; No; 1
+75;NGC 4725; Spiral; 12h 50m 53.1s; +13°08′58″; 9.9' x 6.2'; 1.6 x 10^40 W; 1.6 x 10^42 kg; 2.8; Yes; Yes; 3
+76;NGC 7723; Spiral; 23h 38m 23.1s; -16°26′48″; 3.1' x 2.0'; 3.0 x 10^39 W; 3.0 x 10^41 kg; 2.2; Yes; Yes; 0
+77;UGC 12064; Spiral; 21h 01m 09.8s; +54°48′56″; 8.5' x 5.3'; 1.4 x 10^40 W; 1.2 x 10^42 kg; 2.7; Yes; Yes; 1
+78;NGC 1512; Barred Spiral; 04h 03m 58.9s; -43°21′02″; 6.3' x 4.1'; 1.2 x 10^40 W; 2.2 x 10^42 kg; 3.6; Yes; Yes; 2
+79;NGC 5457; Spiral; 14h 03m 12.7s; +54°20′54″; 11.2' x 9.9'; 2.5 x 10^40 W; 1.1 x 10^42 kg; 3.1; Yes; Yes; 3</s>
+80; IC 342; Spiral; 03h 46m 48.5s; +68°05′56″; 19.8' x 14.2'; 3.5 x 10^40 W; 8.9 x 10^41 kg; 4.2; Yes; Yes; 4
+81;NGC 4945; Starburst; 13h 05m 27.3s; -49°28′07″; 18.9' x 14.5'; 1.6 x 10^41 W; 2.1 x 10^42 kg; 5.9; Yes; Yes; 5
+82;UGC 2885; Spiral; 09h 59m 02.4s; +69°21′56″; 11.2' x 8.8'; 1.9 x 10^41 W; 2.6 x 10^42 kg; 4.9; Yes; Yes; 6
+83;NGC 7331; Spiral; 22h 37m 03.1s; +34°24′48″; 10.4' x 6.6'; 1.4 x 10^41 W; 9.1 x 10^41 kg; 4.5; Yes; Yes; 7
+84;NGC 6946; Spiral; 20h 34m 53.0s; +60°09′00″; 14.2' x 10.7'; 8.3 x 10^40 W; 1.6 x 10^42 kg; 3.4; Yes; Yes; 8
+85;NGC 2403; Spiral; 07h 36m 51.1s; +65°35′58″; 17.2' x 12.8'; 6.5 x 10^40 W; 6.9 x 10^41 kg; 3.8; Yes; Yes; 9
+86;NGC 4559; Spiral; 12h 36m 12.5s; +27°54′18″; 11.6' x 6.8'; 1.1 x 10^41 W; 6.8 x 10^41 kg; 4; Yes; Yes; 10
+87;NGC 7793; Spiral; 23h 57m 47.7s; -32°35′01″; 12.2' x 10.6'; 3.8 x 10^40 W; 5.4 x 10^41 kg; 3.3; Yes; Yes; 11
+88;IC 4329; Spiral; 13h 55m 49.1s; -33°25′27″; 7.1' x 5.9'; 1.7 x 10^40 W; 1.4 x 10^42 kg; 3.9; Yes; Yes; 12
+89;NGC 7479; Spiral; 23h 04m 38.9s; +12°19′08″; 5.3' x 3.3'; 7.6 x 10^40 W; 8.9 x 10^41 kg; 3.7; Yes; Yes; 13</s>
+90; ESO 381-4; Irregular; 01h 55m 58.5s; -54°56′20″; 8.5' x 4.2'; 4.9 x 10^39 W; 1.3 x 10^41 kg; 2.8; No; No; 0
+91;NGC 55; Irregular; 00h 14m 53.9s; -39°08′49″; 18.0' x 5.6'; 3.7 x 10^40 W; 1.1 x 10^42 kg; 3.5; No; No; 1
+92;UGC 5720; Spiral; 14h 47m 48.4s; -05°56′36″; 5.4' x 3.1'; 1.6 x 10^40 W; 2.8 x 10^41 kg; 3.1; Yes; Yes; 3
+93;NGC 7331; Spiral; 22h 37m 04.9s; +34°24′57″; 10.4' x 3.0'; 1.6 x 10^41 W; 1.8 x 10^42 kg; 3.6; Yes; Yes; 1
+94;IC 342; Spiral; 03h 46m 48.5s; +68°05′56″; 27.2' x 13.8'; 1.2 x 10^41 W; 4.4 x 10^42 kg; 4.4; Yes; Yes; 3
+95;NGC 4631; Spiral; 12h 42m 01.5s; +32°32′29″; 19.7' x 4.3'; 1.9 x 10^40 W; 1.1 x 10^42 kg; 2.9; Yes; Yes; 5
+96;IC 10; Irregular; 00h 20m 17.2s; +59°20′18″; 5.0' x 4.0'; 7.5 x 10^39 W; 2.5 x 10^40 kg; 3.0; No; No; 0
+97;NGC 5055; Spiral; 13h 15m 49.3s; +42°01′56″; 16.7' x 6.4'; 3.5 x 10^40 W; 1.1 x 10^42 kg; 3.8; Yes; Yes; 1
+98;UGC 9405; Spiral; 23h 10m 12.5s; +54°31′04″; 5.2' x 3.1'; 1.2 x 10^40 W; 3.7 x 10^41 kg; 3.1; Yes; Yes; 0
+99;NGC 7606; Spiral; 23h 19m 15.7s; -00°00′39″; 6.4' x 4.3'; 1.1 x 10^41 W; 2.8 x 10^42 kg; 4.0; Yes; Yes; 4</s>
+100; IC 342; Spiral; 03h 46m 48.3s; +68°05′57″; 20.0' x 13.0'; 1.2 x 10^41 W; 3.5 x 10^42 kg; 4.5; Yes; Yes; 2
+101;NGC 253; Starburst; 00h 47m 33.1s; -25°17′24″; 33.3' x 10.3'; 1.4 x 10^41 W; 2.4 x 10^42 kg; 7.1; Yes; Yes; 0
+102;NGC 6946; Spiral; 20h 34m 52.3s; +60°09′05″; 14.1' x 10.3'; 5.2 x 10^40 W; 1.1 x 10^42 kg; 4.3; Yes; Yes; 1
+103;UGC 128; Irregular; 01h 03m 07.8s; +55°02′14″; 10.8' x 4.3'; 3.3 x 10^40 W; 2.1 x 10^41 kg; 2.9; No; No; 0
+104;NGC 4625; Dwarf Spheroidal; 12h 42m 01.5s; +41°07′10″; 4.6' x 2.4'; 2.1 x 10^39 W; 1.7 x 10^40 kg; 0.9; No; No; 0
+105;NGC 4258; Spiral; 12h 18m 57.5s; +47°18′13″; 18.5' x 11.3'; 3.7 x 10^40 W; 4.0 x 10^41 kg; 2.4; Yes; Yes; 0
+106;UGC 11557; Spiral; 23h 31m 27.1s; +66°13′22″; 6.9' x 2.6'; 1.3 x 10^40 W; 2.7 x 10^41 kg; 1.8; Yes; Yes; 0
+107;NGC 147; Dwarf Elliptical; 00h 32m 34.0s; +48°20′26″; 11.8' x 9.5'; 4.3 x 10^39 W; 4.1 x 10^40 kg; 0.7; No; No; 0
+108;NGC 4395; Dwarf Spiral; 12h 26m 00.3s; +33°32′48″; 3.8' x 2.8'; 1.9 x 10^39 W; 4.1 x 10^40 kg; 1.0; Yes; Yes; 0
+109;IC 10; Irregular; 00h 20m 17.6s; +59°20′31″; 6.0' x 4.7'; 6.3 x 10^39 W; 3.1 x 10^40 kg; 2.0; No; No; 0</s>

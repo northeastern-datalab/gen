@@ -1,0 +1,11 @@
+;Health Insurance Provider; Policy Number; Coverage Start Date; Coverage End Date; Premium Amount; Deductible; Copay; Coinsurance; Out-of-Pocket Maximum; Preventive Care Coverage; Prescription Drug Coverage; Medical Equipment Coverage; Emergency Services Coverage.
+0; Aetna; 123456789; 2022-01-01; 2022-12-31; 500; 1000; 30; 20%; 3000; Yes; Yes; Yes; Yes
+1;Blue Cross Blue Shield; 987654321; 2022-03-01; 2023-02-28; 700; 500; 20; 25%; 2500; Yes; Yes; Yes; Yes
+2;Cigna; 456123890; 2022-06-15; 2023-06-14; 800; 2000; 40; 15%; 4500; Yes; Yes; Yes; Yes
+3;Humana; 789012345; 2022-08-01; 2023-07-31; 600; 1500; 35; 25%; 3000; Yes; Yes; Yes; Yes
+4;UnitedHealthcare; 321654987; 2022-02-01; 2023-01-31; 900; 750; 25; 30%; 4000; Yes; Yes; Yes; Yes
+5;Kaiser Permanente; 654987312; 2022-04-15; 2023-04-14; 400; 800; 45; 10%; 2000; Yes; Yes; Yes; Yes
+6;Medicare; 135792468; 2022-07-01; 2022-12-31; 100; 0; 0; 20%; 3000; Yes; Yes; No; Yes
+7;Medicaid; 845963127; 2022-09-01; 2023-08-31; 200; 500; 5; 15%; 1500; Yes; Yes; Yes; Yes
+8;Champa Care; 963852714; 2022-11-15; 2023-11-14; 1100; 1200; 25; 10%; 4000; Yes; Yes; Yes; Yes
+9;SCAN Health Plan; 234561890; 2022-12-31; 2023-12-30; 1200; 2000; 30; 20%; 5000; Yes; Yes; Yes; Yes</s>

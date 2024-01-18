@@ -1,0 +1,21 @@
+;"\
+Separation Distance";"\
+Position Accuracy";"\
+Data Processing Algorithms";"\
+Additional Geophysical Measurements";"\
+Quality Control";"\
+Data Integration Techniques";"\
+Interpretation of Subsurface Features";"\
+Geological Mapping";"\
+Understanding Seismic Events";"\
+Seismic Hazard Assessment"
+0; 1; 0.5 meters; Least Squares Adjustment, Kalman Filter; Gravity, Magnetic; Cross-validation, Robust Estimation; Fusion of multi-sensor data; Layering, Fault detection; Detailed mapping; Seismic wave analysis; Prediction of earthquake likelihood  Assessment of earthquake impact.
+1;50; 1 meter; Statistical Inference, Maximum Likelihood Estimation; Seismic, Electrical; Data cleaning, Cluster Analysis; Integration of disparate datasets; Machine learning-based fusion; Identification of geological structures; Stratigraphic mapping; Characterization of seismic signals  Quantification of seismic risk.
+2;20; 0.3 meters; Stochastic models, Bayesian methods; Magnetic, Gravity; Outlier detection, Anomaly detection; Sensor fusion, Spatial interpolation; Combining multiple observations; Analyzing underground water flows; Lithological mapping; Analysis of subsurface fractures  Probabilistic hazard assessment.
+3;100; 2 meters; Machine learning, Artificial Neural Networks; Gravity, Magnetic, Seismic; Signal processing, Noise reduction; Big data integration; Feature extraction, Data-driven modeling; Detecting voids, Finding mineral deposits; 3D geological modeling; Estimation of earthquake magnitude  Evaluation of potential impacts.
+4;30; 0.7 meters; Advanced Computation, Genetic Algorithms; Gravity, Seismic; Uncertainty quantification, Sensitivity analysis; Fusing multi-disciplinary data; Signal analysis, Event location; Understanding fault systems; Digital geological mapping; Forecasting seismic events  Hazard mitigation planning.
+5;75; 1.5 meters; Optimization Algorithms, Evolutionary Computation; Magnetic, Seismic; Data conditioning, Resampling; Heterogeneous multi-sensor networks; Data mining, Knowledge discovery; Detecting volcanic activity; Thematic mapping; Seismic source mechanisms  Site-specific hazard assessment.
+6;40; 0.4 meters; Non-parametric methods, Robust regression; Gravity, Magnetic, Electrical; Data pre-processing, Feature engineering; Collaborative modeling; Feature selection, Classification; Finding permafrost distribution; Soil classification; Probabilistic hazard assessment  Mapping ground deformation.
+7;80; 2.5 meters; Spatial Statistics, kriging; Seismic, Gravity; Quality control checks, Time-series analysis; Adaptive signal processing; Data modeling, Inverse problems; Understanding subduction zone processes; Mapping continental margins; Analysis of tsunami hazards  Estimation of return periods.
+8;60; 1.2 meters; Gaussian processes, Hidden Markov Models; Gravity, Seismic; Curve fitting, Signal reconstruction; Data fusion; Event identification, Location precision; Delineation of geological structures; Mineral prospectivity mapping; Seismic hazard zonation  Real-time monitoring.
+9;90; 3 meters; Ensemble learning, Deep learning; Magnetic, Gravity, Seismic; Anomaly detection, Classical statistical methods; Spatial-temporal correlation; Detecting soil moisture changes; Groundwater exploration; Mapping soil properties; Hazard zonation  Predictive seismic hazard assessment.</s>

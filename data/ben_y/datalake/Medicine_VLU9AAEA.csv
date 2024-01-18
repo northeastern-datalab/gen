@@ -1,0 +1,11 @@
+;Prescription Cost;Insurance Coverage;Pharmacy Name;Date Filled;Adverse Reactions;Follow-up Appointment Schedule;Patient Satisfaction;Patient ID;Additional Notes;Medication Side Effects;Medication Interactions;Medication Warnings;Prescription Renewal;Medication Storage;Prescribing Guidelines
+0;" ""50";Full Coverage;CVS Pharmacy;06/15/2022;None;Two weeks;Satisfied;1001;None;Dizziness;None;None;Yes;Store in a cool, dry place;"Follow dosage instructions."""
+1;"""40";Partial Coverage;Walgreens;06/20/2022;Nausea;One month;Somewhat Satisfied;1002;Take with food;Headache;None;Avoid alcohol;Yes;Store in original container;"Adhere to refill schedule."""
+2;"""30";No Coverage;Walmart Pharmacy;06/22/2022;Rash;Two weeks;Dissatisfied;1003;High cost;Stomach pain;None;None;Yes;Keep away from children;"Consider alternative medication."""
+3;"""70";Full Coverage;Costco Pharmacy;06/18/2022;None;One month;Very Satisfied;1004;None;Fatigue;None;None;Yes;Store in a cool place;"Adhere to dosage instructions."""
+4;"""60";Partial Coverage;Rite Aid;06/16/2022;None;Three weeks;Satisfied;1005;None;Dry mouth;None;Avoid caffeine;Yes;Store in original container;"Adhere to refill schedule."""
+5;"""80";No Coverage;Kroger Pharmacy;06/21/2022;None;One month;Very Satisfied;1006;None;None;None;None;Yes;Keep away from heat;"Adhere to dosage instructions."""
+6;"""20";Partial Coverage;Safeway Pharmacy;06/17/2022;Diarrhea;Two weeks;Somewhat Dissatisfied;1007;Take with food;Dizziness;None;None;Yes;Store in a cool, dry place;"Consider alternative medication."""
+7;"""100";Full Coverage;Publix Pharmacy;06/23/2022;None;One month;Very Satisfied;1008;None;None;None;Avoid grapefruit;Yes;Keep away from children;"Adhere to dosage instructions."""
+8;"""150";No Coverage;Target Pharmacy;06/19/2022;None;Two weeks;Dissatisfied;1009;High cost;Constipation;None;None;Yes;Store in original container;"Consider alternative medication."""
+9;"""90";Partial Coverage;Giant Eagle Pharmacy;06/20/2022;None;Three weeks;Satisfied;1010;None;None;None;Avoid alcohol;Yes;Keep away from heat;"Adhere to refill schedule.""</s>"

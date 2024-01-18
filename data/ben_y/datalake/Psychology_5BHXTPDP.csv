@@ -1,0 +1,11 @@
+;SubjectID; DateOfBirth; Gender; Age; EducationLevel; Occupation; AnnualIncome; MaritalStatus; HasChildren; AdditionalTrait1; AdditionalTrait2; AdditionalTrait3; AdditionalTrait4; AdditionalTrait5
+0; 1234; 1980-05-05; Female; 41; Master's Degree; Therapist; 70000; Married; Yes; Empathetic; Optimistic; Open-minded; Ambitious; Perfectionist
+1;5678; 1990-11-17; Male; 31; Bachelor's Degree; Software Engineer; 85000; Single; No; Logical; Analytical; Introverted; Innovative; Meticulous
+2;91011; 1965-03-22; Non-binary; 56; High School Diploma; Retail Supervisor; 45000; Married; Yes; Friendly; Outgoing; Patient; Loyal; Diligent
+3;121314; 1978-08-08; Female; 43; PhD; University Professor; 90000; Married; Yes; Intelligent; Curious; Compassionate; Articulate; Creative
+4;151617; 1985-02-25; Male; 36; Associate's Degree; Electrician; 60000; Single; No; Practical; Confident; Independent; Assertive; Decisive
+5;181920; 1972-06-12; Non-binary; 49; Master's Degree; Marketing Manager; 110000; Married; Yes; Charismatic; Strategic; Persuasive; Extroverted; Enthusiastic
+6;212223; 1968-10-03; Female; 53; High School Diploma; Nurse; 50000; Divorced; Yes; Caring; Strong-willed; Responsible; Sincere; Brave
+7;242526; 1995-01-15; Male; 26; Bachelor's Degree; Financial Analyst; 75000; Single; No; Analytical; Detail-oriented; Resourceful; Visionary; Tenacious
+8;272829; 1982-09-28; Non-binary; 39; Master's Degree; Event Planner; 55000; Married; Yes; Creative; Organized; Diplomatic; Flexible; Imaginative
+9;303132; 1998-07-20; Female; 23; Currently Enrolled; Student; 0; Single; No; Open-minded; Ambitious; Adaptable; Enthusiastic; Optimistic</s>

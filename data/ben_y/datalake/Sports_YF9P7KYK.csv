@@ -1,0 +1,91 @@
+;TeamName; TeamID; Coachname; MatchesWon; MatchesLost; AveragePointsPerGame; TotalPlayers; HomeGames; AwayGames; ConsecutiveWins; ChampionshipTitles.
+0;Bengal Bulls; BB001; John Doe; 15; 5; 28.5; 25; 10; 10; 7; 3
+1;Tiger Titans; TT002; Jane Smith; 12; 8; 26.2; 22; 12; 8; 5; 2
+2;Wildcats; WC003; Bob Johnson; 9; 11; 24.6; 28; 14; 14; 3; 1
+3;Dragons; DG004; Alice Davis; 14; 6; 29.1; 24; 11; 11; 6; 4
+4;Eagles; EG005; Charlie Brown; 7; 13; 22.7; 20; 10; 10; 0; 0
+5;Panthers; PH006; Sarah Lee; 13; 7; 27.3; 26; 12; 12; 4; 1
+6;Lions; LN007; David Kim; 8; 12; 23.8; 30; 15; 15; 2; 0
+7;Ravens; RV008; Emily Wong; 16; 4; 30.1; 23; 11; 11; 8; 5
+8;Sharks; SH009; Daniel Park; 6; 14; 22.4; 27; 13; 13; 1; 0
+9;Knights; KT010; Laura Garcia; 10; 10; 25.6; 29; 14; 14; 3; 0</s>
+10; Panthers; PN011; Alexander King; 12; 8; 27.3; 25; 12; 14; 4; 2
+11;Eagles; EG012; Jasmine White; 14; 6; 29.8; 31; 15; 11; 6; 1
+12;Lions; LY013; Benjamin Green; 9; 11; 23.5; 22; 10; 12; 2; 0
+13;Hawks; HW014; Claire Davis; 7; 13; 24.6; 30; 13; 13; 0; 0
+14;Dragons; DG015; Oliver Miller; 15; 5; 31.2; 28; 12; 14; 7; 3
+15;Jaguars; JG016; Ava Thompson; 8; 12; 26.9; 26; 13; 13; 0; 0
+16;Tigers; TG017; Samuel Anderson; 11; 9; 28.7; 24; 11; 13; 5; 1
+17;Bears; BA018; Victoria Taylor; 6; 14; 23.1; 21; 11; 15; 1; 0
+18;Bulls; BL019; Noah Wilson; 13; 7; 26.8; 29; 14; 12; 3; 0
+19;Cougars; CG020; Sophia Martinez; 10; 10; 24.5; 27; 11; 15; 0; 0</s>
+20; Panthers; PN021; Zackary Davis; 12; 8; 25.6; 23; 13; 11; 2; 1
+21;Falcons; FA022; Avery Thompson; 8; 12; 22.9; 25; 14; 10; 0; 0
+22;Lions; LN023; Mia Evans; 9; 11; 27.3; 30; 12; 14; 1; 0
+23;Tigers; TG024; Carter Johnson; 14; 6; 24.0; 24; 10; 16; 4; 0
+24;Wolves; WL025; Harper Robinson; 7; 13; 21.5; 26; 13; 13; 0; 0
+25;Eagles; EG026; Jayden Taylor; 11; 9; 26.7; 28; 15; 11; 3; 0
+26;Hawks; HW027; Amelia Smith; 6; 14; 23.2; 22; 11; 15; 1; 0
+27;Jaguars; JG028; Ethan Walker; 10; 10; 25.1; 25; 10; 16; 0; 0
+28;Ravens; RV029; Olivia Brown; 15; 5; 28.9; 31; 13; 12; 5; 0
+29;Owls; OL030; Mason Green; 8; 12; 23.8; 26; 14; 11; 0; 0</s>
+30; Eagles; EG031; Julian Stewart; 12; 8; 26.7; 28; 12; 13; 3; 1
+31;Swans; SW032; Avery Davis; 9; 11; 24.5; 24; 11; 14; 0; 0
+32;Bears; BE033; Samuel Thompson; 14; 6; 29.6; 32; 15; 9; 2; 0
+33;Cardinals; CD034; Hayley Adams; 7; 13; 22.6; 27; 13; 12; 0; 0
+34;Panthers; PN035; Benjamin White; 11; 9; 27.2; 29; 11; 14; 0; 1
+35;Cougars; CG036; Victoria Hall; 6; 14; 21.8; 23; 13; 12; 0; 0
+36;Hawks; HW037; Alexander Miller; 13; 7; 28.3; 30; 12; 13; 4; 0
+37;Falcons; FL038; Charlotte Taylor; 8; 12; 24.4; 25; 10; 16; 0; 0
+38;Titans; TT039; Benjamin Johnson; 16; 4; 30.1; 33; 13; 12; 6; 0
+39;Lions; LN040; Gabrielle Roberts; 10; 10; 26.1; 27; 11; 14; 0; 0</s>
+40; Panthers; PN041; Andrew Moore; 12; 8; 28.5; 30; 12; 13; 3; 0 
+41;Hawks; HW042; Jennifer Brown; 9; 11; 25.6; 28; 15; 9; 0; 0 
+42;Eagles; EA043; Nathaniel Davis; 14; 6; 31.2; 34; 16; 10; 4; 1 
+43;Bears; BR044; Olivia Thompson; 11; 9; 27.8; 29; 14; 11; 0; 0 
+44;Jaguars; JG045; William Miller; 7; 13; 23.9; 26; 12; 13; 0; 0 
+45;Bulls; BL046; Ava Wilson; 13; 7; 32.7; 36; 11; 15; 5; 0 
+46;Knights; KN047; Simon White; 6; 14; 22.3; 24; 13; 12; 0; 0 
+47;Crusaders; CS048; Isabel Carter; 15; 5; 33.6; 37; 14; 11; 2; 0 
+48;Rangers; RG049; Benjamin Gray; 8; 12; 26.8; 28; 10; 15; 0; 0 
+49;Rockets; RT050; Emily Mitchell; 10; 10; 29.9; 31; 13; 12; 0; 0 </s>
+50;Eagles; EG051; Alexander King; 12; 8; 31.2; 35; 15; 10; 1; 2 
+51;Lions; LI052; Samantha Clark; 14; 6; 36.5; 39; 12; 13; 3; 1 
+52;Tigers; TI053; Daniel Harris; 7; 13; 24.8; 26; 11; 14; 0; 0 
+53;Panthers; PA054; Jessica Thompson; 9; 11; 28.4; 32; 13; 12; 0; 0 
+54;Hawks; HA055; Michael White; 11; 9; 32.7; 36; 14; 10; 2; 0 
+55;Falcons; FA056; Caroline Allen; 16; 4; 37.1; 41; 12; 13; 4; 0 
+56;Knights; KN057; William Brown; 6; 14; 22.3; 24; 10; 15; 0; 0 
+57;Bears; BE058; Rebecca Davis; 13; 7; 34.9; 38; 14; 11; 2; 1 
+58;Warriors; WA059; Henry Wilson; 5; 15; 20.6; 23; 12; 13; 0; 0 
+59;Giants; GI060; Lucy Taylor; 4; 16; 19.8; 22; 11; 14; 0; 0 </s>
+60;* Lions; LI061; Arthur Johnson; 11; 9; 27.3; 35; 12; 13; 3; 2 
+61;* Bulldogs; BU062; Brittany Miller; 14; 6; 31.1; 39; 15; 9; 1; 1 
+62;* Eagles; EA063; David Clark; 8; 12; 24.5; 27; 13; 11; 0; 0 
+63;* Panthers; PA064; Emily Thompson; 16; 4; 36.7; 42; 10; 14; 5; 3 
+64;* Raiders; RA065; Michael Jones; 6; 14; 18.4; 21; 13; 11; 0; 0 
+65;* Steelers; ST066; Emily Davis; 9; 11; 26.2; 33; 11; 13; 2; 1 
+66;* Patriots; PT067; Daniel White; 12; 8; 32.6; 40; 14; 8; 4; 4 
+67;* Falcons; FA068; Sarah Black; 7; 13; 22.8; 28; 10; 13; 0; 0 
+68;* Jaguars; JA069; William Green; 10; 10; 28.9; 36; 11; 12; 1; 1 
+69;* Colts; CO070; Jennifer Lewis; 15; 5; 37.5; 43; 13; 11; 6; 5 </s>
+70; * Eagles; EA071; Michael Brown; 12; 8; 29.6; 31; 11; 12; 2; 3 
+71;* Bears; BA072; Emily Davis; 8; 12; 26.4; 29; 10; 13; 0; 0 
+72;* Giants; GT073; Richard Hall; 9; 11; 31.2; 40; 12; 11; 1; 1 
+73;* Steelers; ST074; Laura Wilson; 14; 6; 33.1; 44; 13; 10; 4; 2 
+74;* Seahawks; SH075; Daniel Walker; 11; 9; 27.8; 35; 12; 11; 3; 0 
+75;* Broncos; BR076; Jennifer Thompson; 7; 13; 35.6; 45; 13; 12; 0; 0 
+76;* Patriots; PT077; Matthew Taylor; 16; 4; 38.2; 48; 13; 9; 7; 4 
+77;* Cowboys; CO078; Rebecca White; 6; 14; 24.5; 25; 11; 12; 0; 0 
+78;* Redskins; RS079; Samuel Harris; 10; 10; 26.9; 33; 13; 11; 1; 1 
+79;* Vikings; VK080; Olivia Moore; 13; 7; 30.7; 42; 13; 10; 5; 3 </s>
+80; * 49ers; NF001; Anthony Gonzales; 12; 8; 28.6; 45; 14; 9; 3; 2 
+81;* Patriots; NE002; Michael Brown; 15; 5; 34.2; 50; 14; 8; 2; 1 
+82;* Packers; WI003; Emily Davis; 14; 6; 33.1; 48; 12; 10; 4; 0 
+83;* Seahawks; WA004; Walter Green; 11; 9; 26.8; 38; 13; 10; 1; 2 
+84;* Steelers; PA005; Sarah Johnson; 8; 12; 25.8; 35; 11; 12; 0; 0 
+85;* Broncos; CO006; Robert Miller; 9; 11; 27.3; 39; 12; 10; 1; 1 
+86;* Eagles; PH007; Daniel Wilson; 7; 13; 23.9; 31; 11; 12; 0; 0 
+87;* Giants; NY008; Jennifer Taylor; 16; 4; 31.5; 46; 14; 8; 2; 0 
+88;* Falcons; GA009; Howard White; 6; 14; 25.6; 36; 11; 12; 0; 0 
+89;* Chiefs; MO010; Kimberly Harris; 12; 8; 29.4; 44; 13; 9; 3; 1 </s>

@@ -1,0 +1,11 @@
+;Rock Type; Mineral Composition; Age (Million Years); Formation Location; Stratigraphic Position; Subsurface Conditions; Hydrological Properties; Mechanical Properties; Weathering Grade; Fossil Content; Depositional Environment; Additional Rock Properties; Unique Geological Data
+0;  Igneous; Feldspar, Quartz, Mica, Amphibole; 250; Mid-Atlantic Ridge; Intrusive; Variable; Low permeability; Strong; Slow; Common; Volcanic; High thermal conductivity; History of seafloor spreading.
+1; Sedimentary; Calcite, Quartz, Clay Minerals; 120; Michigan Basin; Upper; Porous; Brittle; Moderate; None; Deep marine; High porosity; Contains oil and gas deposits.;
+2; Metamorphic; Garnet, Mica, Feldspar, Graphite; 350; Himalayas; High-grade; Schistose; Low permeability; High strength; Slow; Rare; Regional metamorphism; High electrical conductivity.;
+3; Igneous; Olivine, Pyroxene, Plagioclase; 180; Hawaiian Islands; Extrusive; Variable; Low permeability; Strong; Rapid; Common; Volcanic; Low thermal conductivity; History of hotspot volcanism.
+4; Sedimentary; Limestone, Dolomite, Calcite, Quartz; 500; Rocky Mountains; Platform; Porous; Brittle; Slow; Fossil-rich; Platform carbonate; Contains oil and gas deposits.;;
+5; Metamorphic; Biotite, Muscovite, Quartz, Feldspar; 420; Urals; Medium-grade; Gneissic; Low permeability; High strength; Slow; None; Dynamic metamorphism; High radioactivity.;
+6; Igneous; Granite, Quartz, Feldspar, Mica; 430; Canadian Shield; Intrusive; Variable; Low permeability; Strong; Slow; Rare; Plutonic; High thermal conductivity; History of continental rifting.
+7; Sedimentary; Shale, Clay Minerals, Quartz, Carbonate; 280; Paris Basin; Basinal; Porous; Brittle; Slow; Common; Deep marine; High organic content; Contains natural gas deposits.;
+8; Metamorphic; Staurolite, Garnet, Biotite, Muscovite; 300; Scottish Highlands; High-grade; Schistose; Low permeability; High strength; Slow; Rare; Regional metamorphism; High electrical conductivity.;
+9; Igneous; Gabbro, Pyroxene, Olivine, Plagioclase; 1100; Mid-Atlantic Ridge; Intrusive; Variable; Low permeability; Strong; Slow; Rare; Volcanic; High thermal conductivity; History of seafloor spreading.</s>

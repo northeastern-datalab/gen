@@ -1,0 +1,11 @@
+;Soils Analysis;Bedslope Orientations and Sizes;Geological Structures;Tectonic Setting;Volcanism Activity;Impact Events;Quaternary Features;Glacial History & Erosions;Seismoactivity & Earthquakes;Folding Patterns and Shearing Zones;Metamorphosis Types and Grades
+0; Soils Analysis;Moderate slope E-W;Syncline;Oceanic setting;Low volcanism activity;Meteorite impact;Outwash plains;Advance and retreat;Frequent minor quakes;Anticlinal flexure and thrust;Hydrothermal metamorphism
+1;Soils Analysis;Steep slope N-S;Monocline;Continental setting;Intermittent volcanism;Comet impact;Dune fields;Static condition;Rare major earthquakes;Folding without imbrication;Dynamic metamorphism
+2;Soils Analysis;Gentle slope NE-SW;Horst;Mixed setting;Background volcanism;Asteroid impact;Till plains;Polyphase glacial activity;Infrequent earthquakes;General shearing; contact metamorphism
+3;Soils Analysis;Severe slope SE-NW;Graben;Mixed setting;High volcanism activity;No impact;Glacial valleys;Advance and retreat;Occasional large quakes;Flexure and reverse fault; Regional metamorphism
+4;Soils Analysis;Mild slope W-E;Basin;Oceanic setting;Low volcanism activity;Tektite deposit;Estuary;Polyphase glacial activity;Infrequent earthquakes;Monoclinal flexure; Mineral metamorphism
+5;Soils Analysis;Level slope SW-NE;Dome;Continental setting;Intermittent volcanism;Micro-meteorite impact;Lacustrine;Static condition;Rare major earthquakes;Radial flexure and normal fault; Foliated metamorphism
+6;Soils Analysis;Severe slope NW-SE;Fault;Mixed setting;High volcanism activity;Comet impact;Fjord;Advance and retreat;Occasional large quakes;Strike-slip fault; Pseudotachylite metamorphism
+7;Soils Analysis;Mild slope S-N;Col;Oceanic setting;Low volcanism activity;Meteorite impact;Glaciofluvial;Polyphase glacial activity;Infrequent earthquakes;Flexure and imbrication; Slaty cleavage metamorphism
+8;Soils Analysis;Level slope WNW-ESE;Butte;Continental setting;Intermittent volcanism;Tektite deposit;Loess;Static condition;Rare major earthquakes;Anticlinal flexure and thrust; Hornfels metamorphism
+9;Soils Analysis;Moderate slope ENE-WSW;Anticline;Mixed setting;High volcanism activity;Asteroid impact;Stratified drift;Advance and retreat;Frequent minor quakes;Synclinal flexure and reverse fault; Gneissic metamorphism</s>

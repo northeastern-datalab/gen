@@ -1,0 +1,11 @@
+;Rock Type; Mineral Composition; Age (Million Years); Formation Location; Rock Density; Porosity; Permeability; Shear Strength; Tensile Strength; Compressive Strength; Elastic Modulus
+0;  Igneous; Feldspar, Quartz, & Pyroxene; 100; Oceanic Ridges; 2.9 g/cm^3; 0%; 0; 5 MPa; 2 MPa; 100 MPa; 60 GPa
+1; Sedimentary; Calcite & Silica; 200; Riverbeds; 2.7 g/cm^3; 40%; 5 Darcy; 3 MPa; 1 MPa; 60 MPa; 30 GPa
+2; Metamorphic; Garnet, Staurolite, & Sillimanite; 500; Subduction Zones; 3.3 g/cm^3; 10%; 1 Darcy; 8 MPa; 4 MPa; 150 MPa; 80 GPa
+3; Limestone; Calcite; 250; Shallow Marine; 2.7 g/cm^3; 20%; 1 Darcy; 4 MPa; 1 MPa; 50 MPa; 40 GPa
+4; Schist; Mica, Feldspar, & Quartz; 400; Mountain Belts; 2.8 g/cm^3; 15%; 2 Darcy; 7 MPa; 3 MPa; 120 MPa; 70 GPa
+5; Sandstone; Quartz & Feldspar; 350; Deserts & Beaches; 2.6 g/cm^3; 10%; 10 Darcy; 5 MPa; 2 MPa; 70 MPa; 50 GPa
+6; Basalt; Pyroxene & Olivine; 50; Oceanic Crust; 3.0 g/cm^3; 5%; 0.1 Darcy; 10 MPa; 2 MPa; 250 MPa; 100 GPa
+7; Gneiss; Quartz, Feldspar, & Biotite; 800; Ancient Mountain Belts; 2.9 g/cm^3; 5%; 1 Darcy; 9 MPa; 4 MPa; 200 MPa; 90 GPa
+8; Shale; Clay Minerals & Quartz; 450; Ocean Floors & Lakes; 2.7 g/cm^3; 45%; 0.1 Darcy; 2 MPa; 0.5 MPa; 30 MPa; 20 GPa
+9; Granite; Quartz, Feldspar, & Mica; 1200; Continental Crust; 2.7 g/cm^3; 20%; 0.1 Darcy; 8 MPa; 5 MPa; 300 MPa; 100 GPa</s>

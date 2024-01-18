@@ -1,0 +1,11 @@
+;Rocket Type; Launch Location; Launch Date; Launch Successful; Landing Type; Reusability; Max Payload; Engine Type; Fuel Type; Manufacturer; Country of Origin; First Stage Engine Count; Second Stage Engine Count; Total Stage Count
+0; Falcon Heavy; Kennedy Space Center; February 6, 2018; Successful; Landing - Both Boosters and Center Core; Reusable; 63.8 metric tons; Liquid Rocket Engine; Liquid - LOX/RP-1; SpaceX; USA; 3; 1; 2
+1;Falcon 9 Block 5; Cape Canaveral Air Force Station; May 11, 2018; Successful; Landing - Drone Ship; Reusable; 22.8 metric tons; Liquid Rocket Engine; Liquid - LOX/RP-1; SpaceX; USA; 1; 1; 2
+2;Ariane 5 ECA; Guiana Space Centre; June 30, 2017; Successful; No Landing; Non-reusable; 20 metric tons; Cryogenic Rocket Engine; Liquid - LH2/LOX; Arianespace; Europe; 2; 1; 2
+3;Atlas V 551; Cape Canaveral Air Force Station; January 20, 2018; Successful; No Landing; Non-reusable; 18.8 metric tons; Liquid Rocket Engine; Liquid - RP-1/LOX; United Launch Alliance; USA; 3; 1; 2
+4;Delta IV Heavy; Cape Canaveral Air Force Station; August 12, 2018; Successful; No Landing; Non-reusable; 28.4 metric tons; Liquid Rocket Engine; Liquid - RP-1/LOX/LH2; United Launch Alliance; USA; 3; 0; 2
+5;H-IIB; Tanegashima Space Center; September 19, 2018; Successful; No Landing; Non-reusable; 16.5 metric tons; Liquid Rocket Engine; Liquid - LOX/LH2; Mitsubishi Heavy Industries; Japan; 2; 1; 2
+6;Proton-M Briz-M; Baikonur Cosmodrome; June 8, 2017; Successful; No Landing; Non-reusable; 6.3 metric tons; Liquid Rocket Engine; Liquid - N2O4/UDMH; International Launch Services; Russia; 1; 1; 2
+7;Angara A5; Plesetsk Cosmodrome; December 23, 2014; Successful; No Landing; Non-reusable; 24.5 metric tons; Liquid Rocket Engine; Liquid - LOX/LH2/kerosene; Khrunichev Space Center; Russia; 1; 1; 2
+8;Long March 3B; Xichang Satellite Launch Center; March 30, 2018; Successful; No Landing; Non-reusable; 12 metric tons; Liquid Rocket Engine; Liquid - N2O4/UDMH; China National Space Administration; China; 3; 1; 2
+9;SLV; Satish Dhawan Space Centre; April 10, 1987; Successful; No Landing; Non-reusable; 440 kg; Solid Rocket Engine; Solid; Indian Space Research Organisation; India; 4; 0; 2</s>

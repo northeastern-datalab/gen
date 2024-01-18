@@ -1,0 +1,11 @@
+;Genetic Disorder; Prevalence Rate; Chromosome Number; Chromosome Location; Symptoms; Expression Pattern; Inheritance Pattern
+0; Cystic Fibrosis; 1 in 2,500; Chromosome 7; 7q31.2; Persistent cough, lung infections; Multiple organs; Autosomal Recessive
+1;Huntington's Disease; 1 in 10,000; Chromosome 4; 4p16.3; Uncontrolled movements, emotional problems; Brain; Autosomal Dominant
+2;Sickle Cell Anemia; 1 in 500 (African Americans); Chromosome 11; 11p15.4; Fatigue, pain crises; Multiple organs; Autosomal Recessive
+3;Down Syndrome; 1 in 700; Chromosome 21; Entire 21st chromosome; Developmental delays, distinct facial features; Multiple organs; Nondisjunction of Chromosome 21
+4;Duchenne Muscular Dystrophy; 1 in 3,500 male births; Chromosome X; Xp21.2-p21.1;Muscle weakness, breathing difficulties; Multiple organs; X-linked Recessive
+5; Marfan Syndrome; 1 in 5,000; Chromosome 15; 15q21.1; Long limbs, lens dislocation; Multiple organs; Autosomal Dominant
+6;Neurofibromatosis Type 1; 1 in 3,000; Chromosome 17; 17q11.2; Tumors on nerves, skin changes; Multiple organs; Autosomal Dominant
+7;Phenylketonuria (PKU); 1 in 10,000-15,000; Chromosome 12; 12q23.2; Intellectual disability, light-colored skin, eyes; Multiple organs; Autosomal Recessive
+8;Tuberous Sclerosis Complex; 1 in 6,000; Chromosome 9; 9q34.3; Benign tumors, skin abnormalities; Multiple organs; Autosomal Dominant
+9;Fragile X Syndrome; 1 in 4,000 males; Chromosome X; Xq27.3; Learning disabilities, anxiety, distinct facial features; Multiple organs; X-linked Dominant</s>

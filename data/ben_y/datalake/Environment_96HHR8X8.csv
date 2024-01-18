@@ -1,0 +1,111 @@
+;Air\_Quality;Water\_Cleanliness;Species\_Count;Forest\_Area\_km2;Biodiversity\_Index;Avg\_Temperature\_C;Avg\_Rainfall\_mm;Soil\_Health\_Index;Pollution\_Level;Population\_Density;Legislation\_Status;Public\_Engagement\_Score;Additional\_Column
+0;" ""Excellent";Very Clean;High Count;8000 km2;3500;15;1200;85;Low;100 persons/km2;Passed;88%;"Initiative in place"""
+1;"""Good";Clean;Medium Count;6500 km2;3000;18;1000;80;Medium;300 persons/km2;Under Review;75%;"Awareness programs"""
+2;"""Fair";Moderately Clean;Low Count;4000 km2;2500;20;800;70;High;500 persons/km2;Proposed;60%;"Educational campaigns"""
+3;"""Poor";Slightly Clean;Very Low Count;2000 km2;2000;25;1500;60;Very High;800 persons/km2;Not Considered;40%;"Urgent action needed"""
+4;"""Very Poor";Unclean; Near Zero Count;1000 km2;1500;30;2000;50;Extremely High;1200 persons/km2;Blocked;30%;"Crisis level situation"""
+5;"""Improving";Cleaning;Medium-High Count;7000 km2;3200;16;1100;75;Medium-Low;150 persons/km2;Passed;80%;"Efforts being made"""
+6;"""Degrading";Polluted;High-Losing Count;5500 km2;2800;22;1300;65;High;250 persons/km2;Under Review;65%;"Serious concern"""
+7;"""Stable";Moderately Clean;Steady Count;6000 km2;2900;19;900;70;Medium;200 persons/km2;Proposed;70%;"Monitoring required"""
+8;"""Declining";Polluted;Decreasing Count;3000 km2;2200;24;1600;55;Very High;700 persons/km2;Not Considered;50%;"Immediate attention needed"""
+9;"""Unpredictable";Varying;Count Fluctuating;4500 km2;2600;21;1200;68;High;350 persons/km2;Blocked;45%;"Requires constant evaluation""</s>"
+10;" ""Improving";Very Clean;Increasing Count;6500 km2;3100;18;800;75;Low;150 persons/km2;Passed;85%;"Well done""  "
+11;"""Stable";Clean;Steady Count;5000 km2;2800;20;1000;60;Medium;300 persons/km2;Under Review;60%;"Needs some attention""  "
+12;"""Declining";Slightly Polluted;Decreasing Count;2500 km2;2000;25;1500;50;High;800 persons/km2;Proposed;40%;"Take action""  "
+13;"""Unpredictable";Varying;Count Fluctuating;5800 km2;3000;19;1100;65;Medium;250 persons/km2;Blocked;55%;"Evaluate and pass legislation""  "
+14;"""Improving";Very Clean;Increasing Count;7000 km2;3200;17;700;78;Low;100 persons/km2;Passed;90%;"Excellent job""  "
+15;"""Stable";Moderately Clean;Steady Count;4000 km2;2700;22;1300;62;Medium;400 persons/km2;Under Review;65%;"Pay attention to fluctuations""  "
+16;"""Declining";Polluted;Decreasing Count;2000 km2;1800;26;1800;45;Very High;900 persons/km2;Not Considered;35%;"Urgent consideration needed""  "
+17;"""Unpredictable";Varying;Count Fluctuating;4000 km2;2300;21;1400;72;Medium;500 persons/km2;Blocked;70%;"Address soil health and pollution""  "
+18;"""Improving";Clean;Increasing Count;6000 km2;3100;18;900;72;Low;150 persons/km2;Passed;80%;"Great progress""  "
+19;"""Stable";Slightly Clean;Steady Count;5500 km2;2900;20;1100;65;Medium;350 persons/km2;Under Review;70%;"Maintain current status""</s>"
+20;" ""Improving";Very Clean;Rising Count;6200 km2;3500;17;800;75;Low;100 persons/km2;Passed;85%;"Keep up the good work""  "
+21;"""Declining";Dirty;Decreasing Count;3800 km2;1900;22;1500;60;High;600 persons/km2;Blocked;60%;"Urgent attention required""  "
+22;"""Stable";Clean;Steady Count;5600 km2;2800;19;1000;70;Low;400 persons/km2;Passed;75%;"Maintain current efforts""  "
+23;"""Unpredictable";Varying;Fluctuating Count;4100 km2;2500;20,5;1300;68;Medium;550 persons/km2;Under Review;65%;"Monitor and take necessary actions""  "
+24;"""Improving";Very Clean;Increasing Count;6300 km2;3600;16,5;700;76;Low;90 persons/km2;Passed;90%;"Commendable efforts, continue thus""  "
+25;"""Declining";Dirty;Decreasing Count;3700 km2;1700;23,5;1600;55;High;650 persons/km2;Blocked;55%;"Urgent actions needed, implement new policies""  "
+26;"""Stable";Slightly Dirty;Steady Count;5400 km2;2700;21,5;1200;62;Medium;400 persons/km2;Under Review;60%;"Ensure proper enforcement of laws""  "
+27;"""Unpredictable";Varying;Fluctuating Count;4200 km2;2400;19,5;1400;72;Low;500 persons/km2;Passed;75%;"Focus on both air quality and water cleanliness""  "
+28;"""Improving";Clean;Rising Count;6100 km2;3300;18,5;800;73;Medium;150 persons/km2;Under Review;80%;"Strengthen regulations and public participation""  "
+29;"""Declining";Dirty;Decreasing Count;3600 km2;1600;24,5;1700;50;High;700 persons/km2;Blocked;50%;"Need immediate intervention and policy changes"".</s>"
+30;" ""Stable";Clear;Steady Count;5000 km2;2800;21,5;900;75;Low;200 persons/km2;Passed;78%;"Promote sustainable practices""  "
+31;"""Deteriorating";Polluted;Falling Count;4600 km2;2200;23,5;1200;60;Medium;350 persons/km2;Under Review;65%;"Implement stricter regulations""  "
+32;"""Improving";Clean;Rising Count;6500 km2;3700;18,5;700;78;Low;100 persons/km2;Passed;82%;"Encourage eco-friendly lifestyle""  "
+33;"""Unpredictable";Varying;Fluctuating Count;4800 km2;2600;20,5;1300;70;Medium;400 persons/km2;Blocked;55%;"Promote education on environmental issues""  "
+34;"""Stable";Clean;Steady Count;5500 km2;3000;19,5;800;76;Low;250 persons/km2;Passed;85%;"Strengthen enforcement of existing laws""  "
+35;"""Declining";Dirty;Decreasing Count;3200 km2;1400;26,5;1800;55;High;800 persons/km2;Under Review;45%;"Urge for urgent policy changes""  "
+36;"""Improving";Clear;Rising Count;6800 km2;3900;17,5;600;79;Low;120 persons/km2;Passed;90%;"Involve communities in conservation efforts""  "
+37;"""Deteriorating";Polluted;Falling Count;4400 km2;2100;24,5;1000;65;Medium;450 persons/km2;Blocked;40%;"Promote eco-tourism as a sustainable solution""  "
+38;"""Stable";Varying;Steady Count;5200 km2;2900;22,5;1100;71;Medium;300 persons/km2;Under Review;70%;"Invest in research and innovation""  "
+39;"""Declining";Dirty;Decreasing Count;3400 km2;1500;27,5;1600;58;High;900 persons/km2;Passed;52%;"Collaborate with international organizations for support"".</s>"
+40;" ""Improving";Clean;Increasing Count;6000 km2;3500;20,5;800;78;Low;250 persons/km2;Implemented;85%;"Promote environmental education""  "
+41;"""Stable";Clear;Steady Count;5000 km2;3100;23,5;1200;70;Medium;350 persons/km2;Under Consideration;65%;"Encourage sustainable farming practices""  "
+42;"""Deteriorating";Polluted;Falling Count;4000 km2;1800;26,5;1300;62;High;500 persons/km2;Blocked;45%;"Impose stricter penalties for pollution""  "
+43;"""Improving";Clean;Increasing Count;6500 km2;3600;19,5;700;81;Low;200 persons/km2;Implemented;90%;"Establish more protected areas""  "
+44;"""Declining";Dirty;Decreasing Count;3000 km2;1300;28,5;1800;55;Very High;1000 persons/km2;Passed;50%;"Promote clean energy solutions""  "
+45;"""Stable";Clear;Steady Count;5500 km2;3200;21,5;900;73;Medium;320 persons/km2;Under Review;75%;"Incentivize eco-friendly practices""  "
+46;"""Deteriorating";Polluted;Falling Count;3900 km2;1700;27,5;1500;60;High;600 persons/km2;Blocked;48%;"Collaborate with local communities""  "
+47;"""Improving";Clean;Increasing Count;7000 km2;3800;18,5;600;83;Low;180 persons/km2;Implemented;95%;"Strengthen environmental regulations""  "
+48;"""Stable";Varying;Steady Count;4800 km2;2700;24,5;1000;72;Medium;380 persons/km2;Under Consideration;60%;"Promote green infrastructure""  "
+49;"""Declining";Dirty;Decreasing Count;2900 km2;1200;30,5;1700;50;Very High;1200 persons/km2;Passed;45%;"Support climate change initiatives"".</s>"
+50;" ""Stable";Clean;Slightly Decreasing Count;4500 km2;2900;22,5;800;75;Low;420 persons/km2;Implemented;80%;"Promote renewable energy resources"" "
+51;"""Improving";Slightly Dirty;Steady Count;5200 km2;3100;19,5;550;87;Medium;210 persons/km2;Under Consideration;70%;"Strengthen recycling programs"" "
+52;"""Declining";Varying;Slightly Increasing Count;3200 km2;1500;27,5;1300;55;Very High;1400 persons/km2;Passed;50%;"Implement eco-friendly transportation"" "
+53;"""Improving";Clean;Increasing Count;7500 km2;4100;16,5;650;89;Low;160 persons/km2;Implemented;92%;"Restore damaged ecosystems"" "
+54;"""Stable";Varying;Steady Count;4900 km2;2800;25,5;900;70;Medium;370 persons/km2;Under Consideration;65%;"Promote energy-efficient practices"" "
+55;"""Declining";Dirty;Decreasing Count;2700 km2;1000;33,5;1800;45;Very High;1100 persons/km2;Passed;40%;"Support reforestation initiatives"" "
+56;"""Improving";Clean;Slightly Increasing Count;6800 km2;3400;15,5;500;91;Low;150 persons/km2;Implemented;96%;"Improve waste management systems"" "
+57;"""Stable";Varying;Slightly Decreasing Count;4600 km2;2600;26,5;750;78;Medium;390 persons/km2;Under Consideration;75%;"Promote sustainable agriculture"" "
+58;"""Declining";Dirty;Steady Count;2800 km2;1100;31,5;1500;48;Very High;1300 persons/km2;Passed;42%;"Strengthen environmental education"" "
+59;"""Improving";Clean;Steady Count;7300 km2;3700;17,5;620;85;Low;170 persons/km2;Implemented;97%;"Invest in green spaces and parks"".</s>"
+60;" ""Stable";Clean;Slightly Increasing Count;5600 km2;2800;24,5;550;82;Low;260 persons/km2;Implemented;88%;"Create more natural reserves"" "
+61;"""Improving";Varying;Steady Count;6400 km2;3200;21,5;800;79;Medium;450 persons/km2;Under Consideration;73%;"Promote renewable energy"" "
+62;"""Declining";Dirty;Decreasing Count;2200 km2;800;34,5;1200;43;Very High;1700 persons/km2;Passed;38%;"Impose stricter regulations"" "
+63;"""Stable";Clean;Steady Count;4800 km2;2900;27,5;500;80;Low;330 persons/km2;Implemented;92%;"Promote recycling programs"" "
+64;"""Improving";Varying;Slightly Decreasing Count;7100 km2;3400;19,5;700;84;Medium;220 persons/km2;Under Consideration;70%;"Invest in public transportation"" "
+65;"""Declining";Dirty;Steady Count;2900 km2;1000;30,5;1450;45;Very High;1450 persons/km2;Passed;40%;"Impose fines for pollution"" "
+66;"""Stable";Clean;Slightly Increasing Count;5200 km2;2700;25,5;600;83;Low;280 persons/km2;Implemented;95%;"Educate the public on conservation"" "
+67;"""Improving";Varying;Increasing Count;7500 km2;3900;16,5;650;88;Medium;160 persons/km2;Under Consideration;85%;"Implement green initiatives"" "
+68;"""Declining";Dirty;Decreasing Count;2000 km2;600;33,5;1600;40;Very High;1800 persons/km2;Passed;35%;"Enforce existing regulations"" "
+69;"""Stable";Clean;Steady Count;4900 km2;2800;26,5;520;78;Low;300 persons/km2;Implemented;91%;"Promote eco-friendly practices"".</s>"
+70;" ""Improving";Clean;Increasing Count;8200 km2;4100;17,5;700;92;Medium;140 persons/km2;Under Consideration;89%;"Support environmental education"" "
+71;"""Declining";Varying;Decreasing Count;3000 km2;700;35,5;1400;45;High;2000 persons/km2;Passed;38%;"Implement anti-pollution measures"" "
+72;"""Stable";Clean;Steady Count;5500 km2;2900;24,5;600;80;Low;400 persons/km2;Implemented;90%;"Strengthen law enforcement"" "
+73;"""Improving";Dirty;Increasing Count;6800 km2;3600;19,5;800;87;Medium;150 persons/km2;Under Consideration;82%;"Promote sustainable agriculture"" "
+74;"""Declining";Clean;Decreasing Count;1800 km2;550;37,5;1200;47;Very High;2200 persons/km2;Passed;30%;"Encourage eco-friendly transportation"" "
+75;"""Stable";Varying;Steady Count;4600 km2;2600;27,5;550;75;Low;350 persons/km2;Implemented;93%;"Empower local communities"" "
+76;"""Improving";Dirty;Increasing Count;8000 km2;4500;15,5;580;89;Medium;130 persons/km2;Under Consideration;88%;"Implement green projects"" "
+77;"""Declining";Clean;Decreasing Count;2500 km2;650;32,5;1700;42;High;1900 persons/km2;Passed;36%;"Promote recycling programs"" "
+78;"""Stable";Varying;Steady Count;5100 km2;2700;25,5;630;79;Low;320 persons/km2;Implemented;92%;"Strengthen environmental monitoring"" "
+79;"""Improving";Clean;Increasing Count;7000 km2;4200;18,5;750;90;Medium;120 persons/km2;Under Consideration;84%;"Promote climate change awareness"".</s>"
+80;" ""Improving";Clear;Steady Count;8500 km2;5600;15,8;800;93;Low;80 persons/km2;Passed;78%;"Expand national parks"" "
+81;"""Stable";Slightly Polluted;Slightly Decreasing Count;4800 km2;2900;26,3;520;68;Medium;600 persons/km2;Implemented;62%;"Promote sustainable agriculture"" "
+82;"""Declining";Clean;Steady Count;3200 km2;600;33,2;1200;45;High;2100 persons/km2;Under Consideration;45%;"Implement waste management systems"" "
+83;"""Improving";Polluted;Increasing Count;6000 km2;3800;19,9;450;80;Medium;150 persons/km2;Passed;88%;"Improve water treatment facilities"" "
+84;"""Stable";Varying;Decreasing Count;5600 km2;2500;24,5;700;75;Low;350 persons/km2;Implemented;85%;"Implement stricter industrial emission standards"" "
+85;"""Improving";Clean;Steady Count;7500 km2;4800;16,7;900;96;Low;90 persons/km2;Passed;93%;"Promote renewable energy usage"" "
+86;"""Declining";Slightly Polluted;Increasing Count;2800 km2;550;34,6;1500;38;High;2800 persons/km2;Under Consideration;30%;"Improve recycling and waste management"" "
+87;"""Stable";Clean;Steady Count;6000 km2;3600;23,9;800;88;Low;180 persons/km2;Implemented;70%;"Encourage eco-tourism"" "
+88;"""Improving";Clean;Slightly Decreasing Count;9000 km2;6000;14,5;1000;92;Low;50 persons/km2;Passed;96%;"Strengthen environmental education in schools"" "
+89;"""Declining";Polluted;Decreasing Count;3000 km2;400;35,7;1800;25;High;3000 persons/km2;Under Consideration;25%;"Implement stronger regulations on industrial emissions"".</s>"
+90; Improving;Very Clean;Slightly Increasing Count;11000 km2;7500;12,6;1200;95;Low;120 persons/km2;Proposed;88%;Promote recycling programs in communities 
+91;Stable;Clean;Steady Count;5000 km2;3000;25,1;700;84;Low;200 persons/km2;Implemented;65%;Encourage sustainable farming practices 
+92;Declining;Slightly Polluted;Decreasing Count;2000 km2;1500;30,5;2000;30;High;4500 persons/km2;Under Consideration;45%;Enforce stricter waste management regulations 
+93;Improving;Clean;Slightly Increasing Count;8000 km2;5000;18,2;900;93;Low;250 persons/km2;Passed;92%;Implement afforestation projects 
+94;Stable;Polluted;Steady Count;7000 km2;3800;21,8;1400;68;Medium;300 persons/km2;Implemented;50%;Promote public transportation usage 
+95;Declining;Very Polluted;Decreasing Count;4000 km2;2200;38,6;2500;15;Very High;5600 persons/km2;Under Consideration;35%;Promote renewable energy sources 
+96;Improving;Clean;Slightly Decreasing Count;10000 km2;6500;13,9;1100;97;Low;150 persons/km2;Passed;98%;Strengthen law enforcement on environmental crimes 
+97;Stable;Slightly Polluted;Steady Count;6500 km2;4200;24,5;750;75;Medium;350 persons/km2;Implemented;55%;Educate industries on cleaner production methods 
+98;Declining;Polluted;Decreasing Count;3500 km2;1800;33,4;1900;20;High;6000 persons/km2;Under Consideration;20%;Promote green spaces in urban planning 
+99;Improving;Very Clean;Slightly Increasing Count;13000 km2;8000;11,5;1000;96;Low;100 persons/km2;Passed;99%;Encourage energy efficiency in residential buildings.</s>
+100; Improving;Very Clean;Steady Count;10500 km2;8500;15,6;800;98;Low;250 persons/km2;Passed;90%;Incentivize sustainable farming practices 
+101;Steady;Slightly Polluted;Slightly Decreasing Count;5500 km2;3900;25,1;600;70;Medium;420 persons/km2;Implemented;63%;Install efficient wastewater treatment facilities 
+102;Declining;Clean;Steady Count;8000 km2;5000;22,9;900;85;Low;1200 persons/km2;Under Consideration;44%;Enforce stricter industrial emission standards 
+103;Improving;Very Clean;Increasing Count;15000 km2;10000;10,7;550;95;Low;50 persons/km2;Passed;97%;Promote eco-tourism 
+104;Steady;Polluted;Slightly Decreasing Count;2200 km2;1200;36,8;1300;30;High;8500 persons/km2;Implemented;30%;Improve public transportation systems 
+105;Declining;Slightly Polluted;Decreasing Count;4000 km2;2100;28,6;1700;40;Medium;2800 persons/km2;Under Consideration;25%;Implement waste sorting and recycling programs 
+106;Improving;Clean;Slightly Increasing Count;9000 km2;6600;18,2;1100;92;Low;800 persons/km2;Passed;95%;Promote renewable energy initiatives 
+107;Steady;Very Clean;Steady Count;12000 km2;9500;14,3;1200;93;Low;150 persons/km2;Implemented;85%;Encourage green building certifications 
+108;Declining;Polluted;Increasing Count;2800 km2;1600;39,9;2100;10;High;7000 persons/km2;Under Consideration;22%;Regulate mining and extraction activities 
+109;Improving;Slightly Polluted;Slightly Increasing Count;6800 km2;5200;26,7;850;65;Medium;2000 persons/km2;Passed;60%;Provide education on waste reduction and composting.</s>

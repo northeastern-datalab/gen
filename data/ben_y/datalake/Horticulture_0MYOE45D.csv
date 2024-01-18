@@ -1,0 +1,11 @@
+;SeparationDistance;MinimumTemperature;MaximumTemperature;GrowthRate;AverageMaturityTime;PollinationDetails;FloweringSeason;FruitBearingSeason;CommonPestsAndDiseases;PreferredCompanionPlants;MaintenanceCost;AdditionalNotes
+0;" ""3 feet"; 50 degrees Fahrenheit; 80 degrees Fahrenheit; 2 inches per week; 60-90 days; Self-pollinating; Spring; Late Summer; Aphids, Powdery Mildew; Nitrogen-fixing plants like clover; Moderate;" Prefers well-drained soil."""
+1;"""2 feet"; 60 degrees Fahrenheit; 75 degrees Fahrenheit; 1.5 inches per week; 45-70 days; Cross-pollination needed; Early Summer; Early Fall; Whiteflies, Spider Mites; Marigolds, Chamomile; Low;" Provides ground cover."""
+2;"""1 foot"; 65 degrees Fahrenheit; 85 degrees Fahrenheit; 3 inches per week; 30-50 days; Insect pollination; Mid-Summer; Mid-Autumn; Thrips, Cutworms; Basil, Parsley; High;" Requires regular watering."""
+3;"""4 feet"; 45 degrees Fahrenheit; 70 degrees Fahrenheit; 1 inch per week; 75-100 days; Wind pollination; Late Spring; Early Winter; Black Spot, Rust; Mint, Geranium; Low;" Tolerant of poor soil."""
+4;"""6 feet"; 55 degrees Fahrenheit; 90 degrees Fahrenheit; 0.5 inches per week; 90-120 days; Self-pollinating; Early Spring; Late Summer; Nematodes, Scale; Lavender, Rosemary; Moderate;" Prefers full sun."""
+5;"""5 feet"; 70 degrees Fahrenheit; 80 degrees Fahrenheit; 1.5 inches per week; 50-75 days; Bee pollination; Late Spring; Early Fall; Bacterial Spot, Canker; Zinnia, Daisy; Low;" Attracts beneficial insects."""
+6;"""3 feet"; 60 degrees Fahrenheit; 70 degrees Fahrenheit; 2 inches per week; 65-95 days; Hand pollination; Mid-Summer; Late Autumn; Leafminer, Flea Beetle; Spinach, Lettuce; High;" Needs consistent moisture."""
+7;"""2 feet"; 50 degrees Fahrenheit; 60 degrees Fahrenheit; 1 inch per week; 100-120 days; Insect pollination; Late Spring; Early Winter; Rust, Powdery Mildew; Chives, Oregano; Moderate;" Prefers well-drained soil."""
+8;"""4 feet"; 70 degrees Fahrenheit; 90 degrees Fahrenheit; 0.5 inches per week; 45-60 days; Self-pollinating; Mid-Summer; Early Fall; Mosaic Virus, Blight; Aster, Coneflower; Low;" Prefers full sun."""
+9;"""5 feet"; 65 degrees Fahrenheit; 85 degrees Fahrenheit; 2 inches per week; 70-90 days; Wind pollination; Spring; Late Summer; Aphids, Scale; Sage, Thyme; Moderate;" Tolerant of drought.""</s>"

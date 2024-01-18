@@ -1,0 +1,13 @@
+;Vaccination Status; Previous Surgeries; Dietary Needs; Environmental Factors; Medical History Summary;\
+0; Vaccination Status; Spayed; No dietary restrictions; Indoor with access to yard; Healthy, regular check-ups;
+1;Previous Surgeries; Neutered; Food allergies (chicken, beef); Indoor only; History of skin issues, now managed;
+2;Vaccination Status; Up-to-date; Diabetic, requires insulin; Indoor only; History of obesity, now managed with diet and exercise;
+3;Previous Surgeries; Spayed; Senior dog with arthritis; Minimal exposure to outdoors; History of hip dysplasia;
+4;Dietary Needs; Raw diet; Previous cruciate ligament repair; Indoor with access to yard; Regular exercise, no restrictions;
+5;Environmental Factors; Indoor/Outdoor; Allergies (pollen, dust), requires meds; Regular vet check-ups; No major surgeries;
+6;Medical History Summary; Regular check-ups; No dietary needs; Indoor only; Previous ear infections, now managed;
+7;Vaccination Status; Up-to-date; No dietary restrictions; Indoor/Outdoor; History of anxiety, now managed with medication;
+8;Previous Surgeries; Neutered; Special diet for weight management; Indoor only; History of dental issues, now managed with regular cleanings;
+9;Dietary Needs; Grain-free diet; Previous ACL repair; Indoor with access to yard; Active, no restrictions;
+10;Environmental Factors; Indoor only; Allergies (fleas, grass), requires meds; Regular vet check-ups; No surgeries;
+11;Medical History Summary; Regular check-ups; Strict vegetarian diet; Indoor only; History of heart murmur, now monitored by vet.</s>;

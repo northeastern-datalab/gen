@@ -1,0 +1,11 @@
+;QuantityInStock; AveragePrice; TemperaturePreference; HeightAtMaturity; SpacingRequirements; WaterUsagePeakSeason; FertilizerRecommendations; ToolsNeedForMaintenance; HarvestMonths; BestTimeToPrune; DownTimes; PropagationMethods; SoilPh; SunExposure
+0; 10;5.99;60-70°F;3ft;2ft apart;10gal/week;blood meal, compost;pruner, garden trowel;September-November;late winter;no downtime;seeds, cuttings;6.0-6.5;full sun
+1;9;8.49;70-80°F;1ft;1ft apart;5gal/week;bone meal, seaweed;hand weeder, shears;June-August;early spring;mid-summer;division, layering;6.0-7.0;partial shade
+2;8;12.49;55-65°F;6ft;4ft apart;15gal/week;cottonseed meal, worm castings;lopper, shovel;October-December;spring;early summer;grafting, air layering;5.5-6.5;full sun
+3;12;7.99;50-60°F;2.5ft;2ft apart;8gal/week;fish emulsion, greensand;trowel, secateurs;July-September;late winter;mid-summer;division, stem cuttings;6.0-7.5;full sun
+4;7;3.99;80-90°F;0.5ft;0.5ft apart;2gal/week;manure, Epsom salts;gloves, snips;April-June;late winter;no downtime;seeds, root division;6.0-6.8;full sun
+5;15;13.99;65-75°F;4ft;3ft apart;12gal/week;kelp meal, feather meal;lopper, garden fork;August-October;early spring;mid-summer;division, layering;6.0-7.0;full sun
+6;6;6.49;75-85°F;3ft;2ft apart;7gal/week;compost, bone meal;spade, pruning saw;March-May;late winter;early summer;seeds, cuttings;6.0-6.8;full sun
+7;11;9.49;50-60°F;2ft;18in apart;10gal/week;alfalfa meal, rock phosphate;trowel, lopper;November-January;early spring;mid-summer;division, layering;6.0-7.0;full sun
+8;5;4.99;65-75°F;1.5ft;1ft apart;4gal/week;blood meal, greensand;hand trowel, pruning shears;February-April;early spring;mid-summer;seeds, cuttings;6.0-7.5;full sun
+9;14;14.99;70-80°F;8ft;5ft apart;20gal/week;fish emulsion, compost;shovel, pruning lopper;September-November;early spring;mid-summer;grafting, air layering;6.0-6.8;full sun</s>

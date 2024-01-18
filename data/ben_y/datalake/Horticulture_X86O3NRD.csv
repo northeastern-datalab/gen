@@ -1,0 +1,11 @@
+;NewColumnname₁; *SameAsBotanicalName*; *DifferentFromScientificClassification*; IsEndangered; FavoredTemperatureRange; SoilNutrientNeeds; AveragePlantHeight; FloweringSeasonDates; SpecialPestControlMethods; SelfSufficiencyScore\_Local-Grown; GrowerExperienceLevelNeed; CollectedBy; ValidatorSignature
+0;" ""Daffodil"""; True; False; Not Endangered; Cool to Cold; Well-drained, rich in organic matter; 12-24 inches; Early Spring; Regular deadheading; 85; Beginner; Wildcrafted; Jane Smith
+1;"""Rosemary"""; False; True; Not Endangered; Warm; Well-drained, low in nutrients; 2-4 feet; Year-round in mild climates; Regular pruning; 80; Intermediate; Cultivated; John Doe
+2;"""Lavender"""; False; True; Not Endangered; Warm; Well-drained, low in nutrients; 1-3 feet; Late Spring to Early Summer; Pruning after flowering; 85; Beginner; Cultivated; Jane Doe
+3;"""Echinacea"""; True; False; Watch List; Cool to Cold; Well-drained, low in nutrients; 2-4 feet; Mid-Summer to Early Fall; Deadheading for continuous bloom; 90; Intermediate; Wildcrafted; John Smith
+4;"""Marigold"""; False; True; Not Endangered; Warm to Hot; Well-drained, moderate nutrients; 1-3 feet; Late Spring to Early Fall; Removal of spent flowers; 75; Beginner; Cultivated; Jane Doe
+5;"""Basil"""; False; True; Not Endangered; Warm; Well-drained, moderate nutrients; 1-2 feet; Late Spring to Early Fall; Pinch back flowers to promote growth; 90; Beginner; Cultivated; John Smith
+6;"""Thyme"""; False; True; Not Endangered; Warm; Well-drained, low nutrients; 2-6 inches; Spring to Early Summer; Regular pinching to maintain shape; 85; Beginner; Cultivated; Jane Doe
+7;"""Sage"""; False; True; Not Endangered; Warm; Well-drained, low nutrients; 1-3 feet; Late Spring to Early Fall; Hard pruning in spring; 80; Intermediate; Cultivated; John Doe
+8;"""Hydrangea"""; True; False; Not Endangered; Cool to Cold; Rich, well-drained; 3-15 feet; Summer; Pruning for shape and size; 70; Intermediate; Wildcrafted; Jane Smith
+9;"""Dahlia"""; False; True; Not Endangered; Warm; Well-drained, moderate nutrients; 1-6 feet; Mid-Summer to Fall; Deadheading, lift tubers in autumn; 80; Intermediate; Cultivated; John Doe</s>

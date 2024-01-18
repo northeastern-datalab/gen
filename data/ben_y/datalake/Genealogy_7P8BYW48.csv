@@ -1,0 +1,11 @@
+;ChildGivenName;ChildMiddleName;ChildSurname;BirthDate;PlaceOfBirth;SpouseNames;MarriageDate;DeathDate;SSN;AdoptiveParentsGivenName;ReligiousAffiliation;Occupation;EducationalBackground
+0; Emily-Rose Johnson;Mae;Johnson;1998-05-12;Springfield, USA;Daniel Higgins;2022-06-05;;123-45-6789;James Miller;Christianity;Software Engineer;Master's in Computer Science
+1;Alexander William Smith;John;Smith;2002-08-23;New York, USA;Elizabeth Thompson;2025-07-14; ;987-65-4321;Andrea Brown;Catholicism;Doctor;PhD in Medicine
+2;Avery Madison Davis;Elizabeth;Davis;2005-11-16; Los Angeles, USA;James Anderson;2028-12-31;;321-89-0123;Claire Johnson;Judaism;Lawyer;JD in Law
+3;Mia Sophia Garcia;Isabella;Garcia;2007-02-28; Miami, USA;William Carter;2030-01-01;;789-45-6123;Patricia Miller;Buddhism;Teacher;Master's in Education
+4;Olivia Grace Wilson;Ava;Wilson;2009-06-09;Seattle, USA;Benjamin Thomas;2032-05-17;;654-12-3987;David Brown;Islam;Engineer;Bachelor's in Engineering
+5;William Henry Taylor;Ethan;Taylor;2011-10-11;Chicago, USA;Madison Johnson;2034-09-16;;135-79-2468;Mark Clark;Atheism;Scientist;Doctorate in Biology
+6;Isabella Sophia Moore;Charlotte;Moore;2013-03-14;Boston, USA;Logan Davis;2036-07-23;;246-81-0392;Nancy Green;Hinduism;Writer;Master's in Creative Writing
+7;Ethan James Brown;Harper;Brown;2015-08-17;Atlanta, USA;Avery Thompson;2038-06-08;;876-54-3210;Oliver White;Sikhism;Businessman;MBA in Business
+8;Madison Avery Thompson;Mason;Thompson;2016-11-22;Phoenix, USA;Jasper Johnson;2040-04-06;;392-01-8547;Sophia Taylor;Paganism;Artist;Bachelor's in Fine Arts
+9;Aiden James Wilson;Liam;Wilson;2018-05-30;Denver, USA;Noah Carter;2042-02-15;;567-23-9801;Mila Garcia;Spiritualism;Entrepreneur;Associate's in Business Administration</s>

@@ -1,0 +1,11 @@
+;PersonID; AncestorMotherMaidenName; AncestorFatherFirstName; AncestorFatherLastName; SpouseName; MarriageDate; DeathDate; SSN; AncestralHome; DNAProfile
+0; 1; Jones; John; Smith; Mary Johnson; 1975-06-20; 2000-12-31; 123-45-6789; New York; 123456
+1;2; Davis; William; Brown; Sarah Thompson; 1990-09-15; 1998-08-09; 987-65-4321; Chicago; 234567
+2;3; Miller; James; Johnson; Emily White; 1985-11-11; 2010-05-27; 555-12-3456; Texas; 345678
+3;4; Thompson; Robert; Davis; Linda Green; 2005-07-04; 2015-11-14; 666-88-9999; California; 456789
+4;5; Williams; Richard; Miller; Karen Harris; 2000-02-12; 2020-06-21; 777-00-1111; Florida; 567890
+5;6; Johnson; Michael; Thompson; Laura Garcia; 2015-09-06; -; 888-22-2222; Georgia; 678901
+6;7; Davis; Thomas; Williams; Susan Carter; 2012-12-25; -; 999-33-3333; Massachusetts; 789012
+7;8; Jones; David; Johnson; Jennifer Martin; 2018-06-16; -; 222-44-4444; Pennsylvania; 890123
+8;9; Miller; Daniel; Davis; Amy Jackson; 2020-10-10; -; 333-55-5555; Michigan; 901234
+9;10; Thompson, Joseph, Williams, Barbara, Clark; -, -; 444-66-6666; Ohio; 012345</s>;;;;

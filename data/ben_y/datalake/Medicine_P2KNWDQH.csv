@@ -1,0 +1,11 @@
+;Medical Condition;Diagnosis Date;Diagnosing Physician;Prescribed Medication;Medication Dosage;Start Date;End Date;Refill Frequency;Refills Remaining;Patient ID;Patient Age;Prescription Cost;Pharmacy Name
+0;" ""Asthma";2022-04-15;Dr. Smith;Albuterol;2 puffs every 4 hours;2022-04-15;None;As needed;N/A;12345;12;$15;"CVS Pharmacy"""
+1;"""Diabetes Type 2";2022-03-30;Dr. Johnson;Metformin;500mg twice daily;2022-03-30;Ongoing;Once a month;3;67890;45;$10;"Walgreens"""
+2;"""Anxiety Disorder";2022-02-25;Dr. Patel;Sertraline;50mg daily;2022-02-25;Ongoing;Once a month;2;23456;30;$20;"Rite Aid"""
+3;"""High Blood Pressure";2022-01-15;Dr. Lee;Lisinopril;10mg daily;2022-01-15;Ongoing;Once a month;5;34567;55;$12;"CVS Pharmacy"""
+4;"""Depression";2021-12-10;Dr. Garcia;Fluoxetine;20mg daily;2021-12-10;Ongoing;Once a month;4;45678;28;$18;"Walgreens"""
+5;"""Migraine";2021-11-15;Dr. Nelson;Rizatriptan;10mg as needed;2021-11-15;None;As needed;N/A;56789;33;$30;"CVS Pharmacy"""
+6;"""GERD";2021-10-01;Dr. Taylor;Omeprazole;20mg daily;2021-10-01;Ongoing;Once a month;6;67890;40;$15;"Rite Aid"""
+7;"""Allergies";2021-09-05;Dr. Hall;Loratadine;10mg daily;2021-09-05;Ongoing;Once a month;7;78901;60;$10;"Walgreens"""
+8;"""Arthritis";2021-08-10;Dr. Ward;Ibuprofen;400mg every 6 hours;2021-08-10;Ongoing;As needed;N/A;89012;72;$8;"CVS Pharmacy"""
+9;"""Insominia";2021-07-15;Dr. Brown;Zolpidem;10mg daily;2021-07-15;Ongoing;Once a month;3;90123;50;$25;"Rite Aid""</s>"

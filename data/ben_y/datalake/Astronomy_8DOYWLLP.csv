@@ -1,0 +1,11 @@
+;`Planet Name; Stellar Body it Orbits; Planetary Mass; Radius; Orbital Period; Satellite Count; Nebula Association; Temperature; Surface Composition; Rotational Speed; Data Acquired Year`
+0; Jupiter; Sun; 317.8 Earth Masses; 69,911 km; 11.86 Earth Years; 79 Moons; Ophiuchus; -145 °C; Hydrogen & Helium; 9.93 hours;
+1;Saturn; Sun; 95.2 Earth Masses; 58,232 km; 29.46 Earth Years; 82 Moons; Cassiopeia; -178 °C; Hydrogen & Helium; 10.7 hours;
+2;Uranus; Sun; 14.5 Earth Masses; 25,362 km; 84.02 Earth Years; 27 Moons; Aries; -195 °C; Ice & Hydrogen; -17.2 hours;
+3;Neptune; Sun; 17.2 Earth Masses; 24,552 km; 164.8 Earth Years; 14 Moons; Aquarius; -200 °C; Ice & Hydrogen; 16.1 hours;
+4;Mars; Sun; 0.11 Earth Masses; 3,389 km; 1.88 Earth Years; 2 Moons; unknown; -65 °C; Iron Oxide; 24.6 hours;
+5;Venus; Sun; 0.82 Earth Masses; 6,051 km; 0.62 Earth Years; 0 Moons; Ophiuchus; 464 °C; Lead & Sulfuric Acid; -243 days;
+6;Mercury; Sun; 0.06 Earth Masses; 2,439 km; 0.24 Earth Years; 0 Moons; Cancer; 167 °C; Silicate & Metallic; 58.6 days;
+7;Pluto; Sun; 0.002 Earth Masses; 1,187 km; 248 Earth Years; 5 Moons; Sagittarius; -229 °C; Nitrogen Ice; 6.4 days;
+8;Eris; Sun; 0.002 Earth Masses; 1,293 km; 557 Earth Years; 1 Moon; unknown; -215 °C; Methane Ice; 25.9 hours;
+9;Haumea; Sun; 0.002 Earth Masses; 816 km; 284 Earth Years; 2 Moons; Libra; -215 °C; Rock & Ice; 3.9 hours</s>;

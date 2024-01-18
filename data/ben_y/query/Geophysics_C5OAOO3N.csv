@@ -1,0 +1,110 @@
+;Seismic Waves;Reflection Coefficient;Velocity Structure;Layer Thickness;Frequency Bands;Amplitude;Phase;Subsurface Imaging Techniques;Geologic Hazard Assessment;Free Surface Effect;Topographic Corrections;Sea Level Changes
+0; S-wave; 0.6; 3.5 km/s; 500 m; 0.1-10 Hz; High; 90 degrees; Seismic Reflection; Landslides; Yes; Necessary; Negligible
+1; P-wave; 0.3; 6.0 km/s; 250 m; 1-50 Hz; Low; 0 degrees; Seismic Tomography; Volcanic Eruptions; No; Necessary; Insignificant
+2; Love wave; 0.5; 2.8 km/s; 700 m; 0.01-0.1 Hz; Moderate; 45 degrees; Seismic Interferometry; Tsunami Warning; Yes; Minimal; Negligible
+3; Rayleigh wave; 0.4; 3.2 km/s; 400 m; 0.5-5 Hz; High; 30 degrees; Seismic Refraction; Soil Liquefaction; Yes; Crucial; Minimal
+4; P-wave; 0.8; 5.5 km/s; 1000 m; 0.01-0.1 Hz; Low; 180 degrees; Seismic Reception; Earthquake Early Warning; No; Necessary; Negligible
+5; S-wave; 0.7; 4.2 km/s; 800 m; 10-50 Hz; High; 90 degrees; Seismic Migration; Groundwater Contamination; Yes; Necessary; Negligible
+6; Love wave; 0.9; 2.2 km/s; 1200 m; 1-10 Hz; Moderate; 45 degrees; Seismic Inversion; Mine Collapse; Yes; Minimal; Negligible
+7; Rayleigh wave; 0.6; 3.8 km/s; 350 m; 0.1-1 Hz; High; 30 degrees; Seismic Gather; Flood Prediction; Yes; Necessary; Minimal
+8; P-wave; 0.5; 7.0 km/s; 600 m; 50-200 Hz; Low; 180 degrees; Seismic Dispersion; Avalanche Detection; No; Necessary; Insignificant
+9; S-wave; 0.8; 4.8 km/s; 900 m; 0.001-0.01 Hz; High; 90 degrees; Seismic Noise; Gas Hydrate Melt; Yes; Crucial; Significant</s>
+10;  Love wave; 0.7; 4.2 km/s; 850 m; 0.1-10 Hz; High; 0 degrees; Seismic Interferometry; Landslide Susceptibility; No; Necessary; Minimal
+11; Scholte wave; 0.4; 2.0 km/s; 20 m; 1-100 Hz; Moderate; 20 degrees; Seismic Reflection; Tsunami Warning; Yes; Necessary; Minimal
+12; Stoneley wave; 0.3; 1.5 km/s; 15 m; 0.01-0.1 Hz; Low; 45 degrees; Seismic Tomography; Soil Liquefaction; Yes; Necessary; Significant
+13; Plate boundary wave; 0.9; 8.5 km/s; 1200 m; 0.001-0.1 Hz; High; 120 degrees; Seismic Reconvolution; Earthquake Monitoring; Yes; Imperative; Significant
+14; Tidal wave; 0.2; 0.5 km/s; 5 m; 0.0001-0.01 Hz; Low; 60 degrees; Seismic Refraction; Storm Surge Prediction; No; Necessary; Insignificant
+15; Interference wave; 0.65; 3.5 km/s; 400 m; 10-50 Hz; High; 45 degrees; Seismic Migration; Volcanic Eruption; Yes; Necessary; Significant
+16; Guided wave; 0.85; 6.0 km/s; 1000 m; 0.01-0.1 Hz; Moderate; 90 degrees; Seismic Inversion; Subsidence Analysis; Yes; Crucial; Insignificant
+17; Head wave; 0.55; 5.5 km/s; 700 m; 2-20 Hz; Low; 0 degrees; Seismic Instrumentation; Sinkhole Detection; No; Crucial; Minimal
+18; Leaky wave; 0.75; 3.2 km/s; 550 m; 0.5-5 Hz; High; 30 degrees; Seismic Depth Imaging; Groundwater Extraction; Yes; Necessary; Significant
+19; Converted wave; 0.65; 4.0 km/s; 650 m; 0.1-10 Hz; Moderate; 45 degrees; Seismic Data Processing; Fault Slip Rate Estimation; Yes; Imperative; Insignificant</s>
+20;  P-wave; 0.45; 6.0 km/s; 800 m; 15-30 Hz; Low; 0 degrees; Seismic Refraction; Earthquake Epicenter Identification; No; Critical; Minimal
+21; S-wave; 0.35; 3.8 km/s; 450 m; 0.3-5 Hz; Moderate; 90 degrees; Seismic Interferometry; Soil Liquefaction Assessment; Yes; Necessary; Significant
+22; Scholte wave; 0.25; 2.0 km/s; 300 m; 0.05-1 Hz; High; 180 degrees; Seismic Ocean Bottom Surveys; Coastal Erosion Analysis; Yes; Imperative; Insignificant
+23; Stoneley wave; 0.60; 1.8 km/s; 750 m; 0.02-0.5 Hz; Low; 270 degrees; Seismic Cable Surveys; Reservoir Fluid Content Estimation; No; Crucial; Minimal
+24; Rayleigh wave; 0.80; 4.5 km/s; 950 m; 0.5-20 Hz; High; 360 degrees; Seismic Array Analysis; Soil Stability Assessment; Yes; Necessary; Significant
+25; Love wave; 0.70; 3.0 km/s; 500 m; 1-10 Hz; Moderate; 270 degrees; Seismic Noise Analysis; Landslide Susceptibility Mapping; No; Imperative; Insignificant
+26; Whispering gallery wave; 0.95; 2.5 km/s; 600 m; 0.005-0.1 Hz; High; 0 degrees; Seismic Guided Waves; Volcanic Magma Movement Monitoring; Yes; Critical; Significant
+27; Fundamental mode wave; 0.50; 5.0 km/s; 850 m; 0.05-2 Hz; Low; 180 degrees; Seismic Body Waves; Tsunami Warning Systems; No; Crucial; Minimal
+28; Interfering wave; 0.85; 4.2 km/s; 900 m; 2-15 Hz; High; 90 degrees; Seismic Ambient Noise; Floodplain Delineation; Yes; Necessary; Significant
+29; Surface wave; 0.65; 2.8 km/s; 400 m; 0.2-5 Hz; Moderate; 0 degrees; Seismic MASW; Mining-Induced Seismicity Analysis; No; Imperative; Insignificant</s>
+30;  Love wave; 0.75; 3.2 km/s; 550 m; 0.3-10 Hz; High; 90 degrees; Seismic Surface Waves; Landslide Mapping; Yes; Necessary; Moderate
+31; Rayleigh wave; 0.60; 2.9 km/s; 600 m; 0.1-2 Hz; Moderate; 0 degrees; Seismic Surface Waves; Slope Stability Analysis; No; Crucial; Insignificant
+32; P-wave; 0.45; 6.5 km/s; 1200 m; 5-50 Hz; Low; 180 degrees; Seismic Body Waves; Volcano Monitoring; No; Imperative; Negligible
+33; S-wave; 0.35; 4.0 km/s; 1000 m; 1-30 Hz; Low; 90 degrees; Seismic Body Waves; Earthquake Early Warning Systems; No; Vital; Minimal
+34; Scholte wave; 0.90; 1.5 km/s; 250 m; 0.02-0.5 Hz; Low; 180 degrees; Seismic Surface Waves; Soil Liquefaction Assessment; No; Significant; Insignificant
+35; Stoneley wave; 0.70; 1.8 km/s; 300 m; 0.05-2 Hz; Low; 0 degrees; Seismic Surface Waves; Groundwater Monitoring; No; Critical; Insignificant
+36; Seismic interference; 0.55; Variable; Variable; 0.1-100 Hz; High; Variable; Passive Seismic; Reservoir Characterization; Yes; Important; Significant
+37; Guided wave; 0.68; 4.8 km/s; 750 m; 0.5-20 Hz; Moderate; 45 degrees; Seismic Body Waves; Borehole Imaging; No; Necessary; Negligible
+38; Air wave; 0.10; 0.3 km/s; 70 m; 10-100 Hz; Low; 0 degrees; Seismic Surface Waves; Seismic Exploration; No; Trivial; Insignificant
+39; Acoustic wave; 0.22; 1.2 km/s; 180 m; 20-200 Hz; Low; 180 degrees; Seismic Body Waves; Ground Penetrating Radar; No; Insignificant; Negligible</s>
+40;  Love wave; 0.15; 0.5 km/s; 60 m; 5-50 Hz; Low; 90 degrees; Seismic Surface Waves; Site Characterization; No; Trivial; Insignificant
+41; Rayleigh wave; 0.28; 2.0 km/s; 120 m; 0.1-10 Hz; Moderate; 45 degrees; Seismic Surface Waves; Landslide Susceptibility Assessment; No; Necessary; Negligible
+42; Scholte wave; 0.35; 1.5 km/s; 250 m; 0.01-1 Hz; Low; 0 degrees; Seismic Interface Waves; Coastal Erosion Assessment; No; Trivial; Insignificant
+43; Stoneley wave; 0.46; 1.0 km/s; 50 m; 0.001-0.1 Hz; Low; 180 degrees; Seismic Interface Waves; Offshore Oil Exploration; No; Insignificant; Negligible
+44; P-wave; 0.70; 6.0 km/s; 900 m; 2-20 Hz; High; 0 degrees; Seismic Body Waves; Volcanic Eruption Prediction; No; Necessary; Significant
+45; S-wave; 0.55; 3.5 km/s; 650 m; 1-10 Hz; Moderate; 90 degrees; Seismic Body Waves; Earthquake Damage Assessment; No; Necessary; High
+46; Surface wave; 0.32; 1.8 km/s; 300 m; 0.5-10 Hz; Moderate; 45 degrees; Seismic Surface Waves; Coastal Flooding Risk Assessment; No; Necessary; Moderate
+47; Interference pattern; 0.85; 5.2 km/s; 1050 m; 0.1-2 Hz; Moderate; Inconsistent; Seismic Reflection; Soil Liquefaction Assessment; No; Necessary; High
+48; Diffraction pattern; 0.60; 4.0 km/s; 800 m; 0.5-5 Hz; High; Inconsistent; Seismic Refraction; Seabed Mapping; No; Insignificant; Moderate
+49; Refracted wave; 0.76; 7.2 km/s; 1250 m; 0.01-0.5 Hz; Low; 0 degrees; Seismic Refraction; Regional Hydrocarbon Exploration; No; Trivial; Insignificant</s>
+50;  Reflection coefficient; 0.91; 6.0 km/s; 1500 m; 0.05-1.5 Hz; High; Consistent; Seismic Reflection; Groundwater Resource Evaluation; Yes; Necessary; Low
+51; Diffraction pattern; 0.55; 3.8 km/s; 900 m; 1-8 Hz; Low; Inconsistent; Seismic Refraction; Fault Mapping; No; Insignificant; Moderate
+52; Interference pattern; 0.72; 4.5 km/s; 1100 m; 0.3-3 Hz; Moderate; Consistent; Seismic Reflection; Volcanic Activity Monitoring; Yes; Necessary; High
+53; Refracted wave; 0.87; 6.8 km/s; 1400 m; 0.005-0.2 Hz; High; 0 degrees; Seismic Refraction; Mineral Exploration; No; Trivial; Insignificant
+54; Reflection coefficient; 0.65; 4.2 km/s; 750 m; 0.5-6 Hz; Low; Inconsistent; Seismic Reflection; Coastal Erosion Assessment; Yes; Necessary; Moderate
+55; Diffraction pattern; 0.94; 7.5 km/s; 1650 m; 0.01-0.4 Hz; High; Consistent; Seismic Refraction; Crustal Studies; No; Trivial; Low
+56; Interference pattern; 0.78; 5.0 km/s; 1300 m; 0.1-2.5 Hz; Moderate; Consistent; Seismic Reflection; Slope Stability Analysis; Yes; Necessary; High
+57; Refracted wave; 0.58; 3.5 km/s; 650 m; 2-10 Hz; Low; Inconsistent; Seismic Refraction; Landslide Susceptibility Assessment; No; Insignificant; Moderate
+58; Reflection coefficient; 0.84; 6.3 km/s; 1750 m; 0.02-0.8 Hz; High; Consistent; Seismic Reflection; Reservoir Characterization; Yes; Necessary; Low
+59; Diffraction pattern; 0.68; 4.7 km/s; 850 m; 0.7-5 Hz; Moderate; Inconsistent; Seismic Refraction; Soil Compaction Assessment; No; Insignificant; Moderate</s>
+60;  Love waves; 0.76; 3.1 km/s; 500 m; 0.3-3 Hz; High; Consistent; Surface Waves; Tsunami Hazard Assessment; No; Necessary; Low
+61; Rayleigh waves; 0.62; 2.8 km/s; 750 m; 0.1-1 Hz; Moderate; Inconsistent; Surface Waves; Earthquake Engineering; Yes; Significant; High
+62; Scholte waves; 0.81; 1.5 km/s; 250 m; 0.05-0.5 Hz; Low; Consistent; Surface Waves; Coastal Erosion Assessment; No; Insignificant; Moderate
+63; P-wave; 0.93; 5.8 km/s; 1200 m; 8-30 Hz; High; Consistent; Seismic Tomography; Volcano Monitoring; Yes; Necessary; Low
+64; S-wave; 0.79; 3.7 km/s; 950 m; 2-12 Hz; Moderate; Inconsistent; Seismic Tomography; Fault Zone Characterization; No; Insignificant; Moderate
+65; Converted wave; 0.65; 4.2 km/s; 1050 m; 0.5-5 Hz; Low; Consistent; Seismic Tomography; Hydrocarbon Exploration; Yes; Necessary; High
+66; Fundamental mode; 0.87; 1.8 km/s; 150 m; 0.01-0.1 Hz; High; Consistent; Seismic Interferometry; Ambient Noise Tomography; No; Insignificant; Low
+67; Higher modes; 0.54; 2.5 km/s; 300 m; 0.05-0.5 Hz; Moderate; Inconsistent; Seismic Interferometry; Soil Liquefaction Assessment; Yes; Necessary; Moderate
+68; Acoustic waves; 0.71; 1.3 km/s; 400 m; 5-20 Hz; Low; Consistent; Seismic Interferometry; Environmental Impact Assessment; No; Insignificant; Low
+69; Transmission loss; 0.60; 4.9 km/s; 1100 m; 0.2-2 Hz; Moderate; Inconsistent; Seismic Refraction; Groundwater Exploration; Yes; Necessary; High</s>
+70;  Guided waves; 0.48; 1.7 km/s; 550 m; 0.1-1 Hz; Low; Consistent; Seismic Interferometry; Soil Liquefaction Assessment; Yes; Necessary; High
+71; Rayleigh waves; 0.36; 2.1 km/s; 600 m; 0.02-0.3 Hz; Moderate; Inconsistent; Seismic Interferometry; Seismic Hazard Assessment; Yes; Necessary; Moderate
+72; Love waves; 0.42; 1.9 km/s; 700 m; 0.04-0.6 Hz; High; Consistent; Seismic Interferometry; Tsunami Hazard Assessment; Yes; Necessary; Low
+73; P-waves; 0.65; 5.8 km/s; 1500 m; 1-50 Hz; Low; Consistent; Seismic Refraction; Volcanic Eruption Assessment; No; Insignificant; Low
+74; S-waves; 0.51; 3.2 km/s; 1200 m; 0.5-10 Hz; Moderate; Inconsistent; Seismic Refraction; Soil Liquefaction Assessment; Yes; Necessary; Moderate
+75; Surface waves; 0.45; 3.0 km/s; 1300 m; 0.07-1.5 Hz; High; Consistent; Seismic Refraction; Earthquake Hazard Assessment; No; Insignificant; High
+76; Body waves; 0.59; 4.6 km/s; 1000 m; 2-40 Hz; Low; Consistent; Seismic Refraction; Volcanic Eruption Assessment; No; Insignificant; Low
+77; Primary waves; 0.61; 6.1 km/s; 1800 m; 10-50 Hz; Moderate; Inconsistent; Seismic Tomography; Earthquake Hazard Assessment; Yes; Necessary; High
+78; Secondary waves; 0.49; 3.5 km/s; 1400 m; 0.5-8 Hz; High; Consistent; Seismic Tomography; Soil Liquefaction Assessment; Yes; Necessary; Moderate</s>
+79; 79; Surface waves; 0.43; 3.2 km/s; 2500 m; 0.1-2 Hz; Low; Inconsistent; Seismic Reflection; Landslide Hazard Assessment; No; Insignificant  High
+80;80; Love waves; 0.45; 2.9 km/s; 2000 m; 0.05-0.5 Hz; Very Low; Consistent; Seismic Interferometry; Soil Slope Instability Assessment; Yes; Significant  Low
+81;81; Rayleigh waves; 0.47; 2.8 km/s; 1500 m; 0.05-0.3 Hz; Very Low; Inconsistent; Surface Wave Method; Tsunami Hazard Assessment; Yes; Critical  High
+82;82; P and S waves; 0.55; 5.7 km/s; 800 m; 20-60 Hz; Moderate; Consistent; Seismic Cross-hole; Dam Assessment; No; Insignificant  Low
+83;83; Converted waves; 0.63; 6.7 km/s; 250 m; 80-120 Hz; High; Inconsistent; Ocean Bottom Seismometer; Gas Hydrate Detection; Yes; Necessary  Moderate
+84;84; Refracted waves; 0.51; 4.9 km/s; 1200 m; 5-15 Hz; Low; Consistent; Seismic Refraction; Groundwater Resource Assessment; No; Insignificant  Low
+85;85; Guided waves; 0.42; 3.8 km/s; 1600 m; 0.01-0.1 Hz; Very Low; Inconsistent; Guided Wave Testing; Pipeline Integrity Assessment; Yes; Significant  Low
+86;86; Scholte waves; 0.48; 2.3 km/s; 500 m; 0.5-5 Hz; Low; Consistent; Seismic Aquifer Testing; Coastal Erosion Assessment; No; Insignificant  Moderate
+87;87; Stoneley waves; 0.44; 2.7 km/s; 2200 m; 0.005-0.05 Hz; Very Low; Inconsistent; Seismic Cable Testing; Borehole Integrity Assessment; Yes; Necessary  High
+88;88; Plate waves; 0.57; 8.9 km/s; 50 km; 0.001-0.01 Hz; Negligible; Consistent; Seismic Array; Tectonic Plate Movement Analysis; No; Insignificant  Low</s>
+89; 89; Love waves; 0.49; 3.8 km/s; 4000 m; 0.01-0.1 Hz; Low; Consistent; Surface Wave Testing; Landslide Susceptibility; No; Insignificant  Low
+90;90; Rayleigh waves; 0.68; 4.2 km/s; 3500 m; 0.005-0.5 Hz; Low; Inconsistent; Microtremor Measurements; Slope Stability Assessment; No; Insignificant  Moderate
+91;91; P waves; 0.17; 6.0 km/s; 10 km; 0.1-10 Hz; High; Consistent; Refraction Seismic Testing; Fault Detection; No; Insignificant  Low
+92;92; S waves; 0.26; 3.5 km/s; 15 km; 0.01-1 Hz; Medium; Inconsistent; Seismic Reflection; Sedimentary Basin Analysis; No; Insignificant  Moderate
+93;93; T waves; 0.55; 9.0 km/s; 70 km; 0.0001-0.01 Hz; Negligible; Consistent; Seismic Tomography; Upper Mantle Structure; No; Insignificant  Low
+94;94; Scholte waves; 0.45; 2.4 km/s; 2500 m; 0.5-5 Hz; Low; Consistent; Seismic Aquifer Testing; Coastal Subsidence Assessment; No; Insignificant  High
+95;95; Stoneley waves; 0.42; 2.8 km/s; 2400 m; 0.005-0.05 Hz; Very Low; Inconsistent; Seismic Cable Testing; Borehole Integrity Assessment; Yes; Necessary  Low
+96;96; Plate waves; 0.53; 8.7 km/s; 55 km; 0.001-0.01 Hz; Negligible; Consistent; Seismic Array; Tectonic Plate Movement Analysis; No; Insignificant  Moderate
+97;97; Love waves; 0.47; 3.9 km/s; 4200 m; 0.01-0.1 Hz; Low; Consistent; Surface Wave Testing; Landslide Susceptibility; Yes; Necessary  Moderate
+98;98; Rayleigh waves; 0.65; 4.4 km/s; 3700 m; 0.005-0.5 Hz; Low; Inconsistent; Microtremor Measurements; Slope Stability Assessment; Yes; Necessary  High</s>
+99; 99; P waves; 0.25; 6.0 km/s; 20 km; 0.1-1 Hz; High; ReMi (Refraction Microtremor); Soil Liquefaction Potential; No; Insignificant; Negligible
+100;100; S waves; 0.51; 3.5 km/s; 5.4 km; 0.05-0.5 Hz; Moderate; Inconsistent; Seismic Refraction; Volcanic Eruption Hazard; No; Insignificant  Low
+101;101; Scholte waves; 0.71; 1.6 km/s; 50 m; 0.1-5 Hz; High; Inconsistent; Ocean Bottom Seismometer; Tsunami Warning Systems; Yes; Necessary  High
+102;102; Stoneley waves; 0.68; 1.4 km/s; 200 m; 0.01-0.5 Hz; Low; Consistent; Guided Wave Testing; Groundwater Resource Evaluation; Yes; Necessary  Low
+103;103; Seismic interferometry; 0.42; 4.0 km/s; 2.0 km; 0.01-1 Hz; Low; Inconsistent; Passive Seismic; Environmental Seismic Hazard Assessment; No; Insignificant  Low
+104;104; Full waveform inversion; 0.59; 5.2 km/s; 3.5 km; 0.005-0.5 Hz; Moderate; Inconsistent; High-Performance Computing; Basin Analysis; No; Negligible  Moderate
+105;105; Tomography; 0.38; 2.8 km/s; 10 km; 0.001-0.1 Hz; High; Inconsistent; Seismic Velocity Modeling; Crustal Structure Imaging; No; Insignificant  Low
+106;106; Spectral analysis; 0.45; 3.1 km/s; 1.5 km; 0.05-1 Hz; Moderate; Consistent; Seismic Signal Processing; Fault Mapping; No; Insignificant  Low
+107;107; Seismic stratigraphy; 0.57; 4.8 km/s; 6.5 km; 0.01-0.5 Hz; Low; Consistent; Sequence Stratigraphy; Hydrocarbon Exploration; No; Insignificant  Moderate
+108;108; Seismoelectric imaging; 0.52; 4.0 km/s; 1.2 km; 0.1-5 Hz; High; Inconsistent; Electroseismic Monitoring; Groundwater Pollution Monitoring; No; Insignificant  Low</s>

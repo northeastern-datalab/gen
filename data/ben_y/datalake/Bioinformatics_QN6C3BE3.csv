@@ -1,0 +1,22 @@
+;"<newline>
+1. Proteins Produced";"<newline>
+2. Domain Information";"<newline>
+3. Cellular Location";"<newline>
+4. Molecular Weight";"<newline>
+5. Amino Acid Count";"<newline>
+6. mRNA Stability Scores";"<newline>
+</s>
+curr_range_counter:  2
+Time taken: 23.209139347076416 seconds
+""Gene Name";Chromosome;Start Position;End Position;Strand;Gene Type;Sequence;Expression Level;Mutation Frequency;Protein Interactions;GO Terms;Additional Information 1
+0;" ""Proteins Produced";Domain Information;Cellular Location;Molecular Weight;Amino Acid Count;mRNA Stability Scores; <newline>;;;;;;;;;;;
+1;ACTB;Actin, cytoplasmic 1;Cytoplasm;42kDa;377 amino acids;9.8; <newline>;;;;;;;;;;;
+2;TP53;Transcription factor p53;Nucleus;44kDa;393 amino acids;8.6; <newline>;;;;;;;;;;;
+3;HBB;Hemoglobin subunit beta;Nucleus;16kDa;146 amino acids;7.9; <newline>;;;;;;;;;;;
+4;ALB;Serum albumin;Extracellular;66kDa;584 amino acids;9.1; <newline>;;;;;;;;;;;
+5;UBC;Ubiquitin C;Nucleus;8.5kDa;76 amino acids;10.0; <newline>;;;;;;;;;;;
+6;CYCS;Cytochrome c;Mitochondria;12kDa;102 amino acids;8.2; <newline>;;;;;;;;;;;
+7;HRAS;HRas protein, GTP-binding;Plasma membrane;21kDa;189 amino acids;6.9; <newline>;;;;;;;;;;;
+8;HSP90AA1;Heat shock protein 90 alpha, class A, 1;Cytoplasm;82kDa;732 amino acids;7.4; <newline>;;;;;;;;;;;
+9;GAPDH;Glyceraldehyde-3-phosphate dehydrogenase;Cytoplasm;37kDa;334 amino acids;8.7; <newline>;;;;;;;;;;;
+10;RPL10;Ribosomal protein L10;Cytoplasm;16kDa;139 amino acids;9.0;"""</s>";;;;;;;;;;;

@@ -1,0 +1,111 @@
+;Match ID;Sport;Match Venue;Match Date;Home Team;Away Team;Home Team Score;Away Team Score;Attendance;Referee;League;Division;Match Type
+0; 1234;Soccer;Anfield, Liverpool;2022-04-02;Liverpool FC;Manchester City;3;2;52,000;Martin Atkinson;Premier League;English;League
+1; 5678;Basketball;Madison Square Garden, New York;2022-03-15;New York Knicks;Los Angeles Lakers;105;112;19,812;Scott Foster;NBA;Atlantic;Regular Season
+2; 9012;Ice Hockey;Bell Centre, Montreal;2022-02-27;Montreal Canadiens;Boston Bruins;4;3;21,273;Wes McCauley;NHL;Atlantic;Regular Season
+3; 3456;Rugby Union;Twickenham Stadium, London;2022-03-26;England;Ireland;15;24;82,000;Wayne Barnes;Six Nations Championship;-;Tournament
+4; 7890;Tennis;Australian Open, Melbourne;2022-01-30;Novak Djokovic;Daniel Medvedev;6-4, 4-6, 6-11, 6-3, 7-5;20,337;Cedric Mourier;ATP Tour;-;Grand Slam;
+5; 1357;American Football;MetLife Stadium, New Jersey;2022-01-09;New York Giants;Philadelphia Eagles;22;38;82,500;Bill Vinovich;NFL;NFC East;Playoffs
+6; 2468;Cricket;Melbourne Cricket Ground, Melbourne;2022-01-01;Australia;England;125;103;80,752;Aleem Dar;The Ashes;-;Tournament
+7; 6789;Baseball;Yankee Stadium, New York;2022-06-30;New York Yankees;Boston Red Sox;7;5;45,229;Joe West;MLB;American League East;Regular Season
+8; 0123;Golf;Augusta National Golf Club, Augusta;2022-04-10;Hideki Matsuyama;Will Zalatoris;70;71;-;-;The Masters;-;Tournament
+9; 4567;Formula 1;Circuit de Monaco, Monaco;2022-05-29;Max Verstappen;Charles Leclerc;26.926s;27.217s;-;-;Monaco Grand Prix;-;Championship</s>
+10;  2345;Basketball;Madison Square Garden, New York;2022-02-20;New York Knicks;Brooklyn Nets;101;98;19,762;Scott Foster;NBA;Atlantic;Regular Season
+11; 6787;Soccer;Old Trafford, Manchester;2022-03-13;Manchester United;Manchester City;2;1;75,826;Anthony Taylor;Premier League;-;Derby
+12; 9765;Tennis;Roland Garros, Paris;2022-05-22;Novak Djokovic;Rafael Nadal;3-6, 6-3, 6-2, 3-6, 6-2;-;-;-;French Open;-;Grand Slam
+13; 3451;Ice Hockey;Bell Centre, Montreal;2022-01-05;Montreal Canadiens;Toronto Maple Leafs;4;2;21,286;Gord Dwyer;NHL;Atlantic;Regular Season
+14; 9865;Cricket;Lord's Cricket Ground, London;2022-06-18;England;Australia;147;145;23,456;Richard Illingworth;The Ashes;-;Test Match
+15; 1123;Rugby Union;Twickenham Stadium, London;2022-02-26;England;Ireland;32;20;81,271;Wayne Barnes;Six Nations;-;Championship
+16; 5437;Swimming;Aquatics Centre, Beijing;2022-07-24;Emma McKeon;Cate Campbell;51.96s, 52.12s;52.73s, 52.05s;-;-;Swimming Worlds;-;Finals
+17; 8642;Athletics;National Stadium, Tokyo;2022-08-08;Eliud Kipchoge;Abdi Nageeye;2:08.38, 2:08.58;2:09.26, 2:09.58;-;-;World Athletics;-;Marathon
+18; 2236;Volleyball;Verona Arena, Verona;2022-09-17;Italy;Brazil;3-1;1-3;11,524;Fabrice Collados;FIVB World Championship;-;Finals
+19; 7894;Gymnastics;SSE Hydro, Glasgow;2022-10-23;United States;Russia;169.158;166.832;12,953;Artur Ollikainen;Artistic Gymnastics Worlds;-;Team Final</s>
+20;  11045;Soccer;Wembley Stadium, London;2022-11-20;England;France;2-1;1-2;81,252;Felix Brych;UEFA Nations League;A;Finals
+21; 12597;Basketball;Bird's Nest, Beijing;2022-12-12;United States;Spain;95-82;86-88;17,324;Guilherme Locatelli;FIBA World Cup;-;Semifinals
+22; 6482;Rugby;Eden Park, Auckland;2022-12-25;New Zealand;South Africa;22-18;16-26;47,531;Ben O'Keeffe;The Rugby Championship;-;Test Match
+23; 3651;Ice Hockey;Bell Centre, Montreal;2023-01-08;Canada;Russia;3-2(OT);2-3(SO);20,196;Tobias Bjork;IIHF World Championship;-;Quarterfinals
+24; 5729;Tennis;Rod Laver Arena, Melbourne;2023-01-23;Novak Djokovic;Rafael Nadal;6-3, 6-2, 5-7, 4-6, 6-1;7-5, 3-6, 6-7(5-7), 6-3, 5-7;14,820;Carlos Ramos;Australian Open;-;Finals
+25; 8746;Cricket;Lord's, London;2023-06-18;England;Australia;142;168;29,987;Chris Broad;The Ashes;-;Test Match
+26; 9872;Baseball;Yankee Stadium, New York;2023-07-04;United States;Japan;7-3;6-5;47,201;Ulrich Merk;MLB World Series;-;Finals
+27; 10013;American Football;MetLife Stadium, New York;2023-09-05;United States;Mexico;26-23;21-28;76,472;Clete Blakeman;NFL International Series;-;Regular Season
+28; 13456;Formula 1;Circuit de Monaco, Monte Carlo;2023-05-30;Max Verstappen;Charles Leclerc;1:26.997, 1:16.844, 1:15.591, 1:14.814, 1:15.351;1:27.567, 1:16.729, 1:14.972, 1:14.104, 1:15.258;7,773;Eduardo Freitas;Formula 1 World Championship;-;Grand Prix
+29; 20013;Golf;St. Andrews, Scotland;2023-07-17;Scotland;England;-4;-5;123,000;Paul Azinger;The Open Championship;-;Final Round</s>
+30;  15643;Basketball;Madison Square Garden, New York;2023-03-25;United States;Canada;103-99;107-115;19,768;Tony Brothers;NBA Regular Season;-;Regular Season
+31; 10345;Soccer;Wembley Stadium, London;2023-06-11;England;Wales;2-1;1-0;83,236;Anthony Taylor;UEFA Nations League;League A;Group Stage
+32; 11356;Tennis;Roland Garros, Paris;2023-05-28;Novak Djokovic;Rafael Nadal;7-5, 6-3, 3-6, 2-6, 6-3;6-1, 3-6, 6-3, 6-3, 3-6, 6-3;14,840;James Keothavong;French Open;-;Final
+33; 21453;Ice Hockey;Bell Centre, Montreal;2023-02-04;Canada;USA;4-2;3-6;20,765;Wes McCauley;IIHF World Championship;-;Group Stage
+34; 17854;Cricket;Lord's, London;2023-08-14;England;Australia;188 (all out);205 (all out);29,428;Richard Kettleborough;The Ashes;-;Test Match
+35; 12956;Rugby Union;Twickenham Stadium, London;2023-09-23;England;Ireland;21-20;17-24;82,000;Luke Pearce;Six Nations Championship;-;Championship
+36; 20256;Baseball;Fenway Park, Boston;2023-06-18;USA;Canada;7-3;5-6;37,288;Joe West;MLB Regular Season;-;Regular Season
+37; 15689;Athletics;Olympic Stadium, Tokyo;2023-10-01;Japan;China;12.87s, 61.53m, 2.36m;13.42s, 65.34m, 2.28m;65,212;Hawk-Eye;Asian Games;-;Track and Field
+38; 18465;Swimming;Aquatics Centre, Beijing;2023-08-07;Australia;USA;51.76, 1:47.60, 3:40.31;52.89, 1:46.83, 3:41.56;14,782;Benjamin Roberts;World Aquatics Championships;-;Championship
+39; 10015;Volleyball;Mediolanum Forum, Milan;2023-04-09;Italy;France;3-1;3-2;11,874;Fabrizio Pasquali;FIVB World Championship;-;Semi-Final</s>
+40;  15789;Basketball;Barclays Center, Brooklyn;2023-12-25;USA;Canada;104-98;98-108;19,876;James Capers;NBA Intercontinental Cup;-;Final
+41; 20015;Cricket;Lord's Cricket Ground, London;2023-07-14;England;Australia;256, 2/2;248, 5/3;27,125;Marais Erasmus;The Ashes;-;Test Match
+42; 12390;Hockey;Bundesstadion Frankenburg, Austria;2023-09-03;Austria;Germany;2-3;4-5;4,568;Dan Barstow;FIH Pro League;-;League Match
+43; 17658;Football;Wembley Stadium, London;2023-11-11;England;France;3-1;1-2;87,256;Danny Makkelie;UEFA Nations League;-;Semi-Final
+44; 11032;Tennis;Rod Laver Arena, Melbourne;2024-01-26;Australia;Serbia;6-4, 6-7, 7-6, 6-7, 6-2;4-6, 7-6, 6-7, 7-6, 3-6;15,233;Alison Hughes;Australian Open;-;Final
+45; 16543;Rugby;Ellis Park Stadium, Johannesburg;2023-08-26;South Africa;New Zealand;27-30;24-18;61,234;Nic Berry;The Rugby Championship;-;Match Day 5
+46; 21345;Baseball;Yankee Stadium, New York;2023-10-07;USA;Cuba;7-4;6-3;43,281;Laz Diaz;World Baseball Classic;-;Semi-Final
+47; 14890;Golf;Augusta National Golf Club, Georgia;2024-04-14;USA;Sweden;282-5;284-4;35,000;Paul Casey;The Masters;-;Tournament
+48; 13026;Formula 1;Circuit de Monaco, Monaco;2024-05-26;Great Britain;Germany;1:29:35.812;1:31:02.328;76,274;Michael Masi;Monaco Grand Prix;-;Grand Prix
+49; 18901;Ice Hockey;Bell Centre, Montreal;2023-12-31;Canada;Russia;4-3;3-2;21,273;Tobias Wehrli;World Junior Championships;-;Gold Medal Game</s>
+50;  12345;Football;Wembley Stadium, London;2024-06-08;England;Italy;2-1;1-2;87,660;Anthony Taylor;UEFA European Championship;-;Final
+51; 67890;Basketball;Madison Square Garden, New York;2024-02-20;USA;Canada;108-99;92-105;19,763;John Goble;NBA Regular Season;Atlantic;Regular Season
+52; 23456;Rugby;Twickenham Stadium, London;2024-03-23;England;Wales;24-15;19-20;81,252;Nigel Owens;Six Nations Championship;-;Championship
+53; 34567;Tennis;Roland Garros, Paris;2024-05-26;Spain;France;6-3, 4-6, 3-6, 7-5, 6-3;7-5, 6-4, 3-6, 3-6, 4-6;14,840;Damien Dumusois;French Open;-;Grand Slam
+54; 45678;Cricket;Lord's, London;2024-07-12;India;Australia;234-5d & 286;205 & 288;29,785;Richard Illingworth;The Ashes;-;Test Match
+55; 56789;Baseball;Yankee Stadium, New York;2024-08-01;USA;Cuba;7-4;6-7;46,942;Lance Barksdale;MLB Regular Season;East;Regular Season
+56; 67890;American Football;MetLife Stadium, New Jersey;2024-09-01;USA;Canada;24-31;21-35;82,516;Ron Torbert;NFL Regular Season;East;Regular Season
+57; 78901;Volleyball;Staples Center, Los Angeles;2024-10-10;USA;China;3-1;2-3;18,237;Patrick Flajano;FIVB World Championship;-;Final
+58; 89012;Gaelic Football;Croke Park, Dublin;2024-11-01;Ireland;Scotland;2-12;1-15;73,127;David Gough;GAA All-Ireland Football Final;-;Championship
+59; 90123;Field Hockey;Riverside Stadium, Cambridge;2023-12-30;Netherlands;Germany;2-1;1-3;6,482;Michelle Meister;FIH Pro League;-;League</s>
+60;  91234;Rugby Union;Twickenham Stadium, London;2024-01-05;England;Wales;24-18;20-23;78,952;Luke Pearce;Six Nations Championship;-;Championship
+61; 92345;Basketball;Madison Square Garden, New York;2023-12-31;USA;Canada;98-87;89-98;19,812;John Goble;FIBA World Cup;-;Quarterfinals
+62; 93456;Cricket;Melbourne Cricket Ground, Melbourne;2024-02-01;Australia;India;362-345;343-352;85,127;Richard Kettleborough;ICC World Test Championship;-;Final
+63; 94567;Tennis;Arthur Ashe Stadium, New York;2024-08-31;USA;Serbia;6-3, 7-6(4), 3-6, 6-7(3), 7-5;5-7, 6-7(4), 6-3, 7-6(3), 6-4;23,701;Alison Hughes;US Open;-;Men's Singles Final
+64; 95678;Ice Hockey;Bell Centre, Montreal;2024-02-15;Canada;Russia;4-2;5-4 (OT);21,047;Todd Anderson;IIHF World Championship;-;Semi-finals
+65; 96789;Baseball;Fenway Park, Boston;2024-07-05;USA;Cuba;10-5;8-7;37,288;James Hoye;World Baseball Classic;-;Semi-finals
+66; 97890;Athletics;Olympic Stadium, Tokyo;2024-05-01;Japan;USA;104-108;99-95;66,874;Ricardo Montero;IAAF World Relays;-;Mixed 4x400m Relay
+67; 98901;Golf;Augusta National Golf Club, Augusta;2024-04-15;Tiger Woods;Phil Mickelson;71-73-69-73=286;74-71-72-72=289;45,620;Paul Trevor;US Masters;-;Men's Singles
+68; 99012;Swimming;Aquatics Centre, London;2024-07-28;Great Britain;Australia;1:56.34 (WR);1:57.12;18,753;Jacqueline Haigh;FINA World Championships;-;Men's 200m Freestyle
+69; 100123;Formula 1;Circuit de Monaco, Monte-Carlo;2024-05-27;Lewis Hamilton;Max Verstappen;1:28:23.142;1:28:28.150;76,278;Michael Masi;Formula 1 World Championship;-;Grand Prix</s>
+70;  101234;Basketball;Madison Square Garden, New York;2024-06-15;New York Knicks;Los Angeles Lakers;98-89-74-102=363;105-90-85-78=358;19,762;Alexander Pope;NBA Finals;Eastern-Western;Best of 7
+71; 102345;Cricket;Melbourne Cricket Ground, Melbourne;2024-01-01;Australia;England;241-125-265-205=836;210-155-228-187=780;85,624;Nigel Llong;The Ashes;-;Test Match
+72; 103456;Tennis;Rod Laver Arena, Melbourne;2025-01-25;Novak Djokovic;Rafael Nadal;7-6(7-3)-6-3-3-6(4-7)-6-3=45;5-7-6-3-4-6(5-7)-3-2=35;14,821;Damien Dumusois;Australian Open;-;Men's Singles
+73; 104567;Volleyball;Palais Omnisports de Paris-Bercy, Paris;2024-09-25;France;Brazil;25-19-22-25-15-18=120;27-21-25-18-10-15=116;12,198;Susana Rodriguez;FIVB World Championship;-;Men's
+74; 105678;Rugby;Twickenham Stadium, London;2024-11-16;England;New Zealand;22-15-16-8=61;17-14-24-6=61;80,123;Andrew Brace;The Rugby Championship;-;Test Match
+75; 106789;Baseball;Yankee Stadium, New York;2024-10-10;New York Yankees;Boston Red Sox;5-4-6-2=17;2-5-1-4=12;47,311;Tom Hallion;American League Championship Series;Eastern-Eastern;Best of 7
+76; 107891;Ice Hockey;Bell Centre, Montreal;2024-06-01;Montreal Canadiens;Vegas Golden Knights;3-2-5-4=14;2-4-3-6=15;21,273;Tobias Björk;Stanley Cup Finals;Eastern-Western;Best of 7
+77; 108912;Handball;Barcelona Olympic Hall, Barcelona;2024-08-09;Spain;France;24-18-21-22=85;23-19-25-21=88;9,371;György Nagy;Summer Olympics;-;Men's Tournament
+78; 109123;Football;Wembley Stadium, London;2024-12-25;England;Germany;2-1-1-3=7;0-2-1-2=5;86,782;Cesar Ramos;FIFA World Cup;-;Final
+79; 110234;Athletics;National Stadium, Jakarta;2024-10-01;Jamaica;United States;9.89-22.34-47.52-70.75=140.50;10.01-22.57-48.13-71.54=152.28;65,341;Robin Tiganada;IAAF World Championships;-;Men's 4x100m Relay</s>
+80;  112345;Basketball;Mediolanum Forum, Milan;2025-02-14;USA;Canada;23-26-31-20=90;20-22-28-25=95;12,456;Jorge Vazquez;FIBA World Cup;-;Final
+81; 113456;Cricket;Melbourne Cricket Ground, Melbourne;2025-01-20;Australia;India;210-45-56-89=390;187-52-60-85=384;98,762;Nigel Llong;ICC Cricket World Cup;-;Final
+82; 114567;Field Hockey;Riverbank Arena, London;2025-08-08;Netherlands;Germany;2-1-2-0=5;1-2-1-2=6;18,364;Carolina de la Fuente;Summer Olympics;-;Men's Tournament
+83; 115678;Golf;Augusta National Golf Club, Augusta;2025-04-13;USA;Ireland;75-70-68-71=284;72-73-70-75=288;35,687;John Paramor;The Masters;-;Men's Individual
+84; 116789;Rugby;Eden Park, Auckland;2025-11-29;New Zealand;South Africa;19-14-6-17=56;14-12-10-15=51;67,546;Wayne Barnes;Rugby World Cup;-;Final
+85; 117890;Skiing;Lillehammer Olympic Stadium, Lillehammer;2025-02-12;Norway;Austria;1:58.92;1:59.31;24,567;Stephane Vinolo;Winter Olympics;Alpine;Men's Downhill
+86; 118901;Swimming;Natatorium, Indianapolis;2025-07-04;USA;Australia;51.02-1:47.23-4:07.68-5:32.41=15:18.34;51.56-1:49.11-4:09.74-5:34.00=15:24.41;8,320;Takumi Tanifuji;World Aquatics Championships;-;Men's 4x100m Individual Medley
+87; 119012;Table Tennis;Qatar Handball Association Complex, Doha;2025-03-25;China;Japan;11-6-8-10-13;14-8-10-8-9;3,857;Rajko Todorovic;ITTF World Championships;-;Men's Singles
+88; 120123;Tennis;Rod Laver Arena, Melbourne;2025-01-27;Spain;Serbia;4-6-6-6-6;5-7-4-4-3;22,874;James Keothavong;Australian Open;-;Men's Singles
+89; 121234;Volleyball;Hala Tivoli, Ljubljana;2025-09-10;Brazil;Italy;23-25-20-23-15;25-17-25-15-20;7,563;Luis Macias;FIVB World Cup;-;Men's Tournament</s>
+90;  130987;Soccer;Wembley Stadium, London;2025-07-12;England;Germany;2-1-1-2-3;1-2-3-4-5;98,217;Ali Palabiyik;UEFA European Championship;-;Men's Tournament
+91; 141230;Basketball;Philips Arena, Atlanta;2025-08-08;USA;Canada;97-89-76-81-101;85-74-68-73-90;102,635;Roberto Oliveros;FIBA Basketball World Cup;-;Men's Tournament
+92; 150897;Rugby;Ellis Park Stadium, Johannesburg;2025-11-14;South Africa;New Zealand;24-18-15-21-25;22-20-19-18-22;72,345;Nigel Owens;The Rugby Championship;-;Men's Tournament
+93; 161220;Ice Hockey;Bell Centre, Montreal;2025-02-25;Canada;Russia;4-3-2-6-8;3-4-5-2-5;21,067;Tobias Wehrli;IIHF World Championship;-;Men's Tournament
+94; 170654;Golf;Augusta National Golf Club, Augusta;2025-04-13;USA;Ireland;72-70-65-71;75-73-70-72;35,000;Carlos Barbosa;The Masters;-;Men's Tournament
+95; 180298;Cricket;Lord's Cricket Ground, London;2025-06-22;England;Australia;150-188-223;210-176-201;30,000;Christian Scott;ICC Cricket World Cup;-;Men's Tournament
+96; 190983;Baseball;Dodger Stadium, Los Angeles;2025-10-04;USA;Cuba;6-4-5-3-8;4-2-3-4-2;52,566;Angel Hernandez;World Baseball Classic;-;Men's Tournament
+97; 201287;Formula 1;Circuit de Monaco, Monte Carlo;2025-05-26;Germany;France;1:23.456;2:24.567;78,000;Dennis Carter;FIA Formula One World Championship;-;Grand Prix
+98; 210765;Motorcycle Racing;Donington Park, Leicestershire;2025-07-13;UK;Spain;0:45.23;0:46.17;125,643;Masoud Yazdi;FIM Grand Prix World Championship;MotoGP;Grand Prix
+99; 221098;American Football;MetLife Stadium, New York;2025-12-29;USA;Mexico;24-21-17-27;13-10-20-17;82,987;Clete Blakeman;Super Bowl;-;Men's Tournament</s>
+100;  231234;Basketball;Madison Square Garden, New York;2026-01-15;USA;Canada;98-87-76-100;89-92-85-99;98,243;Scott Foster;NBA;-,Tournament;
+101; 241567;Soccer;Wembley Stadium, London;2026-02-22;England;Wales;2-1-3-4;1-2-3-5;99,568;Felix Brych;Premier League;-;Men's League
+102; 252093;Ice Hockey;Bell Centre, Montreal;2026-03-08;Canada;USA;3-2-3-4;5-4-3-2;21,047;Wes McCauley;NHL;-,Regular Season;
+103; 262501;Tennis;Rod Laver Arena, Melbourne;2026-04-17;Australia;France;6-4-7-6;5-7-6-4;15,678;Ali Bin Nasser;ATP Tour;-;Men's Singles
+104; 273008;Rugby;Twickenham Stadium, London;2026-05-03;England;Ireland;24-17-18-19;17-18-20-21;83,456;Jaco Peyper;Rugby Football Union;-,Men's International;
+105; 283499;Golf;Augusta National Golf Club, Georgia;2026-06-05;USA;South Africa;73-74-75-76;74-73-75-76;49,237;Paul Azinger;PGA Tour;-,Men's Major;
+106; 293987;Baseball;Yankee Stadium, New York;2026-07-12;USA;Cuba;4-5-3-2;3-4-5-6;49,663;Angel Hernandez;MLB;-,Major League;
+107; 304498;Cricket;Lord's, London;2026-08-23;England;Australia;153-145-167;173-148-159;30,124;Marais Erasmus;The Ashes;-,Test Match;
+108; 314965;Volleyball;Staples Center, Los Angeles;2026-09-27;USA;Brazil;25-22-21-19-15;22-25-23-18-16;20,564;Bill Kauffman;FIVB World Championship;-,Men's Tournament;
+109; 325478;Field Hockey;Royal Stadium, Brussels;2026-11-01;Belgium;Netherlands;2-1-3-4;1-2-3-5;45,098;Kim Hong-Lae;FIH Pro League;-,Men's League</s>;

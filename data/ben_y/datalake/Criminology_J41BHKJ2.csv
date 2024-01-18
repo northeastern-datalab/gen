@@ -1,0 +1,11 @@
+;Arrest Warrants Issued; Number\_of\_Witnesses; Weapon(if any) Used / Possessed; Injuries Suffered By Officer (Yes / No), if yes describe injury severity; Incident Location Details; Arrest Type; Evidence Collected; Case Status; Investigating Officer; Prosecuting Attorney; Next Court Date.
+0;  5; 2; Firearm; Yes, gunshot wound to arm; Park near downtown library; Felony arrest; Ballistic evidence, surveillance footage; Open case; Officer Johnson; Attorney Smith; 07/01/2023
+1; 2; 0; Knife; No; Homeowner's residence during burglary; Misdemeanor arrest; Stolen items, fingerprints; Case closed; Officer Rodriguez; Attorney Brown; N/A
+2; 3; 1; Baseball bat; Yes, concussion; Local convenience store; Felony arrest; Security camera footage, bat with fingerprints; Awaiting trial; Officer Davis; Attorney Thompson; 08/15/2023
+3; 1; 3; N/A; No; School premises during a fight; Misdemeanor arrest; Witness statements, disciplinary record; Case closed; Officer Wilson; Attorney Johnson; N/A
+4; 7; 0; Unregistered handgun; Yes, minor arm injury; Abandoned building used for drug trafficking; Felony arrest; Weapon, drugs, transaction records; Open case; Officer Garcia; Attorney Green; 09/20/2023
+5; 4; 2; Machete; No; Local park during gang-related activity; Felony arrest; Weapon, gang paraphernalia, witness statements; Awaiting trial; Officer Hernandez; Attorney Jackson; 10/25/2023
+6; 6; 1; Metal pipe; Yes, fractured rib; Construction site after hours; Misdemeanor arrest; Weapon, surveillance footage; Case closed; Officer Thompson; Attorney White; N/A
+7; 8; 0; Poison; Yes, food poisoning; High-end restaurant during health code violation; Misdemeanor arrest; Contaminated food, medical records; Case closed; Officer Lewis; Attorney Davis; N/A
+8; 9; 3; Molotov cocktail; No; Abandoned warehouse during arson; Felony arrest; Arson tools, accelerant, witness statements; Open case; Officer Patel; Attorney Miller; 12/05/2023
+9; 10; 2; Sword; No; Historical society during a theft; Felony arrest; Stolen artifacts, fingerprints; Awaiting trial; Officer Chen; Attorney Jones; 11/10/2023</s>

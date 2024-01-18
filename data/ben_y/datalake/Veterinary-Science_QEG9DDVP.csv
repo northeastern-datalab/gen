@@ -1,0 +1,25 @@
+;"\
+Veterinarian Name";"\
+Specialization";"\
+Consultation Fee";"\
+Medications Prescribed";"\
+Procedure Recommended";"\
+Follow-up Appointment";"\
+Referral to Specialist";"\
+Radiology Results";"\
+Lab Test Results";"\
+Vaccination Status";"\
+Parasite Prevention";"\
+Diet Recommendation";"\
+Exercise Recommendation";"\
+Behavior Assessment"
+0;  John Doe; Small Animal Medicine; $100; Simparica Trio, Bravecto; Spay/Neuter; 2 weeks; No; No Masses; Normal Bloodwork; Up-to-date on vaccinations; Heartworm preventative monthly; High-quality dog food, no table scraps; Daily walks and playtime; Generally well-behaved.
+1; Jane Smith; Equine Veterinarian; $150; Bute, Banamine; Dental Float; 1 month; Yes, Orthopedic Specialist; Clear X-rays; Normal CBC and Chemistry; Annual vaccines; Regular deworming; Balanced diet with plenty of roughage; Regular exercise and turnout.;
+2; Emily Davis; Exotic Animal Veterinarian; $120; Metacam, Benebac; Beak Trim; 3 weeks; No; No unusual findings on radiographs; Normal Urinalysis; Current on vaccinations; Monthly parasite prevention; Diet appropriate for species; Enrichment activities recommended.;
+3; Robert Johnson; Canine Rehabilitation; $125; Carprofen, Fish Oil; Hydrotherapy; 1 week; No; Clear MRI; Normal Bloodwork; Current on vaccinations; Regular parasite prevention; Prescription diet for weight loss; Controlled leash walks; Obedience training.
+4; Sarah Thompson; Feline Medicine; $90; Buprenex, Clavamox; Dental Cleaning; 2 months; No; No signs of cancer on radiographs; Normal Thyroid panel; Up-to-date on vaccinations; Regular flea prevention; Canned food diet; Playtime with toys; Minimal litter box issues.
+5; Michael Walker; Avian Veterinarian; $110; Meloxicam, Lactated Ringer's Solution; Wing Trim; 3 days; Yes, Soft Tissue Specialist; Clear X-rays; Egg laying concerns; Annual vaccinations; Monthly parasite prevention; Pelleted diet; Out of cage time; Socialization with humans.
+6; Laura Garcia; Wildlife Rehabilitation; $80; Metacam, Anti-inflammatory diet; Wound Cleaning; 10 days; Yes, Surgery Specialist; Fracture repair noted on radiographs; Normal Bloodwork; N/A; N/A; Diet specific to species; Cage rest; Observation and monitoring.
+7; James Brown; Dermatology; $130; Apoquel, Hydrocortisone Spray; Allergy Testing; 2 weeks; No; Clear Skin Scrapings; Normal Bloodwork; Annual Vaccinations; Monthly parasite prevention; Hypoallergenic diet; Epsom salt soaks; Occasional anti-itch medication.
+8; Susan Taylor; internal medicine; $140; Tramadol, Famotidine; Ultrasound; 1 week; Yes, Oncologist; Mass present on ultrasound; Normal Bloodwork; Annual Vaccinations; Regular parasite prevention; Prescription diet for cancer; Controlled exercise; Supportive care as needed.
+9; William Harris; Surgery; $150; Preoperative Pain Medication, Postoperative Pain Medication; Orthopedic Surgery; 6 weeks; No; Clear X-rays post-surgery; Normal Bloodwork; Annual Vaccinations; Regular parasite prevention; Soft foods post-surgery; Restricted activity; Scheduled rechecks.</s>

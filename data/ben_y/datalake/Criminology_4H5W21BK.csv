@@ -1,0 +1,11 @@
+;Arrest Officer ID; Arresting Office Department; Suspected Weapon(s) Involved; Time of Day; Location Type; Year; Investigation Status; Case Complexity; Sentencing Outcome; Rehabilitation Progress
+0; 2834; Central Police Station; Handgun; 2:17 AM; Residential Area; 2019; Case Closed; High; Prison Sentence; On-going
+1; 5629; Northside District Office; Knife; 7:45 PM; Commercial Area; 2017; Case Dropped; Low; N/A; N/A
+2; 6781; Metro Precinct; Baseball Bat; 11:35 AM; Public Park; 2020; Under Investigation; Medium; Community Service; N/A
+3; 9201; Western Division Headquarters; No Weapon; 3:50 PM; School Grounds; 2018; Case Dropped; Low; N/A; N/A
+4; 3412; Downtown Station; Unknown; 9:10 PM; Parking Garage; 2019; Case Closed; High; Prison Sentence; On-going
+5; 7890; Community Safety Office; Taser; 1:25 AM; Apartment Complex; 2020; Case Closed; Medium; Probation; On-going
+6; 1103; River Precinct; Car; 6:05 PM; High Way; 2017; Case Dropped; Low; N/A; N/A
+7; 2221; Harbor Patrol; Fishing Rod; 10:02 AM; Dockyard; 2018; Case Closed; Low; Fine; N/A
+8; 5555; Special Crimes Unit; Poison; 8:35 PM; Restaurant; 2019; Under Investigation; High; Prison Sentence; On-going
+9; 8888; Federal Enforcement Agency; Explosives; 12:15 PM; Industrial Area; 2020; Case Closed; Very High; Life Imprisonment; N/A</s>

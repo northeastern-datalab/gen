@@ -1,0 +1,11 @@
+;"""Proteins Identified"; Protein Domain Architecture; Post-translational 
+0;"""Proteins Identified"; Protein Domain Architecture;" Post-translational Modifications\"""""""
+1;"""Myosin-1, Myosin-2, Myosin-3"; Motor domain, IQ domain, regulatory domain;" Phosphorylation\"""""""
+2;"""Actin"; Filamentous structure;" Methylation\"""""""
+3;"""Tubulin"; GTPase domain, beta-sheet rich domain;" Acetylation, Polyglutamylation\"""""""
+4;"""Histones"; Alpha-helix rich domain, Bromodomain;" Methylation, Acetylation\"""""""
+5;"""Glyceraldehyde 3-phosphate dehydrogenase"; NAD-binding domain, Catalytic domain;" Phosphorylation\"""""""
+6;"""Ubiquitin"; Alpha-helix rich domain, Beta-grasp fold;" Ubiquitination\"""""""
+7;"""Calmodulin"; EF-hand domain;" Phosphorylation, Methylation\"""""""
+8;"""Hemoglobin"; Globin domain;" Glycation\"""""""
+9;"""Ferritin"; Ferritin-like domain;" Glycosylation, Phosphorylation\""""""</s>"

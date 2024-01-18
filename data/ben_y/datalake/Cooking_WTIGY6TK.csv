@@ -1,0 +1,11 @@
+;Chef Name;Estimated Cost per Meal;Seasonality;Number of Pans Used;Type of Fuel;Is it Vegan?;Does it Contain Nuts?;Average Market Price per Serving;Times Viewed on Platform;Number of Social Media Shares;Review Score from Users;Trending Learnability Index;Minimum Age Group
+0;  Chef Laura Johnson;$20.50;Spring;3 pans;Gas;No;No;$5.37;123,456;7890;4.6/5;High;5+
+1; Chef Pedro Martinez;$15.78;Winter;5 pans;Electric;Yes;Yes;$3.89;678,123;3456;4.2/5;Medium;12+
+2; Chef Emma Wilson;$27.89;Summer;2 pans;Propane;Yes;No;$6.45;987,654;1098;4.9/5;Very High;7+
+3; Chef Michael Lee;$18.67;Autumn;4 pans;Gas;No;Yes;$4.24;543,210;2345;4.5/5;Medium;3+
+4; Chef Sarah Chen;$34.56;Spring;6 pans;Electric;No;No;$7.89;135,790;5678;5/5;Very High;10+
+5; Chef James Anderson;$12.99;Winter;2 pans;Propane;Yes;Yes;$3.12;888,321;7890;3.9/5;Low;2+
+6; Chef Emily Davis;$25.43;Summer;4 pans;Gas;No;No;$5.67;456,789;3456;4.7/5;Medium;8+
+7; Chef Robert Miller;$19.34;Autumn;3 pans;Electric;Yes;Yes;$4.56;765,432;1234;4.3/5;High;12+
+8; Chef Jessica Brown;$32.00;Spring;5 pans;Propane;No;No;$7.14;987,654;2345;4.8/5;Very High;7+
+9; Chef Daniel Baker;$16.67;Winter;2 pans;Gas;Yes;Yes;$3.56;321,098;5678;4.1/5;Low;2+</s>

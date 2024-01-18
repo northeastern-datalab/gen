@@ -1,0 +1,11 @@
+;Previous Conditions;Severe Allergies;Referring Doctor;Followup Appointment Date;Prescription Cost;Insurance Cover;Surgical History;Vaccination Record;Smoking Status;Alcohol Consumption
+0;" ""Asthma";No severe allergies;Dr. Smith;08/15/2022;$100;Full coverage;None;Up-to-date;Non-smoker;"Occasional drinker"""
+1;"""High blood pressure";Epipen for bee stings;Dr. Johnson;09/01/2022;$30;Partial coverage;Cholecystectomy;Up-to-date;Smoker;"Rarely drinks"""
+2;"""Diabetes";No severe allergies;Dr. Patel;08/20/2022;$50;Full coverage;Appendectomy;Up-to-date;Non-smoker;"Does not drink"""
+3;"""Anxiety disorder";No severe allergies;Dr. Taylor;09/10/2022;$25;No coverage;None;Up-to-date;Non-smoker;"Occasional drinker"""
+4;"""Heart disease";Penicillin allergy;Dr. Brown;08/25/2022;$150;Full coverage;Pacemaker implantation;Tetanus, Hepatitis B, Flu;Non-smoker;"Does not drink"""
+5;"""Chronic pain";Epilepsy;Dr. Davis;08/30/2022;$20;Partial coverage;Spinal fusion;Up-to-date;Smoker;"Rarely drinks"""
+6;"""Arthritis";No severe allergies;Dr. Garcia;09/05/2022;$75;Full coverage;Hip replacement;Up-to-date;Non-smoker;"Occasional drinker"""
+7;"""Sleep apnea";Epinephrine allergy;Dr. Henderson;09/12/2022;$40;No coverage;CPAP therapy;Flu, Pneumococcal;Smoker;"Does not drink"""
+8;"""Migraines";No severe allergies;Dr. King;08/22/2022;$120;Full coverage;None;Up-to-date;Non-smoker;"Occasional drinker"""
+9;"""Asthma, COPD";Latex allergy;Dr. Lee;08/28/2022;$80;Partial coverage;Bypass surgery;Up-to-date;Smoker;"Rarely drinks""</s>"

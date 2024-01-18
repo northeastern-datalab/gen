@@ -1,0 +1,11 @@
+;Vaccination Date; Vaccination Type; Surgery Date; Surgery Type; Allergy Type; Allergy Reaction; Genetic Disorder; Genetic Counseling; Dental Checkup; Dietary Recommendation
+0;" ""04/01/2022"""; Rabies Vaccination; None; None; None; None; None; None; 03/15/2022; Balanced Diet
+1;"""06/10/2021"""; Kennel Cough Vaccination; 08/10/2021; Spay Surgery; None; None; None; Received Genetic Counseling; 02/12/2022; Prescribed Special Diet
+2;"""09/05/2020"""; Distemper Vaccination; None; None; Food Allergies; Itching and Rash; None; Offered Genetic Counseling; 12/15/2021; Grain-Free Diet Recommended
+3;"""12/12/2019"""; Rabies Vaccination; 02/03/2020; Neutering; Latex Allergy; Swelling and Redness; None; Received Genetic Counseling; 06/10/2021; High-Protein Diet Advised
+4;"""03/20/2019"""; Parvovirus Vaccination; None; None; Dust Mite Allergy; Sneezing and Watery Eyes; Hip Dysplasia; Received Genetic Counseling; 09/15/2021; Fish-Based Diet Suggested
+5;"""06/05/2018"""; Bordetella Vaccination; 09/15/2018; Dental Cleaning; None; None; Heart Murmur; Genetic Counseling Not Needed; 12/10/2021; Low-Fat Diet Required
+6;"""09/10/2017"""; Rabies Vaccination; None; None; None; None; Epilepsy; Recommended Regular Genetic Counseling; 03/15/2022; Prescription Diet Recommended
+7;"""12/12/2016"""; Distemper Vaccination; 03/05/2017; Fracture Repair; Latex Allergy; Swelling and Redness; None; Received Genetic Counseling; 06/10/2021; High-Protein Diet Advised
+8;"""03/20/2016"""; Parvovirus Vaccination; 06/05/2016; Spay Surgery; None; None; Hip Dysplasia; Offered Genetic Counseling; 09/15/2021; Fish-Based Diet Suggested
+9;"""06/05/2015"""; Rabies Vaccination; None; Dental Cleaning; Dust Mite Allergy; Sneezing and Watery Eyes; Heart Murmur; Genetic Counseling Not Needed; 12/10/2021; Low-Fat Diet Required</s>

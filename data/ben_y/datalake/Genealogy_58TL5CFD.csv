@@ -1,0 +1,11 @@
+;ChildGivenName; ChildMiddleName; ChildSurname; PaternalGrandfatherID; PaternalGrandmotherFirstName; PaternalGrandmotherSurname; MaternalGrandfatherID; MaternalGrandmotherMaidenName; MaternalGrandmotherFirstName; SpouseFirstName; SpouseLastName; MarriageDate; DeathDate; SSN
+0; EmilyAnn; Kathleen; Johnson; 123; Sarah; Williams; 456; Johnson; Elizabeth; James; Johnson; 2001-05-10; 2015-12-31; 123-45-6789 
+1;John; Richard; Miller; 789; Linda; Smith; 321; Johnson; Margaret; Emily; Miller; 2002-11-15; 2020-01-05; 987-65-4321 
+2;Olivia; Victoria; Davis; 654; Susan; Johnson; 890; Williams; Barbara; John; Davis; 2003-07-28; 2018-09-17; 555-55-5555 
+3;Aiden; Michael; Thompson; 333; Amanda; Miller; 909; Davis; Jennifer; Olivia; Thompson; 2004-04-02; 2019-11-14; 222-22-2222 
+4;Mia; Elizabeth; Johnson; 111; Patricia; Smith; 222; Thompson; Michelle; Aiden; Johnson; 2005-08-10; 2021-02-25; 666-66-6666 
+5;Ethan; William; Davis; 555; Laura; Johnson; 666; Miller; Grace; Mia, Davis; 2006-12-16; 2022-06-10; 777-77-7777;
+6;Isabella; Maria; Thompson; 777; Rebecca; Davis; 888; Johnson; Laura; Ethan; Thompson; 2007-09-04; 2023-03-02; 888-88-8888 
+7;Liam; James; Johnson; 999; Cynthia; Thompson; 111; Miller; Sarah; Isabella; Johnson; 2008-11-24; 2024-11-11; 999-99-9999 
+8;Ava; Olivia; Miller; 222; Emily; Johnson; 333; Davis; Amanda; Liam; Miller; 2009-03-01; 2025-07-29; 333-33-3333 
+9;Jackson; Benjamin; Davis; 444; Rebecca; Miller; 555; Johnson; Laura; Ava, Miller; 2010-06-15; 2026-12-30; 444-44-4444;</s>

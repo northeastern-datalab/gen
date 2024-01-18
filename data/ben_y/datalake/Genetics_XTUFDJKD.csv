@@ -1,0 +1,12 @@
+;Genes Affecting Traits; Average Age Of Onset; Chromosome Region; Related Conditions; Other Clinical Features; Diagnostic Markers; Penetrance%; Expressivity%; Locus Heterogeneity?; Animal Models Used; Gene Name; Protein Function; Additional Information; Population Frequency
+0; Genes Affecting Traits; Average Age Of Onset; Chromosome Region; Related Conditions; Other Clinical Features; Diagnostic Markers; Penetrance%; Expressivity%; Locus Heterogeneity?; Animal Models Used; Gene Name; Protein Function; Additional Information; Population Frequency
+1; Huntingtin; 40-50 years; 4p16.3; Huntington's disease; Chorea, behavioral changes, dementia; Expanded CAG repeats; 100%; Full; Yes; Mouse, fly; HTT; Protein synthesis regulation; Common in Europe;
+2; BRCA1/2; 40-50 years; 17q21, 13q12; Breast/ovarian cancer; Family history, early onset; Mutations; 50-85%; High; No; Mouse, rat; Breast cancer 1/2; DNA repair; Ashkenazi Jewish prevalence;
+3; APOE4; Varies; 19q13; Alzheimer's disease; Late onset, cognitive decline; Apolipoprotein E; 40-80%; Moderate; No; Mouse, monkey; Apolipoprotein E; Lipid metabolism; Common in Caucasians;
+4; CFTR; Birth; 7q31; Cystic fibrosis; Respiratory/gastrointestinal issues; Mutations; 85%; Full; No; Pig, mouse; Cystic fibrosis transmembrane conductance regulator; Ion transport; Common in Caucasians;
+5; TP53; 50-60 years; 17p13; Li-Fraumeni syndrome; Multiple cancers; Mutations; 100%; High; No; Mouse; Tumor protein p53; Cell cycle regulation; Rare;
+6; HBB; Birth; 11p15; Sickle cell anemia; Pain crises, anemia; Mutations; 100%; Full; Yes; Mouse; Hemoglobin subunit beta; Oxygen transport; African;
+7; MC1R; Varies; 16q24; Red hair/freckles; Fair skin; Mutations; 80-100%; Full; Yes; Mouse; Melanocortin 1 receptor; Melanin synthesis; Scottish/Irish;
+8; F5; Varies; 1q23; Factor V Leiden; Thrombosis tendency; Mutations; 20-40%; Moderate; No; Mouse; Coagulation factor V; Blood clotting; Common in Europe;
+9; LMNA; 30-50 years; 1q21-q22; Muscular dystrophy; Cardiac/muscular problems; Mutations; 50-80%; Full; No; Mouse; Lamin A/C; Nuclear structure; Rare;
+10; RET; 30-50 years; 10q11.2; Multiple endocrine neoplasia; Tumors (thyroid, adrenal, parathyroid); Mutations; 95%; Full; No; Mouse, rat; RET proto-oncogene; Cell signaling; Rare;</s>

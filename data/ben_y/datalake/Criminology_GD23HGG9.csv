@@ -1,0 +1,11 @@
+;Arrest Warrants Issued; Number\_of\_Witnesses; Weapons\_Used\_if\_any; Fines\_Imposed (\$; Type\_of\_Probation; Community\_Service\_Hours; Restitution\_Funds\_Received; Rehabilitation\_Programs\_Attended; Parole\_Eligibility\_Date; Parole\_Hearing\_Outcome; Parole\_Supervision\_Status.
+0;" ""5"; 3; Handgun; 2000; Regular Probation; 100; 500; Cognitive Behavioral Therapy; 01-01-2024; Denied;" Still on Parole"""
+1;""" ""2"; 0; Knife; 1500; Intensive Probation; 150; 700; Substance Abuse Treatment; 06-05-2023; Granted;" Supervised Probation"""
+2;""" ""8"; 2; None; 3000; Community Control; 200; 1000; Anger Management; 03-12-2024; Denied;" Unsupervised Probation"""
+3;""" ""3"; 1; Baseball Bat; 2500; Administrative Probation; 120; 800; None; 09-09-2023; Granted;" Supervised Probation"""
+4;""" ""6"; 4; Taser; 3500; Intensive Probation; 180; 1200; Life Skills Training; 11-11-2023; Denied;" Unsupervised Probation"""
+5;""" ""7"; 0; Rope; 4000; Regular Probation; 150; 1500; Job Readiness Training; 05-07-2024; Granted;" Supervised Probation"""
+6;""" ""4"; 3; Stun Gun; 2000; Administrative Probation; 100; 700; Parenting Classes; 08-04-2023; Denied;" Unsupervised Probation"""
+7;""" ""9"; 5; Crowbar; 1000; Intensive Probation; 200; 800; Mental Health Treatment; 12-12-2023; Granted;" Supervised Probation"""
+8;""" ""1"; 2; Golf Club; 1800; Regular Probation; 120; 600; None; 07-01-2024; Denied;" Unsupervised Probation"""
+9;""" ""10"; 4; Car Jack; 500; Community Control; 250; 1200; Vocational Training; 02-20-2024; Granted;" Supervised Probation"""

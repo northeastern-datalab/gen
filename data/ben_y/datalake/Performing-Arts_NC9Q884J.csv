@@ -1,0 +1,11 @@
+;Theater Type; Capacity ; Construction Year; Architecture Style; Main Stage Dimensions; Main Curtain Weight; # Of Balconies; % Seating Occupancy; $ Ticket Price Range (min-$ max$-); '§' Educational Programs(*_*)
+0; Proscenium Theater; 800 ; 1932 ; Art Deco ; 40x20x25ft ; 300lbs ; 2 ; 85% ; $30-$80 ; Programs include drama workshops and history of theater lectures.
+1;Thrust Theater; 650 ; 1968 ; Brutalist ; 45x30x30ft ; 400lbs ; 1 ; 90% ; $40-$90 ; Programs consist of acting classes and stage design workshops.
+2;Black Box Theater; 250 ; 1995 ; Modernist ; 30x20x20ft ; 200lbs ; 0 ; 99% ; $25-$60 ; Programs feature improv classes and technical theater training.
+3;Opera House; 1200 ; 1896 ; Baroque ; 60x40x50ft ; 500lbs ; 3 ; 75% ; $100-$250 ; Programs offer vocal coaching and opera history courses.
+4;Dance Studio; 100 ; 2010 ; Contemporary ; 25x20x15ft ; 150lbs ; 0 ; 100% ; $15-$35 ; Programs provide dance classes and choreography workshops.
+5;Outdoor Amphitheater; 3000 ; 2005 ; Classic Greek ; N/A ; N/A ; 0 ; 60% ; $20-$50 ; Programs include plays performed in the style of ancient Greece and theater appreciation courses.
+6;Film Theater; 200 ; 1915 ; Art Nouveau ; 25x15x12ft ; 100lbs ; 0 ; 70% ; $10-$20 ; Programs feature film studies and screenwriting classes.
+7;Community Theater; 500 ; 1980 ; Postmodern ; 35x25x20ft ; 250lbs ; 1 ; 95% ; $15-$40 ; Programs offer community theater productions and acting classes for all ages.
+8;Experimental Theater; 150 ; 2020 ; High-Tech ; 20x15x12ft ; 100lbs ; 0 ; 98% ; $10-$25 ; Programs present new and experimental works, as well as workshops in creative writing and devised theater.
+9;Children's Theater; 300 ; 1950 ; Storybook ; 30x20x18ft ; 150lbs ; 0 ; 100% ; $10-$20 ; Programs host children's theater productions, puppetry shows, and theater classes for kids.</s>

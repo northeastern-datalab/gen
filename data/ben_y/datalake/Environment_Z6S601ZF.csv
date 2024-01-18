@@ -1,0 +1,11 @@
+;Renewable\_Energy\_Percentage;Fossil\_Fuel\_Consumption;Natural\_Disaster\_Frequency;Endangered\_Species\_Listed;Conservation\_Budget;Climate\_Policy\_Index;Protected\_Area\_Percentage;Recycling\_Rate;Tree\_Coverage\_Percentage;Eco\_Tourism\_Revenue;Wildlife\_Crime\_Incidents;Public\_Education\_Level\_on\_Environment
+0; 5; 45%; once every 5 years; 500; $200 million; 0.75; 18%; 35%; 28%; $50 million; 25; College Degree
+1;12; 30%; twice per year; 300; $300 million; 0.82; 25%; 42%; 33%; $75 million; 15; High School Diploma
+2;6; 50%; never; 100; $150 million; 0.67; 12%; 28%; 45%; $80 million; 30; Some College
+3;70; 5%; annually; 800; $500 million; 0.91; 45%; 52%; 18%; $100 million; 5; PhD
+4;2; 60%; every 3 years; 75; $100 million; 0.70; 15%; 30%; 55%; $60 million; 10; Master's Degree
+5;15; 25%; thrice per year; 200; $250 million; 0.86; 30%; 48%; 22%; $90 million; 20; Professional Degree
+6;80; 10%; decennially; 600; $400 million; 0.95; 60%; 50%; 15%; $120 million; 8; Postdoctoral Research
+7;40; 15%; once every 2 years; 350; $350 million; 0.80; 20%; 36%; 25%; $110 million; 18; Bachelor's Degree
+8;90; 5%; quadrennially; 1000; $600 million; 0.97; 70%; 65%; 10%; $140 million; 3; Primary Education
+9;3; 70%; never; 50; $200 million; 0.65; 5%; 20%; 60%; $55 million; 22; Professional Degree</s>

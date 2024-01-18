@@ -1,0 +1,11 @@
+;Rock Types; Age Determination Methods; Magnetic Susceptibility; Density; Electrical Conductivity; Thermal Conductivity; Radioactivity; Strain; Stress; Fracture Orientation; Seismic Anisotropy; Gravity Anomalies; Magnetic Anomalies; Geologic Provinces
+0; Igneous Rock; Radiometric Dating, Isotopic Analysis; High; 2.5-3.0; Variable; Variable; High; High; Variable; Random; Low; Variable; Variable; Oceanic and Continental Crust
+1;Sedimentary Rock; Relative Dating, Fossil Analysis; Low; 2.0-2.6; Low; Low; Low; Low; Variable; Random; Low; Low; Low; River Deltas, Coastal Plains
+2;Metamorphic Rock; Folding, Foliation Analysis; Moderate; 2.6-3.3; Variable; Variable; Moderate; High; Variable; Planar; Variable; Variable; Variable; Mountain Belts
+3;Basalt; K-Ar, Rb-Sr Dating; High; 3.0; High; High; High; High; High; Random; Low; High; High; Oceanic Crust
+4;Shale; Fossil Analysis, Radiometric Dating; Low; 2.0-2.6; Low; Low; Low; Low; Variable; Random; Low; Low; Low; Inland Basins
+5;Gneiss; Folding, Zircon Analysis; Moderate; 2.6-3.3; Variable; Variable; Moderate; High; Variable; Planar; Variable; Variable; Variable; Ancient Continental Crust
+6;Limestone; Fossil Analysis, Radiometric Dating; Low; 2.0-2.7; Low; Low; Low; Low; Variable; Random; Low; Low; Low; Carbonate Platforms
+7;Granite; U-Pb, Rb-Sr Dating; High; 2.5-2.7; Low; Low; Low; Low; High; Random; Low; Low; Low; Continental Crust
+8;Schist; Foliation Analysis, Mineral Age Dating; Moderate; 2.6-3.3; Variable; Variable; Moderate; High; Variable; Planar; Variable; Variable; Variable; Orogens, Metamorphic Belts
+9;Andesite; K-Ar, Ar-Ar Dating; Moderate; 3.2-3.4; Moderate; Moderate; Moderate; High; Variable; Random; Low; Moderate; Moderate; Volcanic Arcs</s>

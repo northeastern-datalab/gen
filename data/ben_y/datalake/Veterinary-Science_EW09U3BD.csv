@@ -1,0 +1,21 @@
+;"\
+Veterinarian License Number";"\
+Years of Experience";"\
+Continuing Education Courses Completed";"\
+Memberships in Veterinary Associations";"\
+Availability for Emergency Services";"\
+Referral to Specialists";"\
+Patient Admission Date";"\
+Last Vaccination Date";"\
+Next Scheduled Appointment";"\
+Treatment Cost Estimate"
+0; 12345; 10;" ""Animal Behavior, Dental Techniques""";" ""American Veterinary Medical Association, Nevada Veterinary Medical Association"""; Yes; Internal Medicine Specialist; 2022-02-01; 2021-05-15; 2022-04-15; $500-$1000
+1;67890; 15;" ""Feline Medicine, Pain Management""";" ""International Veterinary Academy of Pain Management, Society for Veterinary Medical Ethics"""; Yes; Surgery Specialist; 2022-03-10; 2021-08-20; 2022-03-20; $1000-$2000
+2;13579; 5;" ""Canine Rehabilitation, Nutrition""";" ""American Association of Rehabilitation Veterinarians, Association of Shelter Veterinarians"""; Yes; Orthopedic Specialist; 2022-01-18; 2021-11-05; 2022-02-15; $2000-$3000
+3;24680; 8;" ""Exotic Animal Medicine, Avian Medicine""";" ""Association of Avian Veterinarians, Association of Exotic Mammal Veterinarians"""; Yes; Avian and Exotic Pet Specialist; 2022-02-05; 2021-12-20; 2022-03-05; $3000-$4000
+4;98765; 20;" ""Oncology, Radiology""";" ""Veterinary Cancer Society, American College of Veterinary Radiology"""; No; Oncology Specialist; 2022-03-02; 2022-01-10; 2022-04-01; $4000-$5000
+5;45612; 7;" ""Dermatology, Immunology""";" ""American College of Veterinary Dermatology, American Academy of Veterinary Internal Medicine"""; Yes; Dermatology Specialist; 2022-03-15; 2022-02-01; 2022-04-15; $500-$1000
+6;78901; 3;" ""Behavioral Medicine,Physical Therapy""";" ""American Veterinary Society of Animal Behavior, American Association of Physical Medicine and Rehabilitation"""; Yes; Physical Rehabilitation Specialist; 2022-02-20; 2022-01-25; 2022-03-25; $1000-$2000
+7;34561; 12;" ""Cardiology, Emergency and Critical Care""";" ""American College of Veterinary Internal Medicine, Veterinary Emergency and Critical Care Society"""; Yes; Emergency and Critical Care Specialist; 2022-03-08; 2022-02-14; 2022-04-08; $2000-$3000
+8;23456; 6;" ""Opthalmology, Neurology""";" ""American College of Veterinary Ophthalmologists, American College of Veterinary Internal Medicine"""; Yes; Neurology Specialist; 2022-03-12; 2022-02-25; 2022-04-12; $3000-$4000
+9;12309; 9;" ""Internal Medicine, Pathology""";" ""American College of Veterinary Internal Medicine, American College of Veterinary Pathologists"""; Yes; Internal Medicine Specialist; 2022-03-05; 2022-01-31; 2022-04-05; $4000-$5000</s>

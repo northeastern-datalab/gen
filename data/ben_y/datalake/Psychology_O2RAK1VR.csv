@@ -1,0 +1,111 @@
+;SubjectID;DateOfBirth;Trait6;Trait7;Trait8;Trait9;Trait10;Trait11;Trait12;Trait13;Trait14;AddictionHistory;MentalHealthDiagnosis;TherapyExperience
+0; 101;1985-04-12;Conscientious;Agreeable;Neutral;Open-minded;Organized;Optimistic;Straightforward;Loyal;Analytical;No history;Depression;Individual therapy
+1;102;1990-08-08;Disorganized;Disagreeable;Neutral;Closed-minded;Creative;Pessimistic;Manipulative;Insecure;Critical;2 years history;Anxiety;Group therapy
+2;103;1977-12-30;Conscientious;Agreeable;Neutral;Open-minded;Punctual;Hopeful;Honest;Helpful;Logical;No history;Bipolar;Art therapy
+3;104;1988-02-16;Disorganized;Disagreeable;Neutral;Closed-minded;Spontaneous;Cynical;Deceptive;Defensive;Judgmental;10 years history;PTSD;Cognitive-behavioral therapy
+4;105;1991-06-23;Conscientious;Agreeable;Neutral;Open-minded;Methodical;Positive;Sincere;Supportive;Reasonable;No history;Personality disorder;Family therapy
+5;106;1978-09-10;Disorganized;Disagreeable;Neutral;Closed-minded;Haphazard;Skeptical;Secretive;Competitive;Petty;5 years history;Substance abuse;Motivational interviewing
+6;107;1982-11-05;Conscientious;Agreeable;Neutral;Open-minded;Structured;Encouraging;Transparent;Empathetic;Imaginative;No history;Eating disorder;Dialectical behavior therapy
+7;108;1979-05-26;Disorganized;Disagreeable;Neutral;Closed-minded;Chaotic;Distrustful;Evasive;Hostile;Cynical;15 years history;OCD;Exposure and response prevention
+8;109;1986-07-14;Conscientious;Agreeable;Neutral;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;No history;Schizophrenia;Psychodynamic therapy
+9;110;1975-03-22;Disorganized;Disagreeable;Neutral;Closed-minded;Spur-of-the-moment;Wary;Cryptic;Assertive;Critical;20 years history;Panic disorder;Acceptance and commitment therapy</s>
+10; 111;1968-11-10;Conscientious;Agreeable;Positive;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;10 years history;Generalized anxiety disorder;Cognitive behavioral therapy 
+11;112;1990-02-03;Disorganized;Neutral;Negative;Closed-minded;Chaotic;Distrustful;Evasive;Hostile;Cynical;No history;Depression;Dialectical behavior therapy 
+12;113;1982-09-28;Conscientious;Agreeable;Neutral;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;5 years history;Bipolar disorder;Interpersonal and social rhythm therapy 
+13;114;1971-07-08;Disorganized;Disagreeable;Negative;Closed-minded;Spur-of-the-moment;Wary;Cryptic;Assertive;Critical;7 years history;Eating disorder;Family-based therapy 
+14;115;1988-06-19;Conscientious;Agreeable;Positive;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;No history;Attention deficit hyperactivity disorder;Behavioral therapy 
+15;116;1969-12-12;Disorganized;Neutral;Negative;Closed-minded;Chaotic;Distrustful;Evasive;Hostile;Cynical;12 years history;Substance use disorder;Motivational interviewing 
+16;117;1977-04-24;Conscientious;Agreeable;Neutral;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;2 years history;Seasonal affective disorder;Light therapy 
+17;118;1991-05-05;Disorganized;Disagreeable;Negative;Closed-minded;Spur-of-the-moment;Wary;Cryptic;Assertive;Critical;5 years history;Post-traumatic stress disorder;Trauma-focused cognitive behavioral therapy 
+18;119;1967-08-06;Conscientious;Agreeable;Positive;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;No history;Adjustment disorder;Supportive therapy 
+19;120;1978-12-31;Disorganized;Neutral;Negative;Closed-minded;Chaotic;Distrustful;Evasive;Hostile;Cynical;10 years history;Personality disorder;Psychodynamic therapy </s>
+20; 121;1985-04-02;Conscientious;Agreeable;Neutral;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;2 years history;Depression;Interpersonal therapy 
+21;122;1988-09-15;Disorganized;Disagreeable;Negative;Closed-minded;Spur-of-the-moment;Wary;Cryptic;Assertive;Critical;7 years history;Bipolar disorder;Cognitive behavioral therapy 
+22;123;1975-06-10;Conscientious;Agreeable;Positive;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;No history;Generalized anxiety disorder;Exposure therapy 
+23;124;1982-01-17;Disorganized;Neutral;Negative;Closed-minded;Chaotic;Distrustful;Evasive;Hostile;Cynical;3 years history;Panic disorder;Psychodynamic therapy 
+24;125;1990-07-24;Conscientious;Agreeable;Positive;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;1 year history;Obsessive-compulsive disorder;Cognitive therapy 
+25;126;1989-11-28;Disorganized;Disagreeable;Negative;Closed-minded;Spur-of-the-moment;Wary;Cryptic;Assertive;Critical;6 years history;Eating disorder;Interpersonal psychotherapy 
+26;127;1976-02-20;Conscientious;Agreeable;Neutral;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;No history;Sleep disorder;Supportive therapy 
+27;128;1977-05-03;Disorganized;Neutral;Negative;Closed-minded;Chaotic;Distrustful;Evasive;Hostile;Cynical;4 years history;Substance abuse disorder;Cognitive behavioral therapy 
+28;129;1974-12-12;Conscientious;Agreeable;Positive;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;No history;Mood disorder;Psychodynamic therapy 
+29;130;1971-03-16;Disorganized;Disagreeable;Negative;Closed-minded;Spur-of-the-moment;Wary;Cryptic;Assertive;Critical;8 years history;Personality disorder;Dialectical behavior therapy </s>
+30; 131;1968-08-05;Organized;Agreeable;Positive;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;2 years history;Anxiety disorder;Exposure therapy 
+31;132;1965-01-27;Conscientious;Neutral;Negative;Closed-minded;Chaotic;Distrustful;Evasive;Hostile;Cynical;6 years history;Personality disorder;Cognitive behavioral therapy 
+32;133;1962-06-10;Disorganized;Disagreeable;Positive;Open-minded;Spur-of-the-moment;Wary;Cryptic;Assertive;Critical;No history;Mood disorder;Psychodynamic therapy 
+33;134;1959-09-19;Organized;Agreeable;Negative;Closed-minded;Chaotic;Distrustful;Evasive;Hostile;Cynical;5 years history;Substance abuse disorder;Dialectical behavior therapy 
+34;135;1956-11-23;Conscientious;Neutral;Positive;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;2 years history;Anxiety disorder;Exposure therapy 
+35;136;1953-02-28;Disorganized;Disagreeable;Negative;Closed-minded;Spur-of-the-moment;Wary;Cryptic;Assertive;Critical;7 years history;Personality disorder;Cognitive behavioral therapy 
+36;137;1950-07-05;Organized;Agreeable;Positive;Open-minded;Planned;Trusting;Frank;Cooperative;Rational;No history;Mood disorder;Psychodynamic therapy 
+37;138;1947-10-12;Conscientious;Neutral;Negative;Closed-minded;Chaotic;Distrustful;Evasive;Hostile;Cynical;3 years history;Substance abuse disorder;Dialectical behavior therapy 
+38;139;1944-01-18;Disorganized;Disagreeable;Positive;Open-minded;Spur-of-the-moment;Wary;Cryptic;Assertive;Critical;4 years history;Anxiety disorder;Exposure therapy 
+39;140;1941-04-26;Organized;Agreeable;Negative;Closed-minded;Chaotic;Distrustful;Evasive;Hostile;Cynical;1 year history;Personality disorder;Cognitive behavioral therapy </s>
+40; 141;1938-07-23;Meticulous;Neutral;Negative;Open-minded;Planned;Trusting;Transparent;Respectful;Skeptical;0 years history;Mood disorder;Psychodynamic therapy 
+41;142;1935-11-16;Sloppy;Agreeable;Positive;Closed-minded;Spur-of-the-moment;Naive;Obvious;Submissive;Pessimistic;5 years history;Depression disorder;Cognitive therapy 
+42;143;1932-02-07;Methodical;Disagreeable;Negative;Undecided;Chaotic;Suspicious;Secretive;Competitive;Skeptical;2 years history;Bipolar disorder;Interpersonal therapy 
+43;144;1929-08-28;Haphazard;Neutral;Positive;Open-minded;Spur-of-the-moment;Distrustful;Evasive;Accommodating;Cynical;6 years history;Eating disorder;Behavioral therapy 
+44;145;1926-05-10;Orderly;Agreeable;Negative;Undecided;Planned;Trusting;Transparent;Assertive;Skeptical;1 year history;Trauma disorder;Eye movement desensitization and reprocessing 
+45;146;1923-12-02;Systematic;Disagreeable;Positive;Closed-minded;Chaotic;Naive;Obvious;Competitive;Pessimistic;4 years history;Obsessive-compulsive disorder;Exposure and response prevention 
+46;147;1920-06-19;Thorough;Neutral;Negative;Open-minded;Planned;Suspicious;Secretive;Respectful;Cynical;3 years history;Sleep disorder;Cognitive behavioral therapy for insomnia 
+47;148;1917-03-05;Careless;Agreeable;Positive;Undecided;Spur-of-the-moment;Distrustful;Evasive;Submissive;Optimistic;7 years history;Pain disorder;Acceptance and commitment therapy 
+48;149;1914-10-12;Neat;Disagreeable;Negative;Closed-minded;Chaotic;Trusting;Transparent;Assertive;Realistic;2 years history;Stress-related disorder;Mindfulness-based stress reduction 
+49;150;1911-06-27;Harmonious;Neutral;Positive;Open-minded;Planned;Wary;Cryptic;Respectful;Cynical;5 years history;Adjustment disorder;Solution-focused brief therapy </s>
+50; 151;1908-02-09;Systematic;Agreeable;Neutral;Open-minded;Spontaneous;Distrustful;Transparent;Submissive;Pessimistic;1 year history;Anxiety disorder;Cognitive therapy 
+51;152;1905-11-16;Haphazard;Disagreeable;Negative;Closed-minded;Methodical;Trusting;Opaque;Assertive;Neutral;3 years history;Mood disorder;Interpersonal therapy 
+52;153;1902-05-23;Orderly;Neutral;Positive;Undecided;Planned;Suspicious;Cautious;Respectful;Skeptical;6 years history;Personality disorder;Psychodynamic therapy 
+53;154;1999-08-04;Meticulous;Agreeable;Negative;Open-minded;Chaotic;Credulous;Guarded;Passive;Hopeful;2 years history;Eating disorder;Dialectical behavior therapy 
+54;155;1996-02-11;Sloppy;Disagreeable;Positive;Closed-minded;Spur-of-the-moment;Skeptical;Reckless;Defiant;Despairing;7 years history;Obsessive-compulsive disorder;Exposure therapy 
+55;156;1993-10-18;Careful;Neutral;Negative;Undecided;Methodical;Cynical;Secretive;Submissive;Cautiously optimistic;4 years history;Post-traumatic stress disorder;Eye movement desensitization and reprocessing 
+56;157;1990-06-01;Thorough;Agreeable;Positive;Open-minded;Planned;Paranoid;Cautious;Respectful;Cynical;5 years history;Panic disorder;Acceptance and commitment therapy 
+57;158;1987-01-25;Haphazard;Disagreeable;Negative;Closed-minded;Methodical;Naive;Reckless;Assertive;Pessimistic;3 years history;Phobia;Mindfulness-based stress reduction 
+58;159;1984-08-10;Methodical;Neutral;Positive;Undecided;Spontaneous;Mistrustful;Guarded;Passive;Neutral;6 years history;Psychotic disorder;Cognitive therapy 
+59;160;1981-04-17;Careless;Agreeable;Negative;Open-minded;Chaotic;Skeptical;Transparent;Submissive;Cautiously optimistic;2 years history;Substance abuse disorder;Solution-focused brief therapy </s>
+60; 161;1979-12-16;Conscientious;Agreeable;Positive;Considerate;Systematic;Trustful;Thoughtful;Active;Optimistic;5 years history;Anxiety disorder;Dialectical behavior therapy 
+61;162;1975-06-09;Vigilant;Disagreeable;Negative;Cautious;Organized;Wary;Planned;Competitive;Skeptical;1 year history;Depression;Interpersonal therapy 
+62;163;1972-03-23;Careless;Neutral;Negative;Adventurous;Impulsive;Suspicious;Reckless;Negotiating;Realistic;4 years history;Personality disorder;Psychodynamic therapy 
+63;164;1968-11-01;Methodical;Agreeable;Positive;Open-minded;Structured;Gullible;Strategic;Collaborative;Hopeful;7 years history;Mood disorder;Cognitive-behavioral therapy 
+64;165;1966-07-15;Conscientious;Disagreeable;Negative;Pragmatic;Orderly;Distrustful;Deliberate;Dominant;Pessimistic;No history;Bipolar disorder;Art therapy 
+65;166;1963-03-30;Careful;Neutral;Positive;Introspective;Regimented;Skeptical;Planned;Controlling;Neutral;2 years history;Eating disorder;Family therapy 
+66;167;1961-10-20;Negligent;Agreeable;Negative;Exploratory;Random;Naive;Impulsive;Supportive;Cautiously optimistic;3 years history;Obsessive-compulsive disorder;Rational emotive behavior therapy 
+67;168;1958-06-28;Systematic;Disagreeable;Positive;Cautious;Orderly;Suspicious;Planned;Assertive;Neutral;5 years history;Panic disorder;Exposure therapy 
+68;169;1955-03-11;Methodical;Agreeable;Negative;Open-minded;Neat;Gullible;Deliberate;Accommodating;Pessimistic;No history;Adjustment disorder;Brief psychotherapy 
+69;170;1952-11-06;Careless;Neutral;Positive;Spontaneous;Random;Mistrustful;Risk-taking;Compromising;Neutral;4 years history;Trauma and stressor-related disorder;Eye movement desensitization and reprocessing.</s>
+70; 171;1960-08-02;Organized;Agreeable;Negative;Analytical;Orderly;Naive;Planned;Helpful;Optimistic;3 years history;Mood disorder;Cognitive therapy 
+71;172;1949-02-15;Systematic;Disagreeable;Positive;Cautious;Methodical;Suspicious;Planned;Assertive;Neutral;6 years history;Anxiety disorder;Exposure therapy 
+72;173;1971-10-07;Meticulous;Neutral;Negative;Open-minded;Neat;Skeptical;Deliberate;Accommodating;Pessimistic;No history;Personality disorder;Dialectical behavior therapy 
+73;174;1975-06-19;Haphazard;Agreeable;Positive;Spontaneous;Random;Trustful;Risk-taking;Helpful;Optimistic;2 years history;Depression;Cognitive behavioral therapy 
+74;175;1965-01-14;Methodical;Disagreeable;Negative;Analytical;Orderly;Cynical;Planned;Assertive;Neutral;7 years history;Bipolar disorder;Psychodynamic therapy 
+75;176;1980-04-20;Careless;Agreeable;Positive;Spontaneous;Sloppy;Naive;Impulsive;Helpful;Optimistic;1 year history;Eating disorder;Interpersonal psychotherapy 
+76;177;1956-09-03;Systematic;Neutral;Negative;Cautious;Methodical;Skeptical;Planned;Accommodating;Pessimistic;4 years history;Substance use disorder;Motivational interviewing 
+77;178;1985-11-26;Organized;Disagreeable;Positive;Analytical;Orderly;Mistrustful;Planned;Assertive;Neutral;3 years history;Obsessive-compulsive disorder;Exposure and response prevention 
+78;179;1968-07-10;Haphazard;Neutral;Negative;Spontaneous;Random;Gullible;Risk-taking;Helpful;Optimistic;No history;PTSD;Cognitive processing therapy 
+79;180;1978-02-04;Methodical;Agreeable;Positive;Open-minded;Neat;Naive;Deliberate;Accommodating;Pessimistic;5 years history;Adjustment disorder;Brief psychotherapy.</s>
+80; 181;1990-03-28;Systematic;Disagreeable;Positive;Inquisitive;Organized;Suspicious;Planned;Assertive;Neutral;1 year history;Depression;Interpersonal therapy 
+81;182;1982-06-15;Structured;Agreeable;Negative;Thorough;Orderly;Credulous;Planned;Helpful;Pessimistic;6 months history;Anxiety disorder;Cognitive therapy 
+82;183;1975-09-22;Haphazard;Neutral;Positive;Spontaneous;Random;Gullible;Risk-taking;Accommodating;Optimistic;2 years history;Bipolar disorder;Dialectical behavior therapy 
+83;184;1991-12-12;Methodical;Agreeable;Neutral;Open-minded;Neat;Naive;Deliberate;Helpful;Neutral;No history;Personality disorder;Psychodynamic therapy 
+84;185;1969-01-17;Organized;Disagreeable;Negative;Analytical;Orderly;Mistrustful;Planned;Assertive;Pessimistic;4 years history;Eating disorder;Cognitive-behavioral therapy 
+85;186;2000-08-06;Systematic;Agreeable;Positive;Inquisitive;Organized;Suspicious;Planned;Accommodating;Optimistic;2 years history;Substance abuse disorder;Motivational interviewing 
+86;187;1977-05-03;Haphazard;Neutral;Negative;Spontaneous;Random;Gullible;Risk-taking;Helpful;Neutral;5 years history;Panic disorder;Exposure therapy 
+87;188;1987-11-29;Methodical;Agreeable;Positive;Open-minded;Neat;Naive;Deliberate;Assertive;Pessimistic;1 year history;Trauma disorder;Eye movement desensitization and reprocessing 
+88;189;1965-02-24;Organized;Disagreeable;Negative;Analytical;Orderly;Mistrustful;Planned;Accommodating;Neutral;3 years history;Sleep disorder;Cognitive-behavioral therapy for insomnia 
+89;190;1984-07-08;Haphazard;Neutral;Positive;Spontaneous;Random;Gullible;Risk-taking;Helpful;Optimistic;No history;Mood disorder;Brief psychotherapy.</s>
+90; 191;1992-05-16;Systematic;Agreeable;Positive;Critical;Neat;Suspicious;Deliberate;Assertive;Pessimistic;2 years history;Anxiety disorder;Exposure therapy 
+91;192;1977-09-03;Methodical;Disagreeable;Negative;Creative;Orderly;Mistrustful;Planned;Accommodating;Pessimistic;5 years history;Personality disorder;Dialectical behavior therapy 
+92;193;2000-12-12;Organized;Agreeable;Positive;Analytical;Random;Cautious;Risk-taking;Helpful;Optimistic;No history;Depression;Interpersonal therapy 
+93;194;1995-06-17;Chaotic;Neutral;Negative;Intuitive;Disorganized;Skeptical;Impulsive;Competing;Neutral;1 year history;Eating disorder;Cognitive-behavioral therapy 
+94;195;1970-01-10;Haphazard;Disagreeable;Positive;Innovative;Neat;Cynical;Deliberate;Assertive;Pessimistic;6 years history;Alcohol use disorder;Motivational interviewing 
+95;196;1968-04-01;Methodical;Agreeable;Negative;Logical;Orderly;Skeptical;Planned;Accommodating;Neutral;2 years history;PTSD;Prolonged exposure therapy 
+96;197;1989-08-28;Organized;Disagreeable;Positive;Practical;Random;Mistrustful;Risk-taking;Helpful;Optimistic;No history;ADHD;Behavioral therapy 
+97;198;1981-03-04;Systematic;Neutral;Negative;Abstract;Neat;Naive;Deliberate;Assertive;Pessimistic;4 years history;Bipolar disorder;Family-focused therapy 
+98;199;1975-11-15;Haphazard;Agreeable;Positive;Emotional;Disorganized;Gullible;Impulsive;Competing;Neutral;3 years history;Adjustment disorder;Brief psychotherapy 
+99;200;2001-02-26;Methodical;Disagreeable;Negative;Conceptual;Orderly;Mistrustful;Planned;Accommodating;Pessimistic;1 year history;Panic disorder;Supportive therapy.</s>
+100; 201;1990-07-29;Spontaneous;Neutral;Negative;Abstract;Sloppy;Suspicious;Spontaneous;Dominant;Optimistic;5 years history;Major depressive disorder;Cognitive therapy 
+101;202;1995-01-12;Thorough;Agreeable;Positive;Concrete;Neat;Cautious;Deliberate;Submissive;Pessimistic;2 years history;Generalized anxiety disorder;Dialectical behavior therapy 
+102;203;1985-06-16;Haphazard;Disagreeable;Negative;Emotional;Disorganized;Cynical;Impulsive;Competing;Neutral;6 years history;Obsessive-compulsive disorder;Exposure and response prevention therapy 
+103;204;1968-09-24;Systematic;Agreeable;Positive;Abstract;Neat;Naive;Deliberate;Assertive;Optimistic;1 year history;Post-traumatic stress disorder;Prolonged exposure therapy 
+104;205;2005-03-22;Methodical;Disagreeable;Negative;Conceptual;Orderly;Mistrustful;Planned;Accommodating;Pessimistic;3 years history;Eating disorder;Cognitive-behavioral therapy 
+105;206;1987-11-03;Thorough;Agreeable;Positive;Concrete;Neat;Cautious;Deliberate;Submissive;Optimistic;5 years history;Sleep disorder;Stimulus control therapy 
+106;207;2000-08-10;Spontaneous;Neutral;Negative;Abstract;Sloppy;Suspicious;Spontaneous;Dominant;Pessimistic;2 years history;Personality disorder;Psychodynamic therapy 
+107;208;1992-04-04;Haphazard;Disagreeable;Positive;Emotional;Disorganized;Cynical;Impulsive;Competing;Neutral;4 years history;Phobia;Systematic desensitization therapy 
+108;209;1976-12-23;Systematic;Agreeable;Negative;Abstract;Neat;Naive;Deliberate;Assertive;Optimistic;1 year history;Substance abuse disorder;Motivational interviewing 
+109;210;1989-02-17;Methodical;Disagreeable;Positive;Conceptual;Orderly;Mistrustful;Planned;Accommodating;Pessimistic;3 years history;Bipolar disorder;Interpersonal and social rhythm therapy.</s>

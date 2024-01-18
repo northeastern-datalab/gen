@@ -1,0 +1,12 @@
+;RecipeName_en; CuisineRegion; PrepTime_minutes; CookTime_minutes; ServesPersons; Ingredient_4; Ingredient_5; Ingredient_6; Instruction_step_4; Difficulty_level; PrepTool_3; IngredientSource_local; RandomColumnName
+0; RecipeName_en; CuisineRegion; PrepTime_minutes; CookTime_minutes; ServesPersons; Ingredient_4; Ingredient_5; Ingredient_6; Instruction_step_4; Difficulty_level; PrepTool_3; IngredientSource_local; RandomColumnName
+1;" ""Spaghetti Bolognese"""; Italy; 20; 30; 4; Ground Beef; Crushed Tomatoes; Garlic; Simmer meat sauce, add herbs; Easy; Knife, Cutting Board, Pot; Farmers Market; SecretIngredient
+2;" ""Chicken Tikka Masala"""; India; 15; 25; 6; Chicken Breast; Yogurt; Garam Masala; Cook chicken in spices, blend tomato sauce; Medium; Grill, Bowl, Blender; Grocery Store; FavoriteDish
+3;" ""Paella Valenciana"""; Spain; 30; 40; 8; Rice; Chicken; Spanish Chorizo; Sauté vegetables, add rice and saffron; Hard; Paella Pan, Spoon, Measuring Cup; Specialty Store; FamilyRecipe
+4;" ""Beef Stroganoff"""; Russia; 10; 20; 6; Sirloin Steak; Mushrooms; Sour Cream; Sear beef, add mushrooms and onions; Medium; Skillet, Tongs, Stove; Butcher Shop; ComfortFood
+5;" ""Fajita Vegetable Mix"""; Mexico; 5; 10; 4; Bell Peppers; Onions; Tortillas; Grill vegetables, serve with salsa; Easy; Griddle, Spatula, Mixing Bowl; Farmers Market; PartyPlatter
+6;" ""Pad Thai Noodles"""; Thailand; 15; 10; 2; Rice Noodles; Tofu; Bean Sprouts; Stir-fry noodles, add sauce and peanuts; Medium; Wok, Spatula, Serving Dish; Asian Market; QuickMeal
+7;" ""Ratatouille Provençale"""; France; 20; 30; 6; Eggplant; Zucchini; Tomatoes; Roast vegetables, serve with crusty bread; Medium; Baking Sheet, Knife, Oven; Local Market; Vegetarian
+8;" ""Chicken Fried Rice"""; China; 10; 15; 4; Rice; Eggs; Green Onions; Scramble egg, stir-fry rice and veggies; Easy; Skillet, Spatula, Wok; Grocery Store; LeftoverMakeover
+9;" ""Shrimp Scampi Pasta"""; Italy; 10; 15; 4; Spaghetti; Shrimp; Garlic; Sauté shrimp, toss with pasta and butter; Easy; Pot, Skillet, Colander; Seafood Market; DateNight
+10;" ""Lamb Biryani"""; India; 30; 45; 8; Basmati Rice; Lamb; Cashews; Cook meat and rice separately, combine with sautéed onions; Hard; Dutch Oven, Saucepan, Spatula; Butcher Shop; SpiceForward</s>

@@ -1,0 +1,12 @@
+;geneName; chromSome; positionStart; positionEnd; strAND; gType_new; sequence; expressionLevel_new; mutFreqByPopulation; proteinsInteractingWithThisOne1, proteinsInteractingWithThisOne2, ..., proteinsInteractingWithThisOne10; specificGOtermPathwayOrFunction1, specificGOtermPathwayOrFunction2, ..., specificGOtermPathwayOrFunctionN
+0;geneName; chromSome; positionStart; positionEnd; strAND; gType_new; sequence; expressionLevel_new; mutFreqByPopulation; proteinsInteractingWithThisOne1, proteinsInteractingWithThisOne2, ..., proteinsInteractingWithThisOne10; specificGOtermPathwayOrFunction1, specificGOtermPathwayOrFunction2, ..., specificGOtermPathwayOrFunctionN
+1;BRCA1; 17; 41234567; 41235000; -; missense; ATGC...; 5.6; 0.03; EGFR, TP53, ERBB2, GRB2, CBL; DNA repair, cell cycle regulation, transcription regulation
+2;BRCA2; 13; 32415678; 32416000; +; nonsense; TGCA...; 4.3; 0.02; CDH1, CTNNB1, APC, GSK3B; DNA repair, cell cycle regulation, Wnt signaling
+3;TP53; 17; 12345678; 12346000; -; synonymous; AATT...; 6.1; 0.05; MDM2, HDM2, PML, USP7; cell cycle regulation, apoptosis, transcription regulation
+4;KRAS; 12; 67890123; 67890500; +; frameshift; GTTG...; 7.2; 0.01; PIK3CA, AKT1, PTEN, TSC2; Ras signaling, cell proliferation, survival
+5;APC; 5; 23456789; 23457000; -; in-frame deletion; TGCA...; 3.9; 0.04; CTNNB1, AXIN1, GSK3B, APC; Wnt signaling, cell adhesion, cell migration
+6;EGFR; 7; 89012345; 89013000; +; splice site; AGGT...; 5.5; 0.06; ERBB2, GRB2, SHC1, SOS1; receptor tyrosine kinase signaling, cell proliferation, survival
+7;AR; X; 123456789; 123457000; -; silent; AAAA...; 4.8; 0.03; NCOA1, NCOA2, ARNT, HSP90; androgen receptor signaling, transcription regulation
+8;PTEN; 10; 678901234; 678902000; +; nonsense; TGCA...; 6.4; 0.02; PIK3CA, AKT1, TSC2, MTOR; PI3K-Akt signaling, cell survival, metabolism
+9;CTNNB1; 6; 345678901; 345679000; -; missense; ATGC...; 5.2; 0.07; APC, AXIN1, GSK3B, LEF1; Wnt signaling, cell adhesion, cell migration
+10;PIK3CA; 3; 1234567890; 1234568000; +; silent; AAAA...; 4.5; 0.01; AKT1, MTOR, PTEN; PI3K-Akt signaling, cell survival, metabolism

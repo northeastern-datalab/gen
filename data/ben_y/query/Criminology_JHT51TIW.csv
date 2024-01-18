@@ -1,0 +1,99 @@
+;Incident Number; Date & Time Occurred; Offense Description; Location; Offense Category; Incident Type; Victim Age; Victim Gender; Victim Race; Suspect Name; Suspect Age; Suspect Gender; Suspect Race
+0; 1;01/01/2023 12:00 AM;Theft of a wallet;Parking lot of local mall;Theft;Petty Theft;65;Female;White;John Doe;30;Male;Black
+1;2;01/02/2023 03:30 PM;Assault with a deadly weapon (knife);Corner of Main St. and Oak Ave.;Assault;Aggravated Assault;42;Male;Hispanic;Jane Smith;28;Female;Asian
+2;3;01/03/2023 09:00 AM;Vandalism of public property (spray paint);Local high school;Vandalism;Criminal Mischief;17;Non-binary;Black;Unknown;NA;NA;NA
+3;4;01/04/2023 06:45 PM;Burglary of a residence;Victim's home on Maple St.;Burglary;Residential Burglary;58;Male;White; Suspected Gang Members;NA;NA;Multiple Various
+4;5;01/05/2023 11:15 AM;Motor vehicle theft;Victim's driveway on Elm St.;Motor Vehicle Theft;Grand Theft Auto;33;Male;Black;Unidentified Suspect;NA;NA;NA
+5;6;01/06/2023 02:00 PM;Fraud by check;Local bank on Pine St.;Fraud;Financial Fraud;51;Female;Asian;John Doe;45;Male;White
+6;7;01/07/2023 07:30 PM;Stalking;Victim's workplace on Spruce Ave.;Stalking;Criminal Stalking;30;Male;White;Susan Johnson;27;Female;Black
+7;8;01/08/2023 10:00 AM;Robbery with a firearm;Convenience store on Birch St.;Robbery;Armed Robbery;23;Male;Hispanic;James Brown;35;Male;Black
+8;9;01/09/2023 04:15 PM;Arson of a motor vehicle;Parking garage on Cedar St.;Arson;Vehicle Arson;40;Non-binary;White;Unknown;NA;NA;NA
+9;10;01/10/2023 11:59 PM;Homicide (gunshot);Victim's home on Walnut St.;Homicide;Murder;35;Male;Black;William Thompson;32;Male;White.</s>
+10; 11;01/11/2023 09:30 AM;Aggravated assault (knife);Park on Maple St.;Assault;Weapon Attack;21;Female;Asian;Sophia Lee;25;Female;Asian 
+11;12;01/12/2023 07:00 PM;Burglary (residential);Apartment complex on Oak St.;Burglary;Residential Burglary;30;Male;White;Michael Green;38;Male;Hispanic 
+12;13;01/13/2023 03:15 AM;Motor vehicle theft (high-value);Car dealership on Pine St.;Theft;Grand Theft Auto;45;Male;Black;NA;NA;NA;
+13;14;01/14/2023 06:00 PM;Fraud (financial institution);Bank on Spruce St.;Fraud;Financial Institution Fraud;50;Male;White;John Anderson;42;Male;White 
+14;15;01/15/2023 10:45 AM;Sexual assault (rape);Hotel on Cherry St.;Sexual Offense;Rape;35;Female;Hispanic;NA;NA;NA;
+15;16;01/16/2023 08:30 PM;Stalking (cyberstalking);Victim's workplace on Elm St.;Stalking;Cyberstalking;29;Female;Asian;NA;NA;NA;
+16;17;01/17/2023 12:00 AM;Vandalism (public property);City hall on Ash St.;Vandalism;Public Property;47;Non-binary;White;NA;NA;NA;
+17;18;01/18/2023 03:00 PM;Weapons violation (carrying concealed);Grocery store on Birch St.;Weapons;Concealed Carry Violation;27;Male;Black;NA;NA;NA;
+18;19;01/19/2023 07:45 AM;Domestic violence (assault);Victim's home on Cedar St.;Domestic Violence;Assault;32;Female;Hispanic;Alicia Rodriguez;34;Female;Hispanic 
+19;20;01/20/2023 11:00 PM;Hate crime (vandalism);Place of worship on Walnut St.;Hate Crime;Vandalism;52;Male;White;NA;NA;NA;</s>
+20; 21;01/21/2023 02:30 PM;Theft (shoplifting);Department store on Oak St.;Theft;Shoplifting;40;Female;Asian;NA;NA;NA;
+21;22;01/22/2023 09:15 AM;Drug offence (possession);Park on Pine St.;Drug Offences;Marijuana Possession;28;Male;White;Brian Johnson;29;Male;White 
+22;23;01/23/2023 06:00 PM;Burglary (residential);Apartment complex on Maple St.;Property Crimes;Residential Burglary;35;Male;Hispanic;NA;NA;NA;
+23;24;01/24/2023 10:45 AM;Robbery (armed);Bank on Elm St.;Violent Crimes;Armed Robbery;31;Male;Black;James Smith;33;Male;Black 
+24;25;01/25/2023 05:30 PM;Stalking;Victim's workplace on Spruce St.;Crimes against Persons;Stalking;24;Female;White;NA;NA;NA;
+25;26;01/26/2023 12:15 PM;Sex offence (indecent exposure);Public park on Cherry St.;Sex Crimes;Indecent Exposure;45;Male;White;NA;NA;NA;
+26;27;01/27/2023 08:00 AM;Motor vehicle theft;Victim's driveway on Birch St.;Property Crimes;Motor Vehicle Theft;29;Male;Hispanic;NA;NA;NA;
+27;28;01/28/2023 03:45 PM;Fraud (identity theft);Victim's mailbox on Cedar St.;Financial Crimes;Identity Theft;36;Female;Asian;NA;NA;NA;
+28;29;01/29/2023 11:00 PM;Aggravated assault (weapon involved);Bar on Walnut St.;Violent Crimes;Aggravated Assault;25;Male;Black;David Brown;27;Male;Black 
+29;30;01/30/2023 06:15 AM;Arson (business);Restaurant on Alder St.;Arson;Commercial Arson;42;Male;White;NA;NA;NA;</s>
+30; 31;01/30/2023 08:45 AM;Grand larceny (theft over $5,000);Jewelry store on Main St.;Property Crimes;Grand Larceny;56;Female;White;NA;NA;NA;
+31;32;01/30/2023 10:30 AM;Murder (first degree);Victim's house on Elm St.;Violent Crimes;Murder;45;Male;Hispanic;NA;NA;NA;
+32;33;01/30/2</s>;;;;;;;;;;;
+33; 34;01/30/2023 11:15 AM;Robbery (armed);Bank on Oak St.;Violent Crimes;Robbery;32;Male;Black;John Doe;35;Male;Black 
+34;35;01/30/2023 12:00 PM;Motor vehicle theft;Car dealership on Pine St.;Property Crimes;Theft;28;Male;Asian;NA;NA;NA;
+35;36;01/30/2023 12:45 PM;Burglary (residential);House on Birch St.;Property Crimes;Burglary;40;Female;White;NA;NA;NA;
+36;37;01/30/2023 01:30 PM;Criminal mischief (property damage);Park on Maple St.;Property Crimes;Criminal Mischief;22;Male;Hispanic;NA;NA;NA;
+37;38;01/30/2023 02:15 PM;Aggravated assault;Grocery store on Cherry St.;Violent Crimes;Aggravated Assault;30;Female;Black;NA;NA;NA;
+38;39;01/30/2023 03:00 PM;Fraud (credit card);Electronics store on Cedar St.;Financial Crimes;Fraud;45;Male;White;NA;NA;NA;
+39;40;01/30/2023 03:45 PM;Stalking;Apartment complex on Willow St.;Crimes against Persons;Stalking;25;Female;Asian;NA;NA;NA;
+40;41;01/30/2023 04:30 PM;Embezzlement;Corporate office on Walnut St.;Financial Crimes;Embezzlement;35;Male;White;NA;NA;NA;
+41;42;01/30/2023 05:15 PM;Kidnapping;Parking lot on Spruce St.;Crimes against Persons;Kidnapping;28;Male;Hispanic;NA;NA;NA;
+42;43;01/30/2023 06:00 PM;Rape;Hotel on Linden St.;Violent Crimes;Sexual Assault;30;Female;Black;NA;NA;NA;</s>
+43; 44;01/31/2023 07:45 AM;Larceny;Convenience store on Maple Ave.;Property Crimes;Shoplifting;19;Female;White;NA;NA;NA;
+44;45;01/31/2023 08:30 AM;Burglary;Apartment complex on Oak St.;Property Crimes;Residential Burglary;32;Male;Black;NA;NA;NA;
+45;46;01/31/2023 09:15 AM;Vandalism;School on Birch Blvd.;Property Crimes;Criminal Mischief;27;Non-binary;Asian;NA;NA;NA;
+46;47;01/31/2023 10:00 AM;Assault;Restaurant on Pine St.;Crimes against Persons;Aggravated Assault;45;Male;White;John Doe;30;Male;White 
+47;48;01/31/2023 10:45 AM;Robbery;Bank on Elm St.;Crimes against Property;Bank Robbery;38;Male;Hispanic;Jose Garcia;35;Male;Hispanic 
+48;49;01/31/2023 11:30 AM;Fraud;Government building on Cedar Rd.;Financial Crimes;Identity Theft;42;Female;White;NA;NA;NA;
+49;50;01/31/2023 12:15 PM;Stalking;Park on Cherry Ln.;Crimes against Persons;Stalking;25;Female;Black;NA;NA;NA;
+50;51;01/31/2023 01:00 PM;Motor Vehicle Theft;Car dealership on Willow St.;Property Crimes;Grand Theft Auto;22;Male;Asian;NA;NA;NA;
+51;52;01/31/2023 01:45 PM;Arson;Factory on Hickory Hollow Rd.;Crimes against Property;Arson;50;Male;White;NA;NA;NA;
+52;53;01/31/2023 02:30 PM;Homicide;Gas station on Fern Grove Ln.;Crimes against Persons;Murder;35;Male;Black;NA;NA;NA;</s>
+53; 54;01/31/2023 03:15 PM;Assault;Park on Elm Blvd.;Crimes against Persons;Aggravated Assault;30;Female;White;NA;NA;NA;
+54;55;01/31/2023 04:00 PM;Robbery;Convenience store on Maple St.;Crimes against Persons;Robbery;28;Male;Hispanic;NA;NA;NA;
+55;56;01/31/2</s>;;;;;;;;;;;
+56; 57;02/01/2023 12:00 PM;Theft;Electronics store on Main St.;Property Crimes;Grand Larceny;25;Non-binary;Black;NA;NA;NA;
+57;58;02/01/2023 02:45 PM;Motor Vehicle Theft;Parking lot behind grocery store on Oak Blvd.;Property Crimes;Unauthorized Use of Motor Vehicle;42;Male;Asian;NA;NA;NA;
+58;59;02/01/2023 05:00 PM;Burglary;House on Pine St.;Property Crimes;Residential Burglary;58;Female;White;NA;NA;NA;
+59;60;02/02/2023 08:30 AM;Criminal Mischief;Vandalism at local school on Birch Dr.;Property Crimes;Criminal Mischief;19;Male;Native American;NA;NA;NA;
+60;61;02/02/2023 11:00 AM;Vehicle Vandalism;Graffiti on bus stop shelter on Cedar Rd.;Property Crimes;Criminal Mischief;27;Female;Pacific Islander;NA;NA;NA;
+61;62;02/02/2023 01:30 PM;Fraud;Credit card fraud at department store on Spruce St.;Crimes against Property;Fraud;35;Male;White;NA;NA;NA;
+62;63;02/02/2023 04:00 PM;Harassment;Stalking at local mall on Fir Ave.;Crimes against Persons;Harassment;22;Female;Hispanic;NA;NA;NA;
+63;64;02/03/2023 10:00 AM;Sexual Assault;Hotel on Walnut St.;Crimes against Persons;Sexual Assault;48;Male;Black;NA;NA;NA;
+64;65;02/03/2023 12:30 PM;Drug Offense;Possession of marijuana in park on Cherry Blvd.;Crimes against Public Health;Drug Offense;29;Non-binary;White;NA;NA;NA;
+65;66;02/03/2023 03:00 PM;Weapons Offense;Man with gun at library on Ash St.;Crimes against Public Safety;Weapons Offense;32;Male;Asian;NA;NA;NA;
+66;67;02/03/2023 05:30 PM;Disorderly Conduct;Public intoxication at restaurant on Hemlock Dr.;Crimes against Public Peace;Disorderly Conduct;24;Female;Hispanic;NA;NA;NA;
+67;68;02/04/2023 10:00 AM;Homicide;Stabbing at gas station on Elderberry St.;Crimes against Persons;Homicide;40;Male;Black;NA;NA;NA.</s>;
+68; 69;02/04/2023 11:30 AM;Theft;Shoplifting at department store on Cedar Rd.;Property Offenses;Theft;22;Female;White;NA;NA;NA;
+69;70;02/04/2023 12:45 PM;Vandalism;Graffiti on school building on Willow Ave.;Property Offenses;Vandalism;17;Non-binary;Black;NA;NA;NA;
+70;71;02/04/2023 02:15 PM;Burglary;Break-in at electronics store on Oak St.;Property Offenses;Burglary;35;Male;Hispanic;NA;NA;NA;
+71;72;02/04/2023 03:30 PM;Assault;Fight at sports bar on Birch Blvd.;Crimes against Persons;Assault;28;Male;White;NA;NA;NA;
+72;73;02/04/2023 05:00 PM;Drugs Offense;Possession of marijuana in park on Maple Dr.;Crimes against Public Health;Drugs Offense;20;Female;Asian;NA;NA;NA;
+73;74;02/04/2023 06:30 PM;Fraud;Credit card fraud at supermarket on Pine St.;Crimes against Property;Fraud;45;Male;White;NA;NA;NA;
+74;75;02/05/2023 10:00 AM;Stalking;Stalking at college on Spruce Ave.;Crimes against Persons;Stalking;22;Female;White;NA;NA;Suspect Name: John Doe;Suspect Age: 24 Suspect Gender: Male Suspect Race: White 
+75;76;02/05/2023 11:30 AM;Sex Offense;Indecent exposure at pool on Hemlock Dr.;Sex Crimes;38;Male;White;NA;NA;NA;;
+76;77;02/05/2023 01:00 PM;Robbery;Armed robbery at convenience store on Elderberry St.;Crimes against Persons;Robbery;27;Male;Black;Suspect Name: Jamal Johnson;Suspect Age: 29;Suspect Gender: Male;Suspect Race: Black 
+77;78;02/05/2023 02:30 PM;Kidnapping;Kidnapping at mall on Cedar Rd.;Crimes against Persons;Kidnapping;32;Female;Hispanic;Suspect Name: Maria Rodriguez;Suspect Age: 34;Suspect Gender: Female;Suspect Race: Hispanic.</s>
+78; 79;02/05/2023 04:00 PM;Homicide;Stabbing at local bar on Birch Blvd.;Crimes against Persons;Homicide;35;Male;Black;Suspect Name: Michael Johnson;Suspect Age: 36;Suspect Gender: Male;Suspect Race: Black 
+79;80;02/05/2023 05:30 PM;Theft;Shoplifting at grocery store on Maple Ave.;Property Crimes;Theft;43;Female;White;NA;NA;NA; 
+80;81;02/05/2023 07:00 PM;Burglary;Break-in at residence on Oak St.;Property Crimes;Burglary;60;Male;Asian;Suspect Name: Hiroshi Nakamura;Suspect Age: 22;Suspect Gender: Male;Suspect Race: Asian 
+81;82;02/05/2023 08:30 PM;Assault;Bar fight at local pub on Pine St.;Crimes against Persons;Assault;24;Male;White;Suspect Name: James Smith;Suspect Age: 25;Suspect Gender: Male;Suspect Race: White 
+82;83;02/05/2023 10:00 PM;Motor Vehicle Theft;Grand theft auto on Spruce Ave.;Property Crimes;Motor Vehicle Theft;28;Male;Hispanic;NA;NA;NA; 
+83;84;02/06/2023 12:00 AM;Vandalism;Graffiti on public building on Elm St.;Property Crimes;Vandalism;31;Male;Black;NA;NA;NA; 
+84;85;02/06/2023 01:30 AM;Drug Offense;Possession of controlled substance at park on Cherry Ln.;Drug Crimes;Drug Offense;22;Female;White;NA;NA;NA; 
+85;86;02/06/2023 03:00 AM;Fraud;Credit card fraud at ATM on Walnut Dr.;Financial Crimes;Fraud;47;Male;Asian;Suspect Name: Li Wei;Suspect Age: 45;Suspect Gender: Male;Suspect Race: Asian 
+86;87;02/06/2023 04:30 AM;Stalking;Stalking at university on Linden Ln.;Sex Crimes;Stalking;26;Female;White;Suspect Name: Emily Davis;Suspect Age: 24;Suspect Gender: Female;Suspect Race: White 
+87;88;02/06/2023 06:00 AM;Weapons Violation;Illegal firearm at gun show on Hickory Hwy.;Weapons Violations;Weapons Violation;51;Male;Black;Suspect Name: Terrance Brown;Suspect Age: 50;Suspect Gender: Male;Suspect Race: Black.</s>
+88; 89; 02/06/2023 07:30 AM; Drug Violation; Illegal drug possession in park on Elm St.; Drug Violations; Drug Violation; 32; Male; Hispanic; Suspect Name: Carlos Rodriguez; Suspect Age: 30; Suspect Gender: Male; Suspect Race: Hispanic 
+89;90; 02/06/2023 09:00 AM; Theft; Shoplifting at grocery store on Oak Ave.; Property Crimes; Theft; 44; Female; White; Suspect Name: Sarah Johnson; Suspect Age: 42; Suspect Gender: Female; Suspect Race: White 
+90;91; 02/06/2023 10:30 AM; Vandalism; Graffiti on school building on Maple St.; Property Crimes; Vandalism; 23; Male; Black; Suspect Name: Jamal Davis; Suspect Age: 21; Suspect Gender: Male; Suspect Race: Black 
+91;92; 02/06/2023 12:00 PM; Assault; Aggravated assault at department store on Birch Blvd.; Violent Crimes; Assault; 37; Male; White; Suspect Name: Michael Miller; Suspect Age: 35; Suspect Gender: Male; Suspect Race: White 
+92;93; 02/06/2023 01:30 PM; Robbery; Bank robbery on Pine St.; Violent Crimes; Robbery; 55; Male; Hispanic; Suspect Name: Jorge Lopez; Suspect Age: 53; Suspect Gender: Male; Suspect Race: Hispanic 
+93;94; 02/06/2023 03:00 PM; Burglary; Residential burglary on Spruce St.; Property Crimes; Burglary; 29; Male; Asian; Suspect Name: Hiroshi Tanaka; Suspect Age: 27; Suspect Gender: Male; Suspect Race: Asian 
+94;95; 02/06/2023 04:30 PM; Motor Vehicle Theft; Carjacking on Cedar Rd.; Property Crimes; Motor Vehicle Theft; 27; Male; Black; Suspect Name: Dwayne Harris; Suspect Age: 25; Suspect Gender: Male; Suspect Race: Black 
+95;96; 02/06/2023 06:00 PM; Sexual Assault; Sexual assault in parking garage on Willow Ln.; Sex Crimes; Sexual Assault; 48; Male; White; Suspect Name: James Wilson; Suspect Age: 46; Suspect Gender: Male; Suspect Race: White 
+96;97; 02/06/2023 07:30 PM; Homicide; Shooting at nightclub on Cherry Dr.; Violent Crimes; Homicide; 25; Male; Black; Suspect Name: Tyrone Jackson; Suspect Age: 23; Suspect Gender: Male; Suspect Race: Black 
+97;98; 02/06/2023 09:00 PM; Kidnapping; Kidnapping at rest stop on Fern St.; Personal Crimes; Kidnapping; 34; Female; White; Suspect Name: Laura Thompson; Suspect Age: 32; Suspect Gender: Female; Suspect Race: White.</s>

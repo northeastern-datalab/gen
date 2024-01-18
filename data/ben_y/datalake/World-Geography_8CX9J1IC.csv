@@ -1,0 +1,60 @@
+;Island Nation; Oceanic Region; Number Of Islands; Coastline Length (km); Underwater Terrains; Volcanism Information; Marine Life Richness; Endemic Flora & Fauna; Internet TLD; National Animal
+0;  Bahamas; Atlantic Ocean; over 700 Islands; 2,200 km; Coral Reefs, Blue Holes; Active underwater volcanoes; High marine life richness; Many endemic species; .bs; Black Swallowtail Butterfly
+1; Iceland; North Atlantic Ocean; 1 Island; 4,970 km; Mid-Atlantic Ridge; High volcanic activity; Rich marine life; Some endemic species; .is; Icelandic Horse
+2; Indonesia; Pacific & Indian Oceans; 17,508 Islands; 54,720 km; Deep trenches, diverse seafloor features; Numerous active volcanoes; Extremely high marine life richness; Many endemic species; .id; Komodo Dragon
+3; Philipines; Pacific Ocean; 7,641 Islands; 36,289 km; Trenches, seamounts, coral reefs; Significant volcanic activity; High marine life richness; Many endemic species; .ph; Philippine Eagle
+4; Japan; Pacific Ocean; 6,852 Islands; 29,751 km; Trenches, seamounts, volcanic rocks; High volcanic activity; Rich marine life; Some endemic species; .jp; Japanese Macaque
+5; Seychelles; Indian Ocean; 115 Islands; 491 km; Plateaus, banks, atolls; No significant volcanic activity; High marine life richness; Many endemic species; .sc; Coconut Crab
+6; New Zealand; Pacific & Tasman Seas; 2 main Islands, several smaller ones; 15,134 km; Trenches, seamounts, continental fragments; Volcanic activity (mainly North Island); High marine life richness; Many endemic species; .nz; Kiwi Bird
+7; Maldives; Indian Ocean; 1,190 Islands; 1,300 km; Atolls, reefs, banks; No significant volcanic activity; Rich marine life; Many endemic species; .mv; Dhondra Kulhi Bangarama (Manta Ray)
+8; Cuba; Atlantic Ocean & Caribbean Sea; 1 Island; 3,735 km; Seamounts, banks, knolls; No significant volcanic activity; High marine life richness; Many endemic species; .cu; Cuban Hutia
+9; Mauritius; Indian Ocean; 2 Islands; 177 km; Seamounts, oceanic plateaus; No significant volcanic activity; High marine life richness; Many endemic species; .mu; Dodo (Extinct - now official National Bird, Pink Pigeon)</s>
+10;  Seychelles; Indian Ocean; 115 Islands; 491 km; Mid-ocean ridges, banks; Some volcanic activity; High marine life richness; Many endemic species; .sc; Coco de Mer
+11; Iceland; North Atlantic Ocean; 1 Island; 4,970 km; Mid-ocean ridge, rift valleys; Significant volcanic activity; Rich marine life; Some endemic species; .is; Icelandic Horse
+12; Tonga; South Pacific Ocean; 171 Islands; 419 km; Trench, volcanic arc; Active volcanic activity; Rich marine life; Many endemic species; .to; Red-throated Loggerhead Turtle
+13; Svalbard; Arctic Ocean; 3 Islands; 3,587 km; Continental shelf, glacial moraines; Minor volcanic activity; Moderate marine life richness; Some endemic species; .sj; Polar Bear
+14; Fiji; South Pacific Ocean; 333 Islands; 1,129 km; Trench, submarine volcanoes; Active volcanic activity; Rich marine life; Many endemic species; .fj; Fiji Banded Iguana
+15; Cook Islands; South Pacific Ocean; 15 Islands; 120 km; Seamounts, volcanic cones; Some volcanic activity; Moderate marine life richness; Many endemic species; .ck; Cook Islands Fruit Dove
+16; Philippines; Pacific Ocean & South China Sea; 7,641 Islands; 36,289 km; Trench, volcanic arcs; Significant volcanic activity; Extremely rich marine life; Numerous endemic species; .ph; Philippine Eagle
+17; Canary Islands; Atlantic Ocean; 7 Islands; 1,532 km; Underwater ridges, volcanic cones; Active volcanic activity; Moderate marine life richness; Few endemic species; .es; Canary Islands Pine Marten (Extinct, replaced by Iberian Lynx)
+18; British Virgin Islands; Atlantic Ocean & Caribbean Sea; 50 Islands; 80 km; Banks, reefs; No significant volcanic activity; Moderate marine life richness; Few endemic species; .vg; Virgin Islands Agouti</s>
+19;  Iceland; North Atlantic; 1 Island; 4,970 km; Rift Valleys; Significant volcanic activity; Rich marine life; Some endemic species; .is; Icelandic Horse
+20; Svalbard & Jan Mayen; Arctic Ocean; 60 Islands; 3,587 km; Continental shelf, glaciers; Minor volcanic activity; Moderate marine life richness; Some endemic species; .sj; Polar Bear
+21; Seychelles; Indian Ocean; 115 Islands; 1,450 km; Mid-oceanic ridges, atolls; No significant volcanic activity; Extremely rich marine life; Numerous endemic species; .sc; Coconut Crab
+22; Maldives; Indian Ocean; 1,192 Islands; 1,399 km; Atolls; No significant volcanic activity; Rich marine life; Many endemic species; .mv; Maldivian Fruit Bat
+23; Azores; Atlantic Ocean; 9 Islands; 667 km; Mid-Atlantic Ridge; Active volcanic activity; Rich marine life; Some endemic species; .pt; Azores Bullfinch
+24; Saint Pierre and Miquelon; North Atlantic; 8 Islands; 120 km; Banks, underwater cones; No significant volcanic activity; Moderate marine life richness; Few endemic species; .pm; Newfoundland Wolf (Extinct)
+25; Faroe Islands; North Atlantic; 18 Islands; 1,117 km; Cliffs, valleys; Minor volcanic activity; Moderate marine life richness; Some endemic species; .fo; Faroe Sheep
+26; Cook Islands; Pacific Ocean; 15 Islands; 120 km; Volcanic cones, trenches; Minor volcanic activity; Extremely rich marine life; Many endemic species; .ck; Cook Islands Fruit Dove
+27; Falkland Islands; South Atlantic; 741 Islands; 1,210 km; Plateaus, banks; No significant volcanic activity; Moderate marine life richness; Few endemic species; .fk; Falkland Islands Wolf (Extinct)
+28; Cayman Islands; Caribbean Sea & North Atlantic; 3 Islands; 160 km; Banks, reefs; No significant volcanic activity; Rich marine life; Some endemic species; .ky; Cayman Islands Rock Iguana</s>
+29;  Maldives; Indian Ocean; 1,192 Islands; 1,300 km; Coral atolls; No significant volcanic activity; Extremely rich marine life; Many endemic species; .mv; Maldives Fish
+30; Svalbard; Arctic Ocean; 3 Main Islands, 100s of smaller ones; 3,587 km; Basins, glacial troughs; Some volcanic activity (rare); Moderate marine life richness; Few endemic species; .sj; Svalbard Reindeer
+31; Iceland; North Atlantic & Arctic Ocean; 1 Island; 4,970 km; Mid-Atlantic Ridge; High volcanic activity; Rich marine life; Many endemic species; .is; Icelandic Horse
+32; Azores; North Atlantic; 9 Main Islands, 30+ smaller ones; 667 km; Mid-Atlantic Ridge; High volcanic activity; Rich marine life; Some endemic species; .pt; Azores Bullfinch
+33; Faroe Islands; North Atlantic; 18 Islands; 1,117 km; Cliffs, plateaus; Minor volcanic activity; Moderate marine life richness; Many endemic species; .fo; Faroe Sheep
+34; Saint Pierre and Miquelon; North Atlantic; 8 Islands; 120 km; Banks, cliffs; No significant volcanic activity; Moderate marine life richness; Some endemic species; .pm; Atlantic Puffin
+35; Galapagos Islands; Pacific Ocean; 13 Main Islands, 100s of smaller ones; 2,006 km; Volcanic cones, ridges; Significant volcanic activity; Extremely rich marine life; Many endemic species; .ec; Galapagos Giant Tortoise
+36; Bermuda; North Atlantic; 181 Islands; 103 km; Volcanic cones, seamounts; No significant volcanic activity; Extremely rich marine life; Many endemic species; .bm; Bermuda Longtail
+37; Comoros; Indian Ocean; 4 Main Islands, 50 smaller ones; 340 km; Volcanic cones, ridges; Significant volcanic activity; Rich marine life; Many endemic species; .km; Comoros Blue Vanga</s>
+38;  Seychelles; Indian Ocean; 115 Islands; 455 km; Mid-oceanic ridges, plateaus; Some volcanic activity; Very rich marine life; High endemicity; .sc; Seychelles Black Parrot
+39; Maldives; Indian Ocean; 1,192 Islands; 1,392 km; Coral atolls, reefs; No significant volcanic activity; Rich marine life; Many endemic species; .mv; Maldivian Spinner Dolphin
+40; Madagascar; Indian Ocean; 1 Main Island, thousands of smaller ones; 4,828 km; Continental fragments, submarine plateaus; Recent volcanic activity; Extremely rich marine life; High endemicity; .mg; Ring-tailed Lemur
+41; Svalbard & Jan Mayen; Arctic Ocean; 2 Main Islands, several smaller ones; 3,587 km; Continental shelf, glaciers; No significant volcanic activity; Marine life adapting to Arctic conditions; Some endemic species; .sj; Polar Bear
+42; Fiji; Pacific Ocean; 333 Islands; 1,129 km; Oceanic trenches, ridges, basins; Significant volcanic activity; Rich marine life; Many endemic species; .fj; Fiji Banded Iguana
+43; Iceland; Atlantic & Arctic Oceans; 1 Main Island; 4,970 km; Mid-Atlantic ridge, Rift Valley; Active volcanic system; Unique marine life; No endemic flora or fauna; .is; Icelandic Horse
+44; Philippines; Pacific Ocean; 7,641 Islands; 36,289 km; Trenches, volcanic arcs, marine terraces; High volcanic activity; Extremely rich marine life; Many endemic species; .ph; Philippine Eagle
+45; New Zealand; Pacific & Southern Oceans; 2 Main Islands, thousands of smaller ones; 15,134 km; Tectonic plate boundaries, oceanic trenches; Moderate volcanic activity; Diverse marine life; Many endemic species; .nz; Kiwi
+46; Azores; Atlantic Ocean; 9 Main Islands; 667 km; Mid-Atlantic ridge, seamounts; Active volcanic system; Unique marine life; Some endemic species; .pt; Azores Bullfinch
+47; Cook Islands; Pacific Ocean; 15 Main Islands, hundreds of smaller ones; 1,207 km; Oceanic trenches, ridges; Moderate volcanic activity; Rich marine life; Many endemic species; .ck; Cook Islands Fruit Dove
+48; British Indian Ocean Territory; Indian Ocean; 2 Main Islands, several smaller ones; 682 km; Mid-oceanic ridges, plateaus; No significant volcanic activity; Unique marine life; Some endemic species; .io; Christmas Island Frigatebird</s>
+49; Faroe Islands; North Atlantic Ocean; 18 Main Islands, numerous smaller ones; 1,117 km; Mid-Atlantic ridge, banks; Minor volcanic activity; Diverse marine life; Many endemic species; .fo; Faroe Sheep
+50; Maldives; Indian Ocean; Approx. 1,200 Islands; 1,392 km; Underwater plateaus, coral reefs; No volcanic activity; Rich marine life; Many endemic species; .mv; Maldivian Frigatebird
+51; Svalbard; Arctic Ocean; Over 60 Islands; 3,587 km; Continental margins, glacial troughs; No significant volcanic activity; Limited marine life; Some endemic species; .sj; Polar Bear
+52; Falkland Islands; South Atlantic Ocean; Over 700 Islands; 1,211 km; Mid-Atlantic ridge, seamounts; No volcanic activity; Diverse marine life; Some endemic species; .fk; Falkland Steamer Duck
+53; Saint Pierre and Miquelon; North Atlantic Ocean; 8 Islands; 116 km; Continental shelf, banks; No significant volcanic activity; Limited marine life; Some endemic species; .pm; Atlantic Puffin
+54; New Caledonia; Pacific Ocean; Over 1,000 Islands; 2,254 km; Continental fragments, oceanic trenches; Active volcanic system; Exceptional marine life; Many endemic species; .nc; New Caledonian Crested Gecko
+55; Cocos (Keeling) Islands; Indian Ocean; 27 Islands; 26 km; Mid-Indian Ocean Ridge, seamounts; Mild volcanic activity; Rich marine life; Many endemic species; .cc; Coconut Crab
+56; Canary Islands; Atlantic Ocean; 7 Main Islands, numerous smaller ones; 1,583 km; African Plate, seamounts; Moderate volcanic activity; Varied marine life; Some endemic species; .tf; Canary Islands Pine Vole
+57; Bahamas; Atlantic Ocean; Over 700 Islands; 5,382 km; Mid-Atlantic Ridge, banks; No volcanic activity; Plentiful marine life; Some endemic species; .bs; Bahamian Rock Iguana
+58; Tokelau; Pacific Ocean; 3 Main Islands, dozens of smaller ones; 101 km; Samoan Hotspot, oceanic trenches; Minimal volcanic activity; Fairly rich marine life; Some endemic species; .tk; Tokelauan Tuatara.</s>

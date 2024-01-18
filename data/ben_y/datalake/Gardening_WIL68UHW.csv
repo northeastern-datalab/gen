@@ -1,0 +1,11 @@
+;Quantity; Supplier Name; DateOrdered; PlantTypeCategorization; SoilPhCertification; WaterEfficiencyRating; PruningToolRecommendation; AverageGrowRatePerYear; YieldPerAcreage; SunExposure; HardinessZone
+0; 5; GreenThumb Supplies; 2022-03-10; Vegetable - Tomatoes; Certified Composted Soil; High; Pruning Shears; 12 inches/year; 2000 lbs/acre; Full Sun; 5-8
+1;12; Earthy Delights; 2022-04-02; Herb - Basil; Organic Potting Soil; Medium; Pruning Knife; 10 inches/year; 1500 lbs/acre; Partial Shade; 9-11
+2;8; Garden Gurus; 2022-03-25; Fruit - Blueberries; Peat-based Soil; High; Pruning Saw; 6 inches/year; 6000 lbs/acre; Full Sun; 3-7
+3;20; Flora Fanatics; 2022-04-15; Flower - Roses; Topsoil with pH Control; Low; Pruning Secateurs; 8 inches/year; 1000 lbs/acre; Full Sun; 5-9
+4;30; Soil Savvy; 2022-03-18; Vegetable - Peppers; Standard Garden Soil; Medium; Pruning Loppers; 15 inches/year; 2500 lbs/acre; Full Sun; 6-11
+5;45; Dirt Dynamics; 2022-04-08; Herb - Mint; High-quality Potting Mix; Low; Pruning Scissors; 18 inches/year; 1200 lbs/acre; Partial Shade; 4-10
+6;60; Plant Pals; 2022-03-27; Fruit - Strawberries; Loamy Soil Mix; Medium; Pruning Shears; 10 inches/year; 3000 lbs/acre; Full Sun; 5-9
+7;75; Horticulture Heroes; 2022-04-17; Flower - Sunflowers; All-purpose Soil; High; Pruning Saw; 8 feet/year; 800 lbs/acre; Full Sun; 2-11
+8;90; Garden Genies; 2022-03-22; Vegetable - Lettuce; Nutrient-rich Soil; Low; Pruning Knife; 20 inches/year; 5000 lbs/acre; Partial Shade; 1-10
+9;105; Blooms Bounty; 2022-04-05; Herb - Cilantro; Well-draining Soil; Low; Pruning Shears; 25 inches/year; 800 lbs/acre; Full Sun; 3-10</s>

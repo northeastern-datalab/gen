@@ -1,0 +1,11 @@
+;Rocket Type; Launch Site; Engine Manufacturer; Total Mass (kg); Number Of Stages; Max Altitude (km); Fuel Types; Launches This Year; Next Launch Scheduled; Partnerships
+0; Saturn V; Kennedy Space Center; Rocketdyne; 3,037,280 kg; 3; 40,240 km; Liquid hydrogen/Liquid oxygen; 0; N/A; NASA, Boeing, Douglas Aircraft Company
+1; SpaceX Falcon Heavy; Kennedy Space Center; SpaceX; 1,420,788 kg; 2; 20,925 km; Liquid oxygen/RP-1; 1; TBD; US Air Force, NASA
+2; Long March 5; Wenchang Spacecraft Launch Site; China Academy of Launch Vehicle Technology; 867,000 kg; 2; 6,372 km; Liquid hydrogen/Liquid oxygen; 1; TBD; CASC, China National Space Administration
+3; Ariane 5; Guiana Space Centre; Safran; 777,000 kg; 2; 3,870 km; Liquid oxygen/Liquid hydrogen; 0; N/A; European Space Agency, Arianespace
+4; Atlas V; Cape Canaveral Space Force Station; United Launch Alliance; 586,800 kg; 2; 3,629 km; Liquid oxygen/RP-1; 2; TBD; US Air Force, Lockheed Martin, Boeing
+5; Proton-M; Baikonur Cosmodrome; Khrunichev; 715,000 kg; 3; 5,850 km; Liquid oxygen/Kerosene; 0; N/A; Roscosmos, International Launch Services
+6; SLV-3; Satish Dhawan Space Centre; ISRO; 17,000 kg; 4; 400 km; Solid; 0; N/A; Indian Space Research Organisation
+7; Minotaur IV; Various; Northrop Grumman; 40,000 kg; 4; 2,865 km; Solid; 0; N/A; US Air Force, Orbital ATK
+8; H-IIA; Tanegashima Space Center; Mitsubishi Heavy Industries; 444,500 kg; 2; 5,300 km; Liquid oxygen/Liquid hydrogen; 1; TBD; Japan Aerospace Exploration Agency, Mitsubishi Heavy Industries
+9; Antares; Mid-Atlantic Regional Spaceport; Northrop Grumman; 230,500 kg; 2; 450 km; Liquid oxygen/RP-1; 1; TBD; NASA, Orbital Sciences Corporation</s>

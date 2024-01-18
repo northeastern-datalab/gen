@@ -1,0 +1,11 @@
+;Performance Type; Date & Time; Venue Address; Place of Birth; Genre; Debut Performance, if applicable; Total Number Of Shows, if available; Collaborations (name all major collaborators); Ticket Sales Revenue (in USD millions); Critical Reception Rating (\*/5 stars based on critic reviews); Audience Engagement Score (out of total score); Year of Last Performance; Still Active?
+0; Ballet; November 12, 2018 7:30 PM; Lincoln Center, 10 Lincoln Center Plaza, New York, NY; New York, NY; Classical; N/A; 50; New York City Ballet; 3.5; 4.8/5; 2020; No;
+1; Stand-up Comedy; January 1, 2019 9:00 PM; Comedy Cellar, 117 MacDougal St, New York, NY; Los Angeles, CA; Comedy; N/A; 200; Dave Chappelle, Chris Rock; 21.5; 4.6/5; 2022; No;
+2; Musical Theatre; February 14, 2019 8:00 PM; Broadway Theatre, 1681 Broadway, New York, NY; Chicago, IL; Musical; Hamilton (Broadway debut); 1000; Lin-Manuel Miranda; 85.2; 4.8/5; 2025; No;
+3; Opera; March 3, 2019 6:00 PM; Metropolitan Opera House, 30 Lincoln Center Plaza, New York, NY; Milan, Italy; Opera; La Bohème; 200; Plácido Domingo; 25.1; 4.5/5; 2021; No;
+4; Symphony Orchestra; April 15, 2019 7:00 PM; Carnegie Hall, 881 7th Ave, New York, NY; Vienna, Austria; Classical; Beethoven Symphony No. 9; 30; New York Philharmonic; 5.2; 4.7/5; 2022; No;
+5; Jazz; May 23, 2019 8:30 PM; Blue Note Jazz Club, 131 W 3rd St, New York, NY; New Orleans, LA; Jazz; N/A; 50; Wynton Marsalis, Herbie Hancock; 2.8; 4.5/5; 2021; No;
+6; Magic; June 12, 2019 9:00 PM; Radio City Music Hall, 1260 6th Ave, New York, NY; Las Vegas, NV; Illusion; Harry Potter and the Cursed Child (US premiere); 100; Daniel Radcliffe; 9.2; 4.6/5; 2022; No;
+7; Circus; July 8, 2019 7:00 PM; Madison Square Garden, 4 Pennsylvania Plaza, New York, NY; Moscow, Russia; Circus; Cirque du Soleil; 75; N/A; 8.1; 4.8/5; 2021; No;
+8; Flamenco Dance; August 20, 2019 8:00 PM; City Center, 131 W 55th St, New York, NY; Seville, Spain; Dance; N/A; 30; Joaquín Cortés, Sara Baras; 1.9; 4.7/5; 2021; No;
+9; Pop Music; September 10, 2019 8:00 PM; Madison Square Garden, 4 Pennsylvania Plaza, New York, NY; Los Angeles, CA; Pop; Ariana Grande; 100; Nicki Minaj; 15.3; 4.4/5; 2022; Yes</s>;

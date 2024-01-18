@@ -1,0 +1,11 @@
+;Rocket Type; Launch Site; Landing Location; Launch Success; Payload Mass; Orbital Inclination; Escape Velocity; Perigee Height; Apogee Height; Satellites Delivered To ISS; Celestial Bodies Visited
+0; SpaceX Falcon 9; Cape Canaveral Air Force Station; Land Landing Zone 1; Success; 15,600 kg; 28.5 degrees; 11,200 m/s; 200 km; 200 km; ISS, Dragon CRS-17; Earth
+1; Proton-M/Briz-M; Baikonur Cosmodrome; Burn up in atmosphere; Success; 6,750 kg; 51.5 degrees; 11,600 m/s; 200 km; 36,700 km; ISS, Progress MS-10; Earth, Moon
+2; Ariane 5 ECA; Guiana Space Centre; Sea landing in Atlantic; Success; 10,470 kg; 7 degrees; 11,000 m/s; 200 km; 7,030 km; ISS, JCSAT-16, VINASAT-2; Earth
+3; Long March 3B/E; Xichang Satellite Launch Centre; Land Xichang Satellite Launch Centre; Success; 5,500 kg; 27.5 degrees; 10,700 m/s; 200 km; 36,300 km; ISS, Tianlian I-04; Earth
+4; Atlas V 551; Cape Canaveral Air Force Station; Land Landing Zone 1; Success; 13,600 kg; 51.6 degrees; 11,500 m/s; 200 km; 200 km; ISS, Cygnus NG-12; Earth
+5; H-IIB; Tanegashima Space Center; Sea landing in Pacific; Success; 16,500 kg; 51.6 degrees; 11,500 m/s; 200 km; 200 km; ISS, HTV-8; Earth
+6; Delta IV Heavy; Cape Canaveral Air Force Station; Sea landing in Atlantic; Success; 27,500 kg; 28.5 degrees; 12,900 m/s; 200 km; 35,800 km; ISS, NROL-44; Earth
+7; Soyuz-FG; Baikonur Cosmodrome; Land Kazakhstan; Success; 7,200 kg; 51.6 degrees; 11,200 m/s; 200 km; 200 km; ISS, Soyuz MS-16; Earth
+8; Falcon Heavy; Kennedy Space Center; Land Landing Zone 1, Land Landing Zone 2, Land Of Course I Still Love You; Success; 63,800 kg; 28.5 degrees; 12,900 m/s; 200 km; 12,000 km; ISS, Tesla Roadster; Earth, Sun
+9; Angara A5; Plesetsk Cosmodrome; Not yet in service; -; -; -; 11,000 m/s; 200 km; 30,000 km; -; Earth</s>

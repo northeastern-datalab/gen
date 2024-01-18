@@ -1,0 +1,11 @@
+;Arrest Details (if applicable); Weapon Used;\
+0; Arrest Details: Suspect taken into custody at the scene; Weapon Used: None;
+1;Arrest Details: Perpetrator apprehended with a knife; Weapon Used: Kitchen knife;
+2;Arrest Details: Suspect arrested with a gun; Weapon Used: Glock 19;
+3;Arrest Details: Perpetrator detained with a blunt object; Weapon Used: Baseball bat;
+4;Arrest Details: Suspect apprehended with a stolen car; Weapon Used: Motor vehicle;
+5;Arrest Details: Perpetrator arrested with a crowbar; Weapon Used: Crowbar;
+6;Arrest Details: Suspect detained with a machete; Weapon Used: Machete;
+7;Arrest Details: Perpetrator arrested with a pellet gun; Weapon Used: Pellet gun;
+8;Arrest Details: Suspect apprehended with a baton; Weapon Used: Police baton;
+9;Arrest Details: Perpetrator detained with a Taser; Weapon Used: Electronic control device</s>;

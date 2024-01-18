@@ -1,0 +1,11 @@
+;SubjectId; DateOfBirth; Gender; IntelligenceQuotient(IQ); MemoryScore; ReactionSpeedScore; SocialSkillsAssessment; AttentionSpanLength; Age; EducationLevel; Occupation; AnnualIncomeBracket; MaritalStatusII; HasChildrenPlus; PersonalityTypePercent; Trait6Perct; Trait7Perct; RemainingColumnHeader1; RemainingColumnHeader2
+0; 123; 1985-06-12; Female; 120; 85; 150; 90; 12; 36; Doctorate; Psychologist; 150000-199999; Married; 2; 35; 25; 10; Analytical; 15
+1; 456; 1998-02-04; Male; 105; 60; 180; 70; 8; 23; Bachelor's; Engineer; 100000-149999; Single; 0; 55; 40; 5; Outgoing; 10
+2; 789; 2001-11-10; Female; 135; 95; 120; 95; 15; 21; High School; Retail Worker; 30000-39999; Divorced; 1; 20; 55; 20; Introverted; 20
+3; 321; 1977-09-17; Male; 115; 70; 160; 80; 10; 44; Master's; Teacher; 60000-79999; Married; 2; 60; 20; 20; Compassionate; 25
+4; 654; 2005-05-08; Non-binary; 140; 100; 130; 90; 12; 16; PhD; Research Scientist; 200000-249999; Single; 0; 40; 35; 25; Logical; 10
+5; 987; 1969-03-25; Female; 100; 50; 170; 75; 7; 52; Some College; Nurse; 50000-59999; Widowed; 1; 70; 15; 15; Nurturing; 30
+6; 234; 1988-12-30; Male; 130; 100; 110; 90; 12; 33; Master's; Marketing Manager; 80000-99999; Married; 2; 30; 45; 25; Assertive; 10
+7; 567; 1993-07-14; Female; 110; 65; 140; 80; 9; 28; High School; Administrative Assistant; 30000-39999; Single; 0; 60; 25; 15; Organized; 15
+8; 890; 1974-06-21; Male; 125; 80; 160; 85; 11; 47; Master's; Lawyer; 150000-199999; Married; 2; 40; 30; 30; Confident; 10
+9; 135; 2000-01-15; Non-binary; 145; 105; 100; 95; 14; 21; PhD; University Professor; 200000-249999; Single; 0; 50; 25; 25; Innovative; 15

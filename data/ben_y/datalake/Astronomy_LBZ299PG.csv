@@ -1,0 +1,12 @@
+;`Planet Name; Stellar Body Type; Mean Distance from Star (AU); Orbital Period Days; Mass Relative to Earth; Radius Relative to Earth; Axial Tilt Degrees; Galaxy Name; Galaxy Category; Galactic Coordinates X, Y, Z; Distance from Milky Way Center (light years); Number of Stars in System; Supernovae Proximity Index; Satellite Bodies Count`
+0;" ""Planet Name""";"""Stellar Body Type""";"""Mean Distance from Star (AU)""";"""Orbital Period Days""";"""Mass Relative to Earth""";"""Radius Relative to Earth""";"""Axial Tilt Degrees""";"""Galaxy Name""";"""Galaxy Category""";"""Galactic Coordinates X, Y, Z""";"""Distance from Milky Way Center (light years)""";"""Number of Stars in System""";"""Supernovae Proximity Index""";"""Satellite Bodies Count"""
+1;"""Exoplanet X-12""";"""Gas Giant""";"""5.87""";"""649.3""";"""1.64""";"""1.83""";"""2.4""";"""Andromeda Galaxy""";"""Spiral""";"""-2000,5000,0""";"""2.346""";"""2""";"""3""";"""0"""
+2;"""Haven-IV""";"""Terrestrial""";"""0.91""";"""382.7""";"""1.36""";"""1.14""";"""0""";"""Milky Way""";"""Spiral""";"""500,1800,0""";"""0.027""";"""1""";"""5""";"""2"""
+3;"""Gliese 581g""";"""Super Earth""";"""0.15""";"""83.6""";"""3.68""";"""1.5""";"""21""";"""Gliese 581""";"""Red Dwarf""";"""-10000,0,0""";"""19.2""";"""1""";"""0""";"""0"""
+4;"""Kepler-452b""";"""Goldilocks Zone""";"""1.04""";"""380.8""";"""5.03""";"""2.1""";"""5""";"""Milky Way""";"""Spiral""";"""1500,2000,0""";"""0.045""";"""1""";"""2""";"""0"""
+5;"""Trappist-1e""";"""Rocky""";"""0.029""";"""6.1""";"""0.78""";"""1.05""";"""0""";"""Trappist""";"""Ultra Cool Dwarf""";"""-3500,-2000,0""";"""39.1""";"""1""";"""1""";"""1"""
+6;"""Ogma-6b""";"""Ice Giant""";"""8.62""";"""8219.5""";"""2.26""";"""2.97""";;"""Milky Way""";"""Spiral""";"""-8000,5000,0""";"""0.212""";"""1""";"""1""";"""0"""
+7;"""WASP-12b""";"""Hot Jupiter""";"""0.023""";"""1.09""";"""2.26""";"""1.9""";;"""Whirlpool Galaxy""";"""Spiral""";"""-5000,-6000,0""";"""25.5""";"""1""";"""6""";"""0"""
+8;"""KELT-9b""";"""Hot Jupiter""";"""0.012""";"""1.48""";"""2.88""";"""1.8""";;"""Messier 83""";"""Spiral""";"""-6500,-5000,0""";"""14.3""";"""1""";"""4""";"""0"""
+9;"""HR 8799e""";"""Gas Giant""";"""14.5""";"""456.5""";"""7""";"""3""";"""30""";"""Milky Way""";"""Spiral""";"""3500,0,0""";"""0.082""";"""1""";"""2""";"""3"""
+10;"""Fomalhaut b""";"""Debris Disc""";"""115.4""";"""872.3""";"""1""";"""2.3""";"""62""";"""Milky Way""";"""Spiral""";"""0,0,-8000""";"""0.009""";"""1""";"""4""";"""0""</s>"

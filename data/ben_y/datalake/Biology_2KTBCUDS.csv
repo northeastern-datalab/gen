@@ -1,0 +1,14 @@
+;1. Ecosystem role;2. Trophic level;3. Adaptation mechanisms;"</s>
+curr_range_counter:  14
+Time taken: 29.3072452545166 seconds
+Protein family classification";Subcellular localized domain composition;Posttranslational modification sites;Expression regulation mechanisms;Symbiotic relationships;Disease associations;Chromosomal location;Genomic context (synteny);Phosphorylation dynamics;Coexpression networks;Gene duplication events
+0;  Decomposer; 2. Detrivore; 3. Excretes enzymes to break down dead organic matter, increases surface area for enzymatic degradation, possesses cell walls to protect against degradative enzymes;;;;;;;;;;;
+1; Top carnivore; 3. Camouflage for prey ambush, fast movement and sharp vision for prey capture, strong jaws and teeth for killing prey;;;;;;;;;;;;
+2; Herbivore; 2. Primary consumer; 3. Specialized stomach compartments for breaking down cellulose, strong grinding teeth, long intestines for nutrient absorption;;;;;;;;;;;
+3; Producer; 2. Autotroph; 3. Chlorophyll for photosynthesis, cell walls for support, large surface area for maximal light absorption;;;;;;;;;;;
+4; Primary consumer; 2. Herbivore; 3. Specialized mouthparts to grind and chew plant material, efficient digestive system, strong legs for foraging;;;;;;;;;;;
+5; Top carnivore; 2. Carnivore; 3. Quick and agile movement, sharp teeth and claws, excellent vision and hearing for prey detection;;;;;;;;;;;
+6; Decomposer; 2. Detrivore; 3. Saprophytic lifestyle, secretes extracellular enzymes for breakdown of organic matter, cell walls for protection against degradation;;;;;;;;;;;
+7; Producer; 2. Autotroph; 3. Photosynthetic pigments, ability to fix carbon, capacity to use inorganic nutrients for growth;;;;;;;;;;;
+8; Primary consumer; 2. Herbivore; 3. Adapted to specific types of plant material, specialized digestive tract for breaking down plant matter, enzymes for detoxifying plant defenses;;;;;;;;;;;
+9; Secondary consumer; 2. Carnivore; 3. Strong jaws and teeth, specialized hunting techniques, ability to track and chase prey.</s>;;;;;;;;;;;

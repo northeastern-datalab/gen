@@ -1,0 +1,11 @@
+;BrainStructureSize; BrAINVolume; CerebralCortexThickness; WhiteMatterIntegrity; HippocampusShape; AmygdalaActivity; CorpusCallosumWidth; DefaultModeNetworkConnectivity; FrontotemporalLobeFunction; ThalamicConnectionsToPrefrontals; HeschlsGyrusSize; AuditoryCorticalThickness; LimbicSystemActivities; EyeMovement; ReactionTime
+0;" ""Left Hemisphere"; 1350 cm³; 2.7 mm; High; Irregular; Active; 9.8 mm; High; Language processing; Extensive; 3.5 cm³; 2.5 mm; Emotion and behavior; Normal;" 200 ms"""
+1;"""Right Hemisphere"; 1320 cm³; 2.6 mm; High; Regular; Active; 9.7 mm; High; Spatial cognition; Moderate; 3.3 cm³; 2.6 mm; Emotion and behavior; Normal;" 210 ms"""
+2;"""Frontal Lobe"; 320 cm³; 1.5-4.5 mm; Varies; -; Varies; -; Varies; Executive functions; Varies; -; -; Emotion and behavior; Normal;" -"""
+3;"""Temporal Lobe"; 130 cm³; 2-4 mm; -; Irregular; High; -; -; Auditory perception; -; -; -; Memory and emotion; Normal;" -"""
+4;"""Parietal Lobe"; 310 cm³; 2-4 mm; -; -; -; -; -; Sensory integration; -; -; -; Perception and movement; Normal;" -"""
+5;"""Occipital Lobe"; 180 cm³; 1.5-4.5 mm; -; -; -; -; -; Visual processing; -; -; -; Perception and movement; Normal;" -"""
+6;"""Hippocampus"; 3.5 cm³; 2-5 mm; -; Irregular; -; -; High; Memory formation; -; -; -; Learning and emotion; Normal;" -"""
+7;"""Amygdala"; 1.7 cm³; -; -; -; Active; -; High; Emotion and fear response; -; -; -; Memory and emotion; Normal;" -"""
+8;"""Cerebellum"; 150 cm³; -; -; -; -; -; -; Motor control and coordination; -; -; -; Cognition and emotion; Normal;" -"""
+9;"""Corpus Callosum"; -; -; -; -; -; 10.5 mm; -; Interhemispheric communication; -; -; -; Cognitive and motor functions;" Normal""</s>";

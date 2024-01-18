@@ -1,0 +1,11 @@
+;Subdomain\_of\_Psychotherapy; SessionNumber; CounselorName; ClientSatisfactionScore; SideEffects; ImprovementScaleMeasurement; MoodChangeTracking; SelfEsteemBoostMeasures; AdditionalInfoColumn1; AdditionalInfoColumn2
+0; Cognitive Behavioral Therapy; 1; Dr. Emily Barnes; 85; Minimal; Improved Cognitive Functioning; More Positive Outlook; Increased Self-Confidence; Client reports better time management; New coping skills learned
+1;Psychoanalytic Therapy; 2; Dr. Jonathan Clark; 70; Some Fatigue; Increased Self-Awareness; Reduced Anxiety; Stronger Sense of Self; Client reports understanding past behaviors; Previous traumas processed
+2;Humanistic Therapy; 3; Dr. Sofia Patel; 90; None; Enhanced Emotional Expression; Feeling More Authentic; Greater Self-Acceptance; Client resumed painting hobby; Found sense of purpose
+3;Gestalt Therapy; 4; Dr. Alexander Kim; 80; Mild Headaches; Improved Interpersonal Relationships; Increased Self-Esteem; Better Decision Making; Client reports feeling more whole; Greater self-awareness
+4;Family Therapy; 5; Dr. Mia Ross; 95; None; Strengthened Family Bonds; Resolution of Conflicts; Improved Communication; Client reports positive family interactions; Reduced family tension
+5;Art Therapy; 6; Dr. Benjamin Davis; 90; Slight Muscle Soreness; Emotional Release; Increased Creativity; Better Self-Expression; Client resumed writing poetry; Reduced stress levels
+6;Existential Therapy; 7; Dr. Samantha Jones; 80; Occasional Sadness; Enhanced Life Meaning; Embraced Personal Responsibility; Improved Problem-Solving; Client reports finding meaning in life; Increased autonomy
+7;Eye Movement Desensitization Reprocessing; 8; Dr. Noah Walker; 85; Temporary Dizziness; Reduced PTSD Symptoms; Improved Sleep Quality; Emotional Regulation; Client processing past traumas; Decreased nightmares
+8;Motivational Interviewing; 9; Dr. Olivia Thompson; 80; None; Increased Motivation; Enhanced Decision-Making; Goal Attainment; Client reports improved self-care; Reduced substance use
+9;Dialectical Behavior Therapy; 10; Dr. Ryan Green; 90; Possible Emotional Reactivity; Improved Emotion Regulation; Reduced Self-Harm; Improved Interpersonal Relationships; Client reports using crisis management skills; Enhanced mindfulness practice</s>

@@ -1,0 +1,11 @@
+;fashion item id; clothing type; size; color; material; brand name original; designer collaboration flag; price per unit$; sale status [discount] percentage off; actual selling amount; store; purchase date; return policy
+0;" ""1"; Dress; 8; Red; Silk; Oscar de la Renta; Yes; 5000$; On sale; 30%; 3500$; Neiman Marcus;" 2022-02-14  14-day return policy"""
+1;" ""2"; Blazer; 40; Navy; Wool; Canali; No; 1800$; Not on sale; None; 1800$; Saks Fifth Avenue;" 2022-02-12  30-day return policy"""
+2;" ""3"; Jeans; 32; Light Wash; Denim; Levi's; No; 120$; Not on sale; None; 120$; Gap;" 2022-02-20  60-day return policy"""
+3;" ""4"; T-shirt; S; Gray; Cotton; Comme des Garçons; No; 150$; Not on sale; None; 150$; Dover Street Market;" 2022-02-25  30-day return policy"""
+4;" ""5"; Skirt; 10; Black; Leather; Saint Laurent; No; 2500$; Not on sale; None; 2500$; YSL;" 2022-02-17  14-day return policy"""
+5;" ""6"; Sweater; M; Cream; Cashmere; The Row; No; 900$; Not on sale; None; 900$; Net-a-Porter;" 2022-02-09  14-day return policy"""
+6;" ""7"; Jacket; 38; Olive; Nylon; Stone Island; No; 1000$; Not on sale; None; 1000$; SSENSE;" 2022-02-06  30-day return policy"""
+7;" ""8"; Pants; 28; Beige; Linen; Bottega Veneta; No; 650$; Not on sale; None; 650$; Barneys;" 2022-02-19  14-day return policy"""
+8;" ""9"; Sneakers; 42; White; Leather; Gucci; No; 700$; Not on sale; None; 700$; Farfetch;" 2022-02-15  14-day return policy"""
+9;" ""10"; Bag; One Size; Brown; Suede; Celine; No; 3000$; Not on sale; None; 3000$; Bergdorf Goodman;" 2022-02-22  14-day return policy"""

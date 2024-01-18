@@ -1,0 +1,11 @@
+;SubjectID; DateOfBirth; Gender; Age; EducationLevel; Occupation; AnnualIncome; MaritalStatus; HasChildren; PersonalityType; Trait6; Trait7; Trait8
+0; 101; 1985-03-23; Female; 36; Master's Degree; Software Engineer; 85000; Married; Yes; INTJ; Analytical; Critical; Independent
+1;215; 1990-11-17; Male; 31; Bachelor's Degree; High School Teacher; 62000; Single; No; ENFP; Charismatic; Empathetic; Optimistic
+2;307; 1968-07-09; Female; 53; High School Diploma; Nurse; 58000; Widowed; Yes; ISFJ; Caring; Diligent; Practical
+3;420; 1977-08-05; Male; 44; Doctorate Degree; University Professor; 95000; Married; Yes; INTP; Intelligent; Curious; Innovative
+4;533; 1980-12-12; Female; 41; Associate's Degree; Real Estate Agent; 70000; Divorced; Yes; ESTJ; Confident; Organized; Outgoing
+5;645; 1995-06-04; Non-binary; 26; Bachelor's Degree; Graphic Designer; 50000; Single; No; ENFJ; Creative; Compassionate; Sociable
+6;750; 1971-09-28; Male; 50; Some College; Construction Manager; 80000; Married; Yes; ISTP; Pragmatic; Independent; Problem-solver
+7;862; 1988-02-25; Female; 33; Master's Degree; Marketing Manager; 90000; Single; No; ENTJ; Assertive; Strategic; Ambitious
+8;974; 1962-11-10; Male; 59; High School Diploma; Police Officer; 75000; Married; Yes; ESTP; Courageous; Decisive; Practical
+9;1089; 1978-05-06; Female; 43; Doctorate Degree; Physician; 120000; Married; Yes; INFJ; Compassionate; Intuitive; Perceptive</s>

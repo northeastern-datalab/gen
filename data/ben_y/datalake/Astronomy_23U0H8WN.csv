@@ -1,0 +1,12 @@
+;`Nebula Name; Nebula Category; Distance From Solar Systems (ly); Diameter (light years); Gas Composition (%); Stellar Object Content (%); Temperature Range (K); Dark or Open?; Average Luminosity Surrounding Stars; Number Of Observable Stars Within Nebular Cloud; Planetary or Protoplanetary?; Gas or Reflection?; Primary Purpose: Star Formation/Stellar Nursery or Aesthetic Appeal; Distinguish: Dark or Open`
+0;" ""Nebula Name"; Nebula Category; Distance From Solar Systems (ly); Diameter (light years); Gas Composition (%); Stellar Object Content (%); Temperature Range (K); Dark or Open?; Average Luminosity Surrounding Stars; Number Of Observable Stars Within Nebular Cloud; Planetary or Protoplanetary?; Gas or Reflection?; Primary Purpose: Star Formation/Stellar Nursery or Aesthetic Appeal; Distinguish: Dark or Open? 
+1;Orion Nebula; Reflection; 1344; 24; 1%; 0%; 10 - 30; Open; High; Numerous; Protoplanetary; Gas; Star Formation/Stellar Nursery; Not a Dark Nebula
+2;Carina Nebula; Emission; 7500; 100-300; 2-10%; 5-10%; 10 - 50; Open; Very High; Many; Planetary; Gas; Star Formation/Stellar Nursery; Not a Dark Nebula
+3;Trifid Nebula; Combination; 541; 40; 15-30%; 5-10%; 500 - 1000; Open; Moderate; Few; Planetary; Gas; Star Formation/Stellar Nursery; Not a Dark Nebula
+4;Cat's Eye Nebula; Planetary; 3000; 0.2; 95-99%; 1-5%; 10 - 50; Neither; Low; 0; Planetary; Gas; Aesthetic Appeal; Not a Dark Nebula
+5;Eagle Nebula; Emission; 6500; 70; 2-10%; 5-15%; 10 - 50; Open; High; Many; Planetary; Gas; Star Formation/Stellar Nursery; Not a Dark Nebula
+6;Horsehead Nebula; Dark; 1500; 5; 75-95%; 5-15%; < 50; Dark; Low; 0; Planetary; Gas; Star Formation/Stellar Nursery; Dark Nebula
+7;Pelican Nebula; Emission; 1800; 20; 5-15%; 5-10%; 10 - 50; Open; Moderate; Few; Planetary; Gas; Star Formation/Stellar Nursery; Not a Dark Nebula
+8;Swan Nebula; Emission; 5000; 40; 2-10%; 5-10%; 10 - 50; Open; High; Many; Planetary; Gas; Star Formation/Stellar Nursery; Not a Dark Nebula
+9;Chameleon I Nebula; Reflection; 550; 10; 1-10%; 0%; 10 - 30; Open; Low; 0; Protoplanetary; Gas; Star Formation/Stellar Nursery; Not a Dark Nebula
+10;Butterfly Nebula; Planetary; 2000; 0.4; 95-99%; 1-5%; 10 - 50; Neither; Low; 0; Planetary; Gas; Aesthetic Appeal;" Not a Dark Nebula""</s>"

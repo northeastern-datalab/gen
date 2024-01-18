@@ -1,0 +1,11 @@
+;Quantity Sold; Product Code; Manufacturer Name; Batch Number; Expiration Date; Production Date; Storage Temperature; Storage Humidity; Distribution Channel; Sales Region; Marketing Campaign; Sales Revenue; Gross Profit; Operating Cost; Net Profit
+0; 100; VTP-AZ23; Zoopharm; 00175; 2025-06-01; 2023-03-15; 15-25°C; 40-60%; Online Pharmacies; North America; Spring Health; $1200; $800; $400; $400
+1;50; VTR-QJ92; VetBio; 00987; 2024-10-31; 2022-08-10; 2-8°C; 65-75%; Retail Stores; Europe; Autumn Vitality; $1500; $1000; $500; $500
+2;80; VTS-LM14; PetCure; 05672; 2026-02-28; 2024-11-22; 18-22°C; 35-50%; Online Marketplaces; Asia; Summer Savings; $1800; $1200; $600; $600
+3;75; VTW-RE61; VetEssentials; 03289; 2025-11-15; 2023-04-05; 15-25°C; 40-60%; Retail Pharmacies; Australia; Winter Warmth; $2000; $1400; $600; $600
+4;90; VTX-PO76; AnimalHealth; 08451; 2024-07-30; 2023-01-10; 2-8°C; 65-75%; Veterinary Clinics; South America; Year-Round Wellness; $1300; $900; $400; $400
+5;60; VTY-FD83; PetCare; 06392; 2025-05-12; 2023-02-24; 18-22°C; 35-50%; E-commerce Websites; Africa; Spring Fling; $1600; $1100; $500; $500
+6;50; VTZ-XW30; VetOrganics; 09716; 2024-12-20; 2022-10-01; 15-25°C; 40-60%; Online Pet Stores; North America; Holiday Harmony; $1100; $700; $400; $400
+7;85; VUA-GD58; HealthyPaws; 02943; 2026-09-12; 2024-06-06; 2-8°C; 65-75%; Retail Pet Stores; Europe; Summer Slumber; $1700; $1200; $500; $500
+8;70; VUB-ML67; PetGuard; 04195; 2025-08-31; 2023-03-28; 18-22°C; 35-50%; Online Veterinary Services; Asia; Autumn Adventure; $1400; $1000; $400; $400
+9;95; VUC-KN91; VetNature; 07620; 2024-11-11; 2023-07-17; 15-25°C; 40-60%; Wholesale Distributors; Australia; Winter Wonder; $900; $500; $400; $100</s>

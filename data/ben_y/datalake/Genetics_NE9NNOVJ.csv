@@ -1,0 +1,11 @@
+;Column Header 1; Column Header 2; Column Header 3; Column Header 4; Column Header 5; Column Header 6; Column Header 7; Column Header 8; Column Header 9; Column Header 10; Column Header 11
+0;" ""Gene X123""";"""Allele A""";"""Dominant""";"""Human Eye Color""";"""Brown""";"""Eye Disease Resistance""";"""Yes""";"""Complete penetrance""";"""Yes""";"""Co-dominant""";"""No"""
+1;"""Gene Y456""";"""Allele T""";"""Recessive""";"""Human Hair Texture""";"""Straight""";"""Hair Strength""";"""No""";"""Incomplete penetrance""";"""Yes""";"""None""";"""No"""
+2;"""Gene Z789""";"""Allele D""";"""Codominant""";"""Blood Type""";"""A""";"""Rh Factor""";"""Yes""";"""Complete penetrance""";"""No""";"""None""";"""Yes"""
+3;"""Gene AB123""";"""Allele C""";"""Incomplete Dominant""";"""Flower Color""";"""Pink""";"""Plant Height""";"""No""";"""Variable penetrance""";"""Yes""";"""None""";"""No"""
+4;"""Gene CD456""";"""Allele E""";"""X-linked Dominant""";"""Hearing Loss""";"""Unilateral""";"""Tinnitus""";"""Yes""";"""Complete penetrance""";"""Yes""";"""None""";"""No"""
+5;"""Gene EF789""";"""Allele F""";"""Y-linked""";"""Muscle Mass""";"""High""";"""Sweat Gland Density""";"""No""";"""Complete penetrance""";"""No""";"""None""";"""Yes"""
+6;"""Gene GH123""";"""Allele G""";"""Mitochondrial Inheritance""";"""Migraine Pattern""";"""Episodic""";"""Pain Intensity""";"""Yes""";"""Incomplete penetrance""";"""Yes""";"""None""";"""No"""
+7;"""Gene IJ456""";"""Allele H""";"""Polygenic Inheritance""";"""Height""";"""Tall""";"""Body Mass Index""";"""No""";"""Variable penetrance""";"""Yes""";"""None""";"""No"""
+8;"""Gene KL789""";"""Allele I""";"""Epigenetic Modification""";"""Gestational Diabetes Risk""";"""High""";"""Insulin Sensitivity""";"""Yes""";"""Complete penetrance""";"""Yes""";"""None""";"""No"""
+9;"""Gene MN123""";"""Allele J""";"""Imprinting""";"""Behavior Traits""";"""Extroverted""";"""Empathy""";"""No""";"""Complete penetrance""";"""Yes""";"""None""";"""No""</s>"

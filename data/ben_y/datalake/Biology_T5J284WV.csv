@@ -1,0 +1,22 @@
+;"\
+Taxonomic classification";"\
+Phylogenetics tree position";"\
+Number of homologous species";"\
+Chromosome location";"\
+Conservation across species";"\
+Gene duplication events";"\
+Gene family assignment";"\
+Paralogs and orthologs";"\
+Expression in various conditions";"\
+Gene regulation mechanisms";"\
+Epigenetic modifications"
+0; Hieracium pilosella; Basal angiosperm clade; 236; Chromosome 5; Highly conserved; 4; Plant Defense Response; Paralogs present; Expressed in response to herbivory; Regulated by transcription factors; DNA methylation, histone modification.
+1;Panthera leo; Placental mammals; 12; Chromosome X; Conserved in felids; 1; Feline-specific; Orthologs present in other felids; Expressed in developing embryos; Regulated by hormones; DNA methylation, histone modification.
+2;Canis lupus familiaris; Canidae; 23; Chromosome 15; Conserved in canids; 2; Ancient gene duplication event; Part of large gene family; Paralogs and orthologs present; Expressed in various tissues; Regulated by miRNAs  DNA methylation, histone modification.
+3;Mus musculus; Rodentia; 45; Chromosome 11; Conserved in rodents; 5; Rodent immune system; Orthologs present in other rodents; Expressed in immune cells; Regulated by transcription factors; DNA methylation, histone modification.
+4;Drosophila melanogaster; Insecta; 6; Chromosome 2L; Conserved in insects; 1; Insect development and behavior; Orthologs present in other insects; Expressed in developing embryo; Regulated by transcription factors; DNA methylation, histone modification.
+5;Arabidopsis thaliana; Brassicales; 24; Chromosome 1; Conserved in Brassicales; 3; Plant stress response; Paralogs present; Expressed in response to stress; Regulated by transcription factors; DNA methylation, histone modification.
+6;Caenorhabditis elegans; Nematoda; 7; Chromosome V; Conserved in nematodes; 2; Nematode development; Orthologs present in other nematodes; Expressed in developing embryo; Regulated by microRNAs; DNA methylation, histone modification.
+7;Escherichia coli; Gammaproteobacteria; 4; Chromosome 1; Conserved in Gammaproteobacteria; 1; Bacterial metabolism; Orthologs present in other Gammaproteobacteria; Expressed during growth; Regulated by sigma factors; DNA methylation, histone modification.
+8;Homo sapiens; Hominidae; 12; Chromosome 17; Highly conserved; 1; Human immune system; Orthologs present in other primates; Expressed in immune cells; Regulated by transcription factors; DNA methylation, histone modification.
+9;Saccharomyces cerevisiae; Saccharomycetes; 6; Chromosome XII; Conserved in Saccharomycetes; 1; Yeast stress response; Orthologs present in other Saccharomycetes; Expressed in response to stress; Regulated by transcription factors; DNA methylation, histone modification.</s>

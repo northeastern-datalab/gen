@@ -1,0 +1,11 @@
+;`Planet Name; Primary Star Type; Secondary Stars Types; Semi-Major Axis (AU); Satellite*; Orbital Period *- days; Rotation Period **- hours; Surface Temperature ***- Celsius; Atmosphere Composition %; Average Density; Ring System; Magnetic Field; Moons Number; Planetary Rings`
+0; Jupiter; G2V (Yellow Dwarf); None; 5.20; Yes; 4332.56; 9.9; -145; Hydrogen 90%, Helium 10%; 1.33; Yes; Strong; 79; Yes
+1;Saturn; G2V (Yellow Dwarf); None; 9.58; Yes; 10759.2; 10.7; -178; Hydrogen 96.3%, Helium 3.25%; 0.69; Yes; Strong; 82; Yes
+2;Uranus; F7V (White Subgiant); None; 19.18; Yes; 30685.4; -17.2; -195; Hydrogen 82.5%, Helium 15.2%; 1.27; Yes; Weak; 27; Yes
+3;Neptune; G2V (Yellow Dwarf); None; 30.07; Yes; 59800.8; 16.1; -200; Hydrogen 73%, Helium 25%; 1.64; No; Weak; 14; No
+4;Mars; G2V (Yellow Dwarf); None; 1.52; Yes; 686.98; 24.6; -65; Carbon Dioxide 95.3%, Nitrogen 2.7%; 3.93; No; Weak; 2; No
+5;Venus; G2V (Yellow Dwarf); None; 0.72; Yes; 224.7; -4.9; 464; Carbon Dioxide 96.5%, Nitrogen 3.5%; 5.25; No; Weak; 0; No
+6;Earth; G2V (Yellow Dwarf); None; 1.00; Yes; 365.26; 24; 15; Nitrogen 78%, Oxygen 21%; 5.51; No; Strong; 1; No
+7;Pluto; None; None; 39.28; Yes; 90466.6; -6.4; -223; Nitrogen 98%, Methane 2%; 1.87; No; Weak; 5; No
+8;Mercury; G2V (Yellow Dwarf); None; 0.39; Yes; 87.97; 58.65; 167; Oxygen 42%, Sodium 29%; 5.43; No; Weak; 0; No
+9;Eris; None; None; 67.67; Yes; 579.5; -21.6; -213; Methane 99%, Nitrogen 1%; 2.52; No; Weak; 1; No

@@ -1,0 +1,112 @@
+;"""Gene Name"; Chromosome; Start Position; End Position; Strand; Gene Type; Sequence; Expression Level; Mutation Frequency; Protein Interactions;" GO Terms"""
+0;" ""Gene Name"; Chromosome; Start Position; End Position; Strand; Gene Type; Sequence; Expression Level; Mutation Frequency; Protein Interactions;" GO Terms"""
+1;"""BRCA1"; Chromosome 17; 41235104; 41243212; Minus; Tumor suppressor; AAGTGCCAGGGTGCAGCTGCTG; High; 0.001%; DNA repair, transcription regulation;" Cell cycle, DNA damage response"""
+2;"""TP53"; Chromosome 17; 7578999; 7677939; Plus; Tumor suppressor; ATGGAGGAGCCGCAGTCAGATC; High; 0.005%; Apoptosis, cell cycle arrest;" Cellular response to stress"""
+3;"""APC"; Chromosome 5; 112051649; 112062198; Minus; Tumor suppressor; ATGGCTACTGACTGAGTCTTC; Medium; 0.002%; Wnt signaling pathway;" Cell adhesion, cell migration"""
+4;"""KRAS"; Chromosome 12; 25389807; 25391019; Plus; Oncogene; GGTGAGAATGTGAGTAACTGC; High; 0.015%; RAS-MAPK signaling pathway;" Cell growth, cell division"""
+5;"""EGFR"; Chromosome 7; 55209888; 55222280; Plus; Oncogene; GCCACCACCACCGCCGCCACC; High; 0.012%; EGFR signaling pathway;" Cell proliferation, angiogenesis"""
+6;"""BRAF"; Chromosome 7; 140477765; 140484288; Plus; Oncogene; TTGTCTACTGAGCTTCTGC; High; 0.008%; RAS-MAPK signaling pathway;" Cell growth, cell division"""
+7;"""PTEN"; Chromosome 10; 89729025; 89738970; Minus; Tumor suppressor; AAGAATGTGGCTCTGAGT; High; 0.003%; PI3K-AKT signaling pathway;" Apoptosis, cell survival"""
+8;"""NRAS"; Chromosome 1; 180052408; 180052861; Plus; Oncogene; GGTGAGAATGTGAGTAACTGC; High; 0.007%; RAS-MAPK signaling pathway;" Cell growth, cell division"""
+9;"""CDKN2A"; Chromosome 9; 21976547; 21980088; Minus; Tumor suppressor; CCCGGGAGGCCGCGCGGC; High; 0.004%; Cell cycle regulation;" Apoptosis"""
+10;"""AR"; Chromosome X; 72906425; 73012978; Plus; Oncogene; GCTGTGAAGTTGCTGTGTGC; Medium; 0.006%; Androgen receptor;" Cell proliferation, differentiation""</s>"
+11;" ""TP53"; Chromosome 17; 7578999; 7677479; Minus; Tumor suppressor; TCTCCCCAGCGCGTCAGGA; High; 0.005%; Cell cycle arrest, apoptosis;" Transcription regulation"""
+12;"""PIK3CA"; Chromosome 3; 178914009; 178949624; Plus; Oncogene; AAACTTGTGGGAAGGTGTGA; High; 0.008%; PI3K-AKT signaling pathway;" Cell growth, survival"""
+13;"""PTEN"; Chromosome 10; 89725107; 89763149; Minus; Tumor suppressor; TCAGGCAGAAGCTCCTTG; High; 0.003%; PI3K-AKT signaling pathway;" Inhibition of cell proliferation"""
+14;"""ERBB2"; Chromosome 17; 37824831; 37932952; Plus; Oncogene; AGATCCTCAGGCCCCCAAA; High; 0.006%; ERBB2 signaling pathway;" Cell growth, survival"""
+15;"""BRCA1"; Chromosome 17; 41284898; 41353767; Minus; Tumor suppressor; GAGGGGGAGCTGTGGAAG; High; 0.004%; DNA damage response, repair;" Cell cycle checkpoint"""
+16;"""APC"; Chromosome 5; 112053802; 112080510; Plus; Tumor suppressor; GGGGATGCGAAACAGGTAG; High; 0.005%; Wnt signaling pathway;" Cell migration, adhesion"""
+17;"""EGFR"; Chromosome 7; 55208941; 55278287; Plus; Oncogene; GCCACCACCACCACCCGT; High; 0.007%; EGFR signaling pathway;" Cell proliferation, survival"""
+18;"""CTNNB1"; Chromosome 3; 41286847; 41312084; Plus; Oncogene; GGTGGACGAGGAGGAACAC; High; 0.006%; Wnt signaling pathway;" Cell proliferation, migration"""
+19;"""BRAF"; Chromosome 7; 140427010; 140452106; Plus; Oncogene; TTCCACTCTGTGTTCCTTC; High; 0.008%; RAS-MAPK signaling pathway;" Cell growth, survival"""
+20;"""KRAS"; Chromosome 12; 25190209; 25196376; Plus; Oncogene; GGTGGAATATAAACTTGTG; High; 0.009%; RAS-MAPK signaling pathway;" Cell growth, survival""</s>"
+21;" ""TP53"; Chromosome 17; 7571548; 7579379; Minus; Tumor Suppressor; TCTCCCCACCATGTCGCTTA; High; 0.012%; Cell cycle arrest, Apoptosis;" Transcription regulation"""
+22;"""PIK3CA"; Chromosome 3; 178914272; 178930140; Plus; Oncogene; AAGGGTCTCCATCAAACATA; High; 0.007%; PI3K-AKT signaling pathway;" Cell growth, Survival"""
+23;"""NF1"; Chromosome 17; 29722041; 29900047; Minus; Tumor Suppressor; AAGGAGAAGGTCTGAAGATG; High; 0.011%; RAS-MAPK signaling pathway;" Neural development"""
+24;"""AKT1"; Chromosome 14; 81158625; 81166441; Plus; Oncogene; GGTGACCATCATGAAATTCG; High; 0.005%; PI3K-AKT signaling pathway;" Cell growth, Survival"""
+25;"""PTEN"; Chromosome 10; 89702845; 89730051; Minus; Tumor Suppressor; TCTCGCTCCGCCACAAAGA; High; 0.009%; PI3K-AKT signaling pathway;" Negative regulation of cell growth"""
+26;"""ERBB2"; Chromosome 17; 37882271; 37906284; Plus; Oncogene; GGTGAAGGTCTGTGCCTGTA; High; 0.004%; ERBB signaling pathway;" Cell proliferation, migration"""
+27;"""EGFR"; Chromosome 7; 55215121; 55238801; Plus; Oncogene; TTCCACTCTGTGTTCCTTC; High; 0.007%; ERBB signaling pathway;" Cell proliferation, migration"""
+28;"""SMAD4"; Chromosome 18; 48961815; 48974294; Minus; Tumor Suppressor; AAAGGCAAGACGGCAAGCAA; High; 0.008%; TGF-beta signaling pathway;" Cell growth, Differentiation"""
+29;"""CASP8"; Chromosome 2; 213524155; 213540776; Plus; Tumor Suppressor; GGTTGGGCTCCTTTGAACAA; High; 0.006%; Apoptosis;" Programmed cell death"""
+30;"""STAT3"; Chromosome 17; 48278932; 48292995; Plus; Oncogene; CCTCCAGACCCCAGCAGAA; High; 0.007%; JAK-STAT signaling pathway;" Cell growth, Survival""</s>"
+31;" ""EGFR"; Chromosome 7; 55211591; 55308976; Plus; Oncogene; GCCACCATGACCCTCTCCAA; High; 0.009%; EGFR signaling pathway;" Cell proliferation, Angiogenesis"""
+32;"""TP53"; Chromosome 17; 7577777; 7672029; Minus; Tumor Suppressor; TCTCCCCCGCCGGCGCAGGC; High; 0.005%;" Cell cycle arrest, Apoptosis""";
+33;"""PTEN"; Chromosome 10; 89700221; 89760141; Minus; Tumor Suppressor; AGGTGCCGTCGCCGTCCCGAA; High; 0.004%; PI3K-Akt signaling pathway;" Negative regulation of cell proliferation"""
+34;"""BRCA1"; Chromosome 17; 41899756; 43051843; Minus; Tumor Suppressor; AAGTGCTGCTGCAAGGCATG; High; 0.006%;" DNA damage repair, Cell cycle checkpoint""";
+35;"""BRCA2"; Chromosome 13; 32310847; 32890669; Minus; Tumor Suppressor; GTGCAGTTTGGGCTCTTCCT; High; 0.005%;" DNA damage repair, Homologous recombination""";
+36;"""AKT1"; Chromosome 14; 77444382; 77454120; Plus; Oncogene; GCCGCGTCGCGCGGCCTCCG; High; 0.007%; PI3K-Akt signaling pathway;" Cell survival, Glycogen synthesis"""
+37;"""MYC"; Chromosome 8; 128896470; 128910432; Plus; Oncogene; AACAAACCCTAAGACCCTTCA; High; 0.008%;" Cell cycle progression, Apoptosis inhibition""";
+38;"""CSF1R"; Chromosome 5; 160929187; 160982142; Plus; Oncogene; AGGCGAGTGGAGGCTTCTTC; High; 0.006%;" Macrophage differentiation, Cell proliferation""";
+39;"""KRAS"; Chromosome 12; 24957093; 24965180; Plus; Oncogene; CTGACTGAATATAAACTTGTG; High; 0.007%; RAS-MAPK signaling pathway;" Cell proliferation, Differentiation"""
+40;"""NRAS"; Chromosome 1; 179780787; 179802117; Plus; Oncogene; AGGCCCTTGGCTGAGAAGT; High; 0.005%; RAS-MAPK signaling pathway;" Cell proliferation, Survival""</s>"
+41;" ""TP53"; Chromosome 17; 7578771; 7675428; Minus; Tumor suppressor; TCCTCCCCCCTGCGCAAGAG; High; 0.009%;" Cell cycle arrest, Apoptosis"" ";
+42;"""PIK3CA"; Chromosome 3; 178917018; 179007922; Plus; Oncogene; AAGGGTGTGAAGATGCCCTC; High; 0.008%; PI3K-AKT signaling pathway;" Cell proliferation, Survival""  "
+43;"""PTEN"; Chromosome 10; 89701091; 89740574; Minus; Tumor suppressor; AACATACGAAATTGTGTGGA; High; 0.007%; PI3K-AKT signaling pathway;" Apoptosis, Cell proliferation""  "
+44;"""EGFR"; Chromosome 7; 55203982; 55308949; Plus; Oncogene; ATGGAGTACAAAGCTCATGG; High; 0.006%; EGFR signaling pathway;" Cell proliferation, Angiogenesis""  "
+45;"""AKT1"; Chromosome 14; 102537653; 102549555; Plus; Oncogene; GGCCCTTTGTGGCACTGTAA; High; 0.005%; PI3K-AKT signaling pathway;" Cell survival, Protein synthesis""  "
+46;"""BRAF"; Chromosome 7; 140479074; 140485149; Plus; Oncogene; TTCACTCTTTCACAGGAGAC; High; 0.004%; RAS-MAPK signaling pathway;" Cell proliferation, Survival""  "
+47;"""MYC"; Chromosome 8; 80611002; 80620120; Plus; Oncogene; CACCGAGTCGTAGTCGAGG; High; 0.003%;" Cell cycle progression, Apoptosis"" ";
+48;"""RB1"; Chromosome 13; 41199029; 41338698; Minus; Tumor suppressor; TCTGTGGTCTTCCACCCTC; High; 0.002%;" Cell cycle regulation, DNA repair"" ";
+49;"""APC"; Chromosome 5; 112053224; 112132725; Minus; Tumor suppressor; CTGATTTGCCACCAGCAGC; High; 0.001%; Wnt signaling pathway;" Cell proliferation, Apoptosis""  "
+50;"""SMAD4"; Chromosome 18; 48786545; 48797763; Minus; Tumor suppressor; TGTCTCTCTTTGTGTGTTGC; High; 0.0001%; TGF-β signaling pathway;" Cell proliferation, Differentiation"" .</s>"
+51;" ""TP53"; Chromosome 17; 7578881; 7677040; Minus; Tumor suppressor; AGCCCCCAGGCGCGCCT; High; 0.003%;" Cell cycle arrest, Apoptosis"" ";
+52;"""PTEN"; Chromosome 10; 89740549; 89759234; Minus; Tumor suppressor; TGTGGTGGAATCCGCTTA; High; 0.0015%; PI3K/AKT pathway;" Cell proliferation, Apoptosis""  "
+53;"""BRCA1"; Chromosome 17; 41259109; 41353162; Plus; Tumor suppressor; GGGAGGAATGAGCAATCT; High; 0.0008%;" DNA repair, Cell cycle checkpoint"" ";
+54;"""BRCA2"; Chromosome 13; 32373433; 32477069; Plus; Tumor suppressor; TGTGGAAGACCTTCAGGTC; High; 0.0006%;" DNA repair, Recombination"" ";
+55;"""CDH1"; Chromosome 16; 6863545; 6939355; Minus; Tumor suppressor; TGCTGGGAAATGTGTGGTG; High; 0.0005%;" Cell adhesion, Invasion"" ";
+56;"""AR"; Chromosome X; 66821614; 66992903; Plus; Gene; GCTGTCTTTGAGAATTCAGG; Medium; 0.001%; Androgen receptor signaling;" Differentiation, Proliferation""  "
+57;"""ATM"; Chromosome 11; 108051728; 108201973; Plus; Gene; GGGCCAGAGCTCCAGTTT; Medium; 0.0007%;" DNA repair, Cell cycle checkpoint"" ";
+58;"""MDM2"; Chromosome 12; 11557083; 11571064; Plus; Gene; TGTCTCCTCCAGCTTCCTC; Medium; 0.0006%;" P53 inhibition, Apoptosis"" ";
+59;"""CHEK2"; Chromosome 22; 37596075; 37637860; Plus; Gene; CCCACCTTCTTGGAGGCC; Medium; 0.0005%;" Cell cycle checkpoint, DNA repair"" ";
+60;"""BMPR1A"; Chromosome 10; 74614995; 74645358; Plus; Gene; GAAAATGTCTTGGGGATCTGA; Medium; 0.0004%; TGF-β signaling pathway;" Differentiation, Apoptosis"" .</s>"
+61;" ""TP53"; Chromosome 17; 7577477; 7677472; Minus; Gene; AATACACTTGTGCCCGCT; High; 0.0012%;" Transcription regulation, Apoptosis"" ";
+62;"""BRCA1"; Chromosome 13; 32338635; 32470939; Plus; Gene; TGTGAAAGTGGCCTCCTTCT; High; 0.0015%;" DNA repair, Cell cycle checkpoint"" ";
+63;"""PIK3CA"; Chromosome 3; 178916281; 178981722; Plus; Gene; CCCAATGTTAGGTGACCT; High; 0.0018%;" Signal transduction, Cell proliferation"" ";
+64;"""AKT1"; Chromosome 14; 102609823; 102629484; Plus; Gene; TGTGTGGAATGACGCCT; Medium; 0.0008%;" Cell survival, Metabolism"" ";
+65;"""PTEN"; Chromosome 10; 89709905; 89737980; Minus; Gene; AACTTTAGGTGTGGAAGGTC; High; 0.0017%;" Tumor suppression, Cell signaling"" ";
+66;"""NF1"; Chromosome 17; 29830498; 30833004; Minus; Gene; CAGAGGATTGGAGCCTGG; High; 0.0021%;" Ras signaling, Neural differentiation"" ";
+67;"""CDKN2A"; Chromosome 9; 21973641; 22012711; Minus; Gene; GCCGCGGCAGGAAGAGC; High; 0.0020%;" Cell cycle regulation, Apoptosis"" ";
+68;"""SMAD4"; Chromosome 18; 49082048; 49162818; Minus; Gene; GTCGGGTTGTGTGTGCAA; Medium; 0.0011%;" TGF-β signaling pathway, Transcription regulation"" ";
+69;"""CTNNB1"; Chromosome 3; 41232600; 41287971; Plus; Gene; TCGTGTAGTTGTTGAAAGA; Medium; 0.0010%;" Wnt signaling pathway, Cell adhesion"" ";
+70;"""AR"; Chromosome X; 73008035; 73125181; Plus; Gene; ATTGTGAAATCTTGCCTGC; Medium; 0.0009%;" Androgen receptor signaling, Differentiation"".</s>";
+71;" ""TP53"; Chromosome 17; 7578999_7681289; Plus; Gene; TTAGGGCTGTCTCCCAAGGA; High; 0.0015%; p53 signaling pathway, Apoptosis;;
+72;"""PTEN"; Chromosome 10; 89721518_89749982; Minus; Gene; TGTTGCTGTGTGAAATGCTG; High; 0.0014%; PI3K-AKT pathway, Tumor suppression;;
+73;"""AKT1"; Chromosome 14; 77640458_77662543; Plus; Gene; GGTGACGTTGACTGTGGAGG; High; 0.0013%; PI3K-AKT pathway, Cell proliferation;;
+74;"""ERK2"; Chromosome 25; 17029172_17106621; Plus; Gene; TGATGGTGAAGTTCAAGGAC; High; 0.0012%; MAPK signaling pathway, Cell division;;
+75;"""JUN"; Chromosome 17; 39499856_39532230; Minus; Gene; TACTGACCAAGGCGCGCCCA; High; 0.0011%; AP-1 transcription factor, Cellular stress response;;
+76;"""MYC"; Chromosome 8; 3827787_3860279; Plus; Gene; CACGTCGTGCTGTCTCCGA; High; 0.0010%; Cell cycle, Apoptosis;;
+77;"""STAT3"; Chromosome 17; 40780731_40862294; Minus; Gene; TGTTCCCGGAATGATGCTTG; High; 0.0009%; JAK-STAT pathway, Inflammation;;
+78;"""EGFR"; Chromosome 7; 55272203_55307990; Plus; Gene; TTGCACCTTGACTGACCTC; High; 0.0008%; EGFR signaling pathway, Cell growth;;
+79;""" Notch1"; Chromosome 9; 133459134_133721828; Minus; Gene; TGTGTGGTGTCTCGGGTTCG; High; 0.0007%; Notch signaling pathway, Cell differentiation;;
+80;"""VEGFA"; Chromosome 6; 41634882_41770267; Plus; Gene; ATGTGCAGATCGTCGGGCTC; High; 0.0006%;" Angiogenesis, Vascular permeability"".</s>";;
+81;" ""KRAS"; Chromosome 12; 25398283_25429178; Plus; Gene; GGTGAGTATATTCCTGTCTG; High; 0.0005%; RAS signaling pathway, Cell division;;
+82;"""TP53"; Chromosome 17; 7577711_7674909; Minus; Gene; ATTCACTGGTCATCTACTTCA; High; 0.0004%; Cell cycle arrest, Apoptosis;;
+83;"""AKT1"; Chromosome 14; 89663398_89685223; Plus; Gene; CTGGGCCCTCTGCGGAAGTG; High; 0.0003%; AKT signaling pathway, Cell survival;;
+84;"""PTEN"; Chromosome 10; 89672820_89713121; Minus; Gene; TGTGGCCACCCTCAGTGGA; High; 0.0002%; PI3K/AKT signaling pathway, Apoptosis;;
+85;"""PI3KCA"; Chromosome 3; 178917032_178986778; Plus; Gene; TTGGAAGACGAACTGTCCG; High; 0.0001%; PI3K/AKT signaling pathway, Cell proliferation;;
+86;"""CTNNB1"; Chromosome 3; 41251565_41283783; Plus; Gene; TAACTGACCAAGTGGGGCGT; High; 0.0001%; Wnt signaling pathway, Cell adhesion;;
+87;"""SMAD4"; Chromosome 18; 48897723_48938445; Minus; Gene; CCACTGTGCGTTGTGACTTG; High; 0.0001%; TGF-beta signaling pathway, Cell growth;;
+88;"""HRAS"; Chromosome 11; 115176721_115208376; Plus; Gene; ATGGAGGGTGTGTTGTGGCG; High; 0.00005%; RAS signaling pathway, Cell proliferation;;
+89;"""NF1"; Chromosome 17; 29674215_29907020; Minus; Gene; ACTGCATCACAGGCTCCTAC; High; 0.00003%; RAS signaling pathway, Neurofibromatosis;;
+90;"""CASP8"; Chromosome 2; 202151967_202202560; Plus; Gene; ATGGCTGCAGGGAGGCATC; High; 0.00001%;" Apoptosis, Cell survival"".</s>";;
+91;" ""TP53"; Chromosome 17; 7565657_7674314; Minus; Gene; CCCCCTCATGCACCGGAATC; High; 0.00004%; Apoptosis, Cell cycle arrest; TP53 signaling pathway, DNA damage repair; 
+92;"""APC"; Chromosome 5; 112051221_112077768; Plus; Gene; ATGGAGACTACGCCTGCAAG; High; 0.00002%; WNT signaling pathway, Colorectal cancer;;
+93;"""BRCA1"; Chromosome 17; 41892440_41908668; Minus; Gene; CGATGAAATGATGGCACAAG; High; 0.00001%; DNA damage repair, Homologous recombination;;
+94;"""PTEN"; Chromosome 10; 89737314_89800341; Minus; Gene; AGGCATCTACACTGAGCAGA; High; 0.00003%; PI3K-AKT signaling pathway, Cell proliferation;;
+95;"""ATM"; Chromosome 11; 108972969_109507625; Plus; Gene; ATGGCCCCTTCTGCAGCTCT; High; 0.00002%; DNA damage repair, Cell cycle checkpoint;;
+96;"""VHL"; Chromosome 3; 49957878_49966982; Minus; Gene; ATGGGCAGGAGGAAAAGTCA; High; 0.00001%; Hypoxia-inducible factor (HIF) pathway, Cell proliferation;;
+97;"""SMAD4"; Chromosome 18; 49040646_49084006; Plus; Gene; ATGGCCGTGTGCGTGTGTGT; High; 0.00002%; TGF-beta signaling pathway, Cell proliferation;;
+98;"""BRAF"; Chromosome 7; 140272045_140310584; Plus; Gene; ATGACTACGCTGGTGACTGG; High; 0.00003%; MAPK signaling pathway, Melanoma;;
+99;"""RB1"; Chromosome 13; 41190543_41392057; Minus; Gene; ATGGAGCGTATGACCCAGC; High; 0.00002%; Cell cycle, DNA damage repair;;
+100;"""AKT1"; Chromosome 14; 103932556_103943582; Plus; Gene; ATGGCTGACCAAAACGCTT; High; 0.00001%;" PI3K-AKT signaling pathway, Cell survival"".</s>";;
+101;" ""CCND1"; Chromosome 11; 69807905_69829372; Plus; Gene; ATGAGCCCGGCTGCCTA; High; 0.00004%; Cell cycle, Cancer; p53 signaling pathway, Apoptosis;
+102;"""TP53"; Chromosome 17; 7578794_7677389; Plus; Gene; ATGCACCGGCCTCCTCCTC; High; 0.00005%; Apoptosis, Cellular response to stress; p53 signaling pathway, DNA damage repair;
+103;"""PIK3CA"; Chromosome 3; 178917048_178986838; Plus; Gene; ATGGAACAAAGCTGTCAGT; High; 0.00002%; PI3K-AKT signaling pathway, Cell survival; Cancer, Tumorigenesis;
+104;""" PTEN"; Chromosome 10; 89702427_89793220; Minus; Gene; ATGCATACAGAAAGTGGTG; High; 0.00003%; PI3K-AKT signaling pathway, Cell survival; Cancer, Tumorigenesis;
+105;"""ERBB2"; Chromosome 17; 37829283_37875326; Minus; Gene; ATGCTTGCCTCCGGGAGG; High; 0.00004%; MAPK signaling pathway, HER2 positive breast cancer;;
+106;"""MYC"; Chromosome 8; 128625784_128659631; Plus; Gene; ATGACGTTGCTACTTCCC; High; 0.00003%; Cell cycle, Apoptosis, Cellular response to stress;;
+107;"""KRAS"; Chromosome 12; 24951290_25000970; Plus; Gene; ATGAGTACAAAATTTAATG; High; 0.00002%; MAPK signaling pathway, RAS-RAF-MEK-ERK pathway;;
+108;"""NF1"; Chromosome 17; 29731403_30733868; Minus; Gene; ATGGCTCCTACTGGTCTT; High; 0.00003%; RAS-RAF-MEK-ERK pathway, Neurofibromatosis type 1;;
+109;"""EGFR"; Chromosome 7; 55216107_55277702; Plus; Gene; ATGACCCCGTCGCTGTCGC; High; 0.00004%; EGFR-mediated signaling pathway, Non-small cell lung cancer;;
+110;"""AR"; Chromosome X; 66687890_66860019; Plus; Gene; ATGGCCAGGGACGAGGA; High; 0.00003%;" Androgen receptor signaling pathway, Prostate cancer"".</s>";;

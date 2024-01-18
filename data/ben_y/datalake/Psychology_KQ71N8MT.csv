@@ -1,0 +1,11 @@
+;BrainStructureSize; BrAINVolume; CerebralCortexThickness; WhiteMatterIntegrity; HippocampusShape; AmygdalaActivity; AnxietyLevelsUnderStress; DepressionScoresBeforeTherapy; SocialSkillsRating; IQTestResults; NeuroticismScaleScore; ExtraversionFactorScore; OpennesstoExperienceValue; ConscientiousnessMeasurement; AgreeablenessAssessment
+0;" ""Left Hemisphere"; 1400 cm³; 2.8 mm; High; Normal; Active; Moderate; 16; Average; 85; 15; 60; 0.75; High;" Low"""
+1;"""Right Hemisphere"; 1350 cm³; 2.6 mm; Average; Irregular; Moderate; High; 20; Below Average; 90; 20; 70; 0.65; Average;" Moderate"""
+2;"""Whole Brain"; 2750 cm³; 2.7 mm; High; Normal; Active; Low; 12; Average; 95; 12; 65; 0.70; High;" Low"""
+3;"""Left Cerebral Cortex"; 700 cm³; 2.9 mm; High; Normal; Active; Moderate; 14; Average; 80; 18; 55; 0.72; High;" Low"""
+4;"""Right Cerebral Cortex"; 650 cm³; 2.5 mm; Average; Irregular; Moderate; High; 18; Below Average; 90; 15; 65; 0.68; Average;" Moderate"""
+5;"""Whole Cerebral Cortex"; 1350 cm³; 2.7 mm; High; Normal; Active; Low; 10; Average; 90; 12; 60; 0.70; High;" Low"""
+6;"""Hippocampus Left"; 3.5 cm³; -; Normal; -; -; -; -; -; -; -; -; -; -;" -"""
+7;"""Hippocampus Right"; 3.3 cm³; -; Irregular; -; -; -; -; -; -; -; -; -; -;" -"""
+8;"""Amygdala Left"; 1.7 cm³; -; Active; -; -; -; -; -; -; -; -; -; -;" -"""
+9;"""Amygdala Right"; 1.8 cm³; -; Moderate; -; -; -; -; -; -; -; -; -; -;" -""</s>"

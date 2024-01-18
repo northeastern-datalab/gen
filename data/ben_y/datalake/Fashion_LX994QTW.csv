@@ -1,0 +1,11 @@
+;Clothes ID; Size; Color; Material; Brand; Price; Season; Occasion; Style; Availability; Store; Purchase Date; Return Policy; Additional Details
+0; 1; Medium; Navy Blue; Cotton Blend; Levi's; 65.99; Fall; Casual; Jeans; In Stock; Macy's; 2022-08-10; 30 days return, online and in-store; Classic straight fit, stretch fabric for comfort
+1;2; Small; Black; Polyester; Zara; 49.90; Winter; Business; Blazer; Low Stock; Zara; 2022-07-22; 14 days return, online only; Single-breasted, regular fit, functioning button cuffs
+2;3; Large; Red; Wool; Ralph Lauren; 130.00; Winter; Formal; Suit Jacket; In Stock; Ralph Lauren Store; 2022-06-29; 30 days return, in-store only; Notch lapel, two-button closure, flannel lining
+3;4; Medium; Beige; Viscose; H&M; 29.99; Spring; Casual; Blouse; Available; H&M; 2022-05-15; 14 days return, online and in-store; Puff sleeves, buttoned cuffs, mandarin collar
+4;5; Small; Blue; Polyester; Uniqlo; 19.90; Spring; Casual; T-Shirt; In Stock; Uniqlo; 2022-04-10; 30 days return, online and in-store; Crew neck, short sleeves, regular fit
+5;6; Large; Green; Linen; J.Crew; 75.00; Summer; Casual; Shorts; In Stock; J.Crew; 2022-03-18; 14 days return, online and in-store; Flat front, elastic waistband, side pockets
+6;7; Medium; White; Silk; Rebecca Taylor; 250.00; Spring; Formal; Blouse; In Stock; Neiman Marcus; 2022-02-14; 30 days return, online and in-store; Pussy-bow neck, long sleeves, pleated details
+7;8; Small; Gray; Cotton; Everlane; 30.00; Fall; Casual; Sweatshirt; Low Stock; Everlane; 2022-01-05; 30 days return, online and in-store; Classic fit, crew neck, drop shoulder
+8;9; Large; Yellow; Wool; Theory; 185.00; Winter; Business; Coat; In Stock; Theory Store; 2021-12-12; 14 days return, in-store only; Double-breasted, peak lapel, two side pockets
+9;10; Medium; Pink; Viscose; & Other Stories; 60.00; Spring; Casual; Skirt; Available; & Other Stories; 2021-11-01; 30 days return, online and in-store; midi length, pleated, buttoned front</s>

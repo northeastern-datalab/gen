@@ -1,0 +1,11 @@
+;BusinessExpansionPlans; CompanyName; CensusClassificationCode(NAICScode); AnnualRevenue; AnnualExpenses; CurrentAssetValue; CurrentLiabilityValue; NetWorth; EmployeeHeadcount; GeographicLocation; AdditionalMetricA; AdditionalMetricB; AdditionalMetricC; AdditionalMetricD; OtherUniqueDataPoints
+0;" ""Acme Corp"""; 541511; $5,000,000; $3,500,000; $6,000,000; $4,000,000; $1,500,000; $2,500,000; 250; New York, NY; 1000; 2000; 3000; 5000; Fortune 500 company.
+1;"""Beta Inc"""; 541519; $2,000,000; $1,200,000; $2,500,000; $1,800,000; $700,000; $1,100,000; 120; Los Angeles, CA; 500; 700; 800; 1000; Rapidly growing startup.
+2;"""Gamma LLC"""; 541618; $10,000,000; $6,000,000; $12,000,000; $8,000,000; $3,000,000; $5,000,000; 500; Chicago, IL; 2000; 3000; 4000; 6000; Established market leader.
+3;"""Delta Corp"""; 541990; $3,000,000; $2,000,000; $4,000,000; $2,500,000; $1,200,000; $1,300,000; 150; Miami, FL; 800; 1200; 1500; 2000; Emerging niche player.
+4;"""Epsilon Inc"""; 541512; $8,000,000; $5,000,000; $10,000,000; $7,000,000; $3,000,000; $4,000,000; 400; Houston, TX; 2500; 3500; 4000; 5000; High growth potential.
+5;"""Zeta Corp"""; 541214; $6,000,000; $4,000,000; $8,000,000; $5,000,000; $2,500,000; $3,000,000; 300; Boston, MA; 1500; 2000; 2500; 3500; Strong research and development focus.
+6;"""Eta Inc"""; 541511; $4,000,000; $2,500,000; $6,000,000; $3,500,000; $1,500,000; $2,000,000; 200; San Francisco, CA; 1000; 1500; 2000; 3000; Experienced management team.
+7;"""Theta Corp"""; 541611; $7,000,000; $4,500,000; $9,000,000; $6,000,000; $3,500,000; $4,500,000; 350; Washington, DC; 2000; 3000; 4000; 5500; Expanding into new markets.
+8;"""Iota Inc"""; 541890; $9,000,000; $6,000,000; $13,000,000; $8,000,000; $4,500,000; $5,500,000; 450; Philadelphia, PA; 3000; 4000; 5000; 6500; Diversified product offering.
+9;"""Kappa Corp"""; 541990; $12,000,000; $8,000,000; $18,000,000; $10,000,000; $6,000,000; $8,000,000; 600; Seattle, WA; 4000; 5500; 7000; 8500; Global expansion plans.</s>

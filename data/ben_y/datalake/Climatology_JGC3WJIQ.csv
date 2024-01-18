@@ -1,0 +1,11 @@
+;Climate Pattern Type;Average Temperature Anomaly (°C);Maximum Temperature Anomalies (°C);Minimum Temperature Anomalies (°C);Extreme Rainfall Events Count;Drought Period Count;Hailstorm Occurrences Count;Tornado Incidents Count;Heatwave Durations Count;Average Cloud Cover (%);Total Sunshine Hours (hr_min);Tropical Cyclone Frequency;Storm Surge Heights (cm)
+0; El Niño;1.5;2.0;1.0;-1;0;0;0;3;50;1200;3;40
+1;La Niña;-1.0;-1.5;-0.5;2;1;0;0;2;60;1400;2;35
+2;Polar Vortex;-2.0;-3.5;-0.5;0;1;0;0;4;80;900;0;0
+3;Heatwave;2.5;3.0;2.0;0;0;0;1;5;20;1300;0;0
+4;Tropical Cyclone;0.5;1.0;0.0;3;0;1;0;0;70;800;5;55
+5;Drought;0.0;0.0;0.0;0;3;0;0;0;30;1500;0;0
+6;Monsoon;0.5;1.0;0.0;2;1;0;0;1;80;700;1;25
+7;Artic Oscillation;-1.5;-2.0;-1.0;0;2;0;0;3;60;1000;0;0
+8;Saharan Air Layer;2.0;2.5;1.5;0;0;0;0;2;10;1600;0;0
+9;Indian Ocean Dipole;1.0;1.5;0.5;1;0;0;0;2;55;1100;2;30</s>

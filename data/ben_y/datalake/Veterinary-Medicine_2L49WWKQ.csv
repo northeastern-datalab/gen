@@ -1,0 +1,11 @@
+;Quantity Sold; Manufacturer Name; Drug Active Ingredient; Species FDA Approved For; Formulation Type (e.g.: tablet, injection); Average Dose per Treatment; Packaging Units (bottles, etc.); Expiry Date; Batch Number; Production Location; List Price
+0;" ""500"; Zoetis; Adequan i.m.; Horses; Injection; 500 mg/ml; 20 ml vial; 06/2024; 1234567890; Kalamazoo, MI, USA;" $299.99"""
+1;"""2000"; Merck Animal Health; Bravecto; Dogs; Chewable tablet; 140 mg/tablet; 3 tablets/pack; 12/2023; 0987654321; Elkhart, IN, USA;" $49.99"""
+2;"""1000"; Boehringer Ingelheim; Vetmedin; Dogs; Chewable tablet; 5 mg/tablet; 60 tablets/bottle; 09/2024; 5555555555; St. Joseph, MO, USA;" $129.99"""
+3;"""80"; Intervet Inc.; Norocillin; Swine; Injection; 300 mg/ml; 100 ml vial; 11/2022; 2345678901; Millsboro, DE, USA;" $149.99"""
+4;"""1500"; Elanco Animal Health; Cerenia; Dogs; Tablet; 23 mg/tablet; 60 tablets/bottle; 05/2023; 7890123456; Greenfield, IN, USA;" $69.99"""
+5;"""50"; Zoetis; Simparica Trio; Dogs; Chewable tablet; 140 mg/tablet; 2 tablets/pack; 10/2022; 6543210987; Kalamazoo, MI, USA;" $39.99"""
+6;"""250"; Bayer HealthCare LLC; Advantage II; Cats; Topical solution; 40 mg/tube; 4 tubes/box; 07/2023; 3210987654; Shawnee, KS, USA;" $29.99"""
+7;"""100"; Merck Animal Health; Heartgard Plus; Dogs; Chewable tablet; 68 mg/tablet; 2 tablets/pack; 03/2023; 9012345678; DeSoto, KS, USA;" $24.99"""
+8;"""500"; Boehringer Ingelheim; Draxxin; Cattle; Injection; 100 mg/ml; 100 ml vial; 12/2024; 8888888888; Fort Dodge, IA, USA;" $119.99"""
+9;"""10"; Intervet Inc.; Panacur AquaSol; Fish; Suspension; 10 g/liter; 1 liter bottle; 01/2024; 4444444444; Millsboro, DE, USA;" $249.99""</s>"

@@ -1,0 +1,11 @@
+;Additional Study Area ID; Date & Time Stamp; Additional Weather Condition; Additional Temperature (&deg;C); Additional Relative Humidity (%); Additional Atmospheric Pressure (hPa); Additional Wind Speed (m/s); Additional Precipitation (mm); Additional Solar Radiation (W/m²); Additional Soil Moisture (%); Additional Data Set ID; Thermal Sensation Vote;\* Storm Type;&#xA0; Lightning Frequency (&gt;3km from Ground)(times/\*) ; VolcanIC Activity Status;; Dust storm intensity&nbsp(scale_of__to___)&FRAC12;</mo><!-- FRAGMENT -->
+0;"  ""12345"; 2022-03-01 12:00:00; Partly cloudy; 15; 60; 1013; 5; 0; 300; 20; 2022-APR-STORM; Slightly cool; 0; No activity;" Calm""";;;;;;
+1;" ""67890"; 2022-03-02 06:30:00; Clear; 20; 40; 1012; 2; 0; 500; 35; 2022-MAY-DRIZZLE; Neutral; 0; No activity;" Calm""";;;;;;
+2;" ""11121"; 2022-03-03 13:15:00; Rain; 12; 80; 1008; 10; 5; 100; 50; 2022-JUN-HEATWAVE; Warm; 0; No activity;" Light""";;;;;;
+3;" ""33211"; 2022-03-04 18:00:00; Heavy rain; 8; 90; 998; 15; 20; 20; 60; 2022-JUL-COLDWAV; Slightly cool; 0; No activity;" Heavy""";;;;;;
+4;" ""77432"; 2022-03-05 21:45:00; Fog; 10; 95; 1010; 3; 0; 150; 70; 2022-AUG-THUNDER; Thunderstorm; 5; No activity;" Calm""";;;;;;
+5;" ""99981"; 2022-03-06 03:30:00; Snow; -2; 85; 1020; 8; 0; 0; 40; 2022-SEP-HAZE; Neutral; 0; No activity;" Calm""";;;;;;
+6;" ""22344"; 2022-03-07 10:10:00; Drizzle; 10; 70; 1015; 6; 1; 250; 45; 2022-OCT-SQUALL; Neutral; 0; No activity;" Light""";;;;;;
+7;" ""55566"; 2022-03-08 15:30:00; Hail; 2; 30; 1000; 20; 0; 80; 25; 2022-NOV-GALE; Cold; 0; No activity;" Heavy""";;;;;;
+8;" ""77788"; 2022-03-09 20:45:00; Freezing rain; -5; 65; 995; 12; 2; 10; 30; 2022-DEC-ICES; Extremely cold; 0; No activity;" Calm""";;;;;;
+9;" ""88990"; 2022-03-10 01:10:00; Sleet; -3; 70; 1012; 10; 0; 5; 35; 2022-JAN-DUST; Cold; 1; Minor activity;" Light"".</s>";;;;;;

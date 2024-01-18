@@ -1,0 +1,111 @@
+;SubjectID;DateOfBirth;Gender;Age;EducationLevel;Occupation;AnnualIncome;MaritalStatus;HasChildren;PersonalityType;Trait1;Trait2;Trait3;Trait4;Trait5
+0; 1: 001;1985-04-03;Female;36;Doctorate;Psychologist;85000;Married;Yes;INTP;Analytical;Creative;Curious;Logical;Self-confident
+1;2: 002;1990-08-08;Male;32;Masters;Software Engineer;120000;Single;No;ENFJ;Empathetic;Charismatic;Responsible;Motivational;Idealistic
+2;3: 003;1968-11-15;Male;54;High School;Construction Worker;50000;Married;Yes;ESFP;Sociable;Energetic;Practical;Caring;Optimistic
+3;4: 004;1977-02-26;Female;45;Bachelors;Teacher;60000;Married;Yes;ENTJ;Decisive;Organized;Strategic;Pragmatic;Confident
+4;5: 005;1988-06-17;Male;34;Masters;Lawyer;150000;Single;No;INTJ;Analytical;Strategic;Objective;Self-confident;Competitive
+5;6: 006;1992-09-24;Female;30;Bachelors;Marketing Specialist;70000;Married;Yes;ENFP;Creative;Optimistic;Charismatic;Enthusiastic;Spontaneous
+6;7: 007;1982-12-11;Male;39;Doctorate;Professor;80000;Single;No;INFJ;Insightful;Empathetic;Idealistic;Perceptive;Imaginative
+7;8: 008;1975-07-29;Female;47;Masters;Nurse;75000;Married;Yes;ISFJ;Practical;Caring;Organized;Conscientious;Reliable
+8;9: 009;1967-03-02;Female;55;Bachelors;Accountant;90000;Divorced;Yes;ISTJ;Analytical;Motivational;Precise;Pragmatic;Hardworking
+9;10: 010;1980-10-10;Male;42;Doctorate;Psychiatrist;200000;Single;No;ESTP;Energetic;Assertive;Resourceful;Adventurous;Direct</s>
+10; 11: 011;1985-06-15;Female;37;Masters;Marketing Manager;85000;Married;Yes;ENFJ;Charismatic;Inspiring;Sensitive;Empathetic;Articulate
+11;12: 012;1968-09-07;Male;54;Bachelors;Software Engineer;110000;Married;Yes;INTJ;Strategic;Logical;Innovative;Analytical;Decisive
+12;13: 013;1990-02-04;Male;32;Doctorate;Professor of Psychology;95000;Married;No;INFJ;Introspective;Idealistic;Creative;Perceptive;Insightful
+13;14: 014;1972-05-23;Female;49;Masters;Teacher;60000;Married;Yes;ESFP;Enthusiastic;Outgoing;Adaptable;Expressive;Optimistic
+14;15: 015;1955-12-09;Male;66;Bachelors;Retired Sales Manager;55000;Married;Yes;ESTJ;Persistent;Pragmatic;Organized;Responsible;Decisive
+15;16: 016;1978-07-18;Female;43;Doctorate;Research Scientist;120000;Single;No;INTP;Curious;Analytical;Innovative;Perceptive;Independent
+16;17: 017;1988-01-30;Non-binary;34;Masters;Graphic Designer;70000;Single;No;ENFP;Expressive;Enthusiastic;Imaginative;Collaborative;Optimistic
+17;18: 018;1992-11-14;Male;29;Bachelors;Elementary School Teacher;50000;Single;No;ENFJ;Charismatic;Inspiring;Empathetic;Idealistic;Supportive
+18;19: 019;1964-08-06;Female;57;Doctorate;Physician (Cardiologist);300000;Married;Yes;ISTJ;Precise;Analytical;Pragmatic;Cautious;Hardworking
+19;20: 020;1979-04-21;Male;42;Masters;Lawyer;150000;Single;No;ENTP;Strategic;Resourceful;Assertive;Adventurous;Creative</s>
+20; 21: 021;1985-09-08;Female;36;Masters;Software Engineer;120000;Married;Yes;INTJ;Logical;Analytical;Strategic;Critical;Independent
+21;22: 022;1995-02-25;Non-binary;26;Bachelors;Graphic Designer;60000;Single;No;INFP;Intuitive;Imaginative;Empathetic;Idealistic;Sensitive
+22;23: 023;1977-07-03;Male;44;Doctorate;University Professor (Psychology);90000;Married;Yes;ENFJ;Charismatic;Inspiring;Empathetic;Idealistic;Supportive
+23;24: 024;2000-12-10;Female;21;Some College;Retail Sales Associate;25000;Single;No;ESFP;Sociable;Spontaneous;Optimistic;Outgoing;Enthusiastic
+24;25: 025;1980-06-15;Male;41;Masters;Marketing Manager;85000;Married;Yes;ESTJ; Practical;Organized;Decisive;Responsible;Assertive
+25;26: 026;1968-03-16;Female;53;Doctorate;Psychiatrist;250000;Married;Yes;INFJ;Compassionate;Introspective;Intuitive;Idealistic;Creative
+26;27: 027;1987-11-28;Non-binary;34;Bachelors;IT Consultant;95000;Single;No;INTP;Analytical;Inventive;Logical;Objective;Curious
+27;28: 028;1990-05-12;Female;31;Masters;Human Resources Manager;70000;Married;Yes;ENFP;Enthusiastic;Empathetic;Creative;Optimistic;Outgoing
+28;29: 029;1975-10-01;Male;46;Bachelors;Small Business Owner (Restaurant);100000;Married;Yes;ESFJ;Sociable;Warm;Practical;Organized;Responsible
+29;30: 030;2001-08-07;Female;20;Some College;College Student;0;Single;No;INFP;Introspective;Creative;Idealistic;Compasionate;Sensitive</s>
+30; 31: 031;1982-02-25;Male;39;Doctorate;University Professor;85000;Married;Yes;INTJ;Analytical;Strategic;Critical-thinker;Efficient;Self-confident
+31;32: 032;1995-04-16;Female;26;Bachelors;Graphic Designer;50000;Single;No;ISTP;Independent;Pragmatic;Resourceful;Tactful;Adventurous
+32;33: 033;1968-07-28;Male;53;Masters;IT Manager;90000;Married;Yes;ESTP; assertive; ambitious; practical; problem-solver; multitasker
+33;34: 034;1977-11-30;Female;44;Bachelors;Marketing Manager;75000;Married;Yes;ESFP;Outgoing;Friendly;Persuasive;Energetic;Caring
+34;35: 035;1987-09-14;Non-binary;34;Masters;Clinical Psychologist;95000;Single;No;INFJ;Insightful;Empathetic;Imaginative;Understanding;Idealistic
+35;36: 036;2000-06-17;Male;21;Some College;Mechanical Engineer;60000;Single;No;ISTJ;Analytical;Methodical;Hard-working;Precise;Systematic
+36;37: 037;1985-01-19;Female;37;Doctorate;Research Scientist;90000;Married;Yes;INTP;Analytical;Curious;Innovative;Independent;Open-minded
+37;38: 038;1969-08-23;Female;52;Masters;School Principal;80000;Married;Yes;ENFJ;Collaborative;Decisive;Empathetic;Organized;Enthusiastic
+38;39: 039;1972-03-03;Male;49;Bachelors;Financial Advisor;110000;Married;Yes;ESFP;Persuasive;Sociable;Charismatic;Confident;Decisive
+39;40: 040;1988-12-20;Female;33;Masters;Software Engineer;85000;Single;No;ENTJ;Strategic;Decisive;Confident;Strong-willed;Efficient</s>
+40; 41: 041;1955-06-17;Male;66;Doctorate;University Professor;120000;Married;Yes;INTP;Analytical;Creative;Inquisitive;Logical;Open-minded
+41;42: 042;1965-09-09;Female;56;Bachelors;Marketing Manager;90000;Married;Yes;ESTJ; Practical;Organized;Decisive;Responsible;Outgoing
+42;43: 043;1978-02-02;Male;43;Masters;Lawyer;140000;Married;Yes;INFJ;Empathetic;Insightful;Idealistic;Persuasive;Compassionate
+43;44: 044;1990-11-11;Female;31;Bachelors;Graphic Designer;60000;Single;No;ISFP;Imaginative;Creative;Sensitive;Artistic;Harmony-loving
+44;45: 045;1981-07-03;Male;40;Masters;Product Manager;95000;Married;Yes;ENFP;Enthusiastic;Creative;Inspirational;Excellent Communicator;Optimistic
+45;46: 046;1958-04-22;Female;63;Bachelors;Nurse Manager;80000;Married;Yes;ESFJ;Caring;Reliable;Organized;Sensitive;Warmhearted
+46;47: 047;1970-10-15;Male;51;Doctorate;Research Scientist;100000;Married;Yes;INTJ;Analytical;Strategic;Intellectual;Autonomous;High Standards
+47;48: 048;1967-05-06;Female;54;Masters;Physical Therapist;75000;Married;Yes;ISTJ;Precise;Conscientious;Dependable;Achievement-oriented;Realistic
+48;49: 049;1980-09-08;Male;41;Bachelors;Business Manager;90000;Single;No;ENTP;Innovative;Strategic;Assertive;Resourceful;Quick Thinker
+49;50: 050;1975-02-15;Female;46;Masters;School Counselor;65000;Married;Yes;INFP;Idealistic;Empathetic;Encouraging;Heartfelt;Reflective</s>
+50; 51: 051;1991-06-20;Male;30;Doctorate;University Professor;110000;Married;No;INTP;Analytical;Original;Expert;Perfectionist;Skeptical
+51;52: 052;1978-11-27;Female;43;Bachelors;Software Engineer;80000;Single;No;INTJ;Logical;Strategic;Objective;Innovative;Independent
+52;53: 053;1965-08-03;Male;56;High School;Construction Worker;50000;Married;Yes;ESFP;Outgoing;Adventurous;Loyal;Enthusiastic;Sociable
+53;54: 054;1985-02-04;Female;37;Masters;Marketing Manager;78000;Single;No;ENFJ;Charismatic;Understanding;Organized;Competitive;Decisive
+54;55: 055;1988-07-10;Male;33;Bachelors;Mechanical Engineer;85000;Married;Yes;ISTP;Pragmatic;Investigative;Independent;Straightforward;Realistic
+55;56: 056;1968-03-14;Female;53;High School;Nurse;60000;Married;Yes;ESFJ;Caring;Diligent;Sociable;Practical;Stable
+56;57: 057;1972-10-11;Male;49;Masters;Lawyer;150000;Single;No;INTP;Critical;Analytical;Objective;Innovative;Independent
+57;58: 058;1990-01-22;Female;31;Bachelors;Human Resources Manager;72000;Married;Yes;ENFP;Enthusiastic;Resourceful;Empathetic;Persuasive;Optimistic
+58;59: 059;1982-04-28;Male;39;Associates;Police Officer;68000;Married;Yes;ESTJ;Organized;Decisive;Responsible;Practical;Loyal</s>
+59; 60: 060;1965-03-03;Female;56;Doctorate;Psychologist;120000;Married;Yes;INFJ;Insightful;Compassionate;Creative;Perceptive;Idealistic
+60;61: 061;1958-06-16;Male;63;Bachelors;Engineer;95000;Married;Yes;ISTJ;Analytical;Practical;Logical;Orderly;Cautious
+61;62: 062;1987-08-07;Female;34;Masters;Marketing Manager;80000;Single;No;ESFP;Outgoing;Dramatic;Friendly;Charismatic;Optimistic
+62;63: 063;1968-12-27;Male;52;Bachelors;IT Manager;105000;Married;Yes;INTJ;Strategic;Resourceful;Analytical;Decisive;Independent
+63;64: 064;1978-09-14;Female;43;Associates;Nurse;60000;Married;Yes;ISFJ;Caring;Detail-oriented;Reliable;Patient;Warm
+64;65: 065;1975-02-05;Male;46;Doctorate;Professor;90000;Married;Yes;ENFJ;Charismatic;Organized;Empathetic;Compassionate;Inspiring
+65;66: 066;1991-07-18;Female;30;Bachelors;Elementary School Teacher;48000;Single;No;ESFJ;Nurturing;Organized;Friendly;Reliable;Conscientious
+66;67: 067;1985-11-04;Male;36;Masters;Financial Analyst;85000;Married;Yes;INTJ;Critical;Analytical;Strategic;Pragmatic;Innovative
+67;68: 068;1970-05-12;Female;51;Associates;Real Estate Agent;78000;Married;Yes;ESTP;Adventurous;Assertive;Resourceful;Outgoing;Enthusiastic
+68;69: 069;1980-10-20;Male;41;Bachelors;High School Teacher;55000;Single;No;ENTP;Energetic;Inventive;Charismatic;Strategic;Analytical</s>
+69; 70: 070;1968-07-03;Male;53;Doctorate;Professor;110000;Married;Yes;INFJ;Insightful;Imaginative;Comppassionate;Intuitive;Empathetic 
+70;71: 071;1955-02-25;Female;66;High School Diploma;Retail Salesperson;25000;Widowed;No;ESFP;Sociable;Expressive;Conscientious;Optimistic;Friendly 
+71;72: 072;1990-09-15;Male;31;Bachelors;Software Engineer;90000;Single;No;INTP;Curious;Innovative;Analytical;Logical;Reserved 
+72;73: 073;1977-06-18;Female;44;Masters;Marketing Manager;80000;Married;Yes;ENFP;Enthusiastic;Creative;Empathetic;Inspiring;Excellent Communicator 
+73;74: 074;1965-12-30;Male;56;Bachelors;Police Officer;70000;Married;Yes;ISTJ;Dutiful; Practical;Orderly;Loyal;Analytical 
+74;75: 075;1982-04-23;Female;39;Doctorate;Psychologist;100000;Married;Yes;ENFJ;Caring;Charismatic;Empathetic;Organized;Insightful 
+75;76: 076;1992-11-08;Male;29;Masters;IT Consultant;85000;Single;No;INTP;Analytical;Logical;Curious;Innovative;Reserved 
+76;77: 077;1964-03-01;Female;58;Associates;Nurse;60000;Married;Yes;ESA;Compassionate;Reliable;Conscientious;Supportive;Loyal 
+77;78: 078;1987-12-16;Male;34;Bachelors;Mechanical Engineer;95000;Single;No;ISTP;Analytical;Handy;Pragmatic;Independent;Technical 
+78;79: 079;1995-08-06;Female;26;Bachelors;Graphic Designer;60000;Single;No;INFP;Creative;Idealistic;Introspective;Empathetic;Imaginative</s>
+79; 80: 080;1975-06-29;Male;46;Masters;Software Engineer;120000;Married;Yes;INTJ;Strategic;Logical;Reserved;Ambitious;Innovative 
+80;81: 081;1968-02-04;Female;53;Bachelors;Teacher;70000;Married;Yes;ENFJ;Loyal;Understanding;Organized;Charismatic;Empathetic 
+81;82: 082;1980-09-18;Male;41;Doctorate;Professor;85000;Married;Yes;INFJ;Intuitive;Inspiring;Perceptive;Idealistic;Creative 
+82;83: 083;1990-05-13;Female;31;Masters;Marketing Specialist;78000;Single;No;ESFP;Sociable;Optimistic;Enthusiastic;Versatile;Persuasive 
+83;84: 084;1972-11-22;Male;49;Bachelors;Sales Manager;90000;Married;Yes;ESTJ;Practical;Decisive;Organized;Responsible;Assertive 
+84;85: 085;1989-07-24;Female;32;Bachelors;Physical Therapist;80000;Single;No;ENFP;Enthusiastic;Expressive;Compassionate;Inventive;Optimistic 
+85;86: 086;1965-07-09;Male;56;Masters;Lawyer;150000;Married;Yes;INTP;Analytical;Innovative;Independent;Perceptive;Curious 
+86;87: 087;1978-01-01;Female;43;Bachelors;Financial Analyst;92000;Married;Yes;ENTJ;Strategic;Assertive;Organized;Pragmatic;Confident 
+87;88: 088;1992-10-10;Male;29;Bachelors;Public Relations Specialist;72000;Single;No;ENFP;Charismatic;Optimistic;Resourceful;Empathetic;Innovative 
+88;89: 089;1969-04-25;Female;52;Doctorate;Psychologist;100000;Married;Yes;ISTJ;Analytical;Achievement-oriented;Practical;Orderly;Exacting 
+89;90: 090;1985-06-15;Male;36;Masters;Computer Scientist;110000;Single;No;INTP;Analytical;Curious;Independent;Imaginative;Original </s>
+90; 91: 091;1978-02-22;Female;43;Masters;Marketing Manager;90000;Married;Yes;ESTJ;Decisive;Organized;Responsible;Assertive;Loyal 
+91;92: 092;1995-09-08;Male;26;Bachelors;Graphic Designer;55000;Single;No;ESFP;Enthusiastic;Creative;Outgoing;Sociable;Optimistic 
+92;93: 093;1980-11-11;Female;41;Doctorate;University Professor;85000;Married;Yes;INFJ;Insightful;Idealistic;Compassionate;Inventive;Perceptive 
+93;94: 094;1972-05-16;Male;49;Masters;Software Engineer;130000;Married;Yes;INTJ;Strategic;Resourceful;Analytical;Disciplined;Objective 
+94;95: 095;1966-07-28;Female;55;Bachelors;School Teacher;60000;Married;Yes;ENFJ;Warm;Outgoing;Supportive;Inspirational;Cooperative 
+95;96: 096;1988-12-03;Male;33;Doctorate;Research Scientist;95000;Single;No;INTP;Logical;Original;Innovative;Independent;Curious 
+96;97: 097;1977-03-04;Female;44;Masters;Operations Manager;90000;Married;Yes;ENTJ;Assertive;Strategic;Efficient;Energetic;Organized 
+97;98: 098;1983-08-19;Male;38;Bachelors;Sales Manager;78000;Married;Yes;ESFP;Persuasive;Optimistic;Sociable;Energetic;Outgoing 
+98;99: 099;1965-01-26;Female;57;Doctorate;Medical Doctor;200000;Married;Yes;ISTJ;Precise;Orderly;Dutiful;Analytical;Persistent 
+99;100: 100;1979-06-02;Male;42;Masters;Financial Analyst;92000;Married;Yes;INTJ;Analytical;Strategic;Logical;Objective;Disciplined </s>
+100; 101: 101;1990-09-15;Female;31;Masters;Lawyer;150000;Married;No;ENTJ;Assertive;Confident;Logical;Strategic;Decisive 
+101;102: 102;1985-12-31;Male;36;Bachelors;Marketing Manager;85000;Married;Yes;ENFP;Enthusiastic;Creative;Excellent Communication;Optimistic;Empathetic 
+102;103: 103;1977-04-10;Female;44;Doctorate;University Professor;95000;Married;Yes;INFJ;Insightful;Idealistic;Empathetic;Imaginative;Complex 
+103;104: 104;1968-07-22;Male;53;Bachelors;School Teacher;65000;Married;Yes;ESFJ;Practical;Loyal;Caring;Well-Organized;Social 
+104;105: 105;1992-02-14;Female;29;Associate's;Registered Nurse;68000;Single;No;ISFP;Compassionate;Empathetic;Artistic;Patient;Tactful 
+105;106: 106;1978-11-01;Male;43;Bachelors;IT Manager;98000;Married;Yes;INTP;Analytical;Innovative;Curious;Insightful;Independent 
+106;107: 107;1987-05-05;Female;34;Masters;Engineer;90000;Single;No;ENTP;Assertive;Strategic;Innovative;Insightful;Excellent Communication 
+107;108: 108;1969-10-06;Male;52;Bachelors;Police Officer;70000;Married;Yes;ESTJ;Decisive;Organized;Responsible;Practical;Loyal 
+108;109: 109;1981-03-18;Female;40;Masters;Accountant;80000;Married;Yes;ISTP;Analytical;Precise;Logical;Objective;Independent 
+109;110: 110;1974-09-17;Male;47;Bachelors;Small Business Owner;120000;Married;Yes;ENFJ;Charismatic;Empathetic;Organized;Excellent Communication;Altruistic </s>

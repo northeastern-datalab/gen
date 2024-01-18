@@ -1,0 +1,11 @@
+;SubjectID; DateOfBirth; Gender; Age; EducationLevel; Occupation; AnnualIncome; MaritalStatus; HasChildren; PersonalityType; Trait6; Trait7
+0; 1234; 1985-06-12; Female; 36; Doctorate; Psychologist; 80000; Married; Yes; INTJ; Analytical; Critical
+1;4567; 1979-11-05; Male; 42; Masters; Teacher; 60000; Single; No; ENFJ; Charismatic; Empathetic
+2;8910; 1991-03-23; Non-binary; 30; Bachelors; Software Engineer; 90000; Married; Yes; INTP; Innovative; Independent
+3;3456; 1968-08-14; Female; 53; High School; Administrative Assistant; 45000; Divorced; Yes; ESTJ; Organized; Loyal
+4;7891; 1980-12-28; Male; 41; Bachelors; Marketing Manager; 70000; Single; No; ENFP; Enthusiastic; Creative
+5;2345; 1993-09-07; Female; 28; Masters; Social Worker; 50000; Married; Yes; INFJ; Compassionate; Introspective
+6;6789; 1975-05-16; Male; 46; Doctorate; University Professor; 95000; Married; Yes; INTJ; Intelligent; Dedicated
+7;1357; 1967-01-09; Female; 54; Bachelors; Nurse; 65000; Widowed; Yes; ESFJ; Caring; Practical
+8;9012; 1985-02-20; Male; 36; Masters; Graphic Designer; 75000; Single; No; INTP; Logical; Inventive
+9;3691; 1977-09-11; Female; 44; Bachelors; Accountant; 85000; Married; Yes; ESTJ; Detail-oriented; Assertive</s>

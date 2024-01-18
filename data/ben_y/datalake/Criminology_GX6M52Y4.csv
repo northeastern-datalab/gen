@@ -1,0 +1,11 @@
+;Incident Number; Date & Time Occurred; Offense Description; Location; Incident Category; Response Type; Response Duration; Officer Name; Suspect Age; Suspect Gender; Suspect Race
+0; 12547; 2022-03-01 23:45:00; Burglary - forced entry, property stolen; 123 Main St; Property Crime; Dispatch of Patrol Car; 30 minutes; Officer John Doe; 28; Male; White
+1;23348; 2022-03-02 04:10:00; Theft from vehicle, no force; 456 Elm St; Property Crime; Dispatch of Patrol Car; 20 minutes; Officer Jane Smith; 35; Female; Black
+2;45698; 2022-03-02 08:30:00; Aggravated assault with weapon; 789 Pine St; Violent Crime; Deployment of SWAT Team; 1 hour 45 minutes; Officer Robert Johnson; 41; Male; Hispanic
+3;65789; 2022-03-02 12:15:00; Motor vehicle theft; 321 Oak St; Property Crime; Dispatch of Patrol Car; 45 minutes; Officer Emily Davis; 29; Female; Asian
+4;87643; 2022-03-02 17:20:00; Vandalism, public property; 654 Maple St; Quality of Life Crime; Dispatch of Community Police; 30 minutes; Officer Michael Brown; 36; Male; White
+5;98765; 2022-03-02 20:35:00; Drug possession with intent to distribute; 987 Birch St; Vice Crime; Arrest by Narcotics Unit; 2 hours; Officer Jessica Adams; 45; Female; Black
+6;23456; 2022-03-03 01:00:00; Drunk and disorderly conduct; 135 Cherry St; Vice Crime; Arrest by Regular Patrol; 45 minutes; Officer Daniel Williams; 50; Male; White
+7;34567; 2022-03-03 04:45:00; Stolen vehicle recovered, unoccupied; 246 Walnut St; Property Crime; Dispatch of Patrol Car; 20 minutes; Officer Sarah Johnson; 32; Female; Hispanic
+8;56789; 2022-03-03 10:30:00; Fraud, identity theft; 789 Cedar St; White Collar Crime; Investigation by Detective; 2 hours; Officer Michael Lee; 40; Male; Asian
+9;78901; 2022-03-03 15:00:00; Sexual assault, victim known to suspect; 456 Willow St; Violent Crime; Investigation by Detective; 3 hours; Officer Elizabeth Davis; 38; Female; White</s>

@@ -1,0 +1,11 @@
+;Recipe ID; Restaurant Name Recommendation; Celebrity Chef Suggestion; Estimated Cost; Calories per Serving; Quantities of International Ingredients Supplied Locally; Local Availability of Organic Produce; Trendiness Score for this Dish Today; Average Review Rating from Users; Nutrient Analysis; Portions of Meal Type Fulfilled (i.e., Vegetable, Protein); Is Kid Friendly?; Is Allergen Free?
+0; 1; The French Hen; Jean-Georges Vongerichten; $45; 500; Basmati Rice, Coconut Milk, Turmeric; Yes; 8/10; 4.5/5; High in Vitamin A, C, and E; Vegetable, Protein; No; No
+1;2; Tuscan Temptation; Gordon Ramsay; $38; 700; Olive Oil, Balsamic Vinegar, Parmesan Cheese; Yes; 7/10; 4.2/5; Rich in Antioxidants and Healthy Fats; Vegetable, Protein; Yes; No
+2;3; Pad Thai Delight; Jet Tila; $32; 600; Tamarind Paste, Fish Sauce, Palm Sugar; Yes; 9/10; 4.7/5; Good Source of Fiber and Thiamin; Vegetable, Protein; Yes; No
+3;4; New York Strip Steak; Bobby Flay; $65; 1200; Kosher Salt, Black Pepper, Garlic; Yes; 6/10; 4.3/5; High in Protein, B12, and Iron; Protein; No; No
+4;5; Caribbean Curry; Levi Roots; $40; 800; Coconut Oil, Curry Powder, Allspice; Yes; 8/10; 4.6/5; High in Vitamin C, Potassium, and Magnesium; Vegetable, Protein; Yes; No
+5;6; Paella Pleasure; José Andrés; $48; 750; Saffron, Smoked Paprika, Spanish Rice; Yes; 7/10; 4.4/5; Good Source of Vitamin B6, B12, and Selenium; Vegetable, Protein; Yes; No
+6;7; Pasta Primavera; Giada De Laurentiis; $34; 650; Tomatoes, Garlic, Basil; Yes; 9/10; 4.8/5; High in Vitamin C, Potassium, and Folate; Vegetable; Yes; No
+7;8; Chicken Tikka Masala; Rick Stein; $36; 900; Garam Masala, Coconut Cream, Yogurt; Yes; 8/10; 4.6/5; Rich in Protein, Vitamin B6, and B12; Protein; Yes; No
+8;9; Shrimp Scampi; Emeril Lagasse; $42; 850; Lemon Juice, White Wine, Butter; Yes; 7/10; 4.4/5; High in Zinc, Vitamin B12, and Selenium; Protein; Yes; No
+9;10; Quinoa Salad; Molly Yeh; $28; 450; Quinoa, Pomegranate, Feta Cheese; Yes; 10/10; 4.9/5; High in Fiber, Protein, and Magnesium; Vegetable; Yes; Yes</s>

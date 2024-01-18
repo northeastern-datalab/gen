@@ -1,0 +1,13 @@
+;Seismic Waves (S, P);Reflection Coefficient;Velocity Structure (P, S);Layer Thickness;Frequency Bands;Amplitude;Phase;Subsurface Imaging Techniques;Additional Column 1;Additional Column 2;Additional Column 3
+0;" ""S"" Wave Velocity"; 0.8; Sedimentary, Water, Mantle; 500 m; 0.1-10 Hz; High; Leading; Seismic Reflection; Rock Density; Porosity; P-wave to S-wave Ratio
+1;"""P"" Wave Velocity"; 1.2; Inner Core, Outer Core, Mantle; 2000 km; 0.001-0.01 Hz; Low; Trailing; Seismic Tomography; Temperature Gradient; Compressional Waves; Seismic Anisotropy
+2;Reflection Coefficients; -0.6; Conductive Layer, Insulating Layer; 10 km; 0.1-1 Hz; Variable; N/A; Seismic Refraction; Electrical Resistivity; Acoustic Impedance; Boundary Conditions
+3;Velocity Structure (P, S); 1.5, 0.7; Lithosphere, Asthenosphere; 100 km; 0.01-1 Hz; Medium; N/A; Surface Waves; Elastic Moduli; Viscosity; Anelastic Strain
+4;Layer Thickness; 5 km; Oceanic Crust, Continental Crust, Mantle; N/A; 0.01-10 Hz; N/A; N/A; Receiver Function; Moho Discontinuity; Crustal Structure; Lithospheric Thinning
+5;Frequency Bands; 1-10 Hz; Microseisms, Earthquakes; N/A; Global Scale; Varying; N/A; Spectral Analysis; Array Analysis; Source Mechanism; Site Effects
+6;Amplitude; Large; Love Waves, Rayleigh Waves; N/A; Surface Waves; 0.01-1 Hz; N/A; Dispersion Analysis; Particle Motion; Polarization; Directionality
+7;Phase; 180 degrees; S Minus P; N/A; Body Waves; 0.1-10 Hz; N/A; Waveform Inversion; Traveltime Curves; Delay Time; Phase Velocity
+8;Subsurface Imaging Techniques; Full Waveform Inversion; N/A; N/A; N/A; N/A; N/A; Reflection Seismology; Migration; Velocity Model Building; Inversion
+9;Additional Column 1; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A
+10;Additional Column 2; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A
+11;Additional Column 3; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A; N/A</s>

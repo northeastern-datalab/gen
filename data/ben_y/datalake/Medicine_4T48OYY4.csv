@@ -1,0 +1,11 @@
+;Therapy Type; Specialist Doctor; Appointment Date; Reason for Visit; Follow-up Due Date; Insurance Provider Name; Policy Number; Billing Amount; Payment Received; Balance Due; Pharmacy Name and Contact Info; Prescription Pick Up / Delivery Method
+0;  Physical Therapy; Dr. John Smith; 03/15/2023; Back Pain; 04/05/2023; Aetna; 123456789; $200; $100; $100; ABC Pharmacy; 555-555-5555  Prescription Pick Up
+1; Chemotherapy; Dr. Jane Doe; 03/16/2023; Cancer Treatment; 03/30/2023; Blue Cross Blue Shield; 987654321; $5000; $2000; $3000; XYZ Oncology Center; 555-555-5556  Prescription Delivery
+2; Occupational Therapy; Dr. Michael Brown; 03/17/2023; Arm Injury; 04/12/2023; Cigna; 456123789; $400; $200; $200; DEF Therapy Services; 555-555-5557  Prescription Pick Up
+3; Radiation Therapy; Dr. Emily Davis; 03/18/2023; Skin Cancer; 04/02/2023; United Healthcare; 654987321; $8000; $3000; $5000; GHI Radiation Center; 555-555-5558  Prescription Pick Up
+4; Speech Therapy; Dr. Robert Johnson; 03/19/2023; Speech Delay; 04/19/2023; Aetna; 135792468; $600; $400; $200; JKL Speech Clinic; 555-555-5559  Prescription Delivery
+5; Surgery; Dr. Linda Miller; 03/20/2023; Knee Surgery; 05/05/2023; Blue Cross Blue Shield; 864917235; $15000; $5000; $10000; MNO Medical Center; 555-555-5560  Prescription Pick Up
+6; Dialysis; Dr. James Wilson; 03/21/2023; Kidney Failure; 03/27/2023; Cigna; 246813057; $4000; $2000; $2000; PQR Dialysis Center; 555-555-5561  Prescription Delivery
+7; Immunotherapy; Dr. Susan Thompson; 03/22/2023; Lung Cancer; 04/10/2023; United Healthcare; 321867945; $10000; $4000; $6000; RST Immunotherapy Institute; 555-555-5562  Prescription Pick Up
+8; Infusion Therapy; Dr. Daniel Garcia; 03/23/2023; Rheumatoid Arthritis; 04/20/2023; Aetna; 789512364; $3000; $1000; $2000; TUV Infusion Services; 555-555-5563  Prescription Delivery
+9; Psychiatry; Dr. Rebecca Lewis; 03/24/2023; Depression; 05/03/2023; Blue Cross Blue Shield; 555864217; $800; $400; $400; WXY Mental Health Clinic; 555-555-5564  Prescription Pick Up</s>

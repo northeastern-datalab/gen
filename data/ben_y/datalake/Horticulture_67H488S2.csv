@@ -1,0 +1,11 @@
+;FloweringPeriod; AvailabilitySeasons; GrowthHabit; SoillessCultureOptions; PropagationByCuttings; GeneticModified; PestAndDiseaseResistance; SpecialUses; CommercialValue; RareFactorIndex
+0;" ""Spring"; Summer, Fall; Vining; Hydroponics, Aeroponics; Yes; No; Powdery Mildew Resistance; Ground Cover, Ornamental; Medium;" 20"""
+1;"""Late Summer"; Fall, Early Winter; Bushy; Hydroponics, Coco Peat; Yes; No; Verticillium Wilt Resistance; Indoor Decoration, Edible Flowers; High;" 10"""
+2;"""Early Spring"; Summer; Creeping; Aeroponics, Rockwool; Yes; Yes; Drought Tolerance; Erosion Control, Medicinal; Low;" 50"""
+3;"""Mid Spring"; Late Summer; Climbing; Hydroponics, Vermiculite; No; No; Pest Resistance; Privacy Screen, Ornamental; Medium;" 30"""
+4;"""Mid Summer"; Fall; Upright; Aeroponics, Perlite; Yes; Yes; Heat Tolerance; Cut Flower, Ornamental; Low;" 40"""
+5;"""Late Spring"; Early Fall; Cascading; Hydroponics, Peat Moss; No; Yes; Cold Tolerance; Hanging Baskets, Ornamental; Medium;" 25"""
+6;"""Early Summer"; Late Fall; Spreading; Aeroponics, Oasis Cubes; Yes; No; Disease Resistance; Ground Cover, Ornamental; High;" 15"""
+7;"""Mid Summer"; Early Fall; Trailing; Hydroponics, Pumice; No; Yes; Shade Tolerance; Indoor Decoration, Ornamental; Low;" 45"""
+8;"""Late Summer"; Early Winter; Mounding; Aeroponics, LECA; Yes; No; Fungus Resistance; Ornamental, Container Gardening; Medium;" 35"""
+9;"""Early Spring"; Mid Summer; Compact; Hydroponics, Growstones; No; Yes; Insect Resistance; Indoor Decoration, Ornamental; High;" 50""</s>"

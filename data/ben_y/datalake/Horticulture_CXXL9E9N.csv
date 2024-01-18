@@ -1,0 +1,11 @@
+;QuantityPerAcre;GrowthHabit;PruningFrequency;SoiltemperatureRange;WildlifeValue;ColorsOfFlowers;PropagationByCuttings;MycorrhizalAssociation;FertilityRequirements;DiseaseResistance
+0;" ""20000"; Bushes; Every 2-3 years; 60-70°F; Attracts birds, bees; Red, White, Pink; Yes; Yes; High;" Moderate"""
+1;"""12000"; Trees; Annually; 50-60°F; Attracts birds, squirrels; Yellow, Orange; No; Yes; Moderate;" High"""
+2;"""25000"; Groundcover; None; 75-85°F; Attracts bees; Purple, Blue; Yes; No; Low;" High"""
+3;"""18000"; Climbing; Every year; 65-80°F; Attracts birds, bees; Multicolor; Yes; Yes; Moderate;" Moderate"""
+4;"""8000"; Shrubs; Every 3-4 years; 70-80°F; Attracts birds, bees; White, Pink; Yes; Yes; Low;" High"""
+5;"""30000"; Vines; None; 60-70°F; Attracts birds, bees; Yellow, Orange; Yes; Yes; High;" Low"""
+6;"""15000"; Perennials; Every 2 years; 70-80°F; Attracts bees; Red, Blue; Yes; Yes; Moderate;" Moderate"""
+7;"""22000"; Annuals; None; 65-75°F; Attracts bees; Multicolor; Yes; No; Low;" High"""
+8;"""10000"; Bulbs; Every 4 years; 70-80°F; Attracts birds; White, Yellow; Yes; No; High;" Moderate"""
+9;"""16000"; Biennials; Every 3 years; 60-70°F; Attracts bees; Pink, Purple; Yes; Yes; Moderate;" Moderate""</s>"

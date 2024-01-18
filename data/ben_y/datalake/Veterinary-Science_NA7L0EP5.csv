@@ -1,0 +1,11 @@
+;Vet Staff Name; Vaccination Status; Last Vaccination Date; Dental Chart; Allergies; Allergy Reaction; Medications Prescribed; Specialist Consultations; Surgical Procedures; Lab Results; Radiology Reports; Rehabilitation Therapy Notes; Emergency Contact Info; Owner Education Level; Follow-up Appointment Date
+0; Smith, John; Up-to-date; 2023-02-10; Normal; No known allergies; N/A; None; None; Spayed; Normal; No recent reports; No recent notes; John Smith, 555-555-5555; High school; 2023-03-15
+1;Doe, Jane; Pending; 2022-12-01; Normal; Food allergies; Itching; Metacam; Cardiology consultation; Neutered; Normal; No recent reports; No recent notes; Jane Doe, 123-123-1234; Bachelor's; 2023-03-20
+2;Williams, Mark; Up-to-date; 2023-01-25; Normal; Insect allergies; Hives; Rimadyl; None; Spayed; Normal; No recent reports; No recent notes; Mark Williams, 987-987-9876; Master's; 2023-04-05
+3;Garcia, Maria; Up-to-date; 2023-02-05; Normal; No known allergies; N/A; None; None; Neutered; Abnormal; Elevated white blood cell count; No recent reports; No recent notes; Maria Garcia, 456-456-4567; PhD  2023-03-22
+4;Thomas, Emily; Up-to-date; 2023-01-20; Normal; Drug allergies; Vomiting; Apoquel; None; Spayed; Normal; No recent reports; No recent notes; Emily Thomas, 789-789-7890; Professional degree; 2023-03-02
+5;Anderson, Michael; Up-to-date; 2023-02-15; Normal; No known allergies; N/A; None; None; Neutered; Normal; No recent reports; No recent notes; Michael Anderson, 234-234-2344; High school; 2023-03-18
+6;Thompson, Olivia; Pending; 2022-10-01; Normal; Food allergies; Diarrhea; Atopica; None; Spayed; Normal; No recent reports; No recent notes; Olivia Thompson, 678-678-6789; Bachelor's; 2023-03-25
+7;Jackson, Daniel; Up-to-date; 2023-03-01; Abnormal; Latex allergies; Anaphylaxis; Temaril-P; None; Neutered; Abnormal; Increased liver enzymes; No recent reports; No recent notes; Daniel Jackson, 345-345-3456; Master's  2023-03-30
+8;Wright, Hannah; Up-to-date; 2023-01-10; Normal; No known allergies; N/A; None; None; Spayed; Normal; No recent reports; No recent notes; Hannah Wright, 890-890-8901; High school; 2023-04-10
+9;Martin, Alexander; Up-to-date; 2023-02-25; Normal; Insect allergies; Swelling; Prednisone; None; Neutered; Normal; No recent reports; No recent notes; Alexander Martin, 901-901-9012; PhD; 2023-04-15</s>

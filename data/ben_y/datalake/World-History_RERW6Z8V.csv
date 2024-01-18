@@ -1,0 +1,91 @@
+;Religious Beliefs; Literature; Music; Art; Philosophy; Science; Technology; Politics; Economy; Geography
+0;  Christianity; Bible; Gregorian Chants; Renaissance Art; Existentialism; Newtonian Physics; Printing Press; Monarchy; Feudalism; Europe
+1; Buddhism; Pali Canon; Buddhist Chants; Thangka Paintings; Nirvana Theory; Mahayana Buddhism; Calligraphy; Imperial System; Trade Routes; Asia
+2; Islam; Quran; Islamic Calls to Prayer; Arabesque Art; Sufism; Algebra; Papermaking; Caliphates; Trade Networks; Middle East
+3; Hinduism; Vedas; Hindu Hymns; Hindu Temple Art; Karma Concept; Ayurveda Medicine; Sanskrit Language; Caste System; Spice Trade; Indian Subcontinent
+4; Confucianism; Analects; Classical Chinese Music; Chinese Calligraphy; Confucian Ethics; Legalism; Great Wall of China; Mandate of Heaven; Silk Road Trade; China
+5; Judaism; Torah; Synagogue Music; Hanukkah Menorah; Jewish Ethics; Kabbalah; Hebrew Bible; Theocracy; Diaspora Commerce; Middle East
+6; Taoism; Tao Te Ching; Traditional Chinese Music; Taoist Landscape Painting; Taoist Philosophy; Chinese Alchemy; Gunpowder Invention; City-State Politics; Porcelain Production; China
+7; Shintoism; Kojiki; Gagaku Music; Shinto Shrines; Shinto Beliefs; Onmyodo; Japanese Writing; Emperor Worship; Rice Farming; Japan
+8; Zoroastrianism; Avesta; Persian Music; Persian Carpet Art; Zoroastrian Ethics; Magi Astronomy; Cuneiform; Persian Empire; Silk & Spice Trade; Persia
+9; Animism; Oral Traditions; Tribal Music; Tribal Art; Ancestor Veneration; Herbal Medicine; Pictographs; Tribal Leadership; Hunter-Gatherer Economy; Various Geographies</s>
+10;  Christianity; Bible; Gregorian Chant; Christian Art; Scholasticism; Natural Philosophy; Latin; Papal Supremacy; Feudal Economy; Europe
+11; Buddhism; Tripitaka; Buddhist Chants; Buddhist Art; Buddhist Philosophy; Ayurveda; Pali; Spiritual Leaders; Monastic Economy; India, Nepal, China, Japan
+12; Confucianism; Five Classics; Guqin Music; Chinese Calligraphy; Confucian Ethics; Traditional Chinese Medicine; Classical Chinese; Imperial Bureaucracy; Tributary System; China
+13; Taoism; Tao Te Ching; Taoist Music; Daoist Internal Alchemy; Daoist Philosophy; Herbal Medicine; Chinese Characters; Anarchist Tendencies; Local Economy; China
+14; Islam; Quran; Islamic Call to Prayer; Arabesque Art; Islamic Philosophy; Unani Medicine; Arabic; Caliphate Politics; Trade Economy; Middle East, North Africa
+15; Hinduism; Vedas; Hindu Hymns; Hindu Temple Art; Hindu Philosophy; Ayurveda; Sanskrit; Caste System; Agricultural Economy; India
+16; Judaism; Torah; Synagogue Chants; Jewish Art; Jewish Philosophy; Traditional Jewish Medicine; Hebrew; Theocratic Politics; Trade Economy; Middle East
+17; Sikhism; Guru Granth Sahib; Shabad Kirtan; Sikh Art; Sikh Philosophy; Sikh Medicine; Punjabi; Communal Living; Agricultural Economy; India
+18; African Traditional Religions; Oral Traditions; Tribal Music; Tribal Art; Ancestor Veneration; Herbal Medicine; African Symbols; Tribal Leadership; Subsistence Farming; Africa
+19; Indigenous American Religions; Sacred Texts; Tribal Music; Tribal Art; Ancestor Veneration; Herbal Medicine; Native American Symbols; Tribal Leadership; Hunter-Gatherer and Agricultural Economies; Americas</s>
+20;  Neo-Paganism; Book of Shadows; Neo-Pagan Music; Contemporary Pagan Art; Earth-based Philosophy; Holistic Medicine; Modern Symbols; Wiccan Leadership; Eclectic Economy; Global
+21; Shinto; Kojiki and Nihongi; Gagaku; Traditional Japanese Art; Animism; Japanese Medicine; Shinto Symbols; Shogunal Politics; Agricultural and Service Economy; Japan
+22; Cao Dai; Kinh Ky Nguyen; Cao Dai Music; Cao Dai Art; Compassion-based Philosophy; Vietnamese Medicine; Divine Eye Symbol; Hierarchical Politics; Mixed Economy; Vietnam
+23; Zoroastrianism; Avesta; Zoroastrian Music; Persian Miniature Art; Good Thoughts, Good Words, Good Deeds; Zoroastrian Medicine; Faravahar Symbol; Theocratic Politics; Agricultural Economy; Iran
+24; Jainism; Agamas; None; Indian Miniature Art; Syadvada and Anekantavada; Jain Medicine; Symbols of Ratnatrina; Communal Living; Trade and Business Economy; India
+25; Unitarian Universalism; Various; New Age Music; Contemporary Art; Seven Principles; Modern Medicine; Chalice Symbol; Congregational Politics; Diverse Economy; North America
+26; Rastafari; Kebra Nagast; Reggae Music; Ethiopian Art; Peace and Love; Italian Herbal Medicine; Lion of Judah Symbol; Monarchial Politics; Informal Economy; Jamaica
+27; Santeria; Ocha Reiligion; Afro-Cuban Music; Abstract Art; African and Catholic Syncretism; Herbal Medicine; Orishas Symbols; Hierarchical Politics; Informal Economy; Cuba
+28; Confucianism; Analects; Chinese Folk Music; Chinese Calligraphy; Five Constant Relationships; Chinese Medicine; Yin Yang Symbol; Scholarly Politics; Agricultural Economy; China
+29; Sufism; Quran and Mathnawi; Sufi Music; Persian Miniature Art; Unity of God; Sufi Medicine; Whirling Dervish Symbol; Mystic Politics; Varied Economy; Middle East, South Asia, and Africa</s>
+30;  Taoism; Tao Te Ching; Taoist Music; Taoist Scroll Painting; Wuji and Taiji; Traditional Chinese Medicine; Tai Chi Symbol; Anarchic Politics; Subsistence Farming Economy; China
+31; Shinto; Kojiki and Nihongi; Gagaku Music; Yamatomote-e Art; Kami Spirits; Shinto Healing; Torii Gate Symbol; Theocratic Politics; Market Economy; Japan
+32; Baháʼí; Kitáb-i-Aqdas; Baháʼí Music; Abstract and Floral Art; Oneness of God; Baháʼí Medicine; Nine-Pointed Star Symbol; Democratic Politics; Diverse Economy; Global
+33; Zoroastrianism; Avesta; Persian Classical Music; Persian Miniature Art; Asha and Druj; Traditional Medicine; Faravahar Symbol; Monarchial Politics; Agricultural Economy; Iran
+34; Jainism; Tattvartha Sutra; None; Indian Miniature Art; Anekantavada; Ayurvedic Medicine; Symbol of the Tree; Republic Politics; Trade Economy; India
+35; Rastafari; Kebra Nagast; Reggae Music; African Art; Hail Selassie I; Cannabis Use; Lion of Judah Symbol; Monarchial Politics; Informal Economy; Jamaica, Africa
+36; Cao Dai; Kinh Ky Nguyen Luong; Cao Dai Music; Vietnamese Calligraphy; Supreme Being; Cao Dai Medicine; Divine Eye Symbol; Theocratic Politics; Agricultural Economy; Vietnam
+37; Hinduism; Vedas and Upanishads; Indian Classical Music; Indian Miniature Art; Brahman and Atman; Ayurvedic Medicine; Aum Symbol; Theocratic Politics; Trade and Agricultural Economy; India
+38; Sikhism; Guru Granth Sahib; Shabad Kirtan Music; Sikh Art; Ik Onkar; Sikh Medicine; Khanda Symbol; Democratic Politics; Trade Economy; India, Global</s>
+39;  Buddhism; Pali Canon; Buddhist Chants; Tibetan Thangka Art; Three Marks of Existence; Traditional Chinese Medicine; Dharma Wheel; Monastic Politics; Agricultural and Trade Economy; Global
+40; Judaism; Tanakh; Niggunim Music; Jewish Liturgical Art; Yahweh; Jewish Medicine; Star of David Symbol; Theocratic Politics; Service Economy; Israel
+41; Christianity; Bible; Christian Choral Music; Christian Art; God; Christian Science; Christian Cross Symbol; Constitutional Monarchy/Republic Politics; Mixed Economy; Global
+42; Islam; Quran; Islamic Call to Prayer; Islamic Geometric Art; Allah; Unani Medicine; Star and Crescent Symbol; Islamic Politics; Mixed Economy; Global
+43; Confucianism; Five Classics; Chinese Folk Music; Chinese Calligraphy; Tian; Traditional Chinese Medicine; Yin and Yang Symbol; Meritocratic Politics; Agricultural Economy; China
+44; Baha'i; Baha'i Writings; Baha'i Choral Music; Baha'i Art; Baha'u'llah; Baha'i Medicine; Star of Baha'i Symbol; Democratic Politics; Service Economy; Global
+45; Jainism; Agamas; Jain Chants; Jain Art; Jina; Jain Medicine; Jain Symbol; Apatheism Politics; Trade Economy; India
+46; Shinto; Kojiki and Nihon Shoki; Shinto Music; Shinto Shrine Architecture; Kami; Japanese Medicine; Torii Symbol; Theocratic Politics; Service Economy; Japan
+47; Zoroastrianism; Avesta; Zoroastrian Chants; Persian Miniature Art; Ahura Mazda; Zoroastrian Medicine; Faravahar Symbol; Theocratic Politics; Agricultural Economy; Iran
+48; Taoism; Tao Te Ching; Taoist Music; Taoist Art; Dao; Traditional Chinese Medicine; Yin and Yang Symbol; Meritocratic Politics; Agricultural Economy; China</s>
+49;  Confucianism; Analects; Confucian Music; Chinese Landscape Painting; Ren; Chinese Medicine; Chi Symbol; Aristocratic Politics; Service Economy; China
+50; Christianity; Bible; Christian Choral Music; Christian Art; God; Western Medicine; Christian Cross Symbol; Constitutional Monarchy Politics; Mixed Economy; Europe
+51; Islam; Quran; Islamic Call to Prayer; Islamic Geometric Art; Allah; Islamic Medicine; Crescent and Star Symbol; Theocratic Politics; Trade Economy; Middle East
+52; Buddhism; Tripitaka; Buddhist Chants; Buddhist Thangka Art; Buddha; Traditional Tibetan Medicine; Dharma Chakra Symbol; Monastic Politics; Agricultural Economy; India
+53; Judaism; Torah; Jewish Liturgical Music; Jewish Art; Yahweh; Jewish Medicine; Star of David Symbol; Theocratic Politics; Trade Economy; Israel
+54; Hinduism; Vedas; Hindu Devotional Music; Hindu Temple Art; Brahman; Ayurveda Medicine; Aum Symbol; Monastic Politics; Service Economy; India
+55; Sikhism; Guru Granth Sahib; Shabad Kirtan Music; Sikh Art; Ik Onkar; Sikh Medicine; Khanda Symbol; Democratic Politics; Agricultural Economy; India
+56; Animism; Oral Traditions; Tribal Music; Primitive Art; Spirits; Herbal Medicine; Totems Symbol; Tribal Politics; Subsistence Economy; Africa
+57; Atheism; None; None; None; None; Modern Medicine; None; Secular Democracy Politics; Mixed Economy; Western World
+58; Agnosticism; None; None; None; None; Modern Medicine; None; Secular Democracy Politics; Mixed Economy; Western World</s>
+59;  Christianity; Bible; Hymns, Chants; Christian Art; Theism, Morality; Modern Medicine; Western Music, Hymns; Democracy, Monarchy; Mixed Economy; Global
+60; Islam; Quran; Islamic Calls, Sufi Music; Islamic Art; Monotheism, Sharia Law; Modern Medicine, Some Traditional; Theocracy, Monarchy; Mixed Economy; Middle East;
+61; Hinduism; Vedas, Epics; Devotional Hymns, Classical Music; Hindu Art; Polytheism, Dharma; Ayurveda, Some Modern; Monarchy, Democracy; Mixed Economy; India;
+62; Buddhism; Sutras; Meditation Music; Buddhist Art; Nontheism, Ethics; Modern Medicine, Traditional; Secular Democracy, Monarchy; Mixed Economy; East Asia;
+63; Judaism; Torah; Jewish Folk Music, Liturgical Music; Jewish Art; Monotheism, Halakha; Modern Medicine, Traditional; Democracy; Mixed Economy; Israel, Diaspora;
+64; Shinto; Kojiki, Norito; Min'yō; Shinto Art; Animism, Morality; Herbal Medicine; Shrine Rituals, Secular Democracy; Mixed Economy; Japan;
+65; Sikhism; Guru Granth Sahib; Kirtan; Sikh Art; Monotheism, Rehat Maryada; Modern Medicine, Some Traditional; Democracy; Mixed Economy; India, Diaspora;
+66; Zoroastrianism; Avesta; Traditional, Spiritual; Zoroastrian Art; Dualism, Ethics; Modern Medicine; Secular Democracy, Monarchy; Mixed Economy; Iran, Diaspora;
+67; Confucianism; Analects; Classical Chinese Music; None; Humanism, Morality; Traditional Medicine; Scholar-official Politics; Mixed Economy; East Asia;
+68; Baha'i; Baha'i Writings; None; Baha'i Art; Monotheism, Baha'i Laws; Modern Medicine; Democracy; Mixed Economy; Global</s>;
+69;  Jainism; Jain Agamas; None; Jain Art; Anekantavada, Syadvada; Modern Medicine; Democracy; Mixed Economy; India;
+70; Shinto; Kojiki, Nihongi; Japanese Classical Music; Shinto Art; Animism, Morality; Traditional Medicine; Theocracy; Mixed Economy; Japan;
+71; Sikhism; Guru Granth Sahib; Shabad Kirtan; Sikh Art; Monotheism, Sikh Ethics; Modern Medicine; Democracy; Mixed Economy; India, Diaspora;
+72; Cao Dai; Cao Dai Scriptures; Vietnamese Classical Music; Cao Dai Art; Monotheism, Cao Dai Ethics; Modern Medicine; Theocracy; Mixed Economy; Vietnam;
+73; Tenrikyo; Ofudesaki; Tenri-kyo Music; Tenrikyo Art; Monotheism, Tenrikyo Teachings; Modern Medicine; Democracy; Mixed Economy; Japan;
+74; Neo-Paganism; Various; Neo-Pagan Music; Neo-Pagan Art; Polytheism, Nature Worship; Alternative Medicine; Anarchy, Pantheism; Varied; Global;
+75; Santeria; Lucumi Texts; Afro-Cuban Music; None; Syncretism; Traditional Medicine; Shamanism; Mixed Economy; Cuba, Diaspora;
+76; Rastafari; Kebra Nagast; Reggae, Roots Reggae; None; Monotheism, Ethiopianism; Herbal Medicine; Tribalism, Monarchy; Subsistence Economy; Jamaica;
+77; Scientology; Dianetics; Various; Scientology Art; Spiritualism, Scientology Beliefs; Modern Medicine; Meritocracy; Capitalism; Global;
+78; Wicca; Gardnerian Books; Wiccan Music; Wiccan Art; Duotheism, Wiccan Rede; Alternative Medicine; Anarchy; Varied; Global;
+79; Eckankar; Eckankar Texts; New Age Music; None; Monotheism, Eckankar Teachings; Modern Medicine; Democracy; Mixed Economy; Global;</s>
+80;  Rastafari; Kebra Nagast; Reggae; Ethiopian Art; Theology, Ethiopian Monarchism; Herbalism; Theocracy; Agrarianism; Jamaica, Caribbean;
+81; Jainism; Agamas; None; Jain Art; Syadvada, Anekantavada; Ayurveda; Theocracy; Mixed Economy; India, Global;
+82; Neo-Paganism; Various; Neofolk; Contemporary Pagan Art; Duotheism, Polytheism; Alternative Medicine; Pantheism; Varied; Global;
+83; Tenrikyo; Ofudesaki; Traditional Japanese; Tenrikyo Art; Monotheism, Tenrikyo Teachings; Modern Medicine; Theocracy; Mixed Economy; Japan;
+84; Unitarian Universalism; Various; Various; None; Non-creedal, Seven Principles; Modern Medicine; Democracy; Mixed Economy; Global;
+85; Cao Dai; Kinh Thiên Đạo; Cao Đài Music; Cao Đài Art; Monotheism, Three Saints Doctrine; Traditional Medicine; Theocracy; Planned Economy; Vietnam;
+86; Asatru; Poetic Edda, Prose Edda; Nordic Folk; Viking Art; Polytheism, Ásatrú Beliefs; Herbalism; Tribalism; Agrarianism; Scandinavia;
+87; Unity Church; Unity Movement Writings; New Thought Music; None; Non-denominational, Unity Teachings; Modern Medicine; Democracy; Mixed Economy; Global;
+88; Raelism; Intelligent Design; Various; None; Spiritual but not religious, Raelian Concepts; Modern Medicine; Democracy; Mixed Economy; Global;
+89; Deism; Various; Classical Music; None; Reason, Deist Beliefs; Modern Medicine; Secular Democracy; Mixed Economy; Global;.</s>

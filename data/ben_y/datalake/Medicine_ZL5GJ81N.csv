@@ -1,0 +1,11 @@
+;Prescribed Medication;Medication Dosage;Start Date;End Date;Refill Frequency;Refills Remaining;Prescription Cost;Pharmacy Name;Last Refill Date;Additional Notes
+0; Lamictal;50 mg;2022-04-01;2022-12-31;Once a day;3;$30/month;CVS Pharmacy;2022-04-05;No significant side effects
+1;Lipitor;10 mg;2021-09-01;Ongoing;Once a day;Unlimited;$7/month;Walgreens;2022-03-28;Patient tolerates well
+2;Metformin;500 mg;2021-06-15;Ongoing;Twice a day;Unlimited;$4/month;Walgreens;2022-03-18;Avoid missed doses
+3;Nexium;40 mg;2021-02-01;2021-11-30;Once a day;0;$15/month;CVS Pharmacy;2022-02-05;Discontinued due to side effects
+4;Omeprazole;20 mg;2020-12-01;2021-08-31;Once a day;0;$10/month;Walgreens;2022-02-01;Discontinued due to symptom improvement
+5;Sertraline;50 mg;2019-09-01;Ongoing;Once a day;Unlimited;$6/month;CVS Pharmacy;2022-03-25;Patient reports mood improvement
+6;Synthroid;100 mcg;2018-12-01;Ongoing;Once a day;Unlimited;$5/month;Walgreens;2022-03-23;Take on empty stomach
+7;Ventolin;90 mcg;2018-09-01;Ongoing;PRN;Unlimited;$30/month;CVS Pharmacy;2022-03-17;For exercise-induced bronchospasm
+8;Simvastatin;20 mg;2017-12-01;Ongoing;Once a day;Unlimited;$4/month;Walgreens;2022-03-16;Avoid grapefruit juice
+9;Albuterol;100 mcg;2017-06-01;Ongoing;PRN;Unlimited;$20/month;CVS Pharmacy;2022-03-14;For shortness of breath</s>

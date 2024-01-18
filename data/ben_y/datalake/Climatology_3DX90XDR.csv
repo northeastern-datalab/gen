@@ -1,0 +1,18 @@
+;Climate Model Type;Simulation Start Year;Simulated Until Year;Number of Ensemble Members;Initial Conditions Variance _(_% of total variance_)_;Forcing Uncertainty _(_% of total uncertainty_)_;Spatial Resolution _(degrees latitude x degrees longitude grid cells);"_ 
+Temporal Resolution _(timestep in seconds)";"_ 
+Number of Diagnostic Variables Tracked";Computational Resources Used _(CPU hours);"_ 
+Publication Reference _(_Citation or link_)_.</s>
+curr_range_counter:  8
+Time taken: 42.873818159103394 seconds
+Study Area ID";Date & Time Stamp;Additional Data SetID;Weather Condition;Temperature (°C);Relative Humidity (%);Atmospheric Pressure (hPa);Wind Speed (m/s);Precipitation (mm);Solar Radiation (W/m²);Soil Moisture (%);Snow Depth(cm);Evapotranspiration Rate( mm day^-¹ );Ground Temp at Multiple Layers (&deg;C - one column for each layer up to seven layers as necessary and marked accordingly from 'GroundTempLayer_02(&deg
+0; Climate Model Type;Simulation Start Year;Simulated Until Year;Number of Ensemble Members;Initial Conditions Variance (% of total variance);Forcing Uncertainty (% of total uncertainty);Spatial Resolution (degrees latitude x degrees longitude grid cells);Temporal Resolution (timestep in seconds);Number of Diagnostic Variables Tracked;Computational Resources Used (CPU hours);Publication Reference;;;;;;;;;;;;;;
+1;1;1979;2018;42;5;10;2.5x2.5;3600;15;1,000,000;<https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001532>;;;;;;;;;;;;;;
+2;2;1950;2000;20;10;8;5x5;1800;12;500,000;<http://www.jstage.jst.go.jp/article/jmsj/78/5/78_5_1069/_pdf>;;;;;;;;;;;;;;
+3;3;1980;2016;30;7;12;2x2;2400;18;2,500,000;<https://journals.ametsoc.org/view/journals/clim/27/21/clim-d-13-00616.1.xml>;;;;;;;;;;;;;;
+4;4;1960;2005;16;8;9;3x3;3000;10;800,000;<http://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.828/abstract>;;;;;;;;;;;;;;
+5;5;2000;2050;50;6;11;1.5x1.5;1200;25;6,000,000;<https://journals.ametsoc.org/view/journals/clim/31/12/2017JCLI-D-17-0621.1.xml>;;;;;;;;;;;;;;
+6;6;1990;2020;25;10;14;4x4;2700;14;1,200,000;<https://journals.ametsoc.org/view/journals/clim/30/23/2017JCLI-D-16-0788.1.xml>;;;;;;;;;;;;;;
+7;7;1940;2015;33;8;13;6x6;3600;20;7,500,000;<https://journals.ametsoc.org/view/journals/clim/26/22/2013JCLI-D-12-00428.1.xml>;;;;;;;;;;;;;;
+8;8;2005;2040;55;5;8;2x2;2400;22;12,000,000;<https://journals.ametsoc.org/view/journals/clim/32/1/2018JCLI-D-17-0963.1.xml>;;;;;;;;;;;;;;
+9;9;1920;2000;21;12;7;5x5;3000;15;3,000,000;<https://journals.ametsoc.org/view/journals/clim/29/20/2016JCLI-D-15-0759.1.xml>;;;;;;;;;;;;;;
+10;10;1955;2025;40;9;10;3x3;2700;20;2,000,000;<https://journals.ametsoc.org/view/journals/clim/28/22/2015JCLI-D-14-00301.1.xml></s>;;;;;;;;;;;;;;

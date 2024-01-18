@@ -1,0 +1,11 @@
+;Moon Landing Site; End Date; Duration (days); Spacecraft Used; Primary Objective; Astronomer On Board; Orbit Achieved; Payloads Deployed; Reusable?; First Stage Return?; Crew Count; Surface Samples Collected
+0;" ""Tranquility Base"""; July 20, 1969; 8.9; Apollo Lunar Module Eagle;" ""First lunar landing"""; Harrison Schmitt; No orbit achieved; Lunar Module; No; No; 2; 47.5 lbs
+1;"""Hadley-Apennine"""; July 19, 1971; 11.1; Apollo Lunar Module Falcon;" ""Geological research"""; None; Yes; Lunar Roving Vehicle; No; No; 3; 233.1 lbs
+2;"""Descartes Highlands"""; April 20, 1972; 12.1; Apollo Lunar Module Antares;" ""Geological surveys"""; None; Yes; Lunar Roving Vehicle; No; No; 3; 110.4 lbs
+3;"""Taurus-Littrow"""; July 7, 1972; 12.4; Apollo Lunar Module Challenger;" ""Study lunar soil mechanics"""; None; Yes; Lunar Roving Vehicle; No; No; 3; 243.1 lbs
+4;"""Fra Mauro"""; February 9, 1972; 3.2; Apollo Lunar Module Pilot, Stuart Roosa;" ""Lunar exploration"""; None; Yes; Scientific Instruments; No; No; 3; None
+5;"""Sea of Tranquility"""; July 20, 1969; 2.5; Apollo Lunar Module Pilot, Edwin E. Aldrin, Jr.;" ""First lunar landing"""; None; No orbit achieved; Lunar Module; No; No; 2; 47.5 lbs
+6;"""Ocean of Storms"""; November 19, 1969; 10.7; Apollo Lunar Module Intrepid; Lunar exploration; None; Yes; Lunar Module; No; No; 2; 79.4 lbs
+7;"""Apollo 13 site"""; April 14, 1970; 0.0; Not landed - mission aborted;" ""Failed landing attempt"""; None; Not achieved; Lunar Module Aquarius; N/A; N/A; 3; None
+8;"""Luna 9 site"""; February 3, 1966; 0.0; Luna 9 spacecraft;" ""First unmanned lunar landing"""; None; Not applicable; N/A; N/A; N/A; None; 0.2 lbs
+9;"""Luna 17 site"""; November 17, 1970; N/A; Lunokhod 1 rover;" ""First unmanned lunar rover"""; None; Not applicable; Lunokhod 1; N/A; N/A; None; Varies (multiple collection events)</s>

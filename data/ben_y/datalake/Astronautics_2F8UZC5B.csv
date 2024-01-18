@@ -1,0 +1,12 @@
+;Mission Name; Start Date; Duration (days); Spacecraft Used; Astronomy Discipline; Target Planet or Body; Primary Objectives Explained; Astronaut Experience (years); Collaborative Agencies; Reused?, First Stage Return, Crew Capacity
+0; Mission Name; Start Date; Duration (days); Spacecraft Used; Astronomy Discipline; Target Planet or Body; Primary Objectives Explained; Astronaut Experience (years); Collaborative Agencies; Reused?, First Stage Return, Crew Capacity
+1;Apollo 11; Jul 16, 1969; 8; Apollo Lunar Module, Saturn V; Lunar Geology; Moon; First manned mission to land on the Moon, conduct experiments, and return samples; 7-10; NASA; No, No, 2
+2;Gemini 12; Nov 11, 1966; 9; Gemini Spacecraft; Space Physiology; N/A; Testing spacecraft systems, rendezvous and docking, extravehicular activity; 9; NASA; No, No, 2
+3;Vostok 1; Apr 12, 1961; 1; Vostok Spacecraft; Human Spaceflight; N/A; First human spaceflight, testing spacecraft systems, and human tolerance to space; 0; Roscosmos; No, No, 1
+4;Skylab 2; May 25, 1973; 28; Apollo CSM; Solar Physics; N/A; Operating the Skylab Orbital Workshop, conducting solar and Earth observations; 4-5; NASA; No, No, 3
+5;Mars Science Laboratory (Curiosity Rover); Nov 26, 2011; 3432+; Mars Science Laboratory; Astrobiology, Geology; Mars; Investigating the Martian environment to assess its past and present potential for life; N/A; NASA, JPL; No, No, Robotic
+6;Cassini-Huygens; Oct 15, 1997; 7054; Cassini Spacecraft, Huygens Probe; Planetary Science, Astrobiology; Saturn, Titan; Exploring Saturn and its moons, specifically Titan, and studying their environments; N/A; NASA, ESA, ASI; No, No, Robotic
+7;Soyuz TMA-01M; Oct 07, 2010; 176; Soyuz TMA Spacecraft; Human Spaceflight; ISS; Transporting crew members to and from the International Space Station; 1-10; Roscosmos, NASA; No, No, 3
+8;STS-51L (Challenger); Jan 28, 1986; 2; Space Shuttle Challenger; N/A; N/A; Conducting satellite deployment and other experiments; 5-15; NASA; No, No, 7
+9;STS-133 (Discovery); Feb 24, 2011; 13; Space Shuttle Discovery; N/A; ISS; Logistical support for the ISS, including delivery of equipment and supplies; 15-24; NASA; No, Yes, 6
+10;Spirit and Opportunity Rovers; Jan 03, 2004; 5859+; Mars Exploration Rovers; Astrobiology, Geology, Climatology; Mars; Investigating the history of water on Mars, testing the environment's suitability for life, and studying Martian geology; N/A; NASA, JPL; No, No, Robotic</s>

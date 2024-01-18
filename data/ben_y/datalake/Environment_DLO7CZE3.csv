@@ -1,0 +1,11 @@
+;Air\_Quality\_Index; Water\_Pollution\_Level; Biodiversity\_Hotspots\_Count; Waste\_Management\_Effectiveness; Renewable\_Energy\_Usage; Noise\_Pollution; Recycling\_Programs\_Coverage; Climate\_Change\_Awareness\_Score; Natural\_Disaster\_Risk\_Reduction\_Score; Public\_Environmental\_Education\_Index.
+0; 100; Moderate; 5; Highly Effective; 30%; High; 70%; 85; 90; 75
+1;90; Low; 3; Effective; 50%; Moderate; 50%; 92; 88; 60
+2;75; High; 7; Moderately Effective; 60%; Low; 30%; 78; 65; 80
+3;120; Very Low; 10; Highly Effective; 75%; Negligible; 90%; 95; 85; 82
+4;55; Moderate; 2; Effective; 40%; Low; 40%; 88; 70; 78
+5;80; Low; 6; Moderately Effective; 55%; Moderate; 60%; 84; 72; 70
+6;65; Moderate; 4; Effective; 45%; High; 70%; 86; 68; 75
+7;110; Very Low; 8; Highly Effective; 65%; Negligible; 80%; 92; 80; 79
+8;35; High; 1; Effective; 35%; Low; 20%; 98; 95; 90
+9;95; Low; 9; Moderately Effective; 58%; Moderate; 80%; 89; 77; 65</s>

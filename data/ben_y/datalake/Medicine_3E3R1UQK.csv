@@ -1,0 +1,11 @@
+;Medication II;Medication III;Dosage II;Dosage III;Start Date II;End Date II;Refill Frequency II;Refills Remaining II;Prescribing Physician II;Additional Information
+0; Lipitor;Zetia;10mg;10mg;2022-01-01;2022-03-31;Once per month;3;Dr. Smith;Lipitor for cholesterol management, Zetia for additional cholesterol lowering.
+1;Metformin;Glipizide;500mg;5mg;2022-02-15;2022-05-15;Once per day;2;Dr. Johnson;Metformin for type 2 diabetes management, Glipizide for additional blood sugar control.
+2;Norvasc;Lisinopril;10mg;20mg;2022-03-01;2022-06-01;Every other day;1;Dr. Lee;Norvasc for hypertension, Lisinopril for additional blood pressure support.
+3;Albuterol;Budesonide;2 puffs;200mcg;2022-03-10;2022-05-10;Twice per week;0;Dr. Garcia;Albuterol for asthma relief, Budesonide for inflammation reduction.
+4;Lexapro;Buspar;10mg;10mg;2022-02-20;2022-04-20;Once per week;6;Dr. Patel;Lexapro for anxiety and depression, Buspar for anxiety management.
+5;Synthroid;Cytomel;100mcg;50mcg;2022-01-05;2022-03-05;Every other day;2;Dr. Kim;Synthroid for hypothyroidism, Cytomel for additional thyroid function support.
+6;Atorvastatin;Ezetimibe;10mg;10mg;2022-03-10;2022-05-10;Once per month;3;Dr. Brown;Atorvastatin for cholesterol management, Ezetimibe for additional cholesterol lowering.
+7;Omeprazole;Sucralfate;20mg;1g;2022-02-12;2022-04-12;Twice per week;1;Dr. Davis;Omeprazole for GERD, Sucralfate for additional acid reduction.
+8;Losartan;Hydrochlorothiazide;50mg;25mg;2022-01-11;2022-03-11;Once per day;4;Dr. Miller;Losartan for hypertension, Hydrochlorothiazide for additional blood pressure support.
+9;Trazodone;Mirtazapine;50mg;7.5mg;2022-02-25;2022-04-25;Every other day;5;Dr. Wilson;Trazodone for insomnia, Mirtazapine for additional anxiety and appetite stimulation.</s>

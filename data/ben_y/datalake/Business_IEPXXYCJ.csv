@@ -1,0 +1,11 @@
+;Quantitative Analysis Metrics; CompanyName; Industry Category Code (e.g., NAICScodes); Additional Financial Information #1; Additional Financial Information #2; Market Capitalization (*or another unique identifier like a ticker symbol*); Price to Earnings Ratio (PE); Price to Sales ratio (PS) *(-optional)*; Dividend Yield %; Enterprise Value; Total Debt to Equity ratio (% or unitless number form); Interest Expenses To Operating Income (*_); Quick Rate or Acid Test (*$_) *(-Optional)*; Debtor Collection Period (*$_) *(-Optional)*
+0;" ""Revenue"; Apple Inc.; 334511; Gross Profit: $63.7 billion; Operating Income: $25.2 billion; AAPL; 29.45; 4.72; 0.61%; $333.36 billion; 0.40; 0.15;" 35.44""";
+1;"""Earnings"; Microsoft Corporation; 518200; Net Income: $44.3 billion; Total Current Assets: $125.8 billion; MSFT; 30.53; 9.27; 1.04%; $1.95 trillion; 0.57; 0.43;" 43.89""";
+2;"""Net Income"; JPMorgan Chase & Co.; 522110; Return on Equity: 13%; Diluted EPS: $11.68; JPM; 11.14; 1.42; 2.27%; $374.53 billion; 0.56; 0.20;" 53.23""";
+3;"""Profitability"; Alphabet Inc. (Class C); 519130; Operating Margin: 26%; Free Cash Flow: $49.8 billion; GOOG; 26.19; 6.49; 0.00%; $1.66 trillion; 0.54; 0.15;" 42.49""";
+4;"""Growth"; Amazon.com, Inc.; 454110; Gross Margin: 44%; Revenue Growth YoY: 44%; AMZN; 102.38; 3.94; 0.00%; $1.86 trillion; 2.95; 0.53;" 43.38""";
+5;"""Efficiency"; Facebook, Inc.; 519130; Asset Turnover: 1.25; Operating Expense Ratio: 37%; FB; 26.94; 10.54; 0.76%; $600.95 billion; 0.51; 0.15;" 53.31""";
+6;"""Leverage"; Exxon Mobil Corporation; 333200; Debt to Capital: 22.4%; Total Liabilities: $114.4 billion; XOM; 17.12; 1.06; 4.82%; $306.16 billion; 0.35; 0.10;" 18.52""";
+7;"""Liquidity"; Johnson & Johnson; 339711; Current Ratio: 2.78; Quick Ratio: 2.38; JNJ; 22.92; 5.86; 0.00%; $378.37 billion; 0.34; 0.12;" 10.55""";
+8;"""Valuation"; Visa Inc. Class A; 522110; Forward P/E: 35.87; EV to EBITDA: 15.11; V; 238.26; 12.65; 0.63%; $429.98 billion; 1.08; 0.07;" 21.55""";
+9;"""Volatility"; Berkshire Hathaway Inc. Class B; 551111; Beta: 1.02; 3-Year Beta: 1.22; BRK.B; 282.14; 18.89; 0.00%; $609.88 billion; 0.01; 0.00;" 0.15""</s>";

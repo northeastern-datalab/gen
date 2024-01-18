@@ -1,0 +1,111 @@
+;"""City Names""";"""Continent in City""";"""% City Area of Country""";"""Urban Population""";"""Average Annual Temperature""";"""Closeness to Major River""";"""Tourist Attractions""";"""\* City Area Out Of Country Total *""";"""\* Population Density in City *""";"""\* Capital City Status *""";"""\* Major River Flows Through City *""";"""\* Official Language(s) in City *""";"""\* Country Internet TLD in City *""";"""\* City Time Zone *"""
+0;" ""Rio de Janeiro""";"""South America""";"""0.6%""";"""12.28 million""";"""23°C""";"""Atlantic Ocean (via Guanabara Bay)""";"""Christ the Redeemer, Copacabana, Ipanema""";"""N/A""";"""4925 / km²""";"""No""";"""Yes (via Guanabara Bay)""";"""Portuguese""";""".br""";"""BRT (Brasília Time)"" "
+1;"""Mumbai""";"""Asia""";"""0.6%""";"""20.7 million""";"""27°C""";"""Arabian Sea (via Thane Creek)""";"""Gateway of India, Marine Drive, Chhatrapati Shivaji Maharaj Vastu Sangrahalaya""";"""N/A""";"""21143 / km²""";"""No""";"""Yes (via Thane Creek)""";"""English, Hindi""";""".in""";"""IST (Indian Standard Time)"" "
+2;"""Cairo""";"""Africa""";"""0.4%""";"""21.3 million""";"""22°C""";"""Nile River""";"""Pyramids of Giza, Egyptian Museum, Nile River cruise""";"""N/A""";"""8046 / km²""";"""Yes""";"""Yes""";"""Arabic""";""".eg""";"""EET (Eastern European Time)"" "
+3;"""Lagos""";"""Africa""";"""0.05%""";"""21 million""";"""26°C""";"""Atlantic Ocean (via Lagos Lagoon)""";"""National Museum, Lekki Conservation Centre, Freedom Park""";"""N/A""";"""7617 / km²""";"""No""";"""Yes (via Lagos Lagoon)""";"""English""";""".ng""";"""WAT (West Africa Time)"" "
+4;"""Tokyo""";"""Asia""";"""0.3%""";"""37.4 million""";"""16°C""";"""Pacific Ocean (via Tokyo Bay)""";"""Tokyo Skytree, Meiji Shrine, Shibuya Crossing""";"""N/A""";"""6158 / km²""";"""Yes""";"""Yes (via Tokyo Bay)""";"""Japanese""";""".jp""";"""JST (Japan Standard Time)"" "
+5;"""New York""";"""North America""";"""0.3%""";"""18.8 million""";"""13°C""";"""Atlantic Ocean""";"""Statue of Liberty, Central Park, Empire State Building""";"""N/A""";"""10715 / km²""";"""Yes""";"""No""";"""English""";""".us""";"""EST (Eastern Standard Time)"" "
+6;"""São Paulo""";"""South America""";"""0.3%""";"""21.7 million""";"""22°C""";"""None""";"""Paulista Avenue, Ibirapuera Park, Latin America Memorial""";"""N/A""";"""7515 / km²""";"""Yes""";"""No""";"""Portuguese""";""".br""";"""BRT (Brasília Time)"" "
+7;"""Shanghai""";"""Asia""";"""1%""";"""24.2 million""";"""16°C""";"""East China Sea (via Yangtze River)""";"""The Bund, Yu Garden, Oriental Pearl Tower""";"""N/A""";"""3814 / km²""";"""Yes""";"""Yes (via Yangtze River)""";"""Mandarin""";""".cn""";"""CST (China Standard Time)"" "
+8;"""Osaka""";"""Asia""";"""0.8%""";"""19.3 million""";"""16°C""";"""None""";"""Osaka Castle, Universal Studios Japan, Dōtonbori""";"""N/A""";"""6578 / km²""";"""No""";"""No""";"""Japanese""";""".jp""";"""JST (Japan Standard Time)"" "
+9;"""Mexico City""";"""North America""";"""0.1%""";"""21.7 million""";"""16°C""";"""None""";"""Zócalo, Chapultepec Castle, Xochimilco""";"""N/A""";"""6171 / km²""";"""Yes""";"""No""";"""Spanish""";""".mx""";"""CST (Central Standard Time)"" </s>"
+10;" ""Lagos";Africa;0.1%;21.0 million;26°C;None;National Museum Lagos, Lekki Conservation Centre, Third Mainland Bridge;N/A;3187 / km²;Yes;No;English;.ng;"WAT (West Africa Time)"" "
+11;"""Tokyo";Asia;0.7%;37.4 million;16°C;None;Tokyo Skytree, Meiji Shrine, Shibuya Crossing;N/A;6372 / km²;Yes;No;Japanese;.jp;"JST (Japan Standard Time)"" "
+12;"""New York";North America;1%;20.3 million;13°C;Hudson River;Statue of Liberty, Central Park, Times Square;0.001%;2760 / km²;Yes;Yes;English;.us;"EST (Eastern Standard Time)"" "
+13;"""São Paulo";South America;10%;22.0 million;22°C;Tietê River;Pàulista Avenue, Ibirapuera Park, São Paulo Cathedral;0.01%;Yes;Yes;Portuguese;.br;"BRST (Brazil Standard Time)""";
+14;"""Mumbai";Asia;6%;20.7 million;27°C;Arabian Sea;Gateway of India, Marine Drive, Chhatrapati Shivaji Maharaj Vastu Sangrahalaya;N/A;20,217 / km²;Yes;Yes;Hindi, English;.in;"IST (India Standard Time)"" "
+15;"""Beijing";Asia;0.2%;21.5 million;13°C;None;Forbidden City, Great Wall of China, Summer Palace;N/A;1362 / km²;Yes;No;Mandarin;.cn;"CST (China Standard Time)"" "
+16;"""Cairo";Africa;20%;20.5 million;24°C;Nile River;Pyramids of Giza, Egyptian Museum, Islamic Cairo;0.001%;Yes;Yes;Arabic;.eg;"EET (Eastern European Time)""";
+17;"""Dhaka";Asia;0.5%;20.3 million;26°C;Buriganga River;Ahsan Manzil, Lalbagh Fort, National Parliament House;0.05%;Yes;Yes;Bengali;.bd;"BST (Bangladesh Standard Time)""";
+18;"""Paris";Europe;18%;12.1 million;12°C;Seine River;Eiffel Tower, Louvre Museum, Notre-Dame Cathedral;0.02%;Yes;No;French;.fr;"CET (Central European Time)""";
+19;"""London";Europe;13%;9.0 million;11°C;Thames River;British Museum, Tower of London, Buckingham Palace;0.09%;Yes;No;English;.uk;"GMT (Greenwich Mean Time)""";</s>
+20;" ""Mumbai";Asia;0.6%;20.7 million;27°C;Ulhas River;Gateway of India, Taj Mahal Palace, Chhatrapati Shivaji Maharaj Vastu Sangrahalaya;0.01%;Yes;No;Marathi, Hindi;.in;"IST (Indian Standard Time)""";
+21;"""Istanbul";Europe/Asia;0.7%;15.5 million;14°C;Bosphorus Strait;Hagia Sophia, Topkapi Palace, Blue Mosque;0.01%;Yes;No;Turkish;.tr;"TRT (Turkey Time)""";
+22;"""Shanghai";Asia;0.5%;24.2 million;17°C;Yangtze River;The Bund, Yu Garden, Shanghai Tower;0.02%;Yes;No;Mandarin;.cn;"CST (China Standard Time)""";
+23;"""Moscow";Europe;3%;17.8 million;5°C;Moskva River;Red Square, Kremlin, Saint Basil's Cathedral;0.2%;Yes;No;Russian;.ru;"MSK (Moscow Standard Time)""";
+24;"""Tokyo";Asia;0.7%;37.4 million;16°C;Sumida River;Tokyo Skytree, Tokyo Tower, Meiji Shrine;0.8%;Yes;No;Japanese;.jp;"JST (Japan Standard Time)""";
+25;"""New York";North America;0.4%;18.8 million;13°C;Hudson River;Statue of Liberty, Central Park, Times Square;0.2%;Yes;No;English;.us;"EST (Eastern Standard Time)""";
+26;"""São Paulo";South America;0.1%;21.7 million;22°C;Tietê River;Pátio do Colégio, Catedral da Sé, Estádio do Morumbi;0.03%;No;No;Portuguese;.br;"BRT (Brasília Time)""";
+27;"""Cairo";Africa;18%;20.5 million;25°C;Nile River;Great Sphinx, Giza Pyramids, Egyptian Museum;0.03%;Yes;No;Arabic;.eg;"EET (Eastern European Time)""";
+28;"""Jakarta";Asia;0.8%;10.6 million;28°C;Ciliwung River;National Monument, Istiqlal Mosque, Sunda Kelapa Port;0.01%;Yes;No;Indonesian;.id;"WIT (Western Indonesian Time)""";
+29;"""Osaka";Asia;0.3%;19.3 million;17°C;Yodo River;Osaka Castle, Universal Studios Japan, Expo '70 Commemorative Park;0.05%;No;No;Japanese;.jp;"JST (Japan Standard Time)""</s>";
+30;" ""Lagos";Africa;15%;21 million;27°C;Lagos Lagoon & Gulf of Guinea;National Theatre, Tafawa Balewa Square, Freedom Park;0.06%;Yes;Yes;English;.ng;"WAT (West Africa Time)""";
+31;"""Alexandria";Africa;33%;4.5 million;22°C;Mediterranean Sea;Bibliotheca Alexandrina, Fort Qaitbey, Alexandria National Museum;0.01%;No;No;Arabic;.eg;"EET (Eastern European Time)""";
+32;"""Kinshasa";Africa;0.5%;13 million;26°C;Congo River;Stade des Martyrs, Kinshasa Fine Arts Academy, National Museum of Congo;0.02%;Yes;Yes;French;.cd;"WAT (West Africa Time)""";
+33;"""Istanbul";Europe/Asia;15%;14.7 million;15°C;Bosphorus Strait;Hagia Sophia, Blue Mosque, Topkapi Palace;0.02%;No;Yes;Turkish;.tr;"TRT (Turkey Time)""";
+34;"""Seoul";Asia;0.06%;25.6 million;14°C;Han River;Gyeongbokgung Palace, N Seoul Tower, Lotte World;0.08%;No;No;Korean;.kr;"KST (Korea Standard Time)""";
+35;"""Shanghai";Asia;6%;24.2 million;18°C;Yangtze River;The Bund, Yu Garden, Shanghai Tower;0.02%;No;No;Chinese;.cn;"CST (China Standard Time)""";
+36;"""Mumbai";Asia;0.2%;20.7 million;27°C;Arabian Sea;Gateway of India, Taj Mahal Palace, Elephanta Caves;0.05%;No;No;Hindi;.in;"IST (Indian Standard Time)""";
+37;"""São Paulo";South America;0.08%;21.7 million;21°C;Tietê River;Pátio do Colégio, Ibirapuera Park, São Paulo Zoo;0.02%;Yes;No;Portuguese;.br;"BRT (Brasília Time)""";
+38;"""Tokyo";Asia;0.7%;37.4 million;17°C;Sumida River;Tokyo Imperial Palace, Meiji Shrine, Shibuya Crossing;0.03%;No;No;Japanese;.jp;"JST (Japan Standard Time)""";
+39;"""Dhaka";Asia;4%;20.3 million;26°C;Buriganga River;Ahsan Manzil, Lalbagh Fort, National Parliament House;0.12%;Yes;No;Bengali;.bd;"BST (Bangladesh Standard Time)""</s>";
+40;" ""Mumbai";Asia;0.06%;20.7 million;27°C;Dharavi River;Gateway of India, Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Marine Drive;0.02%;Yes;No;Marathi, Hindi;.in;"IST (Indian Standard Time)""";
+41;"""Beijing";Asia;0.03%;21.5 million;13°C;Yongding River;Forbidden City, Great Wall of China, Temple of Heaven;0.01%;Yes;Yes;Mandarin;.cn;"CST (China Standard Time)""";
+42;"""Cairo";Africa;0.3%;20.4 million;24°C;Nile River;Pyramids of Giza, Egyptian Museum, Khan el-Khalili;0.04%;Yes;Yes;Arabic;.eg;"EET (Eastern European Time)""";
+43;"""Lagos";Africa;0.08%;21.3 million;26°C;Lagos Lagoon;National Museum Lagos, Lekki Conservation Centre, Tarkwa Bay Beach;0.07%;Yes;No;English;.ng;"WAT (West Africa Time)""";
+44;"""Buenos Aires";South America;0.4%;15.6 million;18°C;Riachuelo River;Teatro Colón, Obelisk of Buenos Aires, Plaza de Mayo;0.03%;Yes;Yes;Spanish;.ar;"ART (Argentina Time)""";
+45;"""Shanghai";Asia;0.3%;24.2 million;16°C;Huangpu River;The Bund, Shanghai Tower, Yu Garden;0.04%;No;Yes;Mandarin;.cn;"CST (China Standard Time)""";
+46;"""Moscow";Europe;0.8%;17.1 million;5°C;Moskva River;Red Square, Saint Basil's Cathedral, Moscow Kremlin;0.09%;Yes;Yes;Russian;.ru;"MSK (Moscow Standard Time)""";
+47;"""Istanbul";Europe;1.9%;14.8 million;14°C;Bosphorus Strait;Hagia Sophia, Topkapi Palace, Blue Mosque;0.07%;Yes;No;Turkish;.tr;"TRT (Turkey Time)""";
+48;"""Osaka";Asia;0.2%;19.3 million;17°C;Yodo River;Osaka Castle, Universal Studios Japan, Dōtonbori;0.05%;No;No;Japanese;.jp;"JST (Japan Standard Time)""";
+49;"""New York";North America;0.6%;18.6 million;13°C;Hudson River;Statue of Liberty, Central Park, Times Square;0.03%;Yes;Yes;English;.us;"EST (Eastern Standard Time)""</s>";
+50;" ""Beijing";Asia;0.03%;21.5 million;13°C;Yongding River;Forbidden City, Great Wall, Summer Palace;0.02%;No;Yes;Mandarin;.cn;"UTC+8""";
+51;"""Cairo";Africa;0.4%;20.4 million;21°C;Nile River;Pyramids of Giza, Egyptian Museum, Khan El Khalili;0.08%;Yes;Yes;Arabic;.eg;"EET (Eastern European Time)""";
+52;"""Lima";South America;0.7%;11 million;19°C;Rímac River;Machu Picchu, Plaza de Armas, Circuito Mágico del Agua;0.27%;Yes;Yes;Spanish;.pe;"PET (Peru Time)""";
+53;"""Mumbai";Asia;0.6%;20.7 million;27°C;Ulhas River;Gateway of India, Marine Drive, Chhatrapati Shivaji Maharaj Vastu Sangrahalaya;0.06%;Yes;Yes;Hindi, English;.in;"IST (Indian Standard Time)""";
+54;"""Paris";Europe;0.3%;10.8 million;12°C;Seine River;Eiffel Tower, Louvre Museum, Notre-Dame;0.15%;Yes;Yes;French;.fr;"CET (Central European Time)""";
+55;"""Rio de Janeiro";South America;0.8%;13.5 million;24°C;Guanabara Bay;Statue of Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain;0.25%;No;No;Portuguese;.br;"BRT (Brasília Time)""";
+56;"""São Paulo";South America;0.8%;21.7 million;22°C;Tietê River;Pátio do Colégio, Ibirapuera Park, São Paulo Cathedral;0.09%;No;No;Portuguese;.br;"BRT (Brasília Time)""";
+57;"""Shanghai";Asia;0.4%;24.2 million;16°C;Huangpu River;The Bund, Oriental Pearl Tower, Yuyuan Garden;0.04%;No;Yes;Mandarin;.cn;"UTC+8""";
+58;"""Tokyo";Asia;0.3%;37.4 million;16°C;Sumida River;Tokyo Skytree, Meiji Shrine, Shibuya Crossing;0.03%;No;No;Japanese;.jp;"JST (Japan Standard Time)""";
+59;"""Moscow";Europe;0.8%;17.8 million;6°C;Moskva River;Red Square, Saint Basil's Cathedral, Bolshoi Theatre;0.09%;Yes;Yes;Russian;.ru;"MSK (Moscow Standard Time)""</s>";
+60;" ""Beijing";Asia;0.03%;21.5 million;13°C;Yongding River;Forbidden City, Great Wall, Temple of Heaven;0.02%;No;Yes;Mandarin;.cn;"UTC+8"" ";
+61;"""Cairo";Africa;0.4%;20.5 million;23°C;Nile River;Pyramids of Giza, Egyptian Museum, Khan el-Khalili;0.04%;Yes;Yes;Arabic;.eg;"EET (Eastern European Time)"" ";
+62;"""Buenos Aires";South America;0.8%;3 million;16°C;Riachuelo River;Teatro Colon, Obelisk, Recoleta Cemetery;0.02%;Yes;Yes;Spanish;.ar;"ART (Argentina Time)"" ";
+63;"""Istanbul";Europe;1.5%;15.5 million;14°C;Bosphorus;Hagia Sophia, Topkapi Palace, Blue Mosque;0.04%;No;Yes;Turkish;.tr;"TRT (Turkey Time)"" ";
+64;"""Paris";Europe;0.3%;10.8 million;12°C;Seine River;Eiffel Tower, Louvre, Notre Dame;0.07%;Yes;Yes;French;.fr;"CET (Central European Time)"" ";
+65;"""London";Europe;1.1%;8.9 million;11°C;Thames River;Big Ben, Tower of London, British Museum;0.14%;Yes;Yes;English;.uk;"GMT (Greenwich Mean Time)"" ";
+66;"""New York";North America;0.6%;8.6 million;13°C;Hudson River;Statue of Liberty, Times Square, Central Park;0.09%;Yes;Yes;English;.us;"EST (Eastern Standard Time)"" ";
+67;"""Sydney";Australia;0.2%;5 million;21°C;Parramatta River;Sydney Opera House, Harbour Bridge, Bondi Beach;0.23%;Yes;Yes;English;.au;"AEST (Australian Eastern Standard Time)"" ";
+68;"""Mumbai";Asia;0.6%;20.7 million;27°C;Ulhas River;Gateway of India, Taj Mahal Palace, Elephanta Caves;0.02%;Yes;Yes;Hindi;.in;"IST (Indian Standard Time)"" ";
+69;"""Jakarta";Asia;0.1%;10.3 million;28°C;Ciliwung River;National Monument, Istiqlal Mosque, Merdeka Square;0.02%;Yes;Yes;Indonesian;.id;"WIB (West Indonesia Time)""</s>";
+70;" ""Shanghai";Asia;0.03%;24.2 million;16°C;Huangpu River;The Bund, Oriental Pearl Tower, Yu Garden;0.56%;Yes;Yes;Chinese;.cn;"CST (China Standard Time)""";
+71;"""Beijing";Asia;0.01%;21.5 million;13°C;Yongding River;Forbidden City, Great Wall, Temple of Heaven;0.12%;Yes;Yes;Chinese;.cn;"CST (China Standard Time)""";
+72;"""Cairo";Africa;0.4%;20.4 million;24°C;Nile River;Pyramids of Giza, Egyptian Museum, Khan El Khalili;0.02%;Yes;Yes;Arabic;.eg;"EET (Eastern European Time)""";
+73;"""Tokyo";Asia;0.09%;37.4 million;17°C;Sumida River;Tokyo Skytree, Tokyo Disneyland, Meiji Shrine;0.01%;Yes;Yes;Japanese;.jp;"JST (Japan Standard Time)""";
+74;"""Lagos";Africa;0.1%;21 million;26°C;Lagos Lagoon;National Theatre, Tafawa Balewa Square, Freedom Park;0.02%;Yes;Yes;English;.ng;"WAT (West Africa Time)""";
+75;"""São Paulo";South America;0.1%;21.7 million;22°C;Tietê River;Pátio do Colégio, Ibirapuera Park, São Paulo Zoo;0.007%;No;Yes;Portuguese;.br;"BRT (Brasília Time)""";
+76;"""Mexico City";North America;0.1%;21.7 million;16°C;Río de la Piedad;Zócalo, Chapultepec Castle, Palacio de Bellas Artes;0.01%;Yes;Yes;Spanish;.mx;"CST (Central Standard Time)""";
+77;"""Osaka";Asia;0.08%;19.3 million;17°C;Yodo River;Osaka Castle, Universal Studios Japan, Dōtonbori;0.01%;No;Yes;Japanese;.jp;"JST (Japan Standard Time)""";
+78;"""New York";North America;0.4%;18.6 million;13°C;Hudson River;Statue of Liberty, Central Park, Times Square;0.01%;Yes;No;English;.us;"EST (Eastern Standard Time)""";
+79;"""Buenos Aires";South America;0.2%;15.6 million;18°C;Río de la Plata;Teatro Colón, Obelisk, Plaza de Mayo;0.006%;Yes;Yes;Spanish;.ar;"ART (Argentina Time)""</s>";
+80;" ""Lagos";Africa;0.05%;21 million;27°C;Lagos Lagoon;National Theatre, Tafawa Balewa Square, Lekki Conservation Centre;0.003%;No;No;English;.ng;"WAT (West Africa Time)""";
+81;"""Beijing";Asia;0.01%;21.5 million;14°C;Yellow River, Chaobai River;Forbidden City, Great Wall of China, Temple of Heaven;0.008%;Yes;Yes;Mandarin;.cn;"CST (China Standard Time)""";
+82;"""Cairo";Africa;0.1%;20.5 million;22°C;Nile River;Giza Pyramids, Egyptian Museum, Khan el-Khalili;0.003%;Yes;No;Arabic;.eg;"EET (Eastern European Time)""";
+83;"""Mumbai";Asia;0.09%;20.7 million;27°C;Ulhas River;Gateway of India, Elephanta Caves, Chhatrapati Shivaji Maharaj Vastu Sangrahalaya;0.002%;No;Yes;Hindi;.in;"IST (Indian Standard Time)""";
+84;"""São Paulo";South America;0.1%;21.8 million;22°C;Tietê River;Paulista Avenue, Ibirapuera Park, São Paulo Museum of Art;0.009%;Yes;No;Portuguese;.br;"BRT (Brasília Time)""";
+85;"""Shanghai";Asia;0.06%;24.2 million;17°C;Huangpu River, Yangtze River;The Bund, Oriental Pearl Tower, Yu Garden;0.004%;No;Yes;Mandarin;.cn;"CST (China Standard Time)""";
+86;"""Dhaka";Asia;0.05%;20.3 million;27°C;Buriganga River;Ahsan Manzil, Lalbag Fort, Star Mosque;0.003%;Yes;No;Bengali;.bd;"BST (Bangladesh Standard Time)""";
+87;"""Tokyo";Asia;0.2%;37.4 million;18°C;Sumida River;Tsukiji Fish Market, Meiji Shrine, Asakusa;0.006%;Yes;No;Japanese;.jp;"JST (Japan Standard Time)""";
+88;"""Mexico City";North America;0.08%;21.3 million;18°C;Río de los Remedios;Zócalo, Templo Mayor, Palacio de Bellas Artes;0.003%;Yes;No;Spanish;.mx;"CST (Central Standard Time)""";
+89;"""Dallas";North America;0.1%;1.3 million;20°C;Trinity River;Reunion Tower, The Sixth Floor Museum, Dallas World Aquarium;0.027%;No;No;English;.us;"CST (Central Standard Time)""</s>";
+90;" ""Santiago";South America;0.4%;6.5 million;14°C;Río Mapocho;La Moneda Palace, Santiago Metropolitan Park, Costanera Center;0.003%;Yes;No;Spanish;.cl;"CLT (Chile Time)""";
+91;"""Mumbai";Asia;0.6%;20.7 million;27°C;Ulhas River;Gateway of India, Marine Drive, Chhatrapati Shivaji Maharaj Vastu Sangrahalaya;0.026%;Yes;No;Marathi, Hindi;.in;"IST (Indian Standard Time)""";
+92;"""Cairo";Africa;6.5%;20.4 million;22°C;Nile River;Giza Pyramids, Egyptian Museum, Khan el-Khalili;0.04%;Yes;Yes;Arabic;.eg;"EET (Eastern European Time)""";
+93;"""Lagos";Africa;0.02%;14.3 million;26°C;Lagos Lagoon;National Museum Lagos, Lekki Conservation Centre, Tarkwa Bay Beach;0.007%;Yes;No;English;.ng;"WAT (West Africa Time)""";
+94;"""Osaka";Asia;0.3%;19.3 million;17°C;Yodo River;Osaka Castle, Universal Studios Japan, Dōtonbori;0.03%;No;No;Japanese;.jp;"JST (Japan Standard Time)""";
+95;"""Istanbul";Europe;0.7%;15 million;14°C;Golden Horn;Hagia Sophia, Topkapi Palace, Blue Mosque;0.023%;Yes;Yes;Turkish;.tr;"TRT (Turkey Time)""";
+96;"""New York";North America;0.6%;8.4 million;13°C;Hudson River;Statue of Liberty, Central Park, Times Square;0.027%;Yes;Yes;English;.us;"EST (Eastern Standard Time)""";
+97;"""São Paulo";South America;0.6%;21.7 million;22°C;Tietê River;Pátio do Colégio, Municipal Theatre, São Paulo Museum of Art;0.014%;Yes;No;Portuguese;.br;"BRT (Brasília Time)""";
+98;"""Shanghai";Asia;0.6%;24.2 million;18°C;Huangpu River;The Bund, Yuyuan Garden, Shanghai Tower;0.019%;Yes;No;Chinese;.cn;"CST (China Standard Time)""";
+99;"""Paris";Europe;0.5%;10.8 million;12°C;Seine River;Eiffel Tower, Louvre Museum, Notre-Dame;0.089%;Yes;Yes;French;.fr;"CET (Central European Time)""</s>";
+100;" ""Moscow";Europe;0.3%;12.5 million;5°C;Moskva River;Red Square, St. Basil's Cathedral, Moscow Kremlin;0.023%;Yes;Yes;Russian;.ru;MSK (Moscow Standard Time);
+101;Istanbul;Asia;0.1%;15.5 million;14°C;Bosphorus;Hagia Sophia, Topkapi Palace, Blue Mosque;0.015%;Yes;No;Turkish;.tr;TRT (Turkey Time);
+102;Bangkok;Asia;0.6%;10.3 million;28°C;Chao Phraya River;Grand Palace, Wat Phra Kaew, Wat Arun;0.012%;Yes;No;Thai;.th;ICT (Indochina Time);
+103;Cairo;Africa;0.3%;20.5 million;25°C;Nile River;Pyramids of Giza, Egyptian Museum, Islamic Cairo;0.028%;Yes;Yes;Arabic;.eg;EET (Eastern European Time);
+104;Lima;South America;0.1%;10.2 million;19°C;Rímac River;Historic Centre of Lima, Plaza de Armas, San Francisco Church;0.032%;Yes;Yes;Spanish;.pe;PET (Peru Time);
+105;Buenos Aires;South America;0.3%;15.6 million;18°C;Riachuelo River;Plaza de Mayo, Teatro Colón, Obelisk;0.025%;Yes;Yes;Spanish;.ar;ART (Argentina Time);
+106;Osaka;Asia;0.2%;19.3 million;16°C;Yodo River;Osaka Castle, Universal Studios Japan, Dōtonbori;0.008%;No;No;Japanese;.jp;JST (Japan Standard Time);
+107;Mumbai;Asia;0.1%;20.7 million;27°C;Ulhas River;Gateway of India, Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Elephanta Caves;0.003%;Yes;No;Hindi;.in;IST (Indian Standard Time);
+108;Rio de Janeiro;South America;0.3%;13.0 million;25°C;Guanabara Bay;Christ the Redeemer, Copacabana Beach, Sugarloaf Mountain;0.027%;Yes;Yes;Portuguese;.br;BRT (Brasília Time);
+109;Jacksonville;North America;1.0%;1.1 million;22°C;St. Johns River;Friendship Fountain, Catty Shack Ranch Wildlife Sanctuary, Museum of Science & History;0.169%;No;No;English;.us;"EST (Eastern Standard Time)""</s>";

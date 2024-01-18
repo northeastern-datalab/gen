@@ -1,0 +1,11 @@
+;FruitType;BloomingPeriod;Pollination;GrowthHabit;Family;Genus;Species;Cultivar;HardinessZone;PropagationMethods;AdditionalNotes
+0; Apple;Early Spring to Late Spring;Insect, Self, Wind;Tree;Rosaceae;Malus;domestica;'Granny Smith';9-11;Grafting, Budding, Seeds, Cuttings;Resistant to diseases like apple scab and fireblight.
+1;Mango;Late Spring to Early Summer;Insect;Tree;Anacardiaceae;Mangifera;indica;'Tommy Atkins';10-12;Air-layering, Grafting, Budding, Seeds;Requires a warm and humid climate.
+2;Blueberry;Late Spring;Self;Shrub;Ericaceae;Vaccinium;corymbosum;'Bluecrop';3-7;Cuttings, Layering, Seeds;Likes acidic soil, suitable for organic cultivation.
+3;Orange;Mid Winter to Early Spring;Insect, Self;Tree;Rutaceae;Citrus;sinensis;'Valencia';9-11;Budding, Grafting, Seeds, Air-layering;Rich in vitamin C and antioxidants.
+4;Peach;Late Spring;Insect, Self;Tree;Rosaceae;Prunus;persica;'Elberta';5-8;Budding, Grafting, Seeds, Cuttings;Can be grown in colder climates with proper care.
+5;Pineapple;Does not bloom;—;Herbaceous perennial;Bromeliaceae;Ananas;comosus;'Smooth Cayenne';9-11;Crown cuttings, Offsets, Micropropagation;Harvest when leaves turn yellowish-orange.
+6;Banana;Does not bloom;—;Herb;Musaceae;Musa;acuminata;'Cavendish';8-11;Pseudostems, Micropropagation;Fruit is actually a berry, rich in potassium.
+7;Strawberry;Early Spring to Late Spring;Insect, Self;Herb;Rosaceae;Fragaria;x ananassa;'Earliglow';4-8;Runners, Seeds, Runners layering;Low-growing plant that produces runners.
+8;Cherry;Late Spring to Early Summer;Self, Insect;Tree;Rosaceae;Prunus;avium;'Bing';4-7;Budding, Grafting, Seeds;Many varieties are self-fertile but benefits from cross-pollination.
+9;Papaya;Year-round in tropics;—;Herb;Caricaceae;Carica;papaya;'Sunrise Solo';9-11;Seeds, Tissue culture;Fast-growing plant, bears fruit within 12-18 months.</s>

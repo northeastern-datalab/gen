@@ -1,0 +1,11 @@
+;Chef Name;Estimated Cost per Serving;Meal Type;Dietary Restrictions;Taste Score out of 10;Video Link to Recipe;Special Equipment Used?;Scalability for Large Groups;Market Availability Check;Raw Material Wastage After Cooking (%);Occasion Suitable For;Skill Level of Chefs;Maximum No. of Occasional Repetition in a Week
+0;  Chef Pierre;$16.50;French Cuisine;None;9.5;www.youtube.com/FrenchOnionSoup;Electric Kitchen Torch;Scalable;Limited;0%;Elegant Dinner Party;Professional;1
+1; Chef Emma;$28.00;Italian;Gluten-free;8.8;www.youtube.com/Tiramisu;Ladyfinger Moulds;Partially Scalable;Widely Available;10%;Dessert Party;Intermediate;2
+2; Chef Hiroshi;$22.00;Japanese;Dairy-free;8.5;www.youtube.com/Ramen;Instant Noodle Pots;Partially Scalable;Available;15%;Cold Weather Comfort Food;Beginner;3
+3; Chef Sofia;$12.50;Mediterranean;Vegan;7.9;www.youtube.com/Tabbouleh;Food Processor;Scalable;Widely Available;5%;Summer Cookout;Beginner;4
+4; Chef Ricardo;$35.00;High End;None;9.7;www.youtube.com/LobsterThermidor;Kitchen Torch;Scalable;Limited;0%;Romantic Dinner;Expert;1
+5; Chef Tania;$32.00;Indian;Vegetarian;8.2;www.youtube.com/Veg Biryani;Rice Cooker;Scalable;Available;10%;Family Gathering;Intermediate;2
+6; Chef Nabil;$18.00;Lebanese;None;9.2;www.youtube.com/Shawarma;Vertical Rotisserie;Partially Scalable;Limited;5%;Street Food Party;Professional;1
+7; Chef Maria;$14.50;Mexican;Vegan;7.6;www.youtube.com/VeganTacos;Tortilla Press;Scalable;Widely Available;2%;Casual Dinner;Beginner;4
+8; Chef Taka;$26.00;Chinese;Dairy-free;8.0;www.youtube.com/KungPaoChicken;Wok;Partially Scalable;Widely Available;10%;Asian Themed Party;Intermediate;2
+9; Chef Olga;$20.00;Russian;Gluten-free;9.0;www.youtube.com/BeefStroganoff;Cast Iron Skillet;Scalable;Limited;0%;Cold Weather Dinner;Professional;1</s>

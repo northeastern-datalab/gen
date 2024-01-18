@@ -1,0 +1,12 @@
+;Nebula Name; Nebula Category; Gas Composition (%); Dust Component?; Distance From Sun (ly); Radius (Light Years); Star Formation Regions Present or Not; Galactic Coordinates (l,b); Associations with Open Clusters; Nearby Supernova Remnant Names; Redshift Value; Proper Motion (x,y); Average Temperature_Kelvin
+0; Nebula Name; Nebula Category; Gas Composition (%); Dust Component?; Distance From Sun (ly); Radius (Light Years); Star Formation Regions Present or Not; Galactic Coordinates (l,b); Associations with Open Clusters; Nearby Supernova Remnant Names; Redshift Value; Proper Motion (x,y); Average Temperature_Kelvin
+1;"""Orion Nebula"; Reflection Nebula; 90; Yes; 1,344; 2.5; Yes; 209.513+20.700; Orion Nebula Cluster, Running Chicken Cluster; none; 0.000; (0.003,-0.005);" 10,000"""
+2;"""Crab Nebula"; Supernova Remnant; 74; Yes; 6,523; 6.8; No; 184.571+5.789; none; Crab Nebula; 0.077; (0.016,0.034);" 15,000,000"""
+3;"""Pelican Nebula"; Emission Nebula; 95; Yes; 1,800; 3.5; Yes; 15.539-27.833; IC 5076, IC 5078; W5/W4; 0.001; (0.004,-0.001);" 8,000"""
+4;"""Carina Nebula"; Emission Nebula; 90; Yes; 7,500; 100; Yes; 287.904-0.625; Trumpler 14, Trumpler 16, Collinder 228; none; 0.000; (0.002,-0.007);" 10,000"""
+5;"""Andromeda Galaxy Nebula"; Spiral Galaxy; 71; Yes; 2,258,000; 77; No; 12.027+48.385; none; none; 0.000; (0.000,-0.001);" 10,000"""
+6;"""Helix Nebula"; Planetary Nebula; 76; No; 450; 0.32; No; 91.835+19.913; none; none; -0.0003; (0.001,-0.002);" 10,000"""
+7;"""Tarantula Nebula"; Emission Nebula, Supernova Remnant, H II region; 70; Yes; 168,000; 500; Yes; 281.980-1.091; R136, Hodge 301; none; 0.003; (0.003,-0.001);" 30,000"""
+8;"""Crescent Nebula"; Emission Nebula; 80; Yes; 5,000; 2.5; Yes; 37.335+0.406; NGC 6888; none; 0.001; (0.002,-0.003);" 8,000"""
+9;"""Eagle Nebula"; Emission Nebula, Dark Nebula; 70; Yes; 7,000; 3.25; Yes; 20.785-5.899; M16; none; 0.000; (-0.002,0.003);" 10,000"""
+10;"""Whirlpool Galaxy"; Spiral Galaxy; 72; Yes; 23,000,000; 35; No; 107.501+55.901; none; none; 0.000; (0.000,-0.001);" 10,000""</s>"

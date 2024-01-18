@@ -1,0 +1,11 @@
+;BusinessFinancialAnalysis; CompanyName; CensusClassificationCode(e.g.,NAICS); AnnualRevenue; AnnualExpense;\
+0; Tech giant, Inc. ; Microsoft ; 541511 - Computer Programming Services ; 143.02 Billion ; 41.03 Billion ;
+1;E-commerce platform ; Amazon ; 454110 - Electronic Shopping and Mail-Order Houses ; 386.06 Billion ; 232.88 Billion ;
+2;Retail corporation ; Walmart ; 452111 - Supercenters and Other Superstores ; 559.15 Billion ; 523.96 Billion ;
+3;Automaker ; General Motors ; 336111 - Motor Vehicle Manufacturing ; 137.23 Billion ; 118.10 Billion ;
+4;Oil and gas ; Exxon Mobil ; 211110 - Crude Petroleum and Natural Gas Extraction ; 205.64 Billion ; 60.16 Billion ;
+5;Financial services ; JPMorgan Chase & Co. ; 522110 - Commercial Banking ; 129.02 Billion ; 80.72 Billion ;
+6;Healthcare provider ; UnitedHealth Group ; 621111 - Hospital Inpatient Services ; 262.59 Billion ; 224.35 Billion ;
+7;Telecommunications ; AT&T ; 517110 - Wired Telecommunications Carriers ; 181.21 Billion ; 153.95 Billion ;
+8;Consumer goods ; Procter & Gamble ; 311111 - Soap, Cleaning Compound, and Toilet Preparation Manufacturing ; 70.71 Billion ; 47.11 Billion ;
+9;Insurance company ; Berkshire Hathaway ; 524113 - Direct Life Insurance Carriers ; 254.56 Billion ; 90.03 Billion ;</s>

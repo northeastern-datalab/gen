@@ -1,0 +1,11 @@
+;Animal Type; Breed; Age; Weight; Health Status; Symptoms; Diagnosis; Treatment Plan; Follow-up; Owner Information; Additional Symptoms; Secondary Diagnosis</s>
+0; Dog; Labrador Retriever; 5 years; 80 pounds; Healthy; No symptoms; N/A; N/A; N/A; John Doe; N/A; N/A  N/A
+1;Cat; Domestic Shorthair; 3 years; 12 pounds; Overweight; Lethargy, increased appetite; Obesity; Weight reduction plan, increased exercise; Schedule follow-up veterinary visit; Jane Smith; N/A; N/A  N/A
+2;Dog; German Shepherd; 2 years; 90 pounds; Healthy; No symptoms; N/A; N/A; N/A; Mike Johnson; N/A; N/A  N/A
+3;Horse; Thoroughbred; 7 years; 1200 pounds; Good health; No symptoms; N/A; N/A; N/A; Emily Davis; N/A; N/A  N/A
+4;Rabbit; Mini Rex; 1 year; 4 pounds; Healthy; No symptoms; N/A; N/A; N/A; Sarah Clark; N/A; N/A  N/A
+5;Dog; Beagle; 6 years; 25 pounds; Dental disease; Bad breath, difficulty eating; Periodontal disease; Dental cleaning, tooth extractions; Schedule follow-up veterinary visit; Olivia Brown; Facial swelling; N/A  N/A
+6;Cat; Siamese; 8 years; 10 pounds; Renal disease; Increased drinking and urination; Chronic kidney disease; Diet change, subcutaneous fluids; Schedule follow-up veterinary visit; William Taylor; N/A; N/A  N/A
+7;Bird; Amazon Parrot; 15 years; 1.5 pounds; Healthy; No symptoms; N/A; N/A; N/A; Danielle Green; N/A; N/A  N/A
+8;Dog; Golden Retriever; 10 years; 75 pounds; Arthritis; Difficulty climbing stairs, limping; Osteoarthritis; Pain medication, joint supplements; Schedule follow-up veterinary visit; Karen White; N/A; N/A  N/A
+9;Hamster; Syrian; 1 year; 0.1 pounds; Healthy; No symptoms; N/A; N/A; N/A; Michael Lewis; N/A; N/A  N/A</s>

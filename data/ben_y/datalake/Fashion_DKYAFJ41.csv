@@ -1,0 +1,11 @@
+;Product ID; SKU Number ; UPC Code; Gender Category; Clothes Type; Fabric Details; Manufacturer; Retailer Name; Sale Type; Discount; Original Price; New Price
+0; 1234; 56789012; 123456789012; Women; Dress; Silk, Polyester; Designer A; Luxury Boutique; Regular; 0%; $400; $400
+1;2345; 23456013; 098765432111; Men; Suit; Wool, Cotton; Designer C; Departement Store; Sale; 30%; $600; $420
+2;3456; 34567014; 112233445556; Unisex; Jeans; Denim, Elastane; Brand X; Online Retailer; Clearance; 50%; $80; $40
+3;4567; 45678015; 223344556667; Women; Blouse; Silk, Rayon; Designer D; Boutique Shop; Regular; 0%; $200; $200
+4;5678; 56789016; 334455667778; Men; Shirt; Cotton, Polyester; Brand Y; Discount Store; Promotion; 20%; $50; $40
+5;6789; 67890017; 445566778889; Women; Skirt; Wool, Spandex; Designer E; Online Marketplace; Clearance; 70%, $150; $45;
+6;7890; 78901018; 556677889990; Men; Pants; Cotton, Elastane; Brand Z; Outlet Store; Sale; 40%; $70; $42
+7;8901; 89012019; 667788990001; Unisex; Jacket; Nylon, Polyester; Brand A; Outdoor Shop; Regular; 0%, $100; $100;
+8;9012; 90123020; 778899001112; Women; T-Shirt; Cotton, Rayon; Brand B; Fast Fashion; Promotion; 20%, $15; $12;
+9;0123; 01234021; 889900112223; Men; Sweater; Wool, Polyamide; Designer C; Luxury Brand; Regular; 0%, $300; $300</s>;

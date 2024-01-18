@@ -1,0 +1,12 @@
+;Stratum Name; Elevation(masl) ; Vapor Pressure difference(kPA) ; Cloud Type & Coverage (%); Geological Feature ID; Land Use Category; Latitude; Longitude; Topographic Aspect/Degrees; Slope Gradient(%); Altitudinal Zone; Biome Classification ; Lightning Activity (times/km².yr)
+0; Stratum Name; Elevation(masl) ; Vapor Pressure difference(kPA) ; Cloud Type & Coverage (%) ; Geological Feature ID ; Land Use Category ; Latitude ; Longitude ; Topographic Aspect/Degrees ; Slope Gradient(%) ; Altitudinal Zone ; Biome Classification ; Lightning Activity (times/km².yr)
+1;Alpine Meadow; 3200 ; 0.05 ; Cumulus Clouds 40% ; GFID-001 ; Grassland ; 42.3210N ; 89.1234W ; 240 ; 12 ; Above Tree Line ; Tundra ; 2
+2;Tropical Rainforest; 120 ; 1.5 ; Stratus Clouds 90% ; GFID-045 ; Rainforest ; 05.9876S ; 123.456E ; 80 ; 5 ; Forest ; Tropical ; 180
+3;Desert Scrub; 650 ; 0.8 ; Cirrus Clouds 10% ; GFID-291 ; Scrubland ; 34.1523N ; 109.876W ; 350 ; 3 ; Shrubland ; Desert ; 5
+4;Temperate Deciduous Forest; 500 ; 1.2 ; Cumulonimbus Clouds 60% ; GFID-113 ; Deciduous Forest ; 39.7845N ; 86.4321W ; 10 ; 8 ; Forest ; Temperate ; 40
+5;Mountain Tundra; 4600 ; 0.04 ; Nimbostratus Clouds 75% ; GFID-332 ; Tundra ; 60.9834N ; 145.678E ; 300 ; 15 ; Above Tree Line ; Arctic ; 10
+6;Temperate Grassland; 1500 ; 0.9 ; Altostratus Clouds 30% ; GFID-089 ; Grassland ; 29.8765S ; 67.3421W ; 160 ; 7 ; Grassland ; Temperate ; 25
+7;Mediterranean Forest; 800 ; 1.1 ; Stratus Clouds 50% ; GFID-567 ; Forest ; 41.2345N ; 13.8910E ; 330 ; 10 ; Forest ; Mediterranean ; 60
+8;Savanna Woodland; 300 ; 1.3 ; Cumulus Clouds 80% ; GFID-741 ; Woodland ; 14.5678S ; 23.456E ; 35 ; 2 ; Woodland ; Tropical ; 90
+9;Arctic Tundra; 180 ; 0.03 ; Cirrostratus Clouds 20% ; GFID-902 ; Tundra ; 75.1234N ; 162.543E ; 50 ; 1 ; Above Tree Line ; Arctic ; 3
+10;Alpine Shrubland; 2800 ; 0.06 ; Nimbo-cumulonimbus Clouds 65% ; GFID-663 ; Shrubland ; 21.9876S ; 70.345W ; 30 ; 14 ; Above Tree Line ; Desert ; 12</s>

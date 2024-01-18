@@ -1,0 +1,11 @@
+;QuantityInStock; AverageGrowRate; FertlizerRecommendations; HarvestSeason; OriginCountry; FamilyClassification; MaximumMatureHeight; MaximumMatureSpread; PropagationMethods; MistPropensity; IdealSoilTemperatureRange; RootSystemDepthFeet; PotentialToxicitySignals; SoilPh; WateringFrequency
+0;30; 2 inches per week; Slow-release granular fertilizer; Fall; Italy; Herbaceous perennial; 3 feet; 2 feet; Division, seeds; Rarely; 60-70°F; 1-2 feet; Wilting, yellowing leaves; Neutral pH; Once a week
+1;25; 3 inches per week; Liquid seaweed fertilizer; Summer; Netherlands; Woody shrub; 6 feet; 4 feet; Layering, cuttings; Moderate; 70-80°F; 3 feet; Browning leaves, stunted growth; Slightly acidic pH; Twice a week
+2;50; 1 inch per week; Organic compost fertilizer; Spring; USA; Annual; 1 foot; 6 inches; Seeds, direct sow; Rarely; 75-85°F; 6 inches; Yellowing, curling leaves; Slightly alkaline pH; Three times a week
+3;75; 2 inches per week; Balanced fertilizer; Summer; Canada; Biennial; 2 feet; 1 foot; Seeds, division; Moderate; 60-70°F; 1 foot; Wilting, stunted growth; Neutral pH; Once a week
+4;100; 1 inch per week; Nitrogen-rich fertilizer; Spring; Mexico; Vegetable; 3 feet; 3 feet; Seeds, transplant; Rarely; 70-80°F; 2 feet; Yellowing, weak stems; Slightly acidic PH; Twice a week
+5;20; 3-4 inches per week; High-phosphorus fertilizer; Fall; China; Herb; 1 foot; 1 foot; Division, cuttings; Moderate; 65-75°F; 8 inches; Curling, brown leaves; Neutral pH; Thrice a week
+6;5; 1 inch per week; Potassium-rich fertilizer; Spring; Spain; Fruit; 6 feet; 4 feet; Seeds, grafting; Rarely; 60-70°F; 3 feet; Dropping, discolored fruit; Slightly acidic pH; Once a week
+7;30; 2 inches per week; Complete fertilizer; Summer; Japan; Ornamental grass; 2 feet; 3 feet; Division, planting; Moderate; 70-80°F; 1-2 feet; Wilting, yellow stripes; Neutral PH; Twice a week
+8;10; 4-5 inches per week; All-purpose fertilizer; Fall; India; Cactus; 1 foot; 1 foot; Seeds, cuttings; Rarely; 75-85°F; 6 inches; Wrinkled, shriveled appearance; Slightly alkaline PH; Thrice a week
+9;75; 1 inch per week; Phosphorus-rich fertilizer; Spring; France; Flower; 3 feet; 2 feet; Seeds, division; Moderate; 60-70°F; 1 foot; Wilting, faded blooms; Neutral pH; Once a week</s>

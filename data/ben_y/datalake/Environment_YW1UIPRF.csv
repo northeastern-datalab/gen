@@ -1,0 +1,11 @@
+;Waste\_Management;Recycling\_Rate%;Noise\_Pollution\_Level;Natural\_Disaster\_Frequency;Climate\_Change\_Impact\_Score;Extinct\_Specie\_Count;Renewable\_Energy\_Consumption\_%;Green\_Spaces\_per\_Capita\_km2;Environmental\_Education\_Level;Green\_Jobs\_Employment\_Rate%
+0;" ""Trashville City""";25%;" ""Moderate""";" ""Once every 5 years"""; 7.5; 50; 10%; 0.5;" ""Low"", ""10%""";
+1;"""Eco-friendly Suburbia""";60%;" ""Low""";" ""Never"""; 5; 10; 30%; 5;" ""High"", ""25%""";
+2;"""Industrial Wasteland""";5%;" ""High""";" ""Annually"""; 9; 200; 2%; 0.1;" ""Low"", ""2%""";
+3;"""Green Vista""";70%;" ""Very Low""";" ""Rare"""; 6; 5; 40%; 10;" ""Very High"", ""50%""";
+4;"""Recycling Town""";55%;" ""Low""";" ""Occasionally"""; 7; 30; 25%; 2;" ""Medium"", ""30%""";
+5;"""Wasteful Metropolis""";10%;" ""Moderate-High""";" ""Frequent"""; 8.5; 100; 5%; 0.5;" ""Low"", ""8%""";
+6;"""Eco-conscious Paradise""";85%;" ""Very Low""";" ""Never"""; 4; 2; 60%; 15;" ""Very High"", ""65%""";
+7;"""Polluted City""";15%;" ""High""";" ""Once every 2 years"""; 8; 75; 7%; 0.5;" ""Low"", ""12%""";
+8;"""Nature Reserve""";40%;" ""Very Low""";" ""Never"""; 5.5; 0; 35%; 20;" ""High"", ""40%""";
+9;"""Urban Jungle""";30%;" ""High""";" ""Once a year"""; 7.2; 60; 15%; 1;" ""Medium"", ""20%""</s>";

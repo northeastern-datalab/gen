@@ -1,0 +1,11 @@
+;Rock Mass Classification;Uniaxial Compressive Strength;Tensile Strength;Young Modulus;Poisson's Ratio;Schmidt Hammer Hardness;Durability Index;Permeability Coefficient (darcy);Fracture Initiation Energy (Joules/square meter/meter, Brazier Crack);Seismic Microfissuring Intensity Scale (MIC, ASTM D5608 - ASTM D6750);Volcaniclastic Particle Size Classifications (including Phreatomagmatic Fragment Size Analysis);Relative Density of Mass;Dynamic Young Modulus (Linear Correlation with Pulse Velocity)
+0;" ""Class 3"; 65 MPa; 12 MPa; 35 GPa; 0.25; 50; 0.70; 1e-4 darcy; 50 J/m^2.m; 3 (Low Intensity); Medium Sand; 1.45 g/cm^3;" 45 GPa"""
+1;" ""Class 5"; 110 MPa; 18 MPa; 50 GPa; 0.30; 65; 0.85; 5e-5 darcy; 80 J/m^2.m; 2 (Moderate Intensity); Fine Sand; 1.60 g/cm^3;" 60 GPa"""
+2;" ""Class 2"; 40 MPa; 8 MPa; 28 GPa; 0.22; 45; 0.60; 2e-4 darcy; 30 J/m^2.m; 4 (High Intensity); Silt; 1.30 g/cm^3;" 30 GPa"""
+3;" ""Class 4"; 90 MPa; 15 MPa; 40 GPa; 0.28; 60; 0.80; 1e-4 darcy; 60 J/m^2.m; 2 (Moderate Intensity); Very Fine Sand; 1.70 g/cm^3;" 55 GPa"""
+4;" ""Class 6"; 150 MPa; 25 MPa; 65 GPa; 0.35; 70; 0.90; 5e-5 darcy; 100 J/m^2.m; 1 (Negligible Intensity); Coarse Sand; 1.90 g/cm^3;" 70 GPa"""
+5;" ""Class 1"; 25 MPa; 6 MPa; 18 GPa; 0.18; 35; 0.50; 3e-4 darcy; 20 J/m^2.m; 5 (Very High Intensity); Clay; 1.20 g/cm^3;" 20 GPa"""
+6;" ""Class 7"; 200 MPa; 35 MPa; 75 GPa; 0.40; 75; 0.95; 5e-5 darcy; 120 J/m^2.m; 1 (Negligible Intensity); Gravel; 2.10 g/cm^3;" 80 GPa"""
+7;" ""Class 8"; 250 MPa; 45 MPa; 85 GPa; 0.45; 80; 1.00; 3e-5 darcy; 150 J/m^2.m; 1 (Negligible Intensity); Cobbles; 2.30 g/cm^3;" 90 GPa"""
+8;" ""Phreatomagmatic"; 10 MPa; 2 MPa; 15 GPa; 0.15; 30; 0.40; 1e-3 darcy; 15 J/m^2.m; 6 (Extreme Intensity); Pyroclastic; Varied;" 1.0 g/cm^3  25 GPa"""
+9;" ""Ignimbrite"; 75 MPa; 12 MPa; 45 GPa; 0.25; 60; 0.80; 2e-4 darcy; 70 J/m^2.m; 3 (Low Intensity); Ash, Lapilli, and Blocks; 1.8 g/cm^3;" 55 GPa"""

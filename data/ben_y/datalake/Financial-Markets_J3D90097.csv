@@ -1,0 +1,11 @@
+;Commodity Prices;Treasury Yields;Bond Rating;Non-Farm Payrolls;Housing Starts;Retail Sales;Corporate Profits;Central Bank Policy;Public Debt to GDP;Trade Balance;Political Risk
+0;" ""Wheat: $40/bushel"; 1.65%; AAA; 250,000; 1,250,000; 3.2%; $2.15 trillion; Easing; 105%; -$42 billion;" Medium""  "
+1;"""Corn: $15/bushel"; 1.80%; AA; 265,000; 1,300,000; 3.8%; $1.97 trillion; Neutral; 110%; -$48 billion;" Medium""  "
+2;"""Soybeans: $20/bushel"; 1.95%; AA-; 240,000; 1,100,000; 2.9%; $2.31 trillion; Tightening; 98%; -$36 billion;" High""  "
+3;"""Oil: $72/barrel"; 2.20%; A; 225,000; 1,050,000; 4.1%; $1.76 trillion; Easing; 102%; -$50 billion;" Low""  "
+4;"""Natural Gas: $60/MMBtu"; 2.45%; AA+; 235,000; 1,200,000; 3.5%; $2.03 trillion; Neutral; 112%; -$39 billion;" Medium""  "
+5;"""Gold: $1,450/ounce"; 1.70%; AA; 255,000; 1,150,000; 3.0%; $2.29 trillion; Tightening; 95%; -$45 billion;" Low""  "
+6;"""Copper: $20/pound"; 1.75%; AA-; 245,000; 1,000,000; 2.7%; $2.22 trillion; Easing; 108%; -$41 billion;" High""  "
+7;"""Silver: $00/ounce"; 1.90%; A; 230,000; 1,100,000; 2.5%; $1.98 trillion; Neutral; 100%; -$37 billion;" Medium""  "
+8;"""Platinum: $1,100/ounce"; 2.05%; A+; 260,000; 1,250,000; 3.3%; $2.11 trillion; Tightening; 115%; -$44 billion;" Low""  "
+9;"""Palladium: $1,650/ounce"; 2.15%; AA; 240,000; 1,050,000; 3.6%; $2.35 trillion; Easing; 97%; -$40 billion;" High"" ."

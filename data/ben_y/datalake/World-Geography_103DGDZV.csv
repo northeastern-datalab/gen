@@ -1,0 +1,101 @@
+;"""City Name""";"""Metro Pop.""";" ""Timezone""";" ""CountryName""";" ""Continent""";" ""State or Province""";" ""Mean Elevation""";" ""Main Industry(ies)""";" ""Currency""";" ""Currency Code""";" ""Phone Prefix""+(""country code"")"
+0;" ""Santiago""";"""7046000""";"""UTC-4/-3""";"""Chile""";"""South America""";"""Santiago Metropolitan Region""";"""567 meters""";"""Manufacturing, mining, services""";"""Chilean Peso""";"""CLP""";"""56+2""+"
+1;"""Beijing""";"""21540000""";"""UTC+8""";"""China""";"""Asia""";"""Beijing""";"""43 meters""";"""Services, manufacturing, tourism""";"""Renminbi""";"""CNY""";"""86+10""+"
+2;"""Cairo""";"""21000000""";"""UTC+2""";"""Egypt""";"""Africa""";"""Cairo Governorate""";"""76 meters""";"""Tourism, retail, media, real estate""";"""Egyptian Pound""";"""EGP""";"""20+2""+"
+3;"""Moscow""";"""17430000""";"""UTC+3""";"""Russia""";"""Europe""";"""Moscow City""";"""156 meters""";"""Manufacturing, finance, real estate, retail""";"""Russian Ruble""";"""RUB""";"""7+9""+"
+4;"""Buenos Aires""";"""15400000""";"""UTC-3""";"""Argentina""";"""South America""";"""City of Buenos Aires""";"""25 meters""";"""Manufacturing, services, retail""";"""Argentine Peso""";"""ARS""";"""54+11""+"
+5;"""Osaka-Kobe""";"""19230000""";"""UTC+9""";"""Japan""";"""Asia""";"""Osaka, Hyogo""";"""10 meters""";"""Manufacturing, services, retail""";"""Japanese Yen""";"""JPY""";"""81+6""+"
+6;"""Mumbai""";"""20712000""";"""UTC+5:30""";"""India""";"""Asia""";"""Maharashtra""";"""14 meters""";"""Finance, IT, textiles, machinery""";"""Indian Rupee""";"""INR""";"""91+22""+"
+7;"""Paris""";"""12405000""";"""UTC+1""";"""France""";"""Europe""";"""Île-de-France""";"""35 meters""";"""Tourism, luxury goods, fashion, manufacturing""";"""Euro""";"""EUR""";"""33+1""+"
+8;"""Istanbul""";"""15390000""";"""UTC+3""";"""Turkey""";"""Europe""";"""İstanbul""";"""39 meters""";"""Tourism, manufacturing, retail, services""";"""Turkish Lira""";"""TRY""";"""90+212""+"
+9;"""São Paulo""";"""21846000""";"""UTC-3""";"""Brazil""";"""South America""";"""São Paulo""";"""799 meters""";"""Services, retail, manufacturing, finance""";"""Real""";"""BRL""";"""55+11""+"
+10;" ""Los Angeles""";"""18679000""";"""UTC-8""";"""United States""";"""North America""";"""California""";"""91 meters""";"""Entertainment, technology, tourism, international trade""";"""US Dollar""";"""USD""";"""1+1""+"
+11;"""Shanghai""";"""27058000""";"""UTC+8""";"""China""";"""Asia""";"""Shanghai""";"""4 meters""";"""Manufacturing, finance, retail, real estate, shipping""";"""Renminbi""";"""CNY""";"""86+151""+"
+12;"""Mumbai""";"""20711000""";"""UTC+5:30""";"""India""";"""Asia""";"""Maharashtra""";"""14 meters""";"""Finance, textiles, hospitality, telecommunications""";"""Indian Rupee""";"""INR""";"""91+22""+"
+13;"""Beijing""";"""21540000""";"""UTC+8""";"""China""";"""Asia""";"""Beijing""";"""44 meters""";"""Manufacturing, finance, technology, construction""";"""Renminbi""";"""CNY""";"""86+10""+"
+14;"""Cairo""";"""20500000""";"""UTC+2""";"""Egypt""";"""Africa""";"""Cairo""";"""75 meters""";"""Tourism, retail, construction, media""";"""Egyptian Pound""";"""EGP""";"""20+2""+"
+15;"""Mexico City""";"""21782000""";"""UTC-6""";"""Mexico""";"""North America""";"""Mexico City""";"""2240 meters""";"""Manufacturing, services, retail, tourism""";"""Mexican Peso""";"""MXN""";"""52+1""+"
+16;"""Osaka""";"""19281000""";"""UTC+9""";"""Japan""";"""Asia""";"""Osaka""";"""11 meters""";"""Manufacturing, services, retail, finance""";"""Japanese Yen""";"""JPY""";"""81+6""+"
+17;"""Dhaka""";"""21006000""";"""UTC+6""";"""Bangladesh""";"""Asia""";"""Dhaka""";"""10 meters""";"""Textiles, leather goods, shipbuilding, agriculture""";"""Bangladeshi Taka""";"""BDT""";"""880+162""+"
+18;"""Moscow""";"""17438000""";"""UTC+3""";"""Russia""";"""Europe""";"""Moscow""";"""156 meters""";"""Manufacturing, retail, services, finance""";"""Russian Ruble""";"""RUB""";"""7+9""+"
+19;"""Buenos Aires""";"""15581000""";"""UTC-3""";"""Argentina""";"""South America""";"""Buenos Aires""";"""25 meters""";"""Manufacturing, services, retail, agriculture""";"""Argentine Peso""";"""ARS""";"""54+11""+</s>"
+20; Istanbul;15519000;UTC+3;Turkey;Europe;Istanbul;55 meters;Manufacturing, retail, services, tourism;Turkish Lira;TRY;90+212
+21;São Paulo;22275000;UTC-3;Brazil;South America;São Paulo;760 meters;Manufacturing, services, retail, finance;Brazilian Real;BRL;55+11
+22;Seoul;25666000;UTC+9;South Korea;Asia;Seoul;34 meters;Manufacturing, services, retail, electronics;South Korean Won;KRW;82+82
+23;Mumbai;21687000;UTC+5:30;India;Asia;Maharashtra;8 meters;Manufacturing, services, retail, textiles;Indian Rupee;INR;91+91
+24;Beijing;21542000;UTC+8;China;Asia;Beijing;43 meters;Manufacturing, services, retail, technology;Chinese Yuan;CNY;86+10
+25;Cairo;21214000;UTC+2;Egypt;Africa;Cairo;67 meters;Manufacturing, retail, services, tourism;Egyptian Pound;EGP;20+20
+26;Los Angeles;18644000;UTC-8;United States;North America;California;46 meters;Manufacturing, services, retail, entertainment;United States Dollar;USD;1+1
+27;Osaka;19281000;UTC+9;Japan;Asia;Osaka;9 meters;Manufacturing, services, retail, electronics;Japanese Yen;JPY;81+81
+28;Shanghai;26317000;UTC+8;China;Asia;Shanghai;5 meters;Manufacturing, services, retail, technology;Chinese Yuan;CNY;86+10
+29;Lagos;21058000;UTC+1;Nigeria;Africa;Lagos;14 meters;Manufacturing, retail, services, construction;Nigerian Naira;NGN;234+1</s>
+30; Cairo;21682000;UTC+2;Egypt;Africa;Cairo;66 meters;Tourism, retail, construction, manufacturing;Egyptian Pound;EGP;20+2
+31;Mumbai;20712000;UTC+5:30;India;Asia;Maharashtra;14 meters;Manufacturing, services, retail, finance;Indian Rupee;INR;91+22
+32;São Paulo;21846507;UTC-3;Brazil;South America;São Paulo;760 meters;Services, retail, manufacturing, finance;Brazilian Real;BRL;55+11
+33;Buenos Aires;15433000;UTC-3;Argentina;South America;City of Buenos Aires;20 meters;Manufacturing, services, retail, agriculture;Argentine Peso;ARS;54+11
+34;Istanbul;15029274;UTC+3;Turkey;Asia/Europe;Istanbul;39 meters;Manufacturing, services, retail, tourism;Turkish Lira;TRY;90+212
+35;Moscow;17524495;UTC+3;Russia;Europe;Moscow;156 meters;Manufacturing, services, retail, finance;Russian Ruble;RUB;7+7
+36;Manila;1780148;UTC+8;Philippines;Asia;Metro Manila;6 meters;Manufacturing, services, retail, tourism;Philippine Peso;PHP;63+232
+37;Paris;12405426;UTC+1;France;Europe;Île-de-France;35 meters;Manufacturing, services, retail, tourism;Euro;EUR;33+1
+38;Lahore;11126285;UTC+5;Pakistan;Asia;Punjab;217 meters;Manufacturing, services, retail, agriculture;Pakistani Rupee;PKR;92+21
+39;Toronto;6192184;UTC-5;Canada;North America;Ontario;76 meters;Services, manufacturing, retail, finance;Canadian Dollar;CAD;1+1
+40; Santiago;7046278;UTC-4;Chile;South America;Santiago Metropolitan Region;567 meters;Manufacturing, services, retail, tourism;Chilean Peso;CLP;56+1
+41;Buenos Aires;15176018;UTC-3;Argentina;South America;City of Buenos Aires;20 meters;Manufacturing, services, retail, agriculture;Argentine Peso;ARS;54+1
+42;Mumbai;20712745;UTC+5:30;India;Asia;Maharashtra;14 meters;Manufacturing, services, retail, finance;Indian Rupee;INR;91+1
+43;Seoul;25663512;UTC+9;South Korea;Asia;Seoul;38 meters;Manufacturing, services, retail, electronics;South Korean Won;KRW;82+1
+44;Beijing;21542000;UTC+8;China;Asia;Beijing;43 meters;Manufacturing, services, retail, technology;Chinese Yuan;CNY;86+1
+45;Cairo;20500119;UTC+2;Egypt;Africa;Cairo Governorate;64 meters;Manufacturing, services, retail, tourism;Egyptian Pound;EGP;20+1
+46;Istanbul;15519165;UTC+3;Turkey;Europe/Asia;Istanbul;39 meters;Manufacturing, services, retail, tourism;Turkish Lira;TRY;90+1
+47;Moscow;17524797;UTC+3;Russia;Europe;Moscow;122 meters;Manufacturing, services, retail, finance;Russian Ruble;RUB;7+1
+48;São Paulo;22042925;UTC-3;Brazil;South America;São Paulo;760 meters;Manufacturing, services, retail, finance;Brazilian Real;BRL;55+1
+49;Jakarta;30357234;UTC+7;Indonesia;Asia;Special Capital Region of Jakarta;8 meters;Manufacturing, services, retail, trade;Indonesian Rupiah;IDR;62+1</s>
+50; Lahore;11126285;UTC+5;Pakistan;Asia;Punjab;213 meters;Textiles, leather goods, food processing, information technology;Pakistani Rupee;PKR;92+1
+51;Osaka;19281000;UTC+9;Japan;Asia;;34 meters;Manufacturing, services, retail, finance;Japanese Yen;JPY;81+1
+52;Cairo;20469359;UTC+2;Egypt;Africa;None;64 meters;Construction, petroleum, chemicals, textiles, food processing;Egyptian Pound;EGP;20+1
+53;Istanbul;14655125;UTC+3;Turkey;Europe/Asia;Istanbul;39 meters;Manufacturing, services, retail, finance, tourism;Turkish Lira;TRY;90+1
+54;Buenos Aires;15384201;UTC-3;Argentina;South America;City of Buenos Aires;20 meters;Manufacturing, services, retail, finance;Argentine Peso;ARS;54+1
+55;Mumbai;20434235;UTC+5:30;India;Asia;Maharashtra;14 meters;Manufacturing, services, retail, finance;Indian Rupee;INR;91+1
+56;Tehran;87281362;UTC+3:30;Iran;Asia;Tehran;1195 meters;Manufacturing, services, retail, finance;Iranian Rial;IRR;98+1
+57;Paris;12405658;UTC+1;France;Europe;Île-de-France;35 meters;Manufacturing, services, retail, finance, tourism;Euro;EUR;33+1
+58;Seoul;9981615;UTC+9;South Korea;Asia;Seoul;76 meters;Manufacturing, services, retail, finance;South Korean Won;KRW;82+1
+59;Baghdad;7265636;UTC+3;Iraq;Middle East;Baghdad;39 meters;Petroleum, chemicals, textiles, food processing;Iraqi Dinar;IQD;964+1</s>
+60; Lima;10156345;UTC-5;Peru;South America;Lima;154 meters;Manufacturing, mining, fishing, tourism;Peruvian Sol;PEN;51+1
+61;Tehran;8693960;UTC+3:30;Iran;Middle East;Tehran;1191 meters;Oil, gas, manufacturing, services;Iranian Rial;IRR;98+1
+62;Mexico City;21671033;UTC-6;Mexico;North America;Mexico City;2240 meters;Manufacturing, services, retail, tourism;Mexican Peso;MXN;52+1
+63;Cairo;20283625;UTC+2;Egypt;Africa;Cairo;60 meters;Construction, textiles, chemicals, tourism;Egyptian Pound;EGP;20+1
+64;Mumbai;20712535;UTC+5:30;India;Asia;Maharashtra;8 meters;Textiles, chemicals, machinery, trade;Indian Rupee;INR;91+1
+65;Jakarta;30355220;UTC+7;Indonesia;Asia;Jakarta;8 meters;Textiles, apparel, chemicals, electronics;Indonesian Rupiah;IDR;62+1
+66;Osaka-Kobe;19184664;UTC+9;Japan;Asia;Osaka, Hyogo;9 meters;Manufacturing, services, finance, trade;Japanese Yen;JPY;81+1
+67;São Paulo;21687582;UTC-3;Brazil;South America;São Paulo;760 meters;Services, retail, manufacturing, finance;Brazilian Real;BRL;55+1
+68;Manila;17801480;UTC+8;Philippines;Asia;Manila;13 meters;Electronics assembly, textiles, food and beverage, construction;Philippine Peso;PHP;63+1
+69;Istanbul;15305212;UTC+3;Turkey;Europe/Asia;Istanbul;39 meters;Manufacturing, services, tourism, construction, finance;Turkish Lira;TRY;90+1</s>
+70; Mumbai;20712744;UTC+5:30;India;Asia;Maharashtra;14 meters;Services, textiles, finance, IT, entertainment;Indian Rupee;INR;91+1
+71;Buenos Aires;15357000;UTC-3;Argentina;South America;City of Buenos Aires;20 meters;Manufacturing, services, shipping, banking, retail;Argentine Peso;ARS;54+1
+72;Cairo;20203409;UTC+2;Egypt;Africa;Cairo;86 meters;Tourism, textiles, food processing, construction, petroleum;Egyptian Pound;EGP;20+1
+73;Osaka;19281000;UTC+9;Japan;Asia;Osaka;5 meters;Manufacturing, services, finance, shipping, IT;Japanese Yen;JPY;81+1
+74;Moscow;17397000;UTC+3;Russia;Europe;Moscow City;156 meters;Manufacturing, services, retail, construction, IT;Russian Ruble;RUB;7+1
+75;Beijing;21540000;UTC+8;China;Asia;Beijing;43 meters;Manufacturing, services, retail, finance, IT;Chinese Yuan Renminbi;CNY;86+1
+76;Dhaka;21006400;UTC+6;Bangladesh;Asia;Dhaka;10 meters;Textiles, garments, shipping, IT, telecommunications;Bangladeshi Taka;BDT;880+1
+77;Lagos;21000800;UTC+1;Nigeria;Africa;Lagos;12 meters;Oil, gas, manufacturing, retail, services;Nigerian Naira;NGN;234+1
+78;Shenzhen;18430000;UTC+8;China;Asia;Guangdong;35 meters;Manufacturing, retail, services, finance, construction;Chinese Yuan Renminbi;CNY;86+1
+79;Lima;10310000;UTC-5;Peru;South America;Lima;161 meters;Services, manufacturing, mining, retail, construction;Peruvian Sol;PEN;51+1</s>
+80; Bogota;10216000;UTC-5;Colombia;South America;Bogota;2625 meters;Manufacturing, services, retail, construction, finance;Colombian Peso;COP;57+1
+81;Jakarta;31623000;UTC+7;Indonesia;Asia;Special Capital Region of Jakarta;8 meters;Services, manufacturing, retail, construction;Indonesian Rupiah;IDR;62+1
+82;Chennai;10153000;UTC+5:30;India;Asia;Tamil Nadu;6 meters;Manufacturing, services, retail, healthcare, information technology;Indian Rupee;INR;91+1
+83;Osaka;19185000;UTC+9;Japan;Asia;;10 meters;Manufacturing, services, retail, construction;Japanese Yen;JPY;81+1
+84;Buenos Aires;15381000;UTC-3;Argentina;South America;City of Buenos Aires;20 meters;Services, manufacturing, retail, construction, agriculture;Argentine Peso;ARS;54+1
+85;Istanbul;15260000;UTC+3;Turkey;Europe/Asia;Istanbul;39 meters;Manufacturing, services, retail, construction, tourism;Turkish Lira;TRY;90+1
+86;Moscow;20099000;UTC+3;Russia;Europe;Moscow;156 meters;Manufacturing, services, retail, construction;Russian Ruble;RUB;7+1
+87;Manila;17522000;UTC+8;Philippines;Asia;National Capital Region;13 meters;Services, retail, manufacturing, construction, healthcare;Philippine Peso;PHP;63+1
+88;Paris;12340000;UTC+1;France;Europe;Isle-de-France;33 meters;Services, retail, manufacturing, construction, tourism;Euro;EUR;33+1
+89;Lahore;11526000;UTC+5;Pakistan;Asia;Punjab;217 meters;Agriculture, manufacturing, retail, services, construction;Pakistani Rupee;PKR;92+1</s>
+90; Guangzhou;50873000;UTC+8;China;Asia;Guangdong;18 meters;Manufacturing, services, retail, construction, finance;Chinese Yuan;CNY;86+1
+91;São Paulo;22210000;UTC-3;Brazil;South America;São Paulo;760 meters;Services, retail, manufacturing, construction, finance;Real;BRL;55+1
+92;Mumbai;21636000;UTC+5:30;India;Asia;Maharashtra;14 meters;Services, retail, manufacturing, construction, health care;Indian Rupee;INR;91+1
+93;Seoul;20700000;UTC+9;South Korea;Asia;Seoul;34 meters;Services, retail, manufacturing, construction, finance;South Korean Won;KRW;82+1
+94;Mexico City;21670000;UTC-6;Mexico;North America;Mexico City;2240 meters;Services, retail, manufacturing, construction, tourism;Mexican Peso;MXN;52+1
+95;Cairo;20500000;UTC+2;Egypt;Africa;Cairo;51 meters;Services, retail, manufacturing, construction, tourism;Egyptian Pound;EGP;20+1
+96;Jakarta;30162000;UTC+7;Indonesia;Asia;Special Capital Region of Jakarta;8 meters;Services, retail, manufacturing, construction, finance;Indonesian Rupiah;IDR;62+1
+97;Osaka;19281000;UTC+9;Japan;Asia;Osaka;10 meters;Manufacturing, services, retail, construction, finance;Japanese Yen;JPY;81+1
+98;Istanbul;15519000;UTC+3;Turkey;Europe/Asia;Istanbul;39 meters;Services, retail, manufacturing, construction, tourism;Turkish Lira;TRY;90+1
+99;Nagoya;9573000;UTC+9;Japan;Asia;Aichi;15 meters;Manufacturing, services, retail, construction, finance;Japanese Yen;JPY;81+1</s>

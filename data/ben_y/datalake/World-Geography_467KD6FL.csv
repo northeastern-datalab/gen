@@ -1,0 +1,55 @@
+;Island Nation; Island Size (sq km); Coastline Length (kms); Number of Islands; Coastal Population; Island Climate; Highest Elevation; Number of Languages Spoken; Main Industries; Population Trend; Time Zone; Currency; Internet Penetration; International Tourist Arrivals; Landmarks
+0; ;Bahamas;13,940;3,529;700;Subtropical;Mt Alvernia (63m);2;Tourism, Finance;Growing;Eastern Standard Time;Bahamian Dollar;61.0%;1.3 million;Atlantis Resort, Grand Bahama Island 
+1;.;Philippines;300,000;36,289;7,641;Tropical;Mt Apo (2,954m);80;Electronics, Agriculture;Steady;Philippine Standard Time;Philippine Peso;67.0%;6.6 million;Rizal Park, Chocolate Hills 
+2;.;Japan;377,973;29,751;6,852;Humid Subtropical/Continental;Mt Fuji (3,776m);12;Automobiles, Electronics;Steady;Japan Standard Time;Japanese Yen;92.0%;24 million;Mt Fuji, Himeji Castle 
+3;.;Indonesia;1,904,569;54,716;17,508;Tropical;Puncak Jaya (4,884m);725;Oil, Gas, Textiles;Growing;Indonesia Western Standard Time;Indonesian Rupiah;57.0%;10.4 million;Borobudur, Komodo National Park 
+4;.;Madagascar;587,041;4,828;5;Subtropical;Maromokotro (2,876m);18;Agriculture, Mining;Steady;Eastern African Time;Malagasy Ariary;17.0%;278,000;Avenue of the Baobabs, Tsingy de Bemaraha 
+5;.;New Zealand;268,021;15,134;2;Oceanic;Mt Cook (3,754m);3;Agriculture, Tourism;Steady;New Zealand Standard Time;New Zealand Dollar;89.0%;3.1 million;Milford Sound, Bay of Islands 
+6;.;United Kingdom;242,495;12,429;5;Temperate;Ben Nevis (1,345m);1;Finance, Manufacturing;Steady;Greenwich Mean Time;British Pound;95.0%;31.2 million;Big Ben, Tower of London 
+7;.;Ireland;84,421;5,358;5;Temperate;Carrauntoohil (1,038m);1;Information Technology, Agriculture;Steady;Irish Standard Time;Euro;82.0%;8.9 million;Cliffs of Moher, Ring of Kerry 
+8;.;Sri Lanka;65,610;1,340;8;Tropical;Pidurutalagala (2,524m);3;Tea, Textiles;Steady;Sri Lanka Standard Time;Sri Lankan Rupee;36.0%;2.1 million;Sigiriya, Temple of the Tooth 
+9;.;Cuba;110,860;3,735;4;Tropical;Pico Turquino (1,974m);1;Tourism, Sugar;Steady;Cuba Standard Time;Cuban Peso;54.0%;3.5 million;Havana Malecón, Che Guevara Mausoleum </s>
+10; .;Bahamas;13,878;3,542;30;Tropical;Mount Alvernia (63m);1;Tourism, Finance;Steady;Eastern Standard Time;Bahamian Dollar;64.6%;1.3 million;Atlantis Paradise Island, Grand Bahama Island 
+11;.;Philippines;300,000;36,289;7,107;Tropical;Mount Apo (2,954m);8;Electronics, Agriculture;Steady;Philippine Standard Time;Philippine Peso;62.0%;5.9 million;Rizal Park, Mayon Volcano 
+12;.;Japan;377,930;29,751;6,852;Temperate;Mount Fuji (3,776m);8;Automobiles, Electronics;Steady;Japan Standard Time;Japanese Yen;91.0%;21.6 million;Mount Fuji, Hiroshima Peace Memorial 
+13;.;Indonesia;1,910,931;54,716;17,508;Tropical;Puncak Jaya (4,884m);707;Manufacturing, Oil;Steady;Western Indonesian Time;Indonesian Rupiah;57.0%;10.4 million;Borobudur, Komodo National Park 
+14;.;Papua New Guinea;462,840;5,150;6,000;Equatorial;Mount Wilhelm (4,509m);836;Agriculture, Mining;Steady;Papua New Guinea Time;Papua New Guinean Kina;13.0%;1.4 million;Kokoda Track, Milne Bay 
+15;.;United Kingdom;242,495;12,429;1;Temperate;Ben Nevis (1,345m);1;Finance, Services;Steady;Greenwich Mean Time;British Pound;93.0%;29.3 million;Big Ben, Tower of London 
+16;.;New Zealand;268,021;15,134;600;Temperate;Aoraki/Mount Cook (3,754m);3;Agriculture, Tourism;Steady;New Zealand Standard Time;New Zealand Dollar;84.0%;4.4 million;Milford Sound, Bay of Islands 
+17;.;Madagascar;587,041;4,828;5;Tropical;Maromokotra (2,876m);18;Agriculture, Forestry;Steady;East Africa Time;Malagasy Ariary;15.0%;23.2 million;Avenue of the Baobabs, Tsingy de Bemaraha Strict Nature Reserve 
+18;.;Canada;9,984,670;202,080;52;Various;Mount Logan (5,959m);41;Mining, Services;Increasing;Eastern Standard Time, Pacific Standard Time, and others;Canadian Dollar;90.0%;35.2 million;Niagara Falls, Banff National Park 
+19;.;Australia;7,688,287;36,735;8,222;Various;Mount Kosciuszko (2,228m);13;Mining, Agriculture;Steady;Australian Eastern Standard Time, others;Australian Dollar;68.0%;22.3 million;Great Barrier Reef, Sydney Opera House </s>
+20; .;Papua New Guinea;462,840;5,152;6;Tropical;Mount Wilhelm (4,509m);836;Agriculture, Forestry;Steady;Papua New Guinea Time;Papua New Guinean Kina;11.0%;7.3 million;Milne Bay, Kokoda Track 
+21;.;Cuba;110,860;3,735;4;Tropical;Pico Turquino (1,974m);3;Sugar, Tourism;Steady;Cuba Standard Time;Cuban Peso;54.0%;3 million;Havana, Varadero Beach 
+22;.;Philippines;300,000;36,289;7,107;Tropical;Mount Apo (2,954m);175;Electronics, Agriculture;Steady;Philippine Standard Time;Philippine Peso;42.0%;5.9 million;Boracay, Chocolate Hills 
+23;.;Indonesia;1,904,569;54,720;17,508;Tropical;Puncak Jaya (4,884m);742;Oil, Gas;Steady;Indonesia Western Standard Time, others;Indonesian Rupiah;53.0%;10.2 million;Bali, Komodo National Park 
+24;.;Japan;377,915;29,751;6,852;Various;Fuji (3,776m);12;Technology, Fishing;Steady;Japan Standard Time;Japanese Yen;92.0%;23.1 million;Mt. Fuji, Tokyo Skytree 
+25;.;Ireland;84,421;3,171;7;Temperate;Carrauntoohil (1,038m);1;Technology, Agriculture;Steady;Irish Standard Time;Euro;88.0%;4.8 million;Cliffs of Moher, Ring of Kerry 
+26;.;New Zealand;267,710;15,134;6;Temperate;Aoraki/Mount Cook (3,754m);4;Agriculture, Tourism;Steady;New Zealand Standard Time;New Zealand Dollar;89.0%;4.4 million;Milford Sound, Bay of Islands 
+27;.;Iceland;103,000;4,970;1;Arctic;Hvannadalshnjúkur (2,109m);2;Fishing, Tourism;Steady;Greenwich Mean Time, Summer Time;Icelandic Króna;99.0%;3.3 million;Blue Lagoon, Northern Lights 
+28;.;United Kingdom;242,495;12,429;1;Temperate;Ben Nevis (1,345m);1;Financial Services, Manufacturing;Steady;Greenwich Mean Time, British Summer Time;Pound Sterling;93.0%;65.6 million;Big Ben, Stonehenge 
+29;.;Greece;131,940;13,676;6;Mediterranean;Mount Olympus (2,918m);2;Tourism, Shipping;Steady;Eastern European Time, Eastern European Summer Time;Euro;70.0%;10.7 million;Acropolis, Santorini.</s>
+30; .;Philippines;300,000;36,289;7,641;Tropical;Mount Apo (2,954m);80;Electronics, Agriculture;Steady;Philippine Peso;67.0%;8.9 million;Boracay, Rice Terraces;
+31;.;Indonesia;1,904,569;54,720;17,508;Equatorial;Puncak Jaya (4,884m);725;Oil, Textiles;Steady;Indonesia Central Time, Indonesia Western Standard Time;Indonesian Rupiah;52.0%;15.8 million;Bali, Komodo 
+32;.;New Zealand;268,021;15,134;2;Temperate;Aoraki/Mount Cook (3,754m);3;Agriculture, Tourism;Steady;New Zealand Standard Time;New Zealand Dollar;89.0%;3.8 million;Fiordland, Milford Sound 
+33;.;Japan;377,930;29,751;6,852;Humid Subtropical;Mount Fuji (3,776m);8;Manufacturing, Technology;Steady;Japan Standard Time;Japanese Yen;94.0%;27.8 million;Mount Fuji, Tokyo Skytree 
+34;.;Ireland;84,421;5,220;7;Temperate;Carrauntoohil (1,041m);1;Technology, Agriculture;Steady;Irish Standard Time;Euro;88.0%;4.9 million;Cliffs of Moher, Blarney Castle 
+35;.;Madagascar;587,041;4,828;5;Tropical;Maromokotro (2,876m);23;Agriculture, Forestry;Steady;East Africa Time;Malagasy Ariary;11.0%;2.8 million;Avenue of the Baobabs, Tsingy 
+36;.;Cuba;110,860;3,735;4;Tropical;Pico Turquino (1,975m);1;Tourism, Sugar;Steady;Cuba Standard Time;Cuban Peso;58.0%;4.2 million;Havana, Trinidad 
+37;.;Maldives;300;1,192;26;Tropical;Vilingili (5m);1;Tourism, Fishing;Steady;Maldives Time;Maldivian Rufiyaa;68.0%;1.3 million;Malé, Utheemu 
+38;.;Bahamas;13,880;3,592;700;Tropical;Mount Alvernia (63m);1;Tourism, Finance;Steady;Eastern Standard Time;Bahamian Dollar;67.0%;0.7 million;Atlantis Paradise, Pig Beach 
+39;.;Seychelles;459;491;115;Tropical;Morne Seychellois (905m);3;Tourism, Fishing;Steady;Seychelles Time;Seychellois Rupee;71.0%;0.1 million;Anse Source d'Argent, Vallée de Mai.</s>
+40; .;Singapore;716;193;5.6;Tropical;Furama (166m);4;Finance, Shipping;Growing;Singapore Time;Singapore Dollar;88.0%;18.5 million;Marina Bay Sands, Sentosa Island
+41;.;Palau;459;1,519;21;Tropical;Mount Ngerchelchuus (242m);10;Tourism, Fishing;Steady;Palau Time;US Dollar;57.0%;97,000;Rock Islands, Jellyfish Lake
+42;.;Cook Islands;240;120;17;Tropical;Te Manga (652m);6;Tourism, Agriculture;Steady;Cook Islands Time;New Zealand Dollar;58.0%;0.1 million;Aitutaki Lagoon, Muri Beach
+43;.;Fiji;18,376;1,129;332;Tropical;Mount Tomanivi (1,324m);330;Tourism, Agriculture;Steady;Fiji Time;Fijian Dollar;54.0%;0.8 million;Sabeto Mud Pool, Garden of the Sleeping Giant
+44;.;Saint Kitts and Nevis;261;254;56;Tropical;Liamuiga (1,156m);2;Tourism, Financial Services;Steady;Atlantic Standard Time;Eastern Caribbean Dollar;60.0%;0.1 million;Brimstone Hill Fortress, Bloody Point
+45;.;São Tomé and Príncipe;964;209;6;Tropical;Pico de São Tomé (2,024m);2;Agriculture, Tourism;Steady;São Tomé Time;São Tomé and Príncipe Dobra;40.0%;0.1 million;Obó National Park, Pico Cão Grande
+46;.;Bahrain;760;1,619;1.5;Desert;Jabal ad Dukhan (134m);1;Oil, Finance;Steady;Arabia Standard Time;Bahraini Dinar;98.0%;1.7 million;Bahrain World Trade Center, Al-Fateh Grand Mosque
+47;.;Malta;316;1,293;0.4;Mediterranean;Ta' Dmejrek (253m);2;Tourism, Financial Services;Steady;Central European Time;Euro;83.0%;0.5 million;Blue Lagoon, Hagar Qim
+48;.;Cyprus;9,251;648;1;Mediterranean;Olympus (1,952m);2;Tourism, Finance;Steady;Eastern European Time;Euro;82.0%;3.9 million;Tombs of the Kings, Kato Paphos Archaeological Park
+49;.;Iceland;103,000;4,970;1;Arctic;Hvannadalshnjúkur (2,109m);1;Fishing, Tourism;Steady;Greenwich Mean Time;Icelandic Króna;99.0%;0.4 million;Blue Lagoon, Gullfoss.</s>
+50; .;Seychelles;459;491;154;Tropical;Morne Seychellois (905m);3;Fishing, Tourism;Steady;Seychelles Time;Seychellois Rupee;61.0%;0.2 million;Anse Source d'Argent, Aldabra Atoll
+51;.;Bahamas;13,880;3,542;389,482;Subtropical;Mount Alvernia (63m);1;Tourism, Finance;Steady;Eastern Standard Time;Bahamian Dollar;67.0%;7.2 million;Atlantis Paradise Island, Blue Lagoon Island
+52;.;Maldives;300;644;515,696;Tropical;Vilingili (5m);1;Tourism, Fishing;Steady;Maldives Time;Maldivian Rufiyaa;68.0%;1.5 million;Male Friday Mosque, HP Reef
+53;.;Philippines;300,00</s>;;;;;;;;;;;;

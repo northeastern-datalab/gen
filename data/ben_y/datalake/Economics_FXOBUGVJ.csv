@@ -1,0 +1,12 @@
+;fiscalyear; economicindicator; globalmarketshare percentage; inflation rate; unemployment rate; trade balance ($ billion); exchange rate vs USD index; Gini coefficient; consumer price index; interest rate (treasury 6 month); business confidence index score; retail sales ($ billion, quarterly); public debt (% of GDP); private debt per capita ($)
+0;fiscalyear;economicindicator;globalmarketshare percentage;inflation rate;unemployment rate;trade balance ($ billion);exchangerate vs USD index;Gini coefficient;consumer price index;interest rate (treasury 6 month);business confidence index score;retailsales ($ billion, quarterly);public debt (% of GDP);private debt per capita ($)
+1;2021;GDP;22.3%;2.5%;4.2%;150;95.2;42.6;213.5;0.9%;56.1;872;101;34560
+2;2022;Unemployment Rate;n/a;3.2%;5.1%;-20;98.5;43.1;218.3;1.1%;58.4;901;105;36489
+3;2023;Inflation Rate;n/a;2.8%;4.7%;-50;96.9;42.9;212.4;0.8%;61.2;954;110;38976
+4;2024;Trade Balance;n/a;n/a;n/a;45;97.4;43.3;216.1;1.0%;59.7;921;112;39865
+5;2025;Exchange Rate;n/a;n/a;n/a;-15;100.3;42.8;214.7;0.7%;57.8;888;108;37652
+6;2026;Gini Coefficient;n/a;n/a;n/a;-30;99.1;45.4;220.4;1.3%;60.5;976;115;41101
+7;2027;Consumer Price Index;n/a;n/a;n/a;-22;96.4;43.7;219.3;1.2%;56.3;859;110;39865
+8;2028;Interest Rate;n/a;n/a;n/a;-18;95.8;42.3;209.6;0.6%;54.9;834;106;37223
+9;2029;Business Confidence Index Score;n/a;n/a;n/a;21;101.6;43.9;217.5;1.1%;57.5;866;109;38637
+10;2030;Retail Sales;n/a;n/a;n/a;12;98.6;44.1;222.1;1.4%;59.3;945;113;42046

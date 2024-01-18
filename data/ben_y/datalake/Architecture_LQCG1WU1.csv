@@ -1,0 +1,11 @@
+;Number Of Floors; Main Material Used; NumberOfRooms; Energy Consumption Profile; Fire Safety Measures; Green Spaces Integration; Structural Innovations Used; Height From Ground Level; Heritage Renovation Status; Building Use Type
+0; 12; Concrete, Glass; 45; Low Energy Consumption; Automated Fire Sprinklers, Smoke Detectors; Rooftop Garden, Vertical Gardens; Earthquake Resistant Structure; 50m; Not a Heritage Building; Office Building
+1;7; Steel, Glass; 30; Medium Energy Consumption; Fire Alarms, Fire Extinguishers; Green Roof; Hybrid Mass Timber System; 35m; Renovated Heritage Building; Mixed Use Building
+2;6; Wood; 20; High Energy Consumption; Fire Alarms, Fire Extinguishers; Small Backyard Garden; Conventional Structure; 20m; Not a Heritage Building; Single Family House
+3;200; Concrete, Steel; 2000; Very High Energy Consumption; Comprehensive Fire Safety System; Large Rooftop Gardens; Exoskeleton Structural System; 300m; Not a Heritage Building; Multipurpose Skyscraper
+4;4; Stone, Wood; 10; Low Energy Consumption; Fireplace, Smoke Detectors; Small Private Courtyard; Traditional Post-and-Beam Structure; 6m; Not a Heritage Building; Residential Cottage
+5;8; Concrete, Glass; 50; Medium Energy Consumption; Automated Fire Sprinklers, Smoke Detectors; Indoor Garden Atrium; Modular Structural System; 28m; Renovated Heritage Building; School Building
+6;10; Brick, Stone; 35; Low Energy Consumption; Fire Alarms, Fire Extinguishers; Green Roof, Small Rooftop Garden; Hybrid Timber and Masonry Structure; 12m; Not a Heritage Building; Community Center
+7;5; Glass, Aluminum; 25; High Energy Consumption; Smoke Detectors, Fire Extinguishers; Small Indoor Plants; Tubular Structural System; 18m; Not a Heritage Building; Shopping Mall
+8;30; Concrete, Steel; 1000; Very High Energy Consumption; Advanced Fire Safety System; Large Rooftop Garden; Diagrid Structural System; 100m; Not a Heritage Building; Industrial Building
+9;1; Wood; 5; Low Energy Consumption; Fireplace, Smoke Detectors; Small Backyard Garden; Traditional Timber Frame Structure; 4m; Not a Heritage Building; Shed or Small Storage Building</s>

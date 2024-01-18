@@ -1,0 +1,11 @@
+;Rock Type; Mineral Composition; Age (Million Years); Formation Location; Rock Density; Porosity; Permeability; Shear Strength; Compressive Strength; Tensile Strength
+0;  Igneous; Feldspar, Quartz, Biotite; 1200; Mid-Atlantic Ridge; 2.76 g/cm^3; 1%; Low; 5 MPa; 120 MPa; 7 MPa
+1; Sedimentary; Calcite, Silica, Clay; 250; Gulf of Mexico; 2.6 g/cm^3; 40%; High; 0.5 MPa; 10 MPa; 2 MPa
+2; Metamorphic; Garnet, Mica, Feldspar; 400; Appalachian Mountains; 3.1 g/cm^3; 5%; Low; 8 MPa; 200 MPa; 12 MPa
+3; Igneous; Pyroxene, Olivine, Plagioclase; 150; East African Rift; 3.3 g/cm^3; 0%; Very Low; 10 MPa; 300 MPa; 15 MPa
+4; Sedimentary; Gypsum, Quartz, Calcite; 100; Permian Basin; 2.3 g/cm^3; 50%; High; 1 MPa; 20 MPa; 4 MPa
+5; Metamorphic; graphite, garnet, mica; 1000; Himalayas; 2.2 g/cm^3; 10%; Low; 2 MPa; 150 MPa; 8 MPa
+6; Igneous; Amphibole, Plagioclase, Quartz; 500; Andes Mountains; 3 g/cm^3; 1%; Low; 6 MPa; 250 MPa; 10 MPa
+7; Sedimentary; Limestone, Dolomite, Quartz; 200; Florida Platform; 2.7 g/cm^3; 30%; High; 1.5 MPa; 35 MPa; 6 MPa
+8; Metamorphic; Kyanite, Muscovite, Quartz; 450; Canadian Shield; 2.9 g/cm^3; 2%; Low; 4 MPa; 180 MPa; 10 MPa
+9; Igneous; Obsidian, SiO2; 0.01; Pacific Ring of Fire; 2.35 g/cm^3; 0%; Very Low; 5 MPa; 100 MPa; 6 MPa

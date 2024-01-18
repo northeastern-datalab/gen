@@ -1,0 +1,11 @@
+;ConservationistCount; EndangeredSpeciesRatio; VolcanoesActive; ForestAreaKm2; BiodiversityIndex; AvgTemperature_C; AvgRainfall_mm; SoilHealthIndex; PollutionLevel; PopulationDensity; OtherMetric
+0;1; 5000; 0.15; 12000; 7.8; 15.5; 900; 6.2; 45; 300; HealthyEcosystems
+1;2; 3000; 0.20; 8000; 7.2; 13.0; 1200; 5.8; 50; 500; RenewableEnergyUsage
+2;3; 4000; 0.10; 10000; 8.1; 14.5; 700; 6.5; 60; 400; RecyclingRates
+3;4; 6000; 0.18; 7000; 7.6; 12.0; 1000; 5.6; 40; 600; WildlifeProtectionLaws
+4;5; 2000; 0.25; 5000; 6.9; 18.0; 1500; 4.8; 70; 700; PlasticUsageReduction
+5;6; 7000; 0.12; 15000; 8.5; 9.5; 500; 7.0; 30; 200; TreePlantingCampaigns
+6;7; 3500; 0.17; 9000; 7.3; 13.5; 800; 6.0; 55; 450; ConservationFunding
+7;8; 5500; 0.16; 11000; 7.7; 12.5; 1100; 5.5; 42; 320; SustainableFarmingPractices
+8;9; 2500; 0.22; 6000; 7.0; 20.0; 2000; 4.5; 75; 800; WaterConservationEfforts
+9;10; 4500; 0.13; 13000; 8.3; 10.0; 600; 6.8; 35; 350; ClimateChangeMitigationEfforts</s>

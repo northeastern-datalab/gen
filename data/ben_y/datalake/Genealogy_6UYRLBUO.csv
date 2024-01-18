@@ -1,0 +1,11 @@
+;CensusYear; StateAbbreviation; CountyName; CityOrTown; TotalPopulation; NativeAmericanPopulation; AfricanAmericanPopulation;" ""WhitePopulation"""; AsianPopulation;" ""Hispanic/LatinoPop."""; HouseholdSizeAvg; MedianHouseValue; AvgGenerationalStatusInFamily
+0; 1850; NY; Albany; New York City; 515,547; 354; 10,921; 497,200; 543; 4,804; 4.5; 2,000; 1.2
+1;1860; VA; Fairfax; Alexandria; 12,609; 30; 4,062; 7,475; 48; 569; 4.3; 1,500; 1.4
+2;1870; CA; Los Angeles; Los Angeles City; 5,728; 55; 407; 4,730; 551; 330; 4.8; 1,000; 1.6
+3;1880; TX; Harris; Houston City; 24,275; 112; 5,169; 16,022; 702; 2,272; 4.9; 1,100; 1.9
+4;1890; OH; Franklin; Columbus City; 48,207; 165; 6,112; 37,476; 961; 3,553; 4.7; 1,300; 2
+5;1900; IL; Cook; Chicago City; 1,698,575; 1,682; 59,676; 1,544,671; 31,979; 102,601; 4.5; 2,000; 1.7
+6;1910; MA; Suffolk; Boston City; 670,585; 494; 24,023; 584,882; 33,703; 117,433; 4.4; 2,515; 1.8
+7;1920; NY; New York; New York City (Five Boroughs)	2,213,512; 908; 52,033; 1,934,425; 181,960; 405,191; 4.5; 3,500; 1.8;
+8;1930; PA; Philadelphia; Philadelphia City	1,962,407; 789; 72,596; 1,562,460; 183,822; 132,740; 4.8; 4,300; 1.9;
+9;1940; MI; Wayne; Detroit City	1,849,568; 554; 106,494; 1,491,609; 88,528; 116,384; 4.6; 4,100; 1.9 ;

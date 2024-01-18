@@ -1,0 +1,11 @@
+;Theater Type; Capacity ; Construction Year; Style Architecture; Stage Dimensions; Seating Layout; Average Ticket Price; Operates; Genre Preference; Frequent Collaborators; Notable Productions
+0;"  ""Proscenium Theater"; 1200; 1928; Art Deco; 40ft x 30ft; Sloped Floor; $45; Yes; Musicals; Local Orchestras, Dance Companies;" Phantom of the Opera"""
+1;" ""Thrust Theater"; 650; 1962; Brutalist; 35ft x 50ft; Three-Quarter Round; $38; Yes; Dramas; Regional Theater Companies;" Hamlet"""
+2;" ""Black Box Theater"; 200; 2005; Modern; Variable; Flat Floor; $25; Yes; Experimental; Avant-Garde Troupes;" Diverse premieres"""
+3;" ""Open Air Theater"; 3500; 1850; Greek Revival; Huge; Festival Seating; $20; Seasonal; Opera, Ballet; World-renowned companies;" Aida"""
+4;" ""Civic Theater"; 2800; 1930; Beaux-Arts; 60ft x 40ft; Continental; $50; Yes; Broadway Shows; National Tours;" Les Miserables"""
+5;" ""Experimental Theater"; 150; 1975; Postmodern; Variable; Terraced; $22; Yes; Avant-Garde, Experimental; Local Universities;" Site-specific works"""
+6;" ""Film Theater"; 500; 1980; International; 40ft x 25ft; Continental; $10; Yes; Indie Films; Film Festivals;" Oscar-nominated films"""
+7;" ""Children's Theater"; 400; 2000; Storybook; 30ft x 30ft; Tiered; $15; Yes; Family-friendly shows; School field trips;" fairy tales"""
+8;" ""Dinner Theater"; 450; 1985; Neo-Classical; 40ft x 30ft; Cabaret; $80; Yes; Musicals, Comedies; Touring productions;" Interactive dining"""
+9;" ""Studio Theater"; 100; 2010; Contemporary; Variable; Flat Floor; $18; Yes; New Plays, Readings; Local Playwrights;" Minimalist staging""</s>"

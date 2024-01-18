@@ -1,0 +1,12 @@
+;time\_period; variable\_type; Gross\_domestic\_product(GT,\_$ billions); Net\_domestic\_product(NT,\_$ billions); industry\_code; country\_name; state\_abbreviation; population\_size; data\_source; sample\_description; inflation\_rate
+0;" ""time\_period"; variable\_type; Gross\_domestic\_product(GT, \_$ billions); Net\_domestic\_product(NT, \_$ billions); industry\_code; country\_name; state\_abbreviation; population\_size; data\_source; sample\_description;" inflation\_rate"""
+1;"""2020 Q1"; actual; 21.032; 20.345; 11; United States; NA; 331002651; World Bank;" National accounts data, GDP at market prices, current USD., 1.8%""";
+2;"""2020 Q2"; actual; 19.456; 18.543; 11; United States; NA; 331002651; World Bank;" National accounts data, GDP at market prices, current USD., 1.4%""";
+3;"""2020 Q3"; actual; 20.123; 19.156; 12; United States; NA; 331002651; World Bank;" National accounts data, GDP at market prices, current USD., 1.6%""";
+4;"""2020 Q4"; forecast; 21.564; 20.647; 11; United States; NA; 331002651; IMF;" World Economic Outlook, GDP at market prices, current USD., 1.9%""";
+5;"""2021 Q1"; forecast; 22.345; 21.432; 11; United States; NA; 332003015; IMF;" World Economic Outlook, GDP at market prices, current USD., 2.0%""";
+6;"""2021 Q2"; forecast; 23.456; 22.543; 12; United States; NA; 332003015; IMF;" World Economic Outlook, GDP at market prices, current USD., 2.1%""";
+7;"""2021 Q3"; forecast; 24.123; 23.156; 11; United States; NA; 332003015; IMF;" World Economic Outlook, GDP at market prices, current USD., 2.2%""";
+8;"""2021 Q4"; forecast; 25.564; 24.647; 12; United States; NA; 332003015; IMF;" World Economic Outlook, GDP at market prices, current USD., 2.3%""";
+9;"""2022 Q1"; projection; 26.345; 25.432; 11; United States; NA; 333003379; OECD;" Economic Outlook, GDP at market prices, current USD., 2.4%""";
+10;"""2022 Q2"; projection; 27.456; 26.543; 12; United States; NA; 333003379; OECD;" Economic Outlook, GDP at market prices, current USD., 2.5%""</s>";

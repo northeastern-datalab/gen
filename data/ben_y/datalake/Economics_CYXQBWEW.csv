@@ -1,0 +1,12 @@
+;economic indicators; inflation rate percent; unemployment rate percent; interest rates baseline (%); exchange rates (local currency per US dollar); consumer price index (CPJ); gross domestic product deflator; business confidence (); export volume (${constant} billions); import value ($ current millions); labor productivity ($/hour); human development Index (max score = 3); data source; notes; date acquired
+0;" ""Economic Indicators"; Inflation Rate Percent; Unemployment Rate Percent; Interest Rates Baseline (%); Exchange Rates (Local Currency per US Dollar); Consumer Price Index (CPI); Gross Domestic Product Deflator; Business Confidence; Export Volume (${Constant} Billions); Import Value ($ Current Millions); Labor Productivity ($/Hour); Human Development Index (max score = 3); Data Source; Notes;" Date Acquired"""
+1;"""5"; 4.2; 2.75; 1.5; 0.8234; 125.6; 122.3; 65; 105.4; 187542.1; 32.6; 0.895; World Bank; n/a;" 2022-03-03"""
+2;"""1"; 6.1; 3.25; 2.2; 1.1022; 130.8; 127.4; 58; 112.9; 215600.8; 35.2; 0.872; International Monetary Fund; n/a;" 2022-03-03"""
+3;"""8"; 3.9; 1.75; 1.0; 0.7568; 120.5; 118.1; 70; 118.3; 194651.5; 40.1; 0.910; OECD; n/a;" 2022-03-03"""
+4;"""6"; 8.7; 5.25; 3.0; 1.3890; 142.9; 140.1; 42; 96.7; 168723.9; 28.6; 0.785; Local Statistics Agency; Seasonally Adjusted;" 2022-03-03"""
+5;"""9"; 5.6; 4.25; 2.5; 0.9965; 138.3; 135.6; 54; 108.8; 201201.6; 36.8; 0.850; Federal Reserve; Consensus Estimate;" 2022-03-03"""
+6;"""2"; 2.4; 0.75; 0.5; 0.6547; 112.0; 110.3; 85; 132.1; 232156.4; 48.3; 0.935; European Central Bank; Preliminary Estimate;" 2022-03-03"""
+7;"""6"; 7.3; 2.75; 1.7; 1.2386; 148.2; 145.6; 68; 89.6; 157209.9; 25.9; 0.815; Asian Development Bank; Revised Data;" 2022-03-03"""
+8;"""5"; 4.8; 2.25; 1.2; 0.5263; 108.9; 106.4; 73; 124.8; 226986.2; 38.5; 0.905; Central Bank; Final Data;" 2022-03-03"""
+9;"""9"; 6.8; 3.75; 2.0; 1.0855; 135.0; 132.5; 51; 110.2; 199610.5; 33.4; 0.860; United Nations; Provisional Data;" 2022-03-03"""
+10;"""2"; 3.8; 2.00; 1.1; 0.7128; 123.6; 121.4; 69; 101.5; 178445.8; 45.6; 0.920; Reserve Bank; Adjusted Data;" 2022-03-03""</s>"

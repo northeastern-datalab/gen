@@ -1,0 +1,11 @@
+;Photographer Name; Photo ID; Shoot Location; Time Spent Shooting; Photo Shoot Type; Lenses Used; Flash Status; Equipment Condition; Post Processing Software; Noise Reduction Applied; Color Correction Applied; Image Orientation; Print Size; Final Image Format.
+0;  Phillips, John; P001; Central Park, NY; 3 hours; Engagement Shoot; Canon 5D Mark IV, 35mm f/1.4L; On, Excellent; Adobe Lightroom, Photoshop; Lightroom, Strong; Photoshop, Medium; Horizontal; 8x10; JPEG;
+1; Lee, Jenny; P002; Golden Gate Bridge, CA; 2 hours; Landscape; Nikon D850, 14-24mm f/2.8; Off, Good; Adobe Lightroom, Photoshop; None, N/A; Photoshop, Subtle; Vertical; 12x18; TIFF;
+2; Kim, Jason; P003; Eiffel Tower, Paris; 1.5 hours; Travel; Sony A7R IV, 24-70mm f/2.8; On, Excellent; Capture One, Photoshop; Lightroom, Strong; Photoshop, Medium; Square; 5x5; PNG;
+3; Chen, Emily; P004; Taj Mahal, India; 4 hours; Architectural; Canon EOS R, 16-35mm f/2.8; Off, Good; Adobe Lightroom, Photoshop; None, N/A; Photoshop, Subtle; Horizontal; 16x24; JPEG;
+4; Patel, Neha; P005; Northern Lights, Norway; 3 hours; Night Sky; Nikon Z6, 20mm f/1.8; On, Good; Adobe Lightroom, Photoshop; Lightroom, Strong; Photoshop, Heavy; Horizontal; 11x17; TIFF;
+5; Johnson, Mark; P006; Great Barrier Reef, Australia; 2 hours; Underwater; Sony RX100 VII, 28-100mm f/2.8-4.5; On, Excellent; Adobe Lightroom, Photoshop; Lightroom, Strong; Photoshop, Medium; Vertical; 8x12; JPEG;
+6; Rodriguez, Ana; P007; Machu Picchu, Peru; 2.5 hours; Adventure; Fujifilm X-T3, 10-24mm f/4; Off, Good; Adobe Lightroom, Photoshop; None, N/A; Photoshop, Subtle; Horizontal; 10x15; PNG;
+7; Li, David; P008; Serengeti, Tanzania; 4 hours; Wildlife; Canon 1DX Mark III, 500mm f/4; Off, Fair; Adobe Lightroom, Photoshop; Lightroom, Strong; Photoshop, Heavy; Horizontal; 12x18; TIFF;
+8; Singh, Meera; P009; Roman Colosseum, Italy; 2 hours; Historical; Nikon D780, 24-120mm f/4; Off, Excellent; Capture One, Photoshop; None, N/A; Photoshop, Subtle; Square; 5x5; JPEG;
+9; Davis, Patricia; P010; Victoria Peak, Hong Kong; 1.5 hours; Cityscape; Sony A7R III, 16-35mm f/2.8; On, Good; Adobe Lightroom, Photoshop; Lightroom, Strong; Photoshop, Medium; Horizontal; 11x17; PNG</s>;

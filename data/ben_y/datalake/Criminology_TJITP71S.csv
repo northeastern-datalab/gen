@@ -1,0 +1,15 @@
+;Recidivism Rate;Juvenile Crime Trending;Prison Overcrowding Statistics;Correctional Facility Classification System;Crime Clearance Rates;Police Force Demographics;Reoffending Ratios by Rehabilitation Program;Violent Crimes vs Nonviolent Crimes Breakdown;Gang Activity Monitoring;Firearm Legislation Impact Assessment;Public Perception Surveys Regarding Community Safety;Minority Group Discrimination within Justice Systems;"International Cooperation Measures against Transnational Organized crime</s>
+curr_range_counter:  4
+Time taken: 23.66068696975708 seconds
+Incident Number";Weapon Used;Date & Time Arrest Made;Arrestees Count;Suspected Motive;Additional Details;Legal Outcome;Injury Present?;Evidence Recovered;Witness Reports;Perpetrator Gender;Perpetrator Race;Arresting Officer
+0;" ""1";Illegal Firearm;2022-03-15 02:30;1;Drug Trafficking;Arrestee is a known member of a local gang;Charges filed, awaiting trial;Yes;Yes, firearm and drugs recovered;Yes, multiple eyewitnesses;""",";;;;;;;;;;;;;;
+1;"""Male";Black;"Officer Johnson""";;;;;;;;;;;;;;;;;;;;;;
+2;"""2";Knife;2022-03-14 20:00;1;Robbery;Victim was an off-duty police officer;Charges filed, in custody;No;Yes, knife recovered;No;Male;White;"Officer Brown""";;;;;;;;;;;;
+3;"""3";No Weapon;2022-03-13 16:35;3;Theft;Stolen items recovered near the scene;Charges filed, released on bail;Yes;Yes, stolen items recovered;No;Multiple;Mixed;"Officer Davis""";;;;;;;;;;;;
+4;"""4";Baseball Bat;2022-03-12 23:10;2;Aggravated Assault;Both arrestees have prior convictions;Charges filed, awaiting trial;Yes;Yes, baseball bat recovered;Yes, several neighbors;Male;Hispanic;"Officer Wilson""";;;;;;;;;;;;
+5;"""5";Carpentry Tools;2022-03-11 10:15;1;Burglary;Suspect broke into a hardware store;Charges filed, released on bail;No;Yes, carpentry tools recovered;No;Male;Asian;"Officer Green""";;;;;;;;;;;;
+6;"""6";Metal Pipe;2022-03-10 21:45;1;Vandalism;Suspect has been causing damage to local businesses;Charges filed, in custody;No;Yes, metal pipe recovered;Yes, security cameras captured the incident;Female;White;"Officer Thompson""";;;;;;;;;;;;
+7;"""7";No Weapon;2022-03-09 17:30;2;Fraud;Suspects engaged in identity theft;Charges filed, released on bail;No;Yes, electronic devices recovered;Yes, victims reported incident;Male;Black;"Officer Martinez""";;;;;;;;;;;;
+8;"""8";Illegal Firearm;2022-03-08 13:50;1;Attempted Murder;Arrestee has connections to a local gang;Charges filed, awaiting trial;Yes;Yes, firearm recovered;Yes, several witnesses;Male;Hispanic;"Officer Taylor""";;;;;;;;;;;;
+9;"""9";Crowbar;2022-03-07 01:25;1;Breaking and Entering;Suspect broke into a closed convenience store;Charges filed, released on bail;No;Yes, crowbar recovered;No;Male;White;"Officer Hernandez""";;;;;;;;;;;;
+10;"""10";No Weapon;2022-03-06 23:45;1;Stalking;Suspect harassed a local resident;Charges filed, in custody;No;No;Yes, victim reported the incidents;Female;Asian;"Officer Mitchell""</s>";;;;;;;;;;;;

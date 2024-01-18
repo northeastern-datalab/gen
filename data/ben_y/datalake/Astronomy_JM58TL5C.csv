@@ -1,0 +1,11 @@
+;Nebula Name; Nebula Category; Constellations Associated With; Size (light years); Gas Composition Percentage; Temperature (K); Dust Particles Concentration; Radiation Level; Proto Star Presence; Stellar Wind Speed; Lifespan Remaining Before Dispersion (millions of years); Nearby Supernova Events; Recent Gamma Ray Burst Activity; Dark Matter Distribution Impact.
+0;  Orion Nebula; Reflection Nebula; Orion; 24 light years; 0% Hydrogen, 0% Helium, 100% Other; 10 K; High; Yes; 500 km/s; 6; Yes, Barnard's Loop supernova; None; Unclear;
+1; Crab Nebula; Supernova Remnant; Taurus; 11 light years; 76% Hydrogen, 24% Helium, <1% Other; 15-50 K; Low; No; 1500 km/s; 1000; Yes, SN 1054 supernova; Active, GRB 080721B; Slightly enhanced;
+2; Trifid Nebula; Emission/Reflection Nebula; Sagittarius; 28 light years; 75% Hydrogen, 25% Other; 10 K; Medium; Yes; 10 km/s; 3; No recorded supernova events; None; Evenly distributed;
+3; Carina Nebula; Emission Nebula; Carina; 300 light years; 99% Hydrogen, 1% Other; 10 K; High; Yes; Variable; 6-12; Yes, Eta Carinae supernova; None; Unclear;
+4; Helix Nebula; Planetary Nebula; Aquarius; 0.3 light years; 99% Hydrogen, 1% Other; 10 K; Low; No; 20 km/s; <10; No recorded supernova events; None; Evenly distributed;
+5; Ring Nebula; Planetary Nebula; Lyra; 0.6 light years; 99% Hydrogen, 1% Other; 10 K; Low; No; 27 km/s; <10; No recorded supernova events; None; Evenly distributed;
+6; Eagle Nebula; Emission/Reflection Nebula; Serpens; 70 light years; 70% Hydrogen, 30% Other; 10 K; High; Yes; 10 km/s; 4; No recorded supernova events; None; Evenly distributed;
+7; Cat's Eye Nebula; Planetary Nebula; Draco; 1 light year; 95% Hydrogen, 5% Other; 10 K; Low; No; 100-200 km/s; <1; No recorded supernova events; None; Evenly distributed;
+8; Pacman Nebula; Emission Nebula; Cassiopeia; 130 light years; 70% Hydrogen, 28% Helium, 2% Other; 10 K; High; Yes; Variable; 8; No recorded supernova events; GRB 000301C; Evenly distributed;
+9; Crescent Nebula; Emission Nebula; Cygnus; 5 light years; 70% Hydrogen, 28% Helium, 2% Other; 8000 K; Low; No; Variable; 15; No recorded supernova events; None; Evenly distributed</s>;

@@ -1,0 +1,11 @@
+;`Nebula Type; Nebula Size; Light-Year Distance; Apparent Size; Constellation; Average Nebula Age; Mergers with Other Nebulas; Most Abundant Element; Observation Frequency; Galactic Coordinates (l, b); Nebula's Brightest Point; Nebula's Darkest Point; Associated Supernova Remnants; Variability`
+0;" ""Diffuse Nebula"; 100 light-years; 1,500; 2 degrees; Orion; 2 million years; Yes, with another diffuse nebula; Hydrogen; Weekly; (209.56°, 19.89°); Blue Rigel; Dark Dust Lane; Barnard's Loop;" Stable"""
+1;"""Planetary Nebula"; 0.5 light-years; 6,500; 40 arcseconds; Lyra; 10,000 years; No; Oxygen; Daily; (61.45°, 3.33°); White Dwarf Star; Dark Central Region; Ring Nebula;" Stable"""
+2;"""Supernova Remnant"; 120 light-years; 2,300; 1.5 degrees; Taurus; 10,000 years; Yes, with a molecular cloud; Iron; Monthly; (174.62°, -1.25°); Crab Nebula; Dark Dense Knots; Messier 1;" Variable"""
+3;"""Reflection Nebula"; 20 light-years; 1,600; 5 degrees; Monoceros; 100,000 years; No; Silicates; Yearly; (215.67°, -7.96°); NGC 2261; Dark Filaments; Hubble's Variable Nebula;" Stable"""
+4;"""Emission Nebula"; 30 light-years; 7,000; 3 degrees; Sagittarius; 2 million years; Yes, with a star-forming region; Hydrogen; Weekly; (5.87°, -14.23°); Lagoon Nebula; Dark Bok Globules; M8;" Stable"""
+5;"""Dark Nebula"; 80 light-years; 400; 20 arcminutes; Aquila; 1 million years; No; Carbon; Monthly; (33.25°, -2.48°); Coal Sack; Dense Dust Clouds; Near Barnard 92;" Stable"""
+6;"""Protoplanetary Nebula"; 0.1 light-years; 4,500; 15 arcseconds; Cepheus; 1,000 years; No; Helium; Daily; (102.35°, -12.44°); Ced 110 IRS 4; Dusty Disk; AFGL 2591;" Variable"""
+7;"""Bipolar Nebula"; 0.5 light-years; 5,000; 1 minute; Serpens; 10,000 years; No; Nitrogen; Daily; (32.87°, 1.56°); M2-9; High-speed Jets; Butterfly Nebula;" Stable"""
+8;"""Spherical Nebula"; 0.3 light-years; 2,000; 15 arcminutes; Musca; 10,000 years; No; Sulfur; Daily; (302.72°, -5.58°); NGC 5189; Symmetric Shell; Spirograph Nebula;" Stable"""
+9;"""Bubble Nebula"; 0.1 light-years; 7,000; 8 arcminutes; Cassiopeia; 10,000 years; No; Argon; Daily; (111.44°, -2.89°); NGC 7635; Expanding Shell; Caldwell 11;" Stable""</s>"
