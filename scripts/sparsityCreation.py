@@ -46,9 +46,9 @@ def generate_sparse_table(input_dir, table_filepath, sparsity, output_dir=None, 
 
 
 def main():
-    bench_data_dir = "../data/ben_y"
+    bench_data_dir = "../data/ugen_v2"
     sparse_val = 5
-    bench_sparse_dir = f"../data/ben_y_sparse_{sparse_val}"
+    bench_sparse_dir = f"../data/ugen_v2_sparse_{sparse_val}"
     groundtruth_file = bench_data_dir + "/groundtruth.csv"
     query_dir = bench_data_dir + "/query/"
     dl_dir = bench_data_dir + "/datalake/"

@@ -261,7 +261,7 @@ def final_post_processing(input_dir, table_file_name, save_output_dir_anon, sep=
 
 
 def main():
-    output_dir_anon = "../data/ben_y/"
+    output_dir_anon = "../data/ugen_v2/"
     output_query_dir_anon = output_dir_anon + "/query/"
     output_dl_dir_anon = output_dir_anon + "/datalake/"
     gt = pd.read_csv(groundtruth_file)

@@ -110,7 +110,7 @@ def find_new_closest_texts(avg_euclidean_distances, texts, k):
 
 
 gt_union = pd.read_csv(gt_union_csv)
-gpt3_path = "../data/ben_y"
+gpt3_path = "../data/ugen_v2"
 gpt3_path_datalake = gpt3_path + "/datalake"
 gpt3_path_query_table = gpt3_path + "/query"
 
@@ -188,7 +188,7 @@ def get_closest_texts(query_texts, texts):
     return closest_texts
 
 
-closest_texts_filepath = "../data/ben_y_icl_examples.pickle"
+closest_texts_filepath = "../data/ugen_v2_icl_examples.pickle"
 if os.path.exists(closest_texts_filepath):
     print("found closest text file")
     closest_texts = list(loadDictionaryFromPickleFile(closest_texts_filepath).values())
@@ -199,7 +199,7 @@ else:
     closest_text_dict = {}
     for i in range(5):
         closest_text_dict[f'icl_ind_{i}'] = closest_texts[i]
-    saveDictionaryAsPickleFile(closest_text_dict, "../data/ben_y_icl_examples.pickle")
+    saveDictionaryAsPickleFile(closest_text_dict, "../data/ugen_v2_icl_examples.pickle")
     
 #MODEL_NAME = "gpt2-xl"
 MODEL_NAME = "lmsys/vicuna-7b-v1.3"
@@ -337,16 +337,16 @@ for i in range(len(sparse_vals)):
     query_file_path = ""
     datalake_file_path = ""
     if i == 0:
-        result_file = pd.read_csv(f"../experiment_run_results/ben_y_results_k20.csv",
+        result_file = pd.read_csv(f"../experiment_run_results/ugen_v2_results_k20.csv",
                               converters={'result_set': parse_str, 'groundtruth_set': parse_str})
         num_query_tables = len(pd.unique(result_file["query_table"])) 
-        query_file_path = f"../data/ben_y/query"
-        datalake_file_path = f"../data/ben_y/datalake"
+        query_file_path = f"../data/ugen_v2/query"
+        datalake_file_path = f"../data/ugen_v2/datalake"
     else:
-        result_file = pd.read_csv(f"../experiment_run_results/ben_y_sparse_{sparse_vals[i]}_results_k20.csv",
+        result_file = pd.read_csv(f"../experiment_run_results/ugen_v2_sparse_{sparse_vals[i]}_results_k20.csv",
                                   converters={'result_set': parse_str, 'groundtruth_set': parse_str})
-        query_file_path = f"../data/ben_y_sparse_{sparse_vals[i]}/query"
-        datalake_file_path = f"../data/ben_y_sparse_{sparse_vals[i]}/datalake"        
+        query_file_path = f"../data/ugen_v2_sparse_{sparse_vals[i]}/query"
+        datalake_file_path = f"../data/ugen_v2_sparse_{sparse_vals[i]}/datalake"        
     #for icl_num in range(0,len(closest_texts)+1):
     for icl_num_ind in range(len(icl_range)):
         icl_num = icl_range[icl_num_ind]
@@ -355,9 +355,9 @@ for i in range(len(sparse_vals)):
             icl_val = closest_texts[0:icl_num]
         start_time = time.time()
         print("Number of query tables", num_query_tables)
-        accuracy, total_correct, size, actual_size, result_dict_list = llm_search('ben_y', result_file, query_file_path, datalake_file_path, icl=icl_val, num_query_tables = num_query_tables)
+        accuracy, total_correct, size, actual_size, result_dict_list = llm_search('ugen_v2', result_file, query_file_path, datalake_file_path, icl=icl_val, num_query_tables = num_query_tables)
         end_time = time.time()
-        saveDictionaryAsPickleFile(result_dict_list, f"../starmie-llm-results/vicuna_ben_y_sparse_{sparse_vals[i]}_icl-{icl_num}_result.pickle")
+        saveDictionaryAsPickleFile(result_dict_list, f"../starmie-llm-results/vicuna_ugen_v2_sparse_{sparse_vals[i]}_icl-{icl_num}_result.pickle")
         time_taken = end_time - start_time
         print("ICL SIZE", icl_num, flush=True)
         print(accuracy, flush=True)

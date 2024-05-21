@@ -286,7 +286,7 @@ def main():
     print("Topics", topics)
     print("Topics len", len(topics))
     log_file = data_dir + 'log.txt'
-    benchmark_dir = data_dir + "ben_y/"
+    benchmark_dir = data_dir + "ugen_v2/"
     os.makedirs(benchmark_dir, exist_ok=True)
     groundtruth_csv = benchmark_dir + "groundtruth.csv"
     gen_union_benchmark_step1(log_file, benchmark_dir, groundtruth_csv, topics, data_lake_size=20, continuation=True)

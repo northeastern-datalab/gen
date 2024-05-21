@@ -65,7 +65,7 @@ def get_subject_cols(query_tables, data_lake_tables, table_1, table_2, sep=';'):
     
 
 def main():
-    bench_data_dir = "../data/ben_y/"
+    bench_data_dir = "../data/ugen_v2/"
     groundtruth_file = bench_data_dir + "SANTOS_gt.csv"
     query_tables = bench_data_dir + "/query/"
     data_lake_tables = bench_data_dir + "/datalake/"
